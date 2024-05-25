@@ -1,4 +1,4 @@
 requests
 pandas
 tqdm
-dotenv
+python-dotenv
