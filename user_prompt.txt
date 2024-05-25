@@ -1,0 +1,9 @@
+Read the following occupation title and one of the tasks that belong to that occupation. Then do three things. 
+
+1: Reason step by step to decide which of the labels (E0/E1/E2/E3) from the exposure rubric you were given applies to the task’s exposure to LLM. Report. Give an explanation for which label applies and report the label that you think fits best. Do not say zero or N/A.
+
+2: Report only the label that you determined for the task, which should match the label in step 1. Do not reply N/A.
+
+3: Given the amount of speculation required in step 1, describe your certainty about the estimate–either high, moderate, or low.
+
+The task to label follows:
