@@ -1,0 +1,5 @@
+1: In this task, an Emergency Medicine Physician needs to select, request, perform, or interpret diagnostic procedures such as laboratory tests, electrocardiograms, emergency ultrasounds, and radiographs. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can provide information on medical procedures, guidelines, and general medical knowledge. It can also assist in generating text-based reports or summaries. However, the LLM lacks the ability to physically perform or interpret diagnostic procedures, as these tasks require hands-on medical expertise and equipment. While the LLM can provide information on the interpretation of results, it cannot replace the practical skills and experience needed in emergency medicine. Therefore, this task falls under E0 as it involves physical actions and specialized medical knowledge beyond the capabilities of the LLM.
+
+2: E0
+
+3: High

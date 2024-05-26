@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of selling travel packages as a Travel Guide, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- Selling travel packages involves interacting with customers, understanding their preferences, providing recommendations, and facilitating the booking process. This task is primarily based on human interaction and sales skills.
+- While the LLM can provide information about travel destinations, it cannot directly interact with customers or handle the sales process.
+- The task does not involve complex data analysis, document summarization, or specialized domain knowledge that would significantly benefit from LLM capabilities.
+- The task does not require image capabilities for reading text from PDFs or creating/editing digital images.
+
+Based on these considerations, the task of selling travel packages as a Travel Guide is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

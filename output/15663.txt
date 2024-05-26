@@ -1,0 +1,11 @@
+1: In this task, a recreation worker is required to serve as a liaison between park or recreation administrators and activity instructors. This involves communication, coordination, and facilitation of activities between different parties. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the language model. 
+
+- The task involves communication and coordination, which are areas where the LLM can assist by providing templates for emails, drafting communication messages, or even suggesting ways to improve communication strategies.
+- The task does not involve complex data analysis, specialized domain knowledge, or image processing, which would require additional software beyond the LLM.
+- While the LLM can help with writing and transforming text, providing feedback on documents, and maintaining records of written data, the task of serving as a liaison may not be significantly expedited by the LLM alone.
+
+Based on these considerations, the task of serving as a liaison between park or recreation administrators and activity instructors would likely fall under E1 exposure to LLM.
+
+2: E1
+
+3: Moderate

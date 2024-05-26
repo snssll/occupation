@@ -1,0 +1,5 @@
+1: In this task, a Fishing and Hunting Worker is required to select, bait, and set traps, as well as lay poison along trails based on the species, size, habits, and environment of birds or animals. To determine the appropriate label from the exposure rubric, we need to consider if the task can be completed more efficiently with the help of an LLM. Since this task involves physical actions such as setting traps and laying poison, it cannot be directly assisted by an LLM. The LLM cannot physically perform these actions, and the task does not involve text input or output that the LLM can process to provide assistance. Therefore, this task falls under E0 as it does not benefit from the capabilities of the LLM.
+
+2: E0
+
+3: High

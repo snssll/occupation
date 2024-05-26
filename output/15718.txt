@@ -1,0 +1,5 @@
+1: In this task, an Ophthalmic Laboratory Technician is required to set dials and start machines to polish lenses or manually polish lenses against rotating wheels. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves a physical aspect of setting dials and starting machines, as well as manually polishing lenses. While the task description does not involve complex decision-making or specialized knowledge beyond the technical skills required for lens polishing, it does involve physical actions that cannot be directly performed by an LLM. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

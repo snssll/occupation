@@ -1,0 +1,13 @@
+1: In this task, an Electrical and Electronic Engineering Technologist or Technician is required to select electronics equipment, components, or systems to meet functional specifications. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+- E0: This task involves technical expertise and knowledge in selecting electronics equipment, components, or systems. While the LLM can provide general information on electronics, it may not have the specialized knowledge required to make specific selections based on functional specifications. Therefore, the task is unlikely to be significantly expedited by the LLM.
+
+- E1: The LLM could potentially assist in providing general information on electronics equipment and components, which could aid in the decision-making process. It can help in understanding technical terms, specifications, and functionalities. However, the specialized knowledge and expertise required for selecting the right equipment based on functional specifications may not be fully covered by the LLM.
+
+- E2: With the development of specialized software that integrates the LLM's capabilities with a database of electronics equipment, components, and systems, the task could be expedited. Such software could provide recommendations based on functional specifications, analyze data to inform decisions, and offer insights into the selection process. While the LLM alone may not significantly reduce the time for this task, additional software could enhance its efficiency.
+
+- E3: The task does not involve image capabilities, so exposure to LLM with image capabilities is not relevant in this context.
+
+2: E2
+
+3: Moderate

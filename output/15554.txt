@@ -1,0 +1,13 @@
+1: For the task of selecting set props for set and exhibit designers, the exposure to LLM can be evaluated as follows:
+
+- E0: This task involves physical selection of props such as furniture, pictures, lamps, and rugs, which cannot be done using LLM or any software tool. It requires a human eye for design and aesthetics, as well as physical interaction with the props to assess their suitability for the set or exhibit.
+
+- E1: LLM can assist in providing information about different types of props, their styles, historical significance, and popular choices. It can also generate ideas for prop selection based on given criteria. However, the final selection process would still heavily rely on human judgment and physical assessment, making the direct exposure to LLM limited in reducing the time significantly for this task.
+
+- E2: While an application could potentially be developed to provide recommendations for set props based on design principles, trends, and user preferences, the task of physically selecting the props would remain a manual process. The LLM could be used to gather information about prop trends and styles, but the actual selection process would not be significantly expedited by the LLM alone.
+
+- E3: Image capabilities would not significantly impact the task of selecting set props, as it requires physical interaction with the props to assess their suitability for the set or exhibit. The LLM's text capabilities are more relevant for providing information and ideas related to prop selection.
+
+2: E0
+
+3: High

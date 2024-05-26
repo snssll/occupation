@@ -1,0 +1,13 @@
+1: In this task, a Funeral Home Manager is responsible for setting prices or credit terms for funeral products or services. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- E0: This task involves setting prices and credit terms, which requires a deep understanding of market dynamics, financial considerations, and possibly legal regulations. The task may involve complex decision-making that goes beyond text-based information processing. The LLM may not significantly reduce the time it takes for an experienced Funeral Home Manager to complete this task with high quality.
+
+- E1: The LLM could potentially assist in providing general information on pricing strategies, industry trends, or legal considerations related to setting prices and credit terms for funeral products or services. It could help generate drafts of pricing structures or terms based on input criteria. However, the final decision-making process would likely require human judgment and expertise that the LLM alone may not be able to provide.
+
+- E2: While the LLM alone may not be able to reduce the time significantly for this task, additional software could be developed on top of the LLM to analyze market data, customer preferences, and financial metrics to recommend optimal pricing strategies. This software could integrate real-time market data and customer feedback to provide more informed pricing decisions.
+
+- E3: Image capabilities are not relevant for this task as it primarily involves text-based information processing related to pricing and credit terms for funeral products or services.
+
+2: E2
+
+3: Moderate

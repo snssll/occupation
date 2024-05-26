@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of selling products being promoted and keeping records of sales as a Demonstrator and Product Promoter, we need to consider the capabilities of the LLM. The task involves interacting with customers, persuading them to purchase products, and maintaining sales records. 
+
+- E0: This task involves human interaction with customers, which cannot be replaced by the LLM. Additionally, keeping records of sales may require precise data entry and organization that the LLM may not be able to handle effectively.
+
+- E1: While the LLM can assist in generating written materials such as promotional content or sales scripts, it cannot directly interact with customers or physically sell products. The task also involves record-keeping, which may require specific data entry formats and organization that the LLM may not be optimized for.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist with generating sales reports, analyzing sales data, or providing recommendations for product promotions based on market trends. However, the core task of selling products and interacting with customers would still require human involvement.
+
+- E3: The task does not involve image capabilities that would significantly impact the completion time or quality of selling products and keeping sales records.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of selling makeup to clients as a Skincare Specialist, we need to consider the capabilities of the LLM. The task involves interacting with clients, understanding their needs, recommending products, and providing information about makeup. 
+
+- E0: This task involves human interaction and personalized recommendations based on individual preferences, which cannot be effectively automated by the LLM. The LLM cannot replace the interpersonal skills and tailored advice required for selling makeup to clients.
+
+- E1: While the LLM can provide general information about makeup products and their benefits, it cannot engage in real-time interactions with clients or understand their specific preferences and needs. The task of selling makeup involves a level of nuance and personalization that goes beyond the capabilities of the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Skincare Specialists in recommending makeup products based on client preferences and skin types. This software could potentially analyze client data and preferences to provide tailored product recommendations, but it would still require human oversight and intervention for the final sales process.
+
+- E3: The LLM, even with image capabilities, cannot accurately assess a client's skin type or makeup needs through images alone. The task of selling makeup involves a hands-on approach that cannot be fully automated by the LLM, even with image capabilities.
+
+2: E0
+
+3: High

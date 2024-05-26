@@ -1,0 +1,7 @@
+1: In this task, the Aircraft Mechanics and Service Technicians are required to service and maintain aircraft and related apparatus by performing various activities. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality by at least half.
+
+Given the nature of the task, which involves hands-on work with physical aircraft and machinery, it is unlikely that the LLM alone or any software built on top of it could reduce the time it takes to complete the task by half. The task requires practical skills, knowledge of aircraft systems, and physical interaction with the equipment, which cannot be replaced by text-based AI tools. Therefore, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

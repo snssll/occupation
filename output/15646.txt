@@ -1,0 +1,12 @@
+1: In this task, an orderly is responsible for separating collected materials for disposal, recycling, or reuse according to environmental policies. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves following specific instructions related to environmental policies, which can be captured within 2000 words of context. The LLM can assist in understanding and executing these instructions accurately.
+- The task does not involve complex decision-making or specialized domain knowledge beyond environmental policies, which the LLM can likely handle.
+- The LLM can help in generating written instructions, summaries, or reports related to the task.
+- While the task does not involve image processing, the text-based nature of the task aligns well with the capabilities of the LLM.
+
+Based on these considerations, the task can be significantly aided by the LLM, reducing the time needed to complete it with equivalent quality. Therefore, the appropriate label for this task is E1.
+
+2: E1
+
+3: High

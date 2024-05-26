@@ -1,0 +1,9 @@
+1: In this task, a makeup artist working in theatrical and performance settings needs to select makeup shades from stock or mix oil, grease, and coloring to achieve specific color effects. To determine the appropriate label from the exposure rubric, we can break down the task:
+- Selecting desired makeup shades from stock: This involves identifying and choosing the right makeup shades from available options based on the requirements of the performance.
+- Mixing oil, grease, and coloring to achieve specific color effects: This step requires the artist to blend different components to create custom colors for specific effects.
+
+Given that this task involves a hands-on, physical aspect of selecting and mixing makeup, it does not directly align with the capabilities of an LLM. While an LLM could potentially provide information on makeup techniques or color theory, it cannot physically select or mix makeup products. Therefore, this task falls under E0 as it does not significantly benefit from LLM capabilities.
+
+2: E0
+
+3: Certainty level: High

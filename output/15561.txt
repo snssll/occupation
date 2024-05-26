@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of selecting statistical tests for analyzing data as a Statistical Assistant, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- E1: Direct exposure - In this case, the LLM could significantly reduce the time it takes to complete the task with equivalent quality by providing guidance on selecting appropriate statistical tests based on the characteristics of the data. The LLM could assist in understanding the data requirements, assumptions of different tests, and help in making informed decisions on which statistical tests to use.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not reduce the time by half for this task, additional software could be developed on top of the LLM to create a tool that can analyze the data and recommend statistical tests based on specific criteria. This tool could integrate with existing data analysis software to streamline the process further.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant for this task as it primarily involves selecting statistical tests for data analysis, which is text-based and does not require image processing.
+
+2: E2
+
+3: Moderate

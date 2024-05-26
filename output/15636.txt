@@ -1,0 +1,11 @@
+1: In this task, a Transportation Security Screener is responsible for sending checked baggage through automated screening machines and setting bags aside for searching or rescreening as indicated by the equipment. To determine the appropriate exposure label for this task in relation to the LLM, we can break it down as follows:
+
+- **Direct exposure (E1):** The task involves a straightforward and repetitive action of sending baggage through screening machines based on equipment indications. The LLM could potentially assist in providing guidance on how to operate the screening machines or in understanding the indications for searching or rescreening bags. The LLM could also help in generating reports or documentation related to the screening process. Overall, the task can be broken down into specific instructions and responses that the LLM can easily handle.
+
+- **Exposure by LLM-powered applications (E2):** While the task itself may not require complex decision-making or specialized domain knowledge beyond operating screening equipment, there could be additional software developed on top of the LLM that could enhance the efficiency of the screening process. This could include software that integrates real-time data on security threats, updates on screening protocols, or even predictive analytics to optimize the screening process based on historical data.
+
+- **Exposure given image capabilities (E3):** This task does not involve detailed image analysis or creation, so the image capabilities of the LLM would not significantly impact the completion of the task.
+
+2: E1
+
+3: Moderate

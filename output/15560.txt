@@ -1,0 +1,9 @@
+1: In this task, an Investment Fund Manager is required to select specific investments or investment mixes for purchase by an investment fund. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+Investment decisions typically require a deep understanding of financial markets, economic trends, company performance, and other complex factors. While the LLM can provide general information on these topics, making specific investment recommendations involves highly specialized domain knowledge and real-time data analysis, which the LLM may not be able to provide on its own. 
+
+Given the complexity and specialized nature of investment decision-making, it is unlikely that access to the LLM alone would reduce the time it takes to complete this task by at least half. However, it is conceivable that additional software could be developed on top of the LLM to assist with data analysis, market research, and recommendation generation, which could potentially streamline the decision-making process for Investment Fund Managers.
+
+2: E2
+
+3: Moderate

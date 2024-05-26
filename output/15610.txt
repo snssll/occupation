@@ -1,0 +1,13 @@
+1: In this task, the Funeral Home Managers are required to sell funeral services, products, or merchandise to clients. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves direct sales and interaction with clients, which typically requires human skills such as empathy, persuasion, and negotiation. The LLM may not significantly reduce the time it takes to build relationships with clients and make sales, as these aspects are highly dependent on human interaction and emotional intelligence.
+
+- E1: The LLM could potentially assist in providing written materials or scripts for sales pitches, responding to client inquiries via email, or generating marketing content. However, the core aspect of selling funeral services involves personal interactions and building trust, which may not be effectively replaced by the LLM alone.
+
+- E2: While the LLM could potentially help in generating marketing materials, analyzing customer data for personalized recommendations, or providing information on funeral services, the task of selling funeral services heavily relies on human-to-human interaction and emotional connection. Additional software developed on top of the LLM may not significantly reduce the time it takes to complete the core aspects of this task.
+
+- E3: The task of selling funeral services does not involve image capabilities or visual content that would require the use of an image processing system in conjunction with the LLM.
+
+2: E0
+
+3: Moderate
