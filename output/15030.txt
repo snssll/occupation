@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of reviewing existing disaster recovery, crisis management, or business continuity plans as a Business Continuity Planner, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The task involves reviewing existing plans, which may require analyzing and comparing information, identifying gaps, and making recommendations for improvements. The LLM could significantly reduce the time it takes to review these plans by providing templates, checklists, or even generating summaries based on the input provided. The LLM can help in transforming text, providing edits, and generating questions or feedback on the plans.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not reduce the time by half for this task, additional software built on top of the LLM could enhance the process. For example, specialized software could be developed to search and retrieve relevant information from a database of best practices or industry standards, making recommendations based on data analysis, or even providing counsel on specific issues related to the plans.
+
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of reviewing existing plans, as the task primarily involves text-based documents rather than images.
+
+2: E1
+
+3: Moderate

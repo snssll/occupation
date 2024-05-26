@@ -1,0 +1,7 @@
+1: In this task, the First-Line Supervisors of Security Workers are responsible for securing entrances and exits by locking doors and gates. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be completed with the help of an LLM. 
+
+- E0: This task involves physical actions such as locking doors and gates, which cannot be directly performed by an LLM. Additionally, it does not involve complex decision-making or analysis that would benefit significantly from LLM capabilities. Therefore, this task does not fit into any of the exposure categories.
+
+2: E0
+
+3: High

@@ -1,0 +1,12 @@
+1: In this task, a Compliance Manager is responsible for reviewing communications like securities sales advertising to ensure compliance with standards and regulations. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves reviewing text-based communications, which can be effectively handled by an LLM through text analysis and understanding of regulatory standards.
+- The LLM can assist in identifying potential violations by analyzing the content of the communications and comparing it against known regulations.
+- The LLM can provide feedback on potential violations and suggest corrective actions based on its understanding of compliance standards.
+- While the task involves some level of interpretation and judgment, the LLM can still significantly reduce the time required for reviewing communications and identifying compliance issues.
+
+Based on these considerations, the task of reviewing communications for compliance by Compliance Managers would likely fall under the E1 label. The LLM can assist in analyzing text, identifying violations, and providing feedback, thereby reducing the time needed to complete the task with equivalent quality.
+
+2: E1
+
+3: High

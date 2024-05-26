@@ -1,0 +1,12 @@
+1: In this task, a radiation therapist is required to review various documents such as prescriptions, diagnoses, patient charts, and identifications. The task involves analyzing and understanding medical information to ensure accurate treatment delivery. 
+
+- E0: This task does not involve any direct text generation, transformation, or analysis that can be significantly enhanced by an LLM. The task requires human expertise in interpreting medical documents accurately, which cannot be fully automated by the LLM.
+- E1: While the LLM could potentially assist in summarizing or providing additional information related to the documents reviewed by the radiation therapist, the core task of reviewing and interpreting medical information requires specialized human knowledge and expertise that cannot be replaced by the LLM alone.
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist radiation therapists in summarizing complex medical documents, retrieving relevant information, or providing recommendations based on the data. However, the fundamental task of reviewing and interpreting medical documents still heavily relies on human expertise.
+- E3: The task does not involve image processing or creation, so the additional image capabilities provided by the LLM are not directly relevant to this task.
+
+Based on the analysis above, the most appropriate label for this task is E2.
+
+2: E2
+
+3: Moderate

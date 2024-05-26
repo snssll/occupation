@@ -1,0 +1,7 @@
+1: In this task, the Appraisers and Assessors of Real Estate need to search public records for transactions such as sales, leases, and assessments. With access to the powerful OpenAI large language model (LLM), the appraisers could potentially automate the process of searching for these records by inputting specific criteria and having the LLM retrieve the relevant information. The LLM could assist in summarizing the data found in the records, providing insights, and even cross-referencing different sources to gather comprehensive information. This task involves text-based information retrieval and analysis, which aligns well with the capabilities of the LLM.
+
+Considering the nature of the task and the potential for the LLM to significantly reduce the time it takes to search and analyze public records, I would classify this task as E1. The LLM can efficiently handle text-based tasks, such as searching for specific information in documents and providing relevant summaries and insights, which would streamline the process for appraisers and assessors.
+
+2: E1
+
+3: High

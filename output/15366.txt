@@ -1,0 +1,11 @@
+1: In this task, a Fast Food and Counter Worker is responsible for cleaning and maintaining the cleanliness of the counters, steam tables, equipment, glasses, dishes, and fountain equipment in a fast-food establishment. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves physical cleaning and maintenance activities that require manual labor and direct interaction with equipment. LLMs are not capable of performing physical tasks or interacting with real-world objects.
+- The task does not involve complex decision-making, specialized domain knowledge, or detailed data analysis that would benefit from LLM capabilities.
+- While the task may involve following specific instructions for cleaning, these instructions are likely straightforward and do not require the advanced language processing capabilities of an LLM.
+
+Based on these considerations, the task of scrubbing and polishing counters, steam tables, and other equipment, as well as cleaning glasses, dishes, and fountain equipment, does not align with the capabilities of an LLM. Therefore, it falls under the E0 category.
+
+2: E0
+
+3: High

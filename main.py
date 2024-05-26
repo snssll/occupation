@@ -4,6 +4,7 @@ from tqdm import tqdm
 import pandas as pd
 import os
 from dotenv import load_dotenv
+import time
 
 load_dotenv()
 
@@ -58,15 +59,23 @@ def res_2_file(index, title, task):
         with open(f"output/{index}.txt", "a") as f:
             f.write(res)
             # print(index)
-    except:
-        print(f"{index} error")
+    except Exception as e:
+        print(f"{index} error: {e}")
 
 def main():
     df = pd.read_csv("tasks.csv")
     df['index'] = range(len(df))
 
+    file_list = os.listdir('./output/')
+    file_list = [int(file.split('.')[0]) for file in file_list if file.endswith('.txt')]
+    file_list = set(file_list)
+
+
     for i in tqdm(range(len(df))):
-        res_2_file(df["index"][i], df["Title"][i], df["Task"][i])
+        if i not in file_list:
+            res_2_file(df["index"][i], df["Title"][i], df["Task"][i])
+            time.sleep(1)
+    #res_2_file(df["index"][18000], df["Title"][18000], df["Task"][18000])
 
 if __name__ == "__main__":
     main()

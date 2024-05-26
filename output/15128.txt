@@ -1,0 +1,12 @@
+1: In this task, a Mechanical Engineering Technologist or Technician is required to review project instructions and specifications to identify, modify, and plan requirements for fabrication, assembly, and testing. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves reviewing project instructions and specifications, which can be text-based and within the 2000-word limit that the LLM can process effectively.
+- The task also requires identifying, modifying, and planning requirements, which may involve some level of decision-making and critical thinking beyond just text generation.
+- While the LLM can assist in summarizing documents or providing information based on text inputs, the task of modifying and planning requirements may require domain-specific knowledge and expertise that the LLM alone may not possess.
+- The task does not involve detailed visuals, precise measurements, or physical interactions, making it suitable for text-based analysis.
+
+Based on these considerations, the task seems to fall under E2 - Exposure by LLM-powered applications. While the LLM can assist in processing text-based project instructions and specifications, additional software tailored to the domain-specific requirements of mechanical engineering may be needed to fully automate the task.
+
+2: E2
+
+3: Moderate

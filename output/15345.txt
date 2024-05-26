@@ -1,0 +1,12 @@
+1: In this task, a glazier is required to score glass with cutters' wheels and break off excess glass by hand or with notched tools. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- The task involves physical actions such as scoring glass and breaking off excess glass, which cannot be performed by the LLM or any LLM-powered tool.
+- The task requires manual dexterity and physical skill, which are not within the capabilities of the LLM.
+- There are no complex instructions, text transformations, or written tasks that the LLM can assist with in this physical task.
+- The task does not involve written or spoken communication, data analysis, or decision-making based on information that the LLM can provide.
+
+Based on these considerations, it is clear that the task of scoring glass and breaking off excess glass by hand or with tools falls under the E0 category as it involves physical actions that cannot be replaced or significantly assisted by the LLM.
+
+2: E0
+
+3: High

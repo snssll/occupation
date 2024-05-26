@@ -1,0 +1,12 @@
+1: In this task, a Construction and Building Inspector is required to review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance with legal requirements and safety regulations. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves reviewing and interpreting technical documents such as plans and blueprints, which can be text-heavy and require understanding complex information.
+- The task also involves ensuring compliance with legal requirements and safety regulations, which may involve referencing specific codes and standards.
+- While the task involves analyzing and interpreting information, it does not necessarily require generating new text or code.
+- The task does not involve image processing or creation, as it primarily deals with textual information.
+
+Based on these considerations, the task falls under E0 as it does not clearly benefit from direct access to the LLM or any additional software that could significantly reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

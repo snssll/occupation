@@ -1,0 +1,10 @@
+1: For the task of selecting and assembling books, materials, supplies, and equipment for training, courses, or projects as a Career/Technical Education Teacher, Postsecondary, we can consider the exposure rubric provided. This task involves organizing and preparing resources for educational purposes, which can be time-consuming and require attention to detail. 
+
+- E0: This task does not involve any direct text-based work that can be significantly expedited by an LLM. It requires physical organization and selection of materials, which cannot be directly assisted by the LLM.
+- E1: While the LLM could potentially provide information on recommended books, materials, or supplies based on input criteria, the actual physical selection and assembly of these items cannot be done by the LLM. Therefore, the time saved by using the LLM for this task would not be significant enough to warrant an E1 label.
+- E2: It is conceivable that software could be developed on top of the LLM that could help in organizing and recommending materials based on specific criteria or student needs. This software could potentially streamline the process of selecting and assembling resources, but as of now, such a tool does not exist.
+- E3: The task does not involve image processing or detailed visual instructions that would benefit from image capabilities in conjunction with the LLM. Therefore, an E3 label does not apply to this task.
+
+2: E0
+
+3: High

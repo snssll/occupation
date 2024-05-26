@@ -2,4 +2,8 @@
 
 2: E0
 
+3: High1: In this task, a Fast Food and Counter Worker is responsible for accepting payment from customers and making change as necessary. To determine the appropriate exposure label, we need to consider the nature of the task. Accepting payment and making change involves basic arithmetic calculations, which can easily be automated by a calculator or a cash register. The task does not require complex decision-making or specialized knowledge beyond basic math skills. Therefore, it is unlikely that access to an LLM would significantly reduce the time it takes to complete this task, as the calculations involved are straightforward and do not require advanced language processing capabilities.
+
+2: E0
+
 3: High

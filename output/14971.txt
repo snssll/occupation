@@ -1,0 +1,13 @@
+1: In this task, a Financial Examiner is required to review applications for various financial activities to ensure they comply with regulations and are in the public interest. To determine the exposure level to LLM, we need to consider the complexity of the task and whether the LLM can significantly aid in reviewing and analyzing the applications. 
+
+- E0: If the task involves a high degree of legal and financial expertise, as well as the need for precise understanding of regulations and financial implications, it would not be suitable for automation using LLM. The task may require nuanced judgment and interpretation that goes beyond what an LLM can provide.
+
+- E1: If the task involves primarily reviewing text-based applications, regulations, and financial documents, the LLM could assist in summarizing, extracting key information, and providing insights based on the provided data. The LLM can help in processing large amounts of text and identifying potential issues or discrepancies.
+
+- E2: If additional software could be developed on top of the LLM to analyze financial data, retrieve up-to-date financial information, and make recommendations based on complex financial regulations and guidelines, the task could potentially benefit from LLM-powered applications. This software could enhance the efficiency of reviewing applications and providing recommendations.
+
+- E3: If the task involves analyzing financial documents that include images or charts, the LLM's text capabilities combined with image capabilities could significantly reduce the time required to review and analyze the applications. The image capabilities could help in processing visual information alongside text-based data.
+
+2: E2
+
+3: Moderate

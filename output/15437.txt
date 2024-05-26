@@ -1,0 +1,11 @@
+1: In this task, the Earth Driller needs to select and attach drill bits and drill rods, adding more rods as hole depths increase, and changing drill bits as needed. To determine the appropriate label from the exposure rubric, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task involves physical actions such as selecting, attaching, and changing drill bits and rods, which cannot be directly assisted by the LLM.
+- The task requires hands-on work and practical knowledge of drilling equipment, which the LLM cannot provide.
+- The task does not involve text-based instructions, complex data analysis, or decision-making that could benefit from the LLM's capabilities.
+
+Based on these considerations, the task does not align with any of the exposure levels in the rubric as it involves physical actions and practical skills that are outside the scope of the LLM's capabilities.
+
+2: E0
+
+3: High

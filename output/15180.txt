@@ -1,0 +1,11 @@
+1: In this task, an Electrical and Electronics Drafter is required to review work orders or procedural manuals and collaborate with vendors or design staff to address issues or make modifications to designs. To determine the appropriate exposure label, we need to consider the nature of the task and how an LLM could assist in completing it. 
+
+- E1: Direct exposure - The task involves reviewing documents, understanding technical information, and communicating with others to resolve problems. An LLM could assist in summarizing complex manuals, providing suggestions for modifications based on the information in the manuals, or even drafting responses to vendors or design staff. The LLM could help in generating potential solutions or drafting communication responses, which could significantly reduce the time needed to address issues or modify designs.
+
+- E2: Exposure by LLM-powered applications - While an LLM alone could provide some assistance in summarizing documents or generating responses, additional software could be developed to enhance the capabilities further. For example, a specialized application could be created to extract key information from technical manuals or provide specific recommendations based on the content of the manuals. This additional software could streamline the process even more, although the base LLM alone could still be quite helpful.
+
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the completion of this task, as it primarily involves reviewing text-based documents and collaborating with others. The task does not require image analysis or creation, so the image capabilities would not provide a substantial advantage in this context.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,5 @@
+1: In this task, a Team Assembler is required to rotate through all the tasks in a specific production process. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. The task itself does not involve complex text input or output, specialized domain knowledge, or image capabilities. It primarily involves physical actions within a production process, which cannot be directly assisted by the LLM. Therefore, the task does not align with any of the exposure levels outlined in the rubric.
+
+2: E0
+
+3: High

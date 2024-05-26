@@ -1,0 +1,13 @@
+1: In this task, a Fire Inspector or Investigator is required to review blueprints and plans for buildings to ensure they meet fire safety codes. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- **E0**: This task involves reviewing technical documents like blueprints and plans, which require a high level of expertise and understanding of fire safety codes. The task does not involve writing or transforming text, summarizing documents, or accessing up-to-date information that the LLM could provide. The task also does not involve image capabilities that the LLM could assist with. Therefore, it is unlikely that the LLM would significantly reduce the time it takes to complete this task.
+
+- **E1**: While the LLM could potentially assist in providing general information on fire safety codes or regulations, the task of reviewing blueprints and plans for compliance with specific codes is highly specialized and requires domain expertise. The LLM may not have the specific knowledge or ability to accurately assess the technical details in blueprints. Therefore, the direct use of the LLM is unlikely to reduce the time significantly for completing this task.
+
+- **E2**: It is conceivable that specialized software could be developed on top of the LLM that could assist in summarizing complex building plans or providing recommendations based on fire safety codes. This software could potentially enhance the efficiency of reviewing blueprints and plans for compliance. However, as of now, such software does not exist, and the task does not inherently lend itself to easy automation using the LLM alone.
+
+- **E3**: The task does not involve image capabilities or detailed visual analysis that would significantly benefit from the LLM's image capabilities. Therefore, this task does not fall under E3.
+
+2: E0
+
+3: Moderate

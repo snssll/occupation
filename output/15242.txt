@@ -1,0 +1,5 @@
+1: In this task, a Cargo and Freight Agent is responsible for routing received goods to the first available flight or appropriate storage areas using equipment like forklifts or hand trucks. To determine the appropriate label for exposure to LLM, we need to consider the nature of the task. This task involves physical actions such as operating forklifts and hand trucks, which cannot be directly assisted by an LLM. The task also requires hands-on coordination and decision-making based on the physical environment, which is beyond the capabilities of text-based AI models. Therefore, this task falls under E0 as it does not involve activities that can be significantly aided by an LLM.
+
+2: E0
+
+3: High

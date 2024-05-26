@@ -1,0 +1,9 @@
+1: In this task, a Sales Engineer is responsible for securing and renewing orders, as well as arranging delivery. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The LLM could potentially assist in writing emails, drafting proposals, or providing responses to customer inquiries related to orders and deliveries. It could also help in summarizing customer requirements or generating follow-up questions based on customer interactions.
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time to secure orders or arrange deliveries, additional software could be developed to analyze customer data, recommend sales strategies, or automate parts of the order processing and delivery coordination.
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of securing orders and arranging deliveries, as it primarily involves text-based communication and coordination.
+
+2: E2
+
+3: Moderate

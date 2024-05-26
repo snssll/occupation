@@ -1,0 +1,11 @@
+1: In this task, a Judge, Magistrate Judge, or Magistrate is required to rule on custody and access disputes, as well as enforce court orders regarding custody and support of children. To determine the appropriate label from the exposure rubric, we need to consider whether the task can be significantly aided by the use of the LLM. 
+
+- The task involves legal decision-making, which requires a deep understanding of the law, legal precedents, and case-specific details. The LLM may not have access to the most up-to-date legal information or case law, especially if it is not explicitly provided in the input.
+- The task also involves interpreting complex legal documents, understanding nuanced arguments, and applying legal principles to real-world situations. While the LLM can provide general information on legal topics, it may not have the expertise to make legal judgments.
+- Additionally, the task involves interacting with individuals in a courtroom setting, considering emotional and personal factors, and ensuring fair and just outcomes. These aspects of the task require human judgment, empathy, and ethical considerations that the LLM may not be able to fully grasp.
+
+Considering these factors, it is unlikely that the LLM can significantly reduce the time it takes for an experienced Judge, Magistrate Judge, or Magistrate to complete this task with high quality. Therefore, this task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of selecting and playing music as a Disc Jockey, we need to consider how the task can be completed with the help of an LLM. 
+
+- E0: This task involves real-time interaction with a crowd, understanding their preferences, and adjusting the music selection accordingly. It requires a human touch and intuition that an LLM cannot provide. The task also involves playing music, which is not text-based and falls outside the capabilities of an LLM.
+
+- E1: While an LLM could potentially assist in creating playlists based on crowd preferences and mood by analyzing text inputs describing the crowd or the event, the real-time aspect of selecting and playing music based on immediate reactions and atmosphere is beyond the capabilities of the model. The task involves non-textual elements that an LLM cannot directly interact with.
+
+- E2: It is conceivable that additional software could be developed on top of an LLM to analyze real-time audio inputs from the crowd to suggest music choices based on mood and preferences. This software could potentially enhance the DJ's decision-making process by providing data-driven insights in real-time. However, the complexity of analyzing audio inputs, understanding crowd reactions, and making split-second decisions still presents challenges for automation.
+
+- E3: The task of selecting and playing music as a Disc Jockey does not involve image processing capabilities that would significantly benefit from combining an LLM with image analysis tools. Therefore, this task does not fall under E3.
+
+2: E2
+
+3: Moderate

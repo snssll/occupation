@@ -1,0 +1,12 @@
+1: In this task, a Set and Exhibit Designer is responsible for selecting and purchasing the lumber and hardware needed for set construction. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical actions such as selecting and purchasing materials, which cannot be directly performed by the LLM or LLM-powered tools. The task also requires specific knowledge of lumber and hardware, which may not be easily accessible through the LLM alone.
+- E1: While the LLM could potentially provide information on types of lumber and hardware, it cannot physically select or purchase these items. The task also involves practical considerations such as cost, availability, and quality, which may require human judgment and interaction.
+- E2: It is conceivable that an application could be developed on top of the LLM to assist with researching and recommending specific lumber and hardware based on set design requirements. This application could potentially streamline the decision-making process but may not reduce the time significantly.
+- E3: The task does not involve image capabilities that would significantly impact the time it takes to complete the task.
+
+Based on the considerations above, the task of selecting and purchasing lumber and hardware for set construction is best classified as E2.
+
+2: E2
+
+3: Moderate

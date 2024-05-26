@@ -1,0 +1,7 @@
+1: In this task, the Automotive Service Technicians and Mechanics are required to review work orders and discuss work with supervisors. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- Direct exposure (E1): The task involves reviewing work orders and discussing work with supervisors, which primarily involves written communication. The LLM could potentially assist in summarizing work orders, providing suggestions for discussing work with supervisors, or drafting communication. This could streamline the process and save time for the technician. Therefore, access to the LLM could reduce the time it takes to complete this task with equivalent quality by at least half.
+
+2: E1
+
+3: Moderate

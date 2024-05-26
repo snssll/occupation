@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of reviewing and updating standard operating procedures or quality assurance manuals as a Quality Control Systems Manager, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- **E1 (Direct exposure):** If the task involves primarily working with text, such as reviewing and updating documents, the LLM could significantly reduce the time needed to complete this task. The LLM can assist in generating new content, providing suggestions for improvements, and ensuring the accuracy and consistency of the documents.
+
+- **E2 (Exposure by LLM-powered applications):** While the task may not be directly reducible by half with just the LLM, additional software could be developed on top of the LLM to streamline the process further. This could include tools for summarizing lengthy documents, retrieving up-to-date information to incorporate into the manuals, or analyzing data to make recommendations for quality improvements.
+
+- **E3 (Exposure given image capabilities):** Since the task involves reviewing and updating text-based documents like standard operating procedures, image capabilities are not directly relevant here. The task does not require image processing or editing, so the impact of image capabilities on completing this task is minimal.
+
+2: E1
+
+3: Moderate

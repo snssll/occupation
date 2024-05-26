@@ -1,0 +1,13 @@
+1: In this task, a Furniture Finisher needs to select appropriate finishing ingredients based on factors such as wood hardness and surface type. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- **E0**: This task involves a hands-on decision-making process that requires physical interaction with the materials. The selection of finishing ingredients is based on tactile feedback, visual inspection, and knowledge of woodworking materials, which cannot be directly assisted by an LLM.
+
+- **E1**: While the LLM can provide information on different finishing ingredients and their properties, it cannot physically interact with the materials or assess wood hardness and surface type. The decision-making process in this task heavily relies on practical experience and expertise in woodworking, which the LLM cannot directly replace.
+
+- **E2**: It is conceivable that a specialized software tool could be developed on top of the LLM that could assist Furniture Finishers in selecting finishing ingredients more efficiently. This tool might integrate databases of wood hardness, surface types, and recommended finishing products to provide suggestions based on input criteria. However, the complexity of tactile and visual assessment required for this task may limit the effectiveness of such a tool.
+
+- **E3**: The task does not involve image processing or detailed visual analysis that would benefit from additional image capabilities. The decision-making process is primarily based on knowledge of woodworking materials rather than visual information.
+
+2: E0
+
+3: High

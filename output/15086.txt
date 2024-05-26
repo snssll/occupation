@@ -1,0 +1,13 @@
+1: In this task, a Sales Manager is required to review operational records and reports to project sales and determine profitability. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves reviewing operational records and reports, which can be text-based and within the 2000-word limit that the LLM can process effectively.
+- The task requires analyzing data and making projections based on the information in the records and reports.
+- The task does not involve any visual analysis, image editing, or detailed image processing.
+- The task does not involve interacting with physical objects or precise measurements.
+- The task does not involve highly specialized domain knowledge that the LLM may not have access to.
+
+Based on these considerations, the task can be effectively completed using the LLM to analyze text-based operational records and reports, make projections, and determine profitability. Therefore, this task falls under the E1 label as direct access to the LLM can significantly reduce the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: High

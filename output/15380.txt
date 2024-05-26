@@ -1,0 +1,5 @@
+1: In this task, a Postal Service Mail Sorter needs to search directories to find correct addresses for redirected mail. With access to the powerful OpenAI large language model (LLM), the worker could potentially input the details of the redirected mail and receive assistance in quickly searching for the correct addresses. The LLM could help in generating queries, suggesting search strategies, and even providing potential matches based on the input data. This task involves text input and output within the context of finding addresses, which falls within the capabilities of the LLM. As such, this task could be significantly expedited with the LLM's assistance, reducing the time it takes to complete the task with high quality.
+
+2: E1
+
+3: High

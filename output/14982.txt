@@ -1,0 +1,13 @@
+1: In this task, a plumber, pipefitter, or steamfitter is required to review blueprints, building codes, or specifications to determine work details or procedures. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves reviewing technical documents like blueprints and building codes, which require a high level of expertise and understanding of specific regulations and standards. The LLM may not have the specialized domain knowledge necessary to interpret these documents accurately.
+
+- E1: While the LLM can assist in summarizing text and providing general information, it may not have the specific knowledge related to plumbing, pipefitting, or steamfitting required to review blueprints and building codes effectively. The task involves interpreting technical details that may not be within the LLM's capabilities without specialized training.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in summarizing complex technical documents, retrieving relevant information from building codes, or providing recommendations based on the specifications. This software could potentially enhance the efficiency of reviewing blueprints and building codes.
+
+- E3: The task does not involve image processing or detailed visual analysis, so the image capabilities of the LLM are not directly relevant in this context.
+
+2: E2
+
+3: Moderate

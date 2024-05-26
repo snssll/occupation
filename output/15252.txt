@@ -1,0 +1,13 @@
+1: In this task, a Blockchain Engineer is required to run infrastructure tests to examine the behavior of large peer-to-peer networks. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves hands-on technical work that requires specific expertise in blockchain technology and network infrastructure testing. The task is highly specialized and likely involves interacting with complex systems that may not be easily automated by the LLM alone.
+
+- E1: While the LLM could potentially assist in providing general information about blockchain technology and network testing procedures, it is unlikely to significantly reduce the time it takes to run infrastructure tests on large peer-to-peer networks. The task involves practical, hands-on work that requires specialized knowledge and technical skills beyond what the LLM can provide.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to automate certain aspects of infrastructure testing for large peer-to-peer networks. This software could potentially help in generating test scenarios, analyzing network behavior, or providing recommendations based on test results. However, the complexity and real-time nature of infrastructure testing may still require human intervention and expertise.
+
+- E3: The task does not involve image processing or visual data, so the image capabilities of the LLM are not relevant in this context.
+
+2: E2
+
+3: Moderate

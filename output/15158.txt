@@ -1,0 +1,10 @@
+1: In this task, a Costume Attendant is required to review scripts or other production information to determine various details such as the story's locale or period, the number of characters, and the required costumes. To determine the exposure level to LLM, we can break down the task as follows:
+- The task involves reading and analyzing text (scripts or production information) to extract specific details.
+- The task requires understanding the context of the script to identify the story's locale or period, the number of characters, and the costumes needed.
+- The task does not involve complex decision-making or specialized domain knowledge beyond the scope of general understanding of scripts and production requirements.
+
+Based on these considerations, the task can be completed with the help of an LLM by providing information extraction and analysis capabilities, which can significantly reduce the time required to review and extract details from scripts or production information.
+
+2: E1
+
+3: High

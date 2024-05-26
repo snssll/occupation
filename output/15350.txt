@@ -1,0 +1,5 @@
+1: In this task, the Dining Room and Cafeteria Attendants and Bartender Helpers are responsible for scraping and stacking dirty dishes and carrying them to the kitchen for cleaning. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as scraping, stacking, and carrying dishes, which cannot be directly performed by an LLM. The task does not involve complex text input or output, and there is no need for language processing beyond basic instructions related to dish handling. As such, the task does not align with the capabilities of an LLM, and there is no way for the LLM to significantly reduce the time it takes to complete this physical task.
+
+2: E0
+
+3: High

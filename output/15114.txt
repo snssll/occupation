@@ -1,0 +1,12 @@
+1: In this task, a Real Estate Sales Agent is required to review plans for new construction with clients, enumerate available options and features, and make recommendations. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves interacting with clients, understanding their needs, and providing recommendations based on the available options. This requires human judgment, empathy, and the ability to tailor recommendations to individual clients.
+- While an LLM could potentially assist in generating descriptions of available options and features based on the plans provided, it may not fully capture the nuanced preferences and requirements of each client.
+- The task also involves a level of negotiation and persuasion, which may be challenging for an LLM to handle effectively without human interaction.
+- The task does not involve complex data analysis or specialized domain knowledge that would significantly benefit from LLM capabilities beyond text generation.
+
+Based on these considerations, the task falls under E0 as it requires a high degree of human interaction, nuanced understanding of individual client needs, negotiation skills, and personalized recommendations that may not be effectively handled by an LLM alone.
+
+2: E0
+
+3: Moderate

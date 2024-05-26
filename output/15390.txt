@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of searching legal records, survey records, and land titles to obtain information about property boundaries in areas to be surveyed as a Surveyor, we need to consider the capabilities of the LLM. The task involves researching and retrieving specific information from documents, which aligns with the LLM's ability to process and understand text data. The LLM can assist in summarizing documents, providing insights, and generating relevant questions based on the information provided. However, the task also requires accessing legal and survey records, which may contain specialized domain knowledge beyond the LLM's general capabilities. While the LLM can help with text-based tasks related to the information found in these records, it may not have direct access to the specific legal and survey data needed for this task. Therefore, the task could potentially benefit from additional software that integrates with the LLM to retrieve specialized domain knowledge or legal information efficiently.
+
+2: E2
+
+3: Moderate

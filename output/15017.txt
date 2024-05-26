@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of reviewing development plans for transportation system effects, infrastructure requirements, or compliance with applicable transportation regulations as a Transportation Planner, we need to consider the nature of the task and how the LLM could assist in completing it.
+
+- **E1 (Direct exposure):** The task involves analyzing and evaluating development plans for transportation systems, which may require understanding complex regulations and infrastructure requirements. The LLM could assist in providing information on transportation regulations, infrastructure standards, and potential effects of transportation systems. It could also help in summarizing key points from the plans and generating insights based on the input data. Therefore, direct access to the LLM could significantly reduce the time it takes to review and analyze these plans with equivalent quality.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone can provide valuable information and insights, additional software could be developed on top of the LLM to further enhance the efficiency of reviewing development plans. This software could include capabilities such as summarizing lengthy documents, retrieving up-to-date information on transportation regulations, and making recommendations based on the data extracted from the plans. Such tools could streamline the review process and improve decision-making for Transportation Planners.
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not directly relevant to the task of reviewing development plans for transportation system effects, infrastructure requirements, or compliance with regulations. The task primarily involves text-based analysis and evaluation of plans, which can be effectively handled by the LLM without the need for image capabilities.
+
+2: E1
+
+3: Moderate
