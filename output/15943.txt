@@ -1,0 +1,11 @@
+1: In this task, a lodging manager is responsible for showing, renting, or assigning accommodations to guests. To determine the appropriate exposure label, we need to consider if direct access to the LLM could significantly reduce the time it takes for a lodging manager to complete this task with high quality. 
+
+- Direct exposure (E1): Direct access to the LLM could potentially help in generating responses to inquiries about accommodations, drafting rental agreements, or providing information about the features of different rooms. The LLM could assist in communicating with potential guests via written correspondence, answering common questions, or even drafting emails related to rental agreements. However, the core tasks of physically showing accommodations, negotiating rental terms, and assigning rooms would still require human interaction and decision-making that the LLM cannot perform.
+
+- Exposure by LLM-powered applications (E2): While an LLM-powered application could potentially assist in summarizing guest feedback, analyzing trends in rental preferences, or even providing recommendations based on data, the core tasks of showing, renting, or assigning accommodations involve a level of human interaction and decision-making that may not be significantly expedited by LLM-powered tools alone.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the task of showing, renting, or assigning accommodations as it primarily involves verbal and written communication, negotiation, and decision-making rather than image processing.
+
+2: E0
+
+3: Moderate

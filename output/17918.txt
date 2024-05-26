@@ -1,0 +1,7 @@
+1: In this task, a nuclear engineer is required to write operational instructions for nuclear plant operation or nuclear fuel handling and disposal. To complete this task, the engineer needs to have a deep understanding of nuclear engineering principles, safety protocols, and regulatory requirements. The task involves technical language, specific terminology, and precise instructions to ensure the safe and efficient operation of nuclear facilities. 
+
+Considering the complexity and specialized knowledge required for this task, the most suitable label from the exposure rubric would be E2. While the LLM can assist in generating text and providing information, the task of writing operational instructions for nuclear engineering involves highly specialized domain knowledge that goes beyond what the LLM alone can provide. However, it is easy to imagine additional software built on top of the LLM that could streamline the process by retrieving specific regulations, safety protocols, and technical details to assist the engineer in creating comprehensive operational instructions.
+
+2: E2
+
+3: Moderate

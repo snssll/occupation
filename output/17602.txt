@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of verifying facts, dates, and statistics as an editor using LLM, we can break down the requirements:
+- The task involves checking information against standard reference sources, which may require accessing and cross-referencing multiple sources.
+- The task does not involve complex decision-making or specialized domain knowledge beyond the ability to fact-check.
+- The LLM can assist in searching for information and providing relevant data but may not have real-time access to up-to-date facts unless explicitly provided in the input.
+- The LLM can help in summarizing information and providing relevant context for fact-checking.
+
+Based on these considerations, the task of verifying facts, dates, and statistics using the LLM falls under E1. The LLM can significantly reduce the time it takes to complete the task by assisting in searching for information, summarizing data, and providing relevant context for fact-checking.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,11 @@
+1: In this task, the Opticians, Dispensing need to demonstrate to customers how to properly handle and care for their contact lenses. To determine the appropriate label from the exposure rubric, we can break down the task as follows:
+
+- The task involves demonstrating a physical action (inserting and removing contact lenses) to customers, which cannot be directly performed by an LLM.
+- The task also involves providing hands-on guidance and ensuring customers understand the instructions, which requires human interaction and physical presence.
+- While the LLM could potentially provide written instructions or information on contact lens care, it cannot physically show customers how to insert or remove contact lenses.
+
+Based on these considerations, the task falls under E0 as it involves physical demonstrations and human interaction that cannot be replaced by an LLM.
+
+2: E0
+
+3: High

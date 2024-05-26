@@ -1,0 +1,11 @@
+1: In this task, a stonemason is required to set the vertical and horizontal alignment of structures using tools like a plumb bob, gauge line, and level. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality by at least half.
+
+- Stonemasonry involves physical work that requires precise measurements and manual adjustments to ensure the structural integrity of the building. This task specifically involves using tools like a plumb bob, gauge line, and level, which are physical tools that require hands-on manipulation.
+- The task does not involve text input or output, complex instructions, data analysis, or decision-making based on information processed by the LLM.
+- While the LLM could potentially provide information on stonemasonry techniques or historical context, it cannot physically set the alignment of structures using physical tools.
+
+Based on these considerations, the task of setting vertical and horizontal alignment of structures in stonemasonry is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

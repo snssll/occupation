@@ -1,0 +1,5 @@
+1: In this task, a slaughterer and meat packer is responsible for performing specific actions on carcasses of slaughtered animals. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical actions such as slitting open, eviscerating, and trimming carcasses, which require hands-on work and cannot be automated by a language model. The task also involves dealing with physical objects (animal carcasses) and requires specific skills and training that go beyond text-based instructions. As such, this task falls under the category of tasks that cannot be significantly aided by an LLM or any software tool based on an LLM. Therefore, this task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

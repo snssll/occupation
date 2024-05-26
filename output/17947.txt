@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of writing proposals to win new projects as a Survey Researcher, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - Writing proposals involves transforming text according to specific instructions and providing edits to existing text following guidelines. The LLM can assist in generating content, structuring the proposal, and ensuring it meets the requirements outlined for winning new projects. The model can help with language, formatting, and even suggest persuasive arguments to include.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time to complete the task, additional software could be developed on top of the LLM to streamline the process. For example, an application could be created to analyze successful project proposals, provide recommendations based on that analysis, and even generate tailored proposal templates based on the specific requirements of different projects.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant for the task of writing proposals, as it primarily involves text-based content creation and does not require image processing.
+
+Based on the above analysis, the task of writing proposals to win new projects as a Survey Researcher falls under **E2: Exposure by LLM-powered applications**.
+
+2: E2
+
+3: Moderate

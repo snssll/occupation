@@ -1,0 +1,12 @@
+1: In this task, the Dining Room and Cafeteria Attendants and Bartender Helpers are responsible for washing glasses or other serving equipment at bars. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves a straightforward and repetitive action of washing glasses or serving equipment, which can be easily described in text.
+- The task does not require specialized domain knowledge beyond basic instructions on how to wash the equipment.
+- The task does not involve complex decision-making or analysis that would benefit significantly from the LLM's capabilities.
+- The task does not involve any visual elements that would require image capabilities.
+
+Based on these considerations, the task falls under E0 as it does not clearly benefit from the use of the LLM to reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

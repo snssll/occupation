@@ -1,0 +1,7 @@
+1: In this task, a surveyor is required to verify the accuracy of survey data, including measurements and calculations conducted at survey sites. With the help of the LLM, the surveyor could potentially input the data collected at the survey sites and receive assistance in verifying the accuracy of the measurements and calculations. The LLM could help in cross-referencing the data, performing calculations, and providing insights into potential errors or discrepancies. This task involves analyzing data and making decisions based on the information provided, which the LLM can assist with by providing recommendations and insights.
+
+Considering the nature of the task and the capabilities of the LLM, this task falls under E2 exposure. While the LLM alone may not reduce the time it takes to complete the task by half, additional software could be developed on top of the LLM to streamline the process of verifying survey data accuracy, making recommendations, and analyzing the data more efficiently.
+
+2: E2
+
+3: Moderate

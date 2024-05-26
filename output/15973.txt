@@ -1,0 +1,5 @@
+1: In this task, an umpire or sports official signals participants or other officials to make them aware of infractions or to regulate play or competition. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves real-time, in-person interactions during sports events, where quick decisions and physical gestures are crucial. The task does not involve written or text-based communication that can be easily processed by an LLM. Additionally, the task requires physical presence, observation, and judgment based on real-time events, which are not within the capabilities of an LLM. Therefore, this task falls under E0 as it involves a high degree of human interaction, real-time decision-making, and physical gestures that cannot be replicated by an LLM.
+
+2: E0
+
+3: High

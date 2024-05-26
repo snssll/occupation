@@ -1,0 +1,5 @@
+1: In this task, an interior designer is using computer-aided drafting (CAD) software to produce construction documents. With the help of a powerful OpenAI large language model (LLM), the designer could potentially receive assistance in generating text descriptions, annotations, or labels for the CAD drawings. The LLM could also help in providing suggestions for layout designs, material selections, or dimensions based on the input provided by the designer. However, since the task primarily involves working with CAD software and producing technical drawings, the LLM's text-based capabilities may not directly reduce the time it takes to complete the task significantly. While it's conceivable that specialized software could be developed on top of the LLM to assist with CAD tasks, such software would need to have image capabilities to interact directly with the CAD software, which is not currently within the scope of the LLM's capabilities. Therefore, the task falls under E2 as it may not be directly reducible by half with the LLM alone, but additional software could potentially be developed to enhance the process.
+
+2: E2
+
+3: Moderate

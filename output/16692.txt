@@ -1,0 +1,11 @@
+1: In this task, a firefighter is required to take action to contain hazardous chemicals that could pose a fire risk. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a firefighter to complete this task with high quality. 
+
+- The task of containing hazardous chemicals involves physical actions, such as using specialized equipment, following safety protocols, and making real-time decisions based on the specific situation.
+- While the LLM can provide information on hazardous chemicals, safety protocols, and containment methods, it cannot physically contain the chemicals or interact with the environment.
+- The task also involves a high degree of human interaction, coordination with other emergency responders, and on-the-ground assessment of the situation, which are not tasks the LLM can perform.
+
+Based on these considerations, it is clear that the task of containing hazardous chemicals as a firefighter falls under E0 as it requires physical actions, human interaction, and real-time decision-making that cannot be effectively replaced by the LLM alone.
+
+2: E0
+
+3: High

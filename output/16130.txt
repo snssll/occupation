@@ -1,0 +1,7 @@
+1: In this task, a Molding, Coremaking, and Casting Machine Setter, Operator, or Tender for Metal and Plastic is required to spray, smoke, or coat molds with compounds to lubricate or insulate molds. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task with equivalent quality. 
+
+- E0: This task involves physical actions such as spraying, smoking, or coating molds, which cannot be performed by the LLM or any software tool. Therefore, this task does not qualify for any exposure label as it cannot be completed using the LLM or LLM-powered tools.
+
+2: E0
+
+3: High

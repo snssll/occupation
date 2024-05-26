@@ -1,0 +1,12 @@
+1: In this task, a Passenger Attendant is responsible for transporting baggage or coordinating transportation between assigned rooms, terminals, or platforms. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- The task involves physical movement and coordination, which cannot be directly assisted by the LLM.
+- The task requires hands-on interaction with baggage and transportation logistics, which is beyond the capabilities of the LLM.
+- The LLM does not have the ability to physically transport baggage or coordinate transportation in real-world settings.
+- While the LLM can provide information or guidance related to transportation logistics in text form, it cannot perform the physical tasks involved in this occupation.
+
+Based on these considerations, the task of transporting baggage or coordinating transportation for Passenger Attendants falls under label E0 as it involves physical actions and interactions that cannot be directly assisted by the LLM.
+
+2: E0
+
+3: High

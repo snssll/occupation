@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of steam-cleaning or shampooing carpets as part of the occupation of Janitors and Cleaners, Except Maids and Housekeeping Cleaners, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- E0: This task involves physical labor and precise actions such as operating steam-cleaning equipment and handling cleaning solutions. It does not involve text-based inputs or outputs that can be directly processed by an LLM. Therefore, the task does not align with the capabilities of an LLM, and using an LLM would not significantly reduce the time it takes to complete the task.
+
+- E1: While an LLM could potentially provide information on the best practices for steam-cleaning or shampooing carpets through text-based instructions, the actual execution of the task requires physical labor and specialized equipment. The LLM cannot directly perform the task or interact with the equipment, limiting its utility in this context.
+
+- E2: It is conceivable that an application could be developed on top of an LLM that provides detailed step-by-step instructions for steam-cleaning or shampooing carpets, including information on different types of carpets, cleaning solutions, and techniques. This application could potentially enhance the efficiency of training janitors and cleaners in performing this task, but it would not directly reduce the physical labor involved in the task itself.
+
+- E3: The task of steam-cleaning or shampooing carpets does not involve image processing or visual instructions that would benefit from additional image capabilities alongside an LLM. The task is primarily hands-on and does not require the interpretation of visual data beyond the physical act of cleaning carpets.
+
+2: E0
+
+3: High

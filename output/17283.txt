@@ -1,0 +1,12 @@
+1: In this task, the occupation involves helpers for brickmasons, blockmasons, stonemasons, and tile and marble setters. The specific task mentioned is transporting materials, tools, or machines to installation sites, either manually or using conveyance equipment. 
+
+- E0: This task involves physical labor that cannot be automated by the LLM or any software tools. It requires manual handling of materials and equipment, which cannot be replaced by text-based AI models.
+- E1: The task does not involve writing, transforming text, providing edits, translating languages, summarizing documents, answering questions, generating questions, writing emails, maintaining records, preparing training materials, or informing anyone via written or spoken medium. Therefore, the LLM would not significantly reduce the time it takes to complete this task.
+- E2: While it is conceivable that software could be developed to automate some aspects of material transportation on construction sites, such as coordinating logistics or optimizing routes, the current capabilities of the LLM alone do not provide a clear path to reducing the time it takes to complete this physical task by at least half.
+- E3: Image capabilities would not be relevant for this task as it does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+
+Based on the above analysis, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

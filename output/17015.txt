@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of testing, maintaining, and monitoring computer programs and systems as a Computer Systems Analyst, we need to consider the nature of the task and how it can be impacted by the use of a large language model (LLM).
+
+- **E1 (Direct exposure):** The task involves activities that can benefit from the LLM's capabilities, such as writing reports, analyzing system data, and potentially even automating certain monitoring processes through code generation. The LLM can assist in writing documentation, providing insights into system performance, and suggesting improvements based on data analysis.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone may not significantly reduce the time it takes to complete the task by half, additional software could be developed on top of the LLM to streamline the process. This software could include tools for automated testing, real-time system monitoring, or predictive maintenance based on data analysis.
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not directly relevant to the task of testing, maintaining, and monitoring computer programs and systems. The task primarily involves working with text-based data, code, and system performance metrics rather than images.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, a Surveying and Mapping Technician is required to trace contours or topographic details to generate maps that denote specific land or property locations or geographic attributes. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and the capabilities of the LLM. 
+
+- E0: This task involves physical tracing of contours and topographic details, which requires hands-on work and precise measurements. The task also involves creating maps based on real-world geographic data, which may not be effectively handled by the LLM alone.
+
+- E1: The LLM could potentially assist in providing information or explanations related to surveying and mapping techniques. It could help in generating text-based descriptions or explanations of certain concepts related to surveying and mapping. However, the actual tracing of contours and topographic details to generate maps is a hands-on task that cannot be directly performed by the LLM.
+
+- E2: While the LLM may not directly reduce the time it takes to complete the task, additional software could be developed on top of the LLM to assist in analyzing and interpreting surveying data. This software could potentially automate certain aspects of map generation or provide recommendations based on the data input by the technician.
+
+- E3: The task does not involve image processing or detailed image analysis that would significantly benefit from additional image capabilities. The task primarily revolves around tracing contours and generating maps based on geographic data, which is more text-based and conceptual in nature.
+
+2: E2
+
+3: Moderate

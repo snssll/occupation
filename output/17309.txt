@@ -1,0 +1,12 @@
+1: In this task, a Cartographer or Photogrammetrist is required to travel over photographed areas to observe, identify, record, and verify all relevant features. To determine the appropriate exposure label, we can break down the task:
+- The task involves observing and identifying features in photographed areas, which can be described in text.
+- The task does not require any specialized domain knowledge beyond what can be captured in 2000 words.
+- The task does not involve any image editing, creation, or detailed image analysis.
+- The task does not involve searching for up-to-date facts or highly specialized domain knowledge.
+- The task does not involve making recommendations, analyzing data, or providing counsel.
+
+Based on the above analysis, the task does not significantly benefit from the capabilities of the LLM or any additional software that could be developed on top of it. The task is more about physical observation and verification, which cannot be directly assisted by the LLM.
+
+2: E0
+
+3: High

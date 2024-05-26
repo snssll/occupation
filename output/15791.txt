@@ -1,0 +1,7 @@
+1: In this task, a maintenance worker in machinery is required to set up and operate machines, adjusting controls to regulate operations. To determine the appropriate exposure label, we need to consider the complexity of the task and the potential for the LLM to assist in completing it. 
+
+For this specific task, the role involves hands-on work with machinery, which requires physical interaction and manipulation of equipment. The task does not involve text-based instructions or information processing that could be significantly aided by the LLM. The LLM does not have the capability to physically set up or operate machinery, as it is a text-based model. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

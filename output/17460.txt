@@ -1,0 +1,10 @@
+1: In this task, a Helper-Roofer unloads materials and tools from work trucks and unrolls roofing as directed. To determine the appropriate exposure label, we need to consider the complexity of the task and whether the LLM can significantly reduce the time it takes to complete it.
+
+- Unloading materials and tools from work trucks involves physical labor and coordination, which cannot be directly assisted by the LLM.
+- Unrolling roofing as directed may involve following specific instructions and physical tasks that the LLM cannot perform.
+
+Given that the task involves physical actions and does not primarily rely on text-based instructions or information, it is unlikely that the LLM can significantly reduce the time it takes to complete this task.
+
+2: E0
+
+3: High

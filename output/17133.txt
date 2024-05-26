@@ -1,0 +1,5 @@
+1: Personal Care Aides are responsible for assisting clients with daily tasks, such as bathing, dressing, and grooming. One of the tasks they may need to perform is training family members to provide bedside care. To determine the exposure level, we need to consider if the task can be significantly aided by the use of an LLM. In this case, training family members involves providing instructions, guidance, and possibly educational materials on how to care for a client in a bedside setting. An LLM could potentially assist in generating training materials, writing instructions, or even providing information on best practices in bedside care. However, the task also involves hands-on training, demonstration, and practical skills that cannot be fully replaced by text-based instructions from an LLM. While the LLM can help with some aspects of creating training materials, it cannot fully substitute for the hands-on training required in this task. Therefore, the task falls under E2 as additional software could be developed to aid in creating training materials but would not significantly reduce the time it takes to complete the task.
+
+2: E2
+
+3: Moderate

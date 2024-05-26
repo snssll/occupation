@@ -1,0 +1,15 @@
+1: In this task, the occupation involves drywall and ceiling tile installation, specifically suspending angle iron grids or channel irons from ceilings using wire. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical work that cannot be performed by the LLM or any software tools. It requires hands-on skills and precise measurements, which are not within the capabilities of the LLM.
+
+- E1: The task description does not involve text input or output that the LLM can directly assist with. It requires physical actions and specialized skills that are not related to writing, summarizing, or analyzing text.
+
+- E2: While it's conceivable that software could be developed to provide guidance or instructions for installing drywall and ceiling tiles, the specific physical actions of suspending angle iron grids or channel irons using wire are not easily translatable to text-based instructions that the LLM could assist with.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The use of image capabilities would not significantly impact the completion of this physical installation task.
+
+Based on the analysis above, the task falls under E0 as it involves physical work that cannot be assisted by the LLM or any software tools.
+
+2: E0
+
+3: High

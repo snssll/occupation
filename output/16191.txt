@@ -1,0 +1,5 @@
+1: In this task, a Gambling and Sports Book Writer and Runner is responsible for starting gaming equipment that randomly selects numbered balls and announcing the winning numbers and colors. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves a physical action of starting gaming equipment and announcing the results, which cannot be directly performed by an LLM. The LLM cannot physically interact with equipment or announce results in a physical setting. Therefore, this task falls under E0 as it requires physical actions that cannot be replaced by the LLM.
+
+2: E0
+
+3: High

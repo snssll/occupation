@@ -1,0 +1,13 @@
+1: In this task, a machinist is required to support metalworking projects through various stages, including planning, fabrication, assembly, inspection, and testing. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how an LLM could potentially assist in completing it. 
+
+- E0: This task involves hands-on work with machines, metal properties, and mathematics, which are practical skills that cannot be directly replaced by an LLM. The physical aspect of metalworking and the need for hands-on expertise make it unlikely that an LLM could significantly reduce the time it takes to complete this task.
+
+- E1: While an LLM could potentially provide information on machine functions, metal properties, and mathematical concepts, the practical application of this knowledge in metalworking projects requires hands-on skills and experience that an LLM cannot replicate. Therefore, the direct access to an LLM is unlikely to reduce the time it takes to complete this task by at least half.
+
+- E2: It is conceivable that specialized software could be developed on top of an LLM to assist machinists in tasks such as planning, providing recommendations based on data, or retrieving specialized domain knowledge related to metalworking. However, the hands-on nature of metalworking projects and the need for practical skills make it challenging to develop software that could significantly reduce the time to complete this task by half.
+
+- E3: The task of supporting metalworking projects involves practical aspects such as fabrication, assembly, inspection, and testing, which are not easily captured by image capabilities. While an LLM could potentially provide information and guidance on theoretical aspects related to metalworking, the physical nature of the work makes it unlikely that image capabilities would significantly reduce the time it takes to complete this task.
+
+2: E0
+
+3: High

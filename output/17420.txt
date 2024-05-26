@@ -1,0 +1,5 @@
+1: In this task, a Pump Operator is responsible for turning valves and starting pumps to regulate the flow of substances like gases, liquids, slurries, or powdered materials. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for a Pump Operator to complete this task with high quality. The task involves physical actions such as turning valves and starting pumps, which cannot be directly assisted by the LLM. The LLM cannot physically interact with machinery or substances, and the task does not involve complex decision-making or specialized knowledge that the LLM could provide. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

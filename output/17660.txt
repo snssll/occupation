@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of visiting customer sites to determine solar system needs as a Solar Energy Installation Manager, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves physical presence at customer sites, interacting directly with customers, and assessing specific requirements on-site. The task does not involve writing, transforming text, or utilizing the LLM's capabilities to a significant extent. Therefore, it is unlikely that the LLM can reduce the time significantly for an experienced worker to complete this task.
+
+- E1: While the LLM could potentially assist in preparing documentation or reports based on the information gathered during site visits, the core task of physically visiting sites, interacting with customers, and assessing solar system needs cannot be directly facilitated by the LLM. The human interaction and on-site assessment aspects are crucial and cannot be replaced by the LLM.
+
+- E2: It is conceivable that software could be developed to streamline the documentation process post-site visit using information gathered by the Solar Energy Installation Manager. This software could potentially summarize the data, generate reports, or provide recommendations based on the input. However, the core task of visiting customer sites and determining solar system needs would still require human presence and interaction.
+
+- E3: The task does not involve image processing, reading text from PDFs, or creating/editing digital images. Therefore, the task does not align with the capabilities provided by image processing in conjunction with the LLM.
+
+2: E0
+
+3: High

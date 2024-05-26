@@ -1,0 +1,5 @@
+1: In this task, a Septic Tank Servicer and Sewer Pipe Cleaner is required to start machines, feed revolving cables or rods into openings, stop machines, and change knives to conform to pipe sizes. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves operating machinery, making adjustments based on pipe sizes, and ensuring the proper functioning of equipment. While the task description involves some technical steps, it primarily requires physical manipulation of machinery and tools, which cannot be directly performed by an LLM. The task does not involve complex text-based instructions, data analysis, or decision-making that could be significantly aided by an LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or LLM-powered tools.
+
+2: E0
+
+3: High

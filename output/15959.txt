@@ -1,0 +1,7 @@
+1: In this task, a millwright is responsible for signaling a crane operator to lower basic assembly units to a bedplate and align the unit to the centerline. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+Given that this task involves physical coordination and communication with a crane operator, it does not seem feasible for the LLM to directly assist in completing this task. The LLM does not have the capability to physically signal or interact with machinery in the real world. Therefore, this task falls under the category of E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

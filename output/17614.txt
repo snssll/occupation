@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of verifying regulatory compliance of transaction reporting for Investment Fund Managers, we need to consider the capabilities of the LLM. 
+
+- E1: Direct exposure - The task involves reviewing transaction reports to ensure compliance with regulations. The LLM can assist in this process by analyzing text inputs related to regulations, identifying key compliance requirements, and flagging any discrepancies in the transaction reports. The LLM can help streamline the review process and provide insights into regulatory requirements.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can assist in analyzing text inputs and providing information on regulations, additional software could be developed on top of the LLM to further enhance the efficiency of verifying regulatory compliance. This software could automate the comparison of transaction reports with regulatory requirements, highlight potential issues, and provide recommendations for corrective actions.
+
+- E3: Exposure given image capabilities - Since the task primarily involves text-based transaction reports and regulatory requirements, image capabilities are not essential for completing this task. Therefore, this task does not fall under E3.
+
+Based on the above analysis, the task of verifying regulatory compliance of transaction reporting for Investment Fund Managers is best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

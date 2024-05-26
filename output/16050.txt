@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of sorting items to be delivered according to the delivery route for Couriers and Messengers, we need to consider the capabilities of the LLM. In this task, the main actions involve organizing physical items based on a specific criterion, which is not something the LLM can directly assist with. The LLM does not have the ability to interact with physical objects or perform tasks that require physical movement. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

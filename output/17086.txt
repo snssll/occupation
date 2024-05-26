@@ -1,0 +1,7 @@
+1: In this task, a Securities, Commodities, and Financial Services Sales Agent is required to track and analyze various factors that affect price movement in the financial markets. This involves staying updated on trade policies, weather conditions, political developments, and supply and demand changes to make informed decisions. With access to the most powerful OpenAI large language model (LLM), the agent could utilize the model to gather information on these factors, analyze trends, and potentially even receive recommendations based on the data processed by the LLM. The LLM could assist in summarizing large amounts of information, providing insights, and helping the agent stay informed about the latest developments in these areas.
+
+Considering the nature of the task and the capabilities of the LLM, it falls under E2 - Exposure by LLM-powered applications. While direct access to the LLM alone may not reduce the time it takes to complete the task by at least half, additional software developed on top of the LLM could enhance the agent's ability to track and analyze factors affecting price movement more efficiently.
+
+2: E2
+
+3: Moderate

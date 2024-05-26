@@ -1,0 +1,13 @@
+1: In this task, a First-Line Supervisor of Correctional Officers is responsible for supervising or performing searches of inmates or their quarters to locate contraband items. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves supervising or performing searches, which can be described in text and does not require precise measurements or detailed visuals. The LLM can assist in generating guidelines, instructions, or reports related to these searches, potentially saving time in drafting such documents.
+
+- Exposure by LLM-powered applications (E2): While the LLM alone may not significantly reduce the time it takes to complete the physical act of searching for contraband items, additional software could be developed to streamline the process. For example, an application could be created to analyze data from previous searches, provide recommendations on search strategies, or generate reports based on search outcomes.
+
+- Exposure given image capabilities (E3): The task does not involve detailed visuals or require the analysis of images. Therefore, image capabilities provided by the LLM are not necessary for completing this task.
+
+Based on the above analysis, the task of supervising or performing searches of inmates or their quarters to locate contraband items is best classified as E2 - Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

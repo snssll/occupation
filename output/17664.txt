@@ -1,0 +1,11 @@
+1: In this task, a Sales Representative for Technical and Scientific Products is required to visit establishments like pharmacies to determine product sales. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+- The task involves physical presence and interaction with individuals at the establishments, which cannot be replaced by LLM.
+- LLM cannot provide real-time data on product sales at specific establishments unless that information is already available in a written format within its 2000-word context limit.
+- The task does not involve complex data analysis or specialized domain knowledge retrieval that would greatly benefit from LLM capabilities.
+
+Based on these considerations, the task does not align with any of the exposure levels in the rubric. It falls under E0 as it does not significantly benefit from LLM assistance in completing the task.
+
+2: E0
+
+3: High

@@ -1,0 +1,7 @@
+1: Wind Turbine Service Technicians are responsible for maintaining and repairing wind turbine systems to ensure they operate efficiently. The task provided involves starting or restarting wind turbine generator systems to ensure proper operations. To determine the appropriate label for this task's exposure to LLM, we need to consider whether the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality by at least half.
+
+In this case, the task of starting or restarting wind turbine generator systems involves physical actions and technical knowledge related to the operation of these systems. It requires hands-on work, understanding of mechanical components, electrical systems, and safety protocols. Since this task is hands-on and involves physical actions, it cannot be effectively completed using an LLM or LLM-powered tool. The LLM does not have the capability to interact with physical machinery or perform tasks that require physical manipulation.
+
+2: E0
+
+3: High

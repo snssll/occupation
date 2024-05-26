@@ -1,0 +1,13 @@
+1: In this task, a Materials Scientist is required to visit suppliers of materials or users of products to gather specific information. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves gathering specific information from suppliers or users, which may require interacting with individuals, observing processes, and collecting data. While an LLM could potentially assist in preparing for these visits by providing background information or drafting questions, the core aspect of physically visiting and interacting with suppliers or users cannot be directly replaced by the LLM. Therefore, the direct exposure to the LLM is limited in this case.
+
+- Exposure by LLM-powered applications (E2): While an application could potentially be developed to assist in organizing information gathered during visits or providing insights based on the data collected, the fundamental aspect of physically visiting suppliers or users remains outside the scope of what an LLM can directly assist with.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the task of visiting suppliers or users in person to gather specific information. This task is primarily focused on physical interactions and data collection, which do not heavily rely on image processing.
+
+Considering the above analysis, the task of visiting suppliers of materials or users of products to gather specific information is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

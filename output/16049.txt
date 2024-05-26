@@ -1,0 +1,11 @@
+1: In this task, a Refuse and Recyclable Material Collector is responsible for sorting items set out for recycling and throwing materials into designated truck compartments. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves physical actions such as sorting items and throwing materials, which cannot be directly assisted by the LLM.
+- The task does not involve complex decision-making or specialized knowledge that would require the capabilities of an LLM.
+- The task does not involve text input or output, which are the primary areas where the LLM excels.
+
+Based on these considerations, it is clear that the task of sorting items for recycling and throwing materials into designated truck compartments does not align with the capabilities of the LLM. Therefore, the task falls under label E0.
+
+2: E0
+
+3: High

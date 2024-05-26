@@ -1,0 +1,7 @@
+1: In this task, an Aircraft Mechanic and Service Technician is required to test the operation of engines and other systems using various test equipment. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Testing the operation of engines and systems involves practical, hands-on work that requires physical interaction with the equipment. This task is not solely based on text input and output but involves the use of specialized tools and instruments.
+
+Given that the task involves using physical test equipment like ignition analyzers, compression checkers, and ammeters, it does not align with the capabilities of the LLM, which is primarily text-based. The LLM cannot physically interact with equipment or perform hands-on testing tasks. Therefore, this task falls under E0 as it does not benefit from the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

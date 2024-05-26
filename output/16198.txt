@@ -1,0 +1,7 @@
+1: In this task, a Paper Goods Machine Setter, Operator, or Tender is required to start machines, regulate tension on pressure rolls, synchronize machine components' speed, and adjust temperatures of glue or paraffin. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical manipulation of machinery and requires hands-on operation, which cannot be replaced by text-based tools like the LLM. The task also involves precise adjustments and monitoring that are best done by a human operator. Therefore, this task does not fit into any of the exposure categories as it cannot be effectively assisted by the LLM.
+
+2: E0
+
+3: High

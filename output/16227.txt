@@ -1,0 +1,5 @@
+1: In this task, a Chemical Plant and System Operator is required to start pumps to wash and rinse reactor vessels, regulate the flow of various substances, and add products to vessels. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the language model. The task involves physical actions such as starting pumps and regulating flows, which cannot be directly assisted by the LLM. While the LLM could potentially provide information on chemical processes or safety procedures related to the task, it cannot physically operate the equipment or perform the actions required in a chemical plant. Therefore, the task does not align with the capabilities of the LLM in a way that would significantly reduce the time it takes to complete the task.
+
+2: E0
+
+3: High

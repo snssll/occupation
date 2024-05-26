@@ -1,0 +1,7 @@
+1: In this task, the Correctional Officers and Jailers are required to use nondisciplinary tools and equipment, such as a computer. The task involves utilizing a computer for various purposes within the correctional facility, which could include data entry, report writing, communication, and possibly accessing specific software for managing inmate information. 
+
+To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or any software built on top of it could significantly reduce the time it takes for a Correctional Officer or Jailer to use a computer in their daily tasks. Since the task does not involve complex text transformations, document summarization, specialized domain knowledge retrieval, or image capabilities, it is unlikely that the LLM or LLM-powered applications would provide a substantial time-saving benefit for this specific task. Therefore, this task falls under E0 as the use of the LLM or LLM-powered tools would not significantly decrease the time required for a Correctional Officer or Jailer to use a computer in their duties.
+
+2: E0
+
+3: High

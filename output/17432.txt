@@ -1,0 +1,5 @@
+1: In this task, the helper-production worker is required to turn valves to regulate the flow of liquids or air, reverse machines, start pumps, or regulate equipment. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as turning valves, which cannot be directly performed by an LLM. The task does not involve complex decision-making, specialized knowledge, or detailed analysis that would benefit significantly from LLM capabilities. Therefore, this task does not align with any of the exposure labels (E1, E2, E3) as it does not involve text input or output, complex instructions, specialized knowledge, or image capabilities.
+
+2: E0
+
+3: High

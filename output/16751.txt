@@ -1,0 +1,5 @@
+1: In this task, a tailor or dressmaker is required to take up or let down hems to shorten or lengthen garment parts, such as sleeves. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves physical manipulation of fabric and sewing, which cannot be directly performed by an LLM. While an LLM could potentially provide guidance on how to take up or let down hems through text instructions, it cannot physically perform the sewing itself. Therefore, this task falls under the category of tasks that require physical human interaction and precise measurements, making it unsuitable for automation by an LLM.
+
+2: E0
+
+3: High

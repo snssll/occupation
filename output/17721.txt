@@ -1,0 +1,11 @@
+1: For the task of washing, cutting, and preparing foods designated for cooking as a Fast Food Cook, we need to determine the exposure level to LLM. 
+
+- This task involves physical actions such as washing, cutting, and preparing food, which cannot be directly performed by an LLM.
+- The task does not involve complex decision-making, specialized domain knowledge, or detailed data analysis that would require an LLM.
+- The task is straightforward and does not involve text input or output that would benefit significantly from LLM capabilities.
+
+Based on these considerations, it is clear that this task falls under E0 as it does not align with any of the exposure levels described in the rubric.
+
+2: E0
+
+3: High

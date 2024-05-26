@@ -1,0 +1,7 @@
+1: In this task, a Reinforcing Iron and Rebar Worker is required to space and fasten together rods in forms according to blueprints using wire and pliers. To determine the exposure label, we need to consider if access to the LLM could significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+Given the nature of the task, which involves physical manipulation of materials (rods, wire, pliers) according to blueprints, it is unlikely that the LLM or any tools built on top of it could directly assist in completing this task. The task requires manual dexterity, spatial awareness, and physical interaction with materials, which are not capabilities of the LLM. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

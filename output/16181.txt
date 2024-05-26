@@ -1,0 +1,12 @@
+1: In this task, a Wellhead Pumper is responsible for starting compressor engines, diverting oil from storage tanks into compressor units, and auxiliary equipment to recover natural gas from oil. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- Wellhead Pumpers require hands-on work with machinery and equipment, which cannot be directly assisted by the LLM.
+- The task involves physical actions such as starting engines and diverting oil, which cannot be performed by the LLM.
+- The task does not involve text input or output that can be processed by the LLM to provide a significant time-saving benefit.
+- The LLM does not have the capability to interact with physical equipment or perform tasks that require manual labor.
+
+Based on these considerations, the task of a Wellhead Pumper does not have exposure to LLM capabilities, and it falls under label E0.
+
+2: E0
+
+3: High

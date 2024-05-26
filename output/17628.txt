@@ -1,0 +1,11 @@
+1: In this task, a flight attendant is responsible for verifying the functionality of first aid kits, fire extinguishers, oxygen bottles, and other emergency equipment on an aircraft. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves physical verification of equipment, which cannot be directly performed by an LLM.
+- The task requires hands-on inspection and testing, which cannot be replaced by text-based interactions with an LLM.
+- The task involves ensuring the safety and compliance of emergency equipment, which requires practical knowledge and experience beyond what an LLM can provide.
+
+Based on these considerations, it is evident that the task of verifying the functionality of emergency equipment for flight attendants falls under E0 as it cannot be significantly expedited or improved by the use of an LLM.
+
+2: E0
+
+3: High

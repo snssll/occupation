@@ -1,0 +1,10 @@
+1: In this task, the Medical Scientists are required to teach principles of medicine and medical procedures to various individuals. To complete this task, the Medical Scientists would need to have a deep understanding of medical concepts, procedures, and best practices. The task involves explaining complex medical information in a structured and educational manner to different audiences. 
+
+Considering the task description, the exposure to LLM can be evaluated as follows:
+- E1: Direct access to the LLM could potentially assist in providing detailed explanations of medical principles and procedures, generating educational materials, and answering specific questions related to medicine. The LLM could help in transforming text to explain medical concepts effectively.
+- E2: While the LLM alone may not significantly reduce the time to complete the task, additional software could be developed on top of the LLM to summarize medical information, provide interactive educational content, or generate quizzes for learners, which could enhance the teaching process.
+- E3: Image capabilities are not directly relevant to this task as it primarily involves teaching medical concepts through verbal or written communication.
+
+2: E2
+
+3: Moderate

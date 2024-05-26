@@ -1,0 +1,11 @@
+1: In this task, a Petroleum Engineer is required to take samples to assess the amount and quality of oil, determine the depth at which resources lie, and identify the equipment needed for extraction. To determine the exposure level to LLM, we need to consider if the LLM can significantly reduce the time it takes for a Petroleum Engineer to complete this task with high quality. 
+
+- The task involves physical sampling, which cannot be directly replaced by text-based instructions or information provided by the LLM.
+- The expertise required for assessing the amount and quality of oil, determining resource depth, and selecting extraction equipment is highly specialized and may involve on-site knowledge and experience.
+- The task may also involve safety considerations and physical interactions that cannot be replicated through text-based interactions with the LLM.
+
+Considering these points, it is evident that the task of a Petroleum Engineer to take samples for oil assessment is not suitable for exposure to LLM as it involves physical, specialized, and on-site work that cannot be effectively replaced by text-based interactions with the LLM.
+
+2: E0
+
+3: High

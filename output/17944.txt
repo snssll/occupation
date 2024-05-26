@@ -1,0 +1,9 @@
+1: To determine the appropriate label for the task of writing programs for Computer Numerically Controlled (CNC) machines, we need to consider the nature of the task and how it could be impacted by the use of a large language model (LLM).
+
+- Writing programs for CNC machines involves translating design specifications into instructions that the machine can understand and execute. This task requires a deep understanding of the machine's controller language, the specific machine's capabilities, and the manufacturing process.
+- While an LLM could potentially assist in generating some parts of the code based on provided specifications, the task of programming CNC machines is highly specialized and requires domain-specific knowledge that may not be readily available in the LLM's training data.
+- The task also involves storing programs on specific media, which is a technical aspect that may not be directly addressable by an LLM.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of talking to clients and studying instructions, plans, or diagrams to establish work requirements for Operating Engineers and Other Construction Equipment Operators, we need to consider the nature of the task and how an LLM could assist in completing it.
+
+- **E1 (Direct exposure):** If the task involves a lot of written communication, such as reading and interpreting instructions, plans, or diagrams, an LLM could potentially assist in summarizing or clarifying complex information. The LLM could help in generating questions to ask clients or in drafting responses based on the input received. Therefore, if the task heavily relies on written text and communication, direct access to the LLM could significantly reduce the time needed to complete the task with equivalent quality.
+
+- **E2 (Exposure by LLM-powered applications):** While an LLM alone may not reduce the time it takes to complete the task by half, additional software could be developed on top of the LLM to assist in summarizing complex instructions, plans, or diagrams. This software could potentially retrieve relevant information from documents or databases to aid in establishing work requirements. Therefore, the task could benefit from LLM-powered applications that enhance information retrieval and analysis.
+
+- **E3 (Exposure given image capabilities):** Since the task involves studying diagrams, having access to image capabilities along with the LLM could be beneficial. The system could potentially assist in reading text from diagrams or images, thereby aiding in understanding work requirements more efficiently. The ability to create or edit digital images according to instructions could also streamline the process of establishing work requirements.
+
+2: E2
+
+3: Moderate

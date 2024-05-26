@@ -1,0 +1,15 @@
+1: In this task, a Segmental Paver is responsible for supplying and placing various materials like base materials, edge restraints, bedding sand, and jointing sand. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical work such as supplying and placing materials, which cannot be directly assisted by the LLM. The LLM cannot perform physical tasks or interact with physical materials, so it would not reduce the time significantly for an experienced worker to complete this task.
+
+- E1: The task does not involve writing, transforming text, providing edits, translating, summarizing documents, answering questions, generating questions, writing emails, maintaining records, or preparing training materials. The task is more focused on physical labor and does not align with the capabilities of the LLM to provide a significant time-saving benefit.
+
+- E2: While it is conceivable that software could be developed to assist with managing materials and resources for construction projects, such as recommending quantities based on input data, the current capabilities of the LLM alone would not directly reduce the time it takes to complete this task significantly.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The use of image capabilities would not significantly impact the completion time of this task.
+
+Based on the above analysis, the task of supplying and placing base materials, edge restraints, bedding sand, and jointing sand as a Segmental Paver is best classified as E0.
+
+2: E0
+
+3: High

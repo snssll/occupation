@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of wearing costumes or sign boards and walking in public to promote merchandise, services, or events as a Demonstrator or Product Promoter, we need to consider the exposure rubric provided.
+
+- E0: This task involves physical movement and interaction in public, which cannot be automated or significantly aided by an LLM. Therefore, it falls under E0.
+
+- E1: The task does not involve writing, transforming text, providing edits, summarizing documents, answering questions, or any other text-based activities that an LLM could directly assist with. Hence, it does not qualify for E1.
+
+- E2: While it is conceivable that software could be developed to automate certain aspects of promotion or provide recommendations based on data, the core task of physically promoting merchandise in public cannot be significantly expedited by an LLM alone. Therefore, it does not fit under E2.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, which are the capabilities associated with E3. Hence, it does not fall under E3.
+
+Based on the above analysis, the task of wearing costumes or sign boards and walking in public to promote merchandise, services, or events as a Demonstrator or Product Promoter is best classified as E0.
+
+2: E0
+
+3: High

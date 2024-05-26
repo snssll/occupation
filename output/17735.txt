@@ -1,0 +1,12 @@
+1: In this task, the occupation involves models wearing character costumes and impersonating characters to entertain children and adults. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical interaction and performance, which cannot be directly assisted by the LLM.
+- The LLM cannot physically wear costumes or impersonate characters.
+- The task does not involve writing, transforming text, summarizing documents, providing feedback, or any other text-based activities that the LLM could assist with.
+- There is no way for the LLM to directly contribute to this task, as it requires physical presence and performance skills.
+
+Based on these considerations, the task falls under E0 as the LLM cannot assist in completing it.
+
+2: E0
+
+3: High

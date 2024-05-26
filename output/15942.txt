@@ -1,0 +1,5 @@
+1: In this task, a medical assistant is required to show patients to examination rooms and prepare them for the physician. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical interaction with patients, guiding them to examination rooms, and assisting in their preparation for the physician. These actions cannot be performed by an LLM or any software tool alone. The task requires human interaction, physical presence, and hands-on assistance, which are not within the capabilities of the LLM. Therefore, this task falls under the E0 category as it cannot be significantly aided by the LLM or any LLM-powered tool.
+
+2: E0
+
+3: High

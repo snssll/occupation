@@ -1,0 +1,5 @@
+1: In this task, a Meat, Poultry, and Fish Cutter and Trimmer uses various tools to cut and trim meat. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM could significantly reduce the time it takes to complete this task with equivalent quality. Since this task involves physical actions and manual labor with tools like knives, cleavers, and saws, it does not align with the capabilities of the LLM. The LLM cannot perform physical tasks or interact with physical tools, so it cannot directly assist in the execution of this task. Therefore, this task falls under E0 as it does not benefit from LLM capabilities.
+
+2: E0
+
+3: High

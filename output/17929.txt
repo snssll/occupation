@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of writing or supervising the writing of game text and dialogue as a Video Game Designer, we need to consider the capabilities of the LLM in assisting with this task. 
+
+- E0: This task involves creative writing and storytelling, which may require human creativity, understanding of narrative structures, and the ability to create engaging dialogue that fits within the context of a video game. The LLM may not be able to fully capture the creative essence and tone required for game text and dialogue without significant human input.
+
+- E1: While the LLM can assist in generating text and providing ideas for dialogue, the task of writing game text and dialogue for a video game involves more than just generating text. It requires understanding the game's narrative, characters, world-building, and player experience, which may be challenging for the LLM to grasp without extensive context and human oversight.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Video Game Designers in generating game text and dialogue more efficiently. This software could potentially analyze existing game content, player feedback, and industry trends to provide suggestions and improvements for game text and dialogue creation.
+
+- E3: The task of writing or supervising the writing of game text and dialogue does not involve image capabilities, so this task does not fall under E3.
+
+2: E2
+
+3: Moderate

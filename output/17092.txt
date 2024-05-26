@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of tracking delivery progress of shipments for Cargo and Freight Agents, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- E1: Direct exposure - The task of tracking delivery progress involves monitoring and updating the status of shipments. This task primarily involves data entry and communication with various stakeholders to ensure timely delivery. An LLM could assist in providing templates for tracking, generating status updates, or drafting communication messages related to shipment progress. The LLM could also help in summarizing information related to multiple shipments, making it easier for agents to track progress efficiently.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to track delivery progress, additional software could be developed on top of the LLM to enhance this task. For example, an application that integrates real-time tracking data from shipping companies with the LLM's capabilities to provide comprehensive updates on multiple shipments simultaneously could streamline the process for Cargo and Freight Agents.
+
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of tracking delivery progress of shipments for Cargo and Freight Agents, as this task is primarily text-based and involves monitoring data related to shipments rather than visual analysis.
+
+Based on the above analysis, the task of tracking delivery progress of shipments for Cargo and Freight Agents is best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

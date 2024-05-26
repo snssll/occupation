@@ -1,0 +1,13 @@
+1: Biologists study and manage wild animal populations, which involves tasks such as conducting field research, collecting data on animal behavior, population dynamics, and habitat use, analyzing data to understand trends and make recommendations for conservation or management strategies. To determine the appropriate exposure label for this task, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves hands-on fieldwork, data collection, and analysis that may require specialized scientific knowledge and skills beyond what an LLM can provide. The task also likely involves interactions with the environment and animals, which cannot be replicated by the LLM.
+
+- E1: While the LLM can provide information on general concepts related to biology, wildlife conservation, and management, it may not be able to replace the hands-on fieldwork and data collection aspects of this task. The LLM could potentially assist in writing reports, analyzing existing data, or providing background information, but it may not significantly reduce the time it takes to complete the task with equivalent quality.
+
+- E2: With the development of additional software tools that can integrate data collection technologies, such as sensors or drones, with the LLM's capabilities, it is possible to streamline data collection, analysis, and reporting processes for studying and managing wild animal populations. These tools could automate data collection, provide real-time analysis, and generate reports based on the data collected, thereby reducing the time needed to complete the task.
+
+- E3: The task of studying and managing wild animal populations may benefit from image capabilities if the system can capture and analyze images of wildlife and their habitats. This could aid in monitoring populations, identifying species, and assessing habitat conditions, complementing the data collected through traditional fieldwork.
+
+2: E2
+
+3: Moderate

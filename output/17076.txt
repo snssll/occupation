@@ -1,0 +1,7 @@
+1: In this task for Bill and Account Collectors, the main objective is to trace delinquent customers to new addresses. This involves conducting inquiries at post offices, telephone companies, credit bureaus, or through questioning neighbors. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could potentially assist in completing it more efficiently.
+
+- E0: This task involves physical inquiries and interactions with external parties such as post offices, telephone companies, credit bureaus, and neighbors. The task requires real-time information gathering and potentially sensitive interactions that cannot be solely handled by the LLM or any software tool. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or LLM-powered tools.
+
+2: E0
+
+3: High

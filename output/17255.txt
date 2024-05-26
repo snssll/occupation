@@ -1,0 +1,9 @@
+1: To determine the appropriate label for the task of translating or requesting translation of reference materials for Historians, we need to consider the capabilities of the LLM. Historians often need to access and understand historical documents in various languages to conduct their research. 
+
+- E1: Direct exposure - The LLM can assist Historians by translating text between languages, which is directly relevant to the task of translating reference materials. Historians can input the text they need to be translated, and the LLM can provide accurate translations, saving time and effort compared to manual translation or requesting translations from external sources.
+- E2: Exposure by LLM-powered applications - While the LLM can directly translate text, additional software could be developed on top of the LLM to enhance the translation capabilities further. For example, the software could be designed to handle specialized historical language translations or provide context-specific translations based on historical references.
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to the task of translating reference materials, as it primarily involves text translation.
+
+2: E1
+
+3: High certainty

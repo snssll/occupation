@@ -1,0 +1,5 @@
+1: In this task, the Transportation Security Screeners are required to watch for potentially dangerous persons whose pictures are are posted at checkpoints. To determine the exposure label, we need to consider the nature of the task. The task involves visually identifying individuals based on their pictures, which requires human judgment and real-time decision-making. This task does not involve text input or output, and the LLM's capabilities in processing text would not significantly aid in completing the task of visually identifying individuals. Additionally, the task does not involve written or spoken communication, data analysis, or document summarization, which are areas where the LLM could provide assistance. Therefore, the task of watching for potentially dangerous persons based on posted pictures at checkpoints falls under E0 as it does not align with the capabilities of the LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a parking attendant is responsible for taking numbered tags from customers, locating vehicles, delivering vehicles, or providing instructions for locating vehicles. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves interacting with customers, physically locating vehicles, and providing instructions. These activities require human interaction, physical movement, and real-time decision-making based on the specific situation at hand. While an LLM could potentially assist in generating written instructions or responses to common customer queries, the core aspects of this task involve physical actions and real-time decision-making that cannot be effectively automated by an LLM. Therefore, this task falls under E0 as it does not significantly benefit from LLM capabilities.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a Food Cooking Machine Operator and Tender is responsible for tending or operating various cooking equipment to cook ingredients or prepare products for further processing. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves hands-on operation of machinery and equipment in a physical environment, which cannot be directly replaced by the capabilities of an LLM. The task requires physical interaction with the equipment, monitoring of processes, and adjusting settings based on visual and sensory cues, which are not within the current capabilities of LLMs. Therefore, this task falls under E0 as it does not align with the capabilities of an LLM or any tools built on top of it.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, a Furniture Finisher is responsible for washing surfaces to prepare them for finish application. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be aided by the LLM. 
+
+- E1: Direct exposure - The task of washing surfaces to prepare them for finish application involves straightforward instructions that can be easily followed by a worker. The LLM could potentially provide guidance on the best practices for washing different types of surfaces or recommend suitable cleaning products based on the surface material. The LLM could also assist in generating documentation on surface preparation techniques.
+
+- E2: Exposure by LLM-powered applications - While the task itself is relatively simple and may not require advanced LLM capabilities, it is conceivable that additional software could be developed to provide detailed step-by-step instructions tailored to specific types of surfaces or finishes. This software could integrate with the LLM to offer real-time recommendations based on the surface material and finish type.
+
+- E3: Exposure given image capabilities - Since the task involves washing surfaces, there is no direct need for image capabilities to complete it more efficiently. Image capabilities would not significantly enhance the completion of this task.
+
+2: E2
+
+3: Moderate

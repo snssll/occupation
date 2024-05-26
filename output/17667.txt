@@ -1,0 +1,13 @@
+1: In this task, a Forensic Science Technician is required to visit morgues, examine crime scenes, and contact other sources to gather evidence for investigations. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves physical visits to morgues and crime scenes, as well as contacting sources for information. While an LLM could potentially assist in generating reports, analyzing data, or providing background information, the core activities of visiting physical locations and examining scenes cannot be directly facilitated by the LLM alone. Therefore, the task does not align with the criteria for E1.
+
+- Exposure by LLM-powered applications (E2): While an LLM could potentially assist in organizing and analyzing data related to investigations, the task of physically visiting morgues and crime scenes is not something that can be significantly expedited or improved by an LLM-powered application. The specialized nature of forensic investigations and the need for physical presence limit the applicability of LLM-powered tools in this context.
+
+- Exposure given image capabilities (E3): The task involves visiting morgues and crime scenes, which may involve analyzing visual evidence. While image capabilities could potentially assist in documenting and analyzing visual evidence, the task primarily involves physical presence and interaction, which cannot be fully replaced by image capabilities alone.
+
+Based on the above analysis, the task of a Forensic Science Technician visiting morgues, examining crime scenes, and contacting sources for evidence is best classified as E0.
+
+2: E0
+
+3: Certainty level: High

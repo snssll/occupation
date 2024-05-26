@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of studying legal records to establish boundaries of properties as a Cartographer or Photogrammetrist, we need to consider the capabilities of the LLM. The task involves analyzing legal documents, understanding property boundaries, and potentially interpreting complex information. 
+
+- E0: This task does not involve any direct text generation, transformation, or analysis that could be significantly expedited by the LLM. The task requires a high level of domain-specific knowledge and legal expertise, which the LLM may not possess to the extent required.
+
+- E1: While the LLM could potentially assist in summarizing legal documents or providing general information on property boundaries, the task of studying legal records to establish boundaries of properties is highly specialized and requires expertise beyond what the LLM can provide. The nuances of legal terminology, property laws, and boundary establishment may be too complex for the LLM to handle effectively.
+
+- E2: It is conceivable that specialized software could be developed on top of the LLM to assist in analyzing legal records and extracting relevant information for property boundary establishment. This software could potentially help in summarizing legal documents, retrieving specific data points, or providing recommendations based on the information extracted. However, the development of such software would require a deep understanding of cartography, photogrammetry, and legal frameworks.
+
+- E3: The task does not involve image processing or creation, so the image capabilities of the LLM are not directly relevant in this context.
+
+2: E2
+
+3: Moderate

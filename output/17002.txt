@@ -1,0 +1,13 @@
+1: In this task, a Penetration Tester is responsible for testing the security of systems by attempting to gain unauthorized access to networks, web-based applications, or computers. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- E0: This task involves hands-on testing of security systems, which requires technical expertise, knowledge of cybersecurity tools, and real-world testing scenarios. The task involves physical interaction with systems and networks, making it unsuitable for automation using an LLM.
+
+- E1: While the LLM could potentially assist in generating reports, analyzing vulnerabilities, or providing theoretical insights into cybersecurity concepts, the core aspect of hands-on penetration testing, such as exploiting vulnerabilities, conducting real-world attacks, and interacting with systems, cannot be effectively automated by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in generating detailed reports, analyzing data from security scans, or providing recommendations based on the findings of penetration tests. However, the hands-on nature of penetration testing and the need for real-world testing scenarios limit the direct impact of the LLM on reducing the time to complete the task significantly.
+
+- E3: The task of penetration testing primarily involves practical testing, interacting with systems, and assessing vulnerabilities in real-world scenarios. While the LLM could potentially assist in generating documentation, analyzing data, or providing theoretical insights, the core activities of penetration testing require hands-on expertise and cannot be effectively streamlined by image capabilities.
+
+2: E0
+
+3: High

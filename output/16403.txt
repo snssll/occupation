@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of studying scripts to become familiar with production concepts and requirements as a Film and Video Editor, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- E0: This task does not involve any direct text input or output that the LLM could significantly assist with. It requires understanding and analyzing scripts, which is a task that does not directly benefit from the text generation capabilities of the LLM.
+
+- E1: While the LLM could potentially provide some insights or summaries related to production concepts and requirements based on the scripts, the task of studying scripts itself does not heavily rely on text generation or transformation. The LLM may not significantly reduce the time it takes to study scripts compared to a human editor.
+
+- E2: It is conceivable that a specialized software tool could be developed on top of the LLM that could help summarize scripts, extract key production concepts, or provide additional insights based on the content of the scripts. Such a tool could potentially enhance the efficiency of studying scripts for Film and Video Editors.
+
+- E3: The task of studying scripts does not involve image processing or creation, so the image capabilities of the LLM would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

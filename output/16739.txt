@@ -1,0 +1,5 @@
+1: In this task, a Correctional Officer or Jailer is required to take prisoners into custody and escort them to various locations within and outside the facility. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical interaction and movement, which cannot be directly assisted by an LLM. The task also requires real-time decision-making, assessing security risks, and ensuring the safety of both the officer and the prisoners. These aspects involve human judgment, situational awareness, and physical presence, which are not within the capabilities of an LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

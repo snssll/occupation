@@ -1,0 +1,11 @@
+1: In this task, an anthropologist or archaeologist is required to study objects and structures recovered by excavation to identify, date, authenticate, and interpret their significance. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves analyzing and interpreting archaeological findings, which requires expertise, contextual knowledge, and physical examination of objects and structures. While an LLM could potentially assist in providing background information, definitions, or historical context, the core of the task involves hands-on analysis and interpretation that cannot be effectively replaced by text-based AI alone.
+
+- Exposure by LLM-powered applications (E2): While an LLM could potentially assist in providing historical context or general information about objects and structures, the task of identifying, dating, authenticating, and interpreting archaeological findings is highly specialized and requires domain-specific knowledge, physical examination, and expertise that goes beyond what an LLM can provide. Developing software that could significantly reduce the time to complete this task by half would likely involve advanced image recognition capabilities, specialized databases, and complex algorithms tailored to archaeological analysis.
+
+- Exposure given image capabilities (E3): The task involves studying objects and structures recovered by excavation, which may involve analyzing images of artifacts and structures. While an LLM with image capabilities could potentially assist in providing basic information or descriptions based on images, the task of identifying, dating, authenticating, and interpreting archaeological findings requires detailed visual analysis, physical examination, and domain-specific expertise that goes beyond what image capabilities alone can provide.
+
+2: E0
+
+3: High

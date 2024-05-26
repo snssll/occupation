@@ -1,0 +1,7 @@
+1: In this task, the occupation of bailiffs involves maintaining order and security in courtrooms. The specific task mentioned is stopping people from entering the courtroom while the judge charges the jury. To determine the exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical intervention and human interaction, which cannot be replaced by the LLM or any LLM-powered tools. The role of a bailiff requires real-time decision-making and physical presence, which cannot be replicated by text-based AI models.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a helper production worker is responsible for transferring finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. Since the task involves physical movement and manual labor, it does not directly align with the capabilities of the LLM, which focuses on text-based tasks. The LLM cannot assist in physical tasks like moving objects by hand or using equipment. Therefore, this task falls under E0 as it does not benefit from the use of the LLM.
+
+2: E0
+
+3: High

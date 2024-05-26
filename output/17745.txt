@@ -1,0 +1,5 @@
+1: In this task, the cashier is required to weigh items sold by weight to determine prices. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can provide information and perform tasks that involve text input and output. However, in this case, the task involves physical weighing of items, which cannot be directly performed by the LLM. The LLM does not have the ability to interact with physical objects or perform tasks that require physical manipulation. Therefore, this task does not fall under E1, E2, or E3 as the LLM cannot directly assist in weighing items.
+
+2: E0
+
+3: High

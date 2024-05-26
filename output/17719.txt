@@ -1,0 +1,12 @@
+1: In this task, a Maid or Housekeeping Cleaner is required to wash windows, walls, ceilings, and woodwork, as well as waxing and polishing as necessary. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical cleaning activities that cannot be directly performed by the LLM.
+- The task does not involve complex text transformations, writing, summarizing, or any other text-based activities that the LLM excels at.
+- The task does not involve decision-making based on data analysis or recommendations that the LLM can provide.
+- The task does not require specialized domain knowledge or up-to-date facts that the LLM can retrieve.
+
+Based on these considerations, it is clear that the task of washing windows, walls, ceilings, and woodwork, waxing, and polishing does not align with the capabilities of the LLM, and access to the LLM would not significantly reduce the time it takes to complete this physical cleaning task.
+
+2: E0
+
+3: High

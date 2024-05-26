@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of writing grants and papers or attending fundraising events to seek research funds as a Geneticist, we need to consider the level of exposure to LLM.
+
+- E0: This task involves human interaction, decision-making, and fundraising activities that require personal engagement and negotiation skills. The task does not involve direct text-based activities that can be significantly expedited by the LLM.
+
+- E1: While the LLM could potentially assist in drafting grant proposals or papers by providing suggestions or generating content, the core aspects of attending fundraising events, engaging with potential donors, and seeking research funds require human interaction and decision-making that cannot be fully automated by the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to help Geneticists in summarizing research findings, analyzing data for grant proposals, or even providing recommendations on potential funding sources based on existing knowledge. However, the core task of attending fundraising events and actively seeking research funds still heavily relies on human skills and interactions.
+
+- E3: The task does not involve image capabilities, so exposure to LLM with image capabilities would not significantly impact the completion of this task.
+
+Based on the above analysis, the task of writing grants and papers or attending fundraising events to seek research funds as a Geneticist is best classified as E0.
+
+2: E0
+
+3: Certainty level: High

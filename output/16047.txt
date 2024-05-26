@@ -1,0 +1,12 @@
+1: In this task, a Maid or Housekeeping Cleaner is required to sort clothing and other articles, load washing machines, and iron and fold dried items. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves straightforward instructions that can be easily understood and executed by an average worker.
+- The task does not require specialized domain knowledge beyond basic housekeeping skills.
+- The task does not involve complex decision-making or analysis.
+- The task is primarily manual labor involving physical actions such as sorting, loading, ironing, and folding.
+
+Given these considerations, it is evident that the task does not involve text-based complexity, specialized knowledge, or decision-making that would benefit significantly from the capabilities of an LLM. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

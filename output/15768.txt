@@ -1,0 +1,11 @@
+1: In this task, a Mechanical Engineering Technologist or Technician is required to set up and conduct tests of complete units and components under operational conditions to investigate proposals for improving equipment performance. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves setting up and conducting tests, which may require hands-on work and physical interaction with equipment. This type of task is not easily reducible to text-based instructions for an LLM to perform.
+- The task also involves investigating proposals for improving equipment performance, which may require specialized domain knowledge in mechanical engineering.
+- While an LLM could potentially assist in generating reports, analyzing data, or providing recommendations based on the test results, the core activities of setting up and conducting tests are not easily transferable to an LLM.
+
+Based on these considerations, the task falls under E0 as it involves hands-on work, specialized domain knowledge, and physical interaction with equipment that cannot be effectively replaced by an LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, the occupation involves ushers, lobby attendants, and ticket takers who work with others to change advertising displays. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+- E0: This task involves physical work in changing advertising displays, which cannot be automated by the LLM or LLM-powered tools. It requires hands-on interaction and coordination with others, making it unsuitable for automation through text-based AI models.
+
+- E1: The task does not involve writing, transforming text, or complex instructions that can be easily automated by the LLM. It requires physical presence and collaboration, which cannot be replaced by text-based AI models.
+
+- E2: While it is conceivable that software could be developed to automate some aspects of changing advertising displays, such as generating display content or scheduling changes, the core task of physically changing displays and working with others would still require human intervention. The LLM alone would not significantly reduce the time needed to complete this task.
+
+- E3: Image capabilities would not be relevant for this task as it does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+
+2: E0
+
+3: High

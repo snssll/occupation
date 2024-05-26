@@ -1,0 +1,5 @@
+1: In this task, the Railroad Brake, Signal, and Switch Operators and Locomotive Firers need to signal locomotive engineers to start or stop trains when coupling or uncoupling cars. To determine the exposure label, we need to consider if the task can be completed more efficiently with the help of an LLM. Since this task involves physical actions like using hand signals, lanterns, or radio communication, it does not directly involve text-based input or output that an LLM can assist with. Additionally, the task requires real-time communication and coordination, which cannot be effectively replaced by an LLM. Therefore, this task falls under E0 as it does not benefit from LLM assistance.
+
+2: E0
+
+3: High

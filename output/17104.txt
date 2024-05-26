@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of training and assisting staff with computer usage as a Secretary or Administrative Assistant, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM. 
+
+- E1: Direct exposure - The task involves providing instructions, guidance, and support related to computer usage. An LLM could assist in generating training materials, writing instructions, and responding to common queries related to computer usage. The LLM could also help in summarizing complex information into easily understandable formats for staff. Overall, the LLM could significantly reduce the time needed to create training materials and provide support in written form.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can be helpful in generating text-based materials and instructions, additional software could be developed on top of the LLM to create interactive training modules, quizzes, or simulations to enhance the training experience for staff. Such software could integrate with the LLM to provide real-time responses to staff queries and adapt training materials based on individual learning needs.
+
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of training and assisting staff with computer usage, as the primary focus is on written instructions, guidance, and support related to computer skills rather than visual content.
+
+Based on the above analysis, the task of training and assisting staff with computer usage as a Secretary or Administrative Assistant aligns most closely with E1: Direct exposure.
+
+2: E1
+
+3: Moderate

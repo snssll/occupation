@@ -1,0 +1,12 @@
+1: In this task, a General Internal Medicine Physician is required to treat internal disorders such as hypertension, heart disease, diabetes, or problems of various organs. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves treating internal disorders, which requires medical knowledge, expertise, and decision-making based on patient-specific information.
+- The task does not involve text-based tasks that can be easily automated by an LLM.
+- The task requires hands-on medical examination, diagnosis, and treatment, which cannot be performed by an LLM.
+- The task involves interacting with patients, understanding their medical history, symptoms, and providing personalized care, which is beyond the capabilities of an LLM.
+
+Based on these considerations, it is evident that the task of treating internal disorders as a General Internal Medicine Physician falls under the E0 category as it involves a high degree of human interaction, specialized medical knowledge, and decision-making that cannot be automated by an LLM.
+
+2: E0
+
+3: High

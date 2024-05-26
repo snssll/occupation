@@ -1,0 +1,5 @@
+1: In this task, the crane and tower operator is required to weigh bundles using floor scales and record the weights for company records. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves a straightforward process of weighing bundles and recording weights, which can be easily described in text. The task does not involve complex decision-making, specialized domain knowledge, or require image capabilities. Therefore, the task falls under the category of tasks that can be completed with text input and output. The LLM can easily assist in generating text instructions, recording weights, and maintaining records, which aligns with tasks classified under E1.
+
+2: E1
+
+3: High

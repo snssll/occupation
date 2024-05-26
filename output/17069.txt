@@ -1,0 +1,7 @@
+1: In this task, a butcher or meat cutter is responsible for handling sales transactions with customers. To determine the appropriate exposure label, we need to consider if access to the LLM could significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical interaction with customers, handling money, and conducting sales transactions. These aspects require human presence and cannot be automated by the LLM or any tool built on top of it. Therefore, this task falls under E0 as it does not involve text-based activities that the LLM can assist with.
+
+2: E0
+
+3: High

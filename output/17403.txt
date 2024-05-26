@@ -1,0 +1,10 @@
+1: In this task, a Shoe Machine Operator and Tender is required to turn knobs to adjust stitch length and thread tension on a shoe machine. This task involves manual adjustments to the machine settings to ensure the proper stitching of shoes. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes to complete this task with high quality.
+
+- E0: This task involves physical manipulation of knobs on a machine, which cannot be automated by the LLM or any LLM-powered tool. The task does not involve written or spoken communication that the LLM could assist with, and there are no complex data analysis or decision-making processes that the LLM could streamline. Therefore, this task does not benefit from exposure to the LLM.
+- E1: The task does not involve writing, transforming text, providing edits, summarizing documents, answering questions, or any other text-based activities that the LLM excels at. The task is purely mechanical in nature and does not align with the capabilities of the LLM to provide significant assistance in completing it.
+- E2: While it is conceivable that specialized software could be developed to automate certain aspects of shoe machine operation, such as monitoring stitch quality or suggesting optimal settings based on input parameters, such software would likely require specific domain knowledge and technical capabilities beyond what the LLM alone can provide. Therefore, the task does not fit squarely within the realm of exposure by LLM-powered applications.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, which are the types of tasks that could benefit from image capabilities in conjunction with the LLM. As such, this task does not fall under exposure given image capabilities.
+
+2: E0
+
+3: High

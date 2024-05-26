@@ -1,0 +1,5 @@
+1: In this task, a recreation worker is responsible for taking residents on community outings. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a recreation worker to complete this task with high quality. Since the task involves physical interaction and real-world engagement with residents, it cannot be directly completed using the LLM. The LLM cannot physically take residents on outings or interact with them in the community. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM.
+
+2: E0
+
+3: High

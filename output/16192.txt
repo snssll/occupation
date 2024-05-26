@@ -1,0 +1,7 @@
+1: In this task, a Lathe and Turning Machine Tool Setter, Operator, or Tender is responsible for starting lathe or turning machines and observing operations to ensure that specifications are met. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E0: This task involves physical interaction with machinery, such as starting the lathe machines, which cannot be performed by an LLM or any software tool. Therefore, this task falls under E0 as it does not involve text-based input or output that can be significantly aided by an LLM.
+
+2: E0
+
+3: High

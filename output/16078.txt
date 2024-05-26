@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of specializing in particular materials or types of objects as a Museum Technician or Conservator, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- E0: This task involves specialized knowledge and expertise in materials conservation and preservation. It requires hands-on work with physical objects, understanding of conservation techniques, and historical context. The LLM, even with its text-based capabilities, cannot replace the practical skills and domain-specific knowledge needed for this task.
+
+- E1: While the LLM can provide information on materials, techniques, and historical context related to conservation, it cannot replace the hands-on experience and practical skills required for this task. The task involves specialized knowledge that goes beyond text-based information and would not be significantly expedited by the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Museum Technicians and Conservators in accessing up-to-date information, summarizing research on specific materials or objects, or providing recommendations based on historical data. However, the core task of specializing in particular materials or types of objects still heavily relies on practical skills and domain expertise that the LLM alone cannot provide.
+
+- E3: The task of specializing in particular materials or types of objects does not involve image processing or creation that would benefit significantly from additional image capabilities. The core of the task lies in understanding and working with physical objects, historical context, and conservation techniques, which are not directly supported by image capabilities.
+
+2: E0
+
+3: High

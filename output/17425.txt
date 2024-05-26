@@ -1,0 +1,5 @@
+1: In this task, a Food Cooking Machine Operator and Tender is responsible for operating machinery to add ingredients, drain products, and transfer products for storage or processing. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. Since the task involves physical actions like turning valves and starting pumps, it does not directly involve text-based activities that the LLM can assist with. The task is more hands-on and requires manual operation of machinery, which cannot be directly replaced by the LLM.
+
+2: E0
+
+3: High

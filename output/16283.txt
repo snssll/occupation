@@ -1,0 +1,7 @@
+1: In this task, a Computer Numerically Controlled (CNC) Tool Operator is required to stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement according to required machining sequences. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E0: This task involves physical interaction with machines, such as stopping them and changing tooling, which cannot be performed by an LLM or any software tool. Therefore, this task does not benefit from LLM exposure.
+
+2: E0
+
+3: High

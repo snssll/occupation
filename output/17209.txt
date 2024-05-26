@@ -1,0 +1,11 @@
+1: In this task, the First-Line Supervisors of Construction Trades and Extraction Workers are responsible for training workers in various aspects related to construction, equipment operation, safety procedures, and company policies. To determine the exposure label for this task in relation to the LLM, we need to consider the following:
+
+- The task involves providing training materials based on general knowledge, which the LLM can assist with by generating text and instructions for training modules.
+- The LLM can help in summarizing information related to construction methods, equipment operation, safety procedures, and company policies, making it easier to create training materials.
+- The LLM can also assist in writing and transforming text to tailor the training content to the specific needs of the workers.
+
+Based on these considerations, the task can be classified as E1 because the LLM can significantly reduce the time it takes to prepare training materials and instructions for workers by providing text generation and transformation capabilities.
+
+2: E1
+
+3: Moderate

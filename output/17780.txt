@@ -1,0 +1,11 @@
+1: In this task, a Terrazzo Worker and Finisher is responsible for wetting a concrete surface and rubbing it with stone to smooth the surface and achieve a specific finish. To determine the appropriate exposure label, we need to consider the complexity of the task and whether the LLM can significantly reduce the time it takes to complete it with equivalent quality.
+
+- The task involves physical work such as wetting concrete surfaces and rubbing them with stones, which cannot be directly performed by the LLM.
+- The task requires manual labor and expertise in working with concrete and stones, which are not within the capabilities of the LLM.
+- The task does not involve text input or output that can be processed by the LLM to provide significant assistance in completing the task.
+
+Based on these considerations, it is clear that the task of wetting concrete surfaces and rubbing them with stones to achieve a specified finish falls under the E0 category as it does not align with the capabilities of the LLM to provide assistance in completing the task.
+
+2: E0
+
+3: High

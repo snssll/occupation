@@ -1,0 +1,5 @@
+1: In this task, the farmworker is responsible for spraying livestock with disinfectants and insecticides or dipping and bathing animals. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical actions such as spraying, dipping, and bathing animals, which cannot be directly performed by an LLM. The task also requires hands-on interaction with animals, which is not something an LLM can assist with. Additionally, the task involves the use of disinfectants and insecticides, which may require specific knowledge of the products and their application methods, which an LLM may not have access to. Therefore, this task falls under E0 as it involves physical actions, specialized knowledge, and hands-on interaction that cannot be replaced by an LLM.
+
+2: E0
+
+3: High

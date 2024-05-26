@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of supervising or conducting field surveys as an Architectural and Civil Drafter, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- Direct exposure (E1): The task involves supervising or conducting field surveys to obtain data for revising construction drawings. While the LLM can assist in providing information or guidelines related to construction drawings, it cannot physically conduct field surveys or inspections. Therefore, the direct use of the LLM through text input and output alone would not significantly reduce the time it takes to complete this task.
+
+- Exposure by LLM-powered applications (E2): It is conceivable that additional software could be developed on top of the LLM to assist in data collection or analysis related to field surveys. This software could potentially help in summarizing survey data, providing recommendations based on the data collected, or even retrieving relevant information to aid in the revision of construction drawings. However, the task of supervising or conducting field surveys still heavily relies on physical presence and hands-on work, which may not be fully replaced by LLM-powered applications.
+
+- Exposure given image capabilities (E3): The task does not involve reading text from PDFs or editing digital images, so the use of image capabilities provided by the LLM would not significantly impact the completion of this task.
+
+Based on the above analysis, the most appropriate label for this task would be E2.
+
+2: E2
+
+3: Moderate

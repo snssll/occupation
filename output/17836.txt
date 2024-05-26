@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of writing algorithms or programming code for ad hoc robotic applications as a Robotics Engineer, we need to consider the capabilities of the LLM in assisting with this task. 
+
+- E1: Direct exposure - The LLM can assist in writing and transforming text and code according to complex instructions. It can provide edits to existing code following specifications and even write code to help perform tasks that were previously done by hand. Given that writing algorithms and programming code involves text input and output, the LLM can significantly reduce the time it takes to complete this task with equivalent quality by providing suggestions, generating code snippets, or assisting in debugging.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can reduce the time to complete the task, additional software could be developed on top of the LLM to further enhance the process. This software could include capabilities like summarizing complex algorithms, retrieving up-to-date information for specific robotic applications, or providing recommendations based on data input.
+
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to writing algorithms or programming code, so this label does not apply to this task.
+
+Considering the above points, the task of writing algorithms or programming code for ad hoc robotic applications aligns best with **E1: Direct exposure** as the LLM can directly assist in generating code and providing support for this task.
+
+2: E1
+
+3: High certainty

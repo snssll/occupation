@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of setting up facilities for events as a Janitor or Cleaner, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- **E0**: This task involves physical setup and arrangement of items like decorations, tables, chairs, ladders, and scaffolding. It requires hands-on work and decision-making based on the physical space and event requirements. An LLM cannot physically move objects or make decisions based on the spatial layout, so it would not significantly reduce the time it takes to complete this task.
+
+- **E1**: While an LLM could potentially provide written instructions or guidance on setting up facilities for events, the task itself involves physical actions that cannot be directly performed by the LLM. The LLM could assist in generating checklists, safety guidelines, or event setup procedures, but the actual setup work would still need to be done manually.
+
+- **E2**: An LLM-powered application could potentially help by providing detailed event setup guides, safety protocols, or equipment lists based on the specific event requirements. It could also suggest efficient layouts or configurations for the event space. However, the physical setup work would still need to be carried out manually by the janitors or cleaners.
+
+- **E3**: This task does not involve image processing or detailed visual instructions that would require image capabilities. The setup of decorations, tables, chairs, etc., is more text-based and hands-on, making image capabilities less relevant for this specific task.
+
+2: E0
+
+3: High

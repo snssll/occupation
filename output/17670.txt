@@ -1,0 +1,11 @@
+1: In this task, an Electrical and Electronics Drafter is required to visit proposed installation sites and draw rough sketches of the location. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be aided by the LLM. 
+
+- The task involves physical site visits, which cannot be directly assisted by the LLM.
+- Drawing rough sketches may require visual observation and manual skills, which are not within the capabilities of the LLM.
+- The task does not involve text input or output that can be processed by the LLM to provide significant assistance.
+
+Considering these points, it is evident that the task of visiting proposed installation sites and drawing rough sketches of the location does not align with any of the exposure levels (E0, E1, E2, E3) provided in the rubric. The task is not suitable for automation or assistance by the LLM due to its physical and manual nature.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task of sorting rough diamonds into categories based on shape, size, color, and quality, the exposure to LLM can be evaluated as follows:
+
+- **E0**: This task involves physical manipulation and detailed visual inspection of rough diamonds, which cannot be effectively replaced by LLM or any software tool. The task requires human judgment, precision, and expertise in gemology, which are beyond the capabilities of LLM.
+
+- **E1**: LLM could potentially assist in providing information about the characteristics of diamonds, such as color grading scales, quality assessment criteria, and common shapes and sizes. It could also help in generating reports or labels based on the input data provided by the gem and diamond workers. However, the actual sorting process itself, which involves physical handling and visual inspection, cannot be significantly aided by LLM.
+
+- **E2**: While LLM alone may not reduce the time it takes to physically sort diamonds, additional software could be developed on top of LLM to streamline the categorization process. This software could potentially analyze images of diamonds, provide recommendations based on predefined criteria, and assist in organizing the sorting workflow. However, this would require a more sophisticated system beyond the capabilities of LLM alone.
+
+- **E3**: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so exposure to image capabilities would not significantly impact the time it takes to complete the task.
+
+2: E0
+
+3: Moderate

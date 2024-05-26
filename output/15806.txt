@@ -1,0 +1,11 @@
+1: In this task, the occupation of dishwashers involves setting up banquet tables. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half. 
+
+- Dishwashers setting up banquet tables involves physical work such as moving tables, arranging chairs, setting tableware, etc., which cannot be done by the LLM.
+- The task does not involve writing, transforming text, summarizing documents, or any other text-based activities that the LLM can assist with.
+- There is no direct way for the LLM to assist in this physical task, as it requires manual labor and coordination.
+
+Based on these considerations, it is clear that the task of setting up banquet tables for dishwashers falls under E0 as it does not align with any of the exposure levels described in the rubric.
+
+2: E0
+
+3: High

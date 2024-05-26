@@ -1,0 +1,5 @@
+1: In this task, the Social and Human Service Assistants are required to transport and accompany clients to shopping areas or appointments using an automobile. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical transportation and direct interaction with clients, which cannot be automated by the LLM. The LLM cannot drive a car or physically accompany clients. Therefore, this task falls under E0 as it does not involve text-based activities that the LLM can assist with.
+
+2: E0
+
+3: High

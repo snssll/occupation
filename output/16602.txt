@@ -1,0 +1,5 @@
+1: In this task, a Loss Prevention Manager supervises surveillance, detection, and criminal processing related to theft and criminal cases. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves overseeing security measures, analyzing data related to theft, and managing criminal cases. While the LLM can provide general information on loss prevention strategies and criminal justice processes, it may not have access to real-time surveillance footage, specific case details, or up-to-date criminal activity reports unless explicitly provided in the input. The task also requires human judgment, decision-making, and interaction with security personnel and law enforcement, which are not within the capabilities of the LLM. Therefore, this task falls under E0 as it involves a high degree of human interaction, real-time decision-making, and specialized knowledge that the LLM alone cannot provide.
+
+2: E0
+
+3: High

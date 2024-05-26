@@ -1,0 +1,11 @@
+1: In this task, the paperhanger is required to trim rough edges from strips using straightedges and trimming knives. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM could significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical work that cannot be directly replaced by text input and output.
+- The task requires manual dexterity and precision in handling tools like straightedges and trimming knives, which cannot be performed by the LLM.
+- The task does not involve complex decision-making, analysis of data, or specialized knowledge that the LLM could assist with.
+
+Based on these considerations, it is clear that the task of trimming rough edges from strips as a paperhanger falls under E0 as it does not align with the capabilities of the LLM to reduce the time significantly for an experienced worker.
+
+2: E0
+
+3: High

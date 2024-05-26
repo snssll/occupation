@@ -1,0 +1,5 @@
+1: In this task, the Securities, Commodities, and Financial Services Sales Agent needs to provide the latest price quotes on securities and information on the activities or financial positions of the corporations issuing these securities. To complete this task efficiently, the agent would typically need access to up-to-date financial data, market trends, and company information. The LLM alone cannot access real-time data or provide the latest price quotes without the information being explicitly stated in the input. While the LLM can assist in generating reports, summaries, or analyses based on existing data, it cannot retrieve real-time information from the internet or databases unless explicitly provided in the input. Therefore, this task falls under E0 as the LLM alone does not significantly reduce the time it takes for an experienced worker to complete the task with high quality.
+
+2: E0
+
+3: High

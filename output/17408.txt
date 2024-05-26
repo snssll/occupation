@@ -1,0 +1,13 @@
+1: In this task, the occupation of a restaurant cook involves the action of turning or stirring foods to ensure even cooking. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be impacted by the use of a large language model (LLM).
+
+- E0: This task involves physical actions such as turning and stirring food, which cannot be directly assisted by an LLM. The task requires manual dexterity and physical presence, making it unsuitable for automation through text-based tools like an LLM.
+
+- E1: The task of turning or stirring foods to ensure even cooking is a manual task that does not involve complex instructions or text-based transformations. It does not directly align with the capabilities of an LLM, as it requires physical interaction with food rather than text-based processing.
+
+- E2: While an LLM could potentially provide recipes, cooking tips, or information on cooking techniques, the specific task of physically turning or stirring foods in a restaurant kitchen is not directly reducible to text-based interactions with an LLM. However, it is conceivable that an application could be developed to provide real-time cooking guidance based on inputs from sensors or cameras in a kitchen, but this would go beyond the current capabilities of an LLM alone.
+
+- E3: The task of turning or stirring foods does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, the use of image capabilities in conjunction with an LLM would not significantly impact the completion of this task.
+
+2: E0
+
+3: High

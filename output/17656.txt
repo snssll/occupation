@@ -1,0 +1,5 @@
+1: In this task, a Physician Assistant is required to visit and observe patients, update charts, order therapy, and report back to the physician. To determine the exposure label, we need to consider the nature of the task. The task involves a significant amount of human interaction, observation, and decision-making based on physical assessments. While an LLM could potentially assist in generating reports or updating charts based on the information provided, it cannot physically visit or observe patients, order therapy, or make decisions that impact patient care. Therefore, the task falls under E0 as it requires a high degree of human interaction and physical presence.
+
+2: E0
+
+3: High

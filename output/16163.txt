@@ -1,0 +1,5 @@
+1: In this task, a Sailor or Marine Oiler is required to stand by the ship's wheels when the ship is on automatic pilot and verify the accuracy of courses using magnetic compasses. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. The task involves physical presence on a ship, monitoring equipment, and ensuring the ship is on the correct course. Since this task is hands-on and requires physical presence and interaction with equipment, it does not lend itself to automation or assistance from an LLM. The task does not involve text input or output, complex instructions, data analysis, or decision-making that can be enhanced by the language model. Therefore, this task falls under E0 as it does not benefit from LLM capabilities.
+
+2: E0
+
+3: High

@@ -1,0 +1,7 @@
+1: In this task, a farmworker is required to trap and destroy pests using pesticides. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a farmworker to complete this task with high quality. 
+
+Given that this task involves physical labor, handling pesticides, and dealing with live pests, it is unlikely that the LLM can directly assist in completing this task. The task requires hands-on work, knowledge of pesticide application, and dealing with live animals, which are not areas where the LLM can provide assistance. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM.
+
+2: E0
+
+3: High

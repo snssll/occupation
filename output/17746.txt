@@ -1,0 +1,5 @@
+1: In this task, a Postal Service Clerk is required to weigh letters and parcels, compute mailing costs based on type, weight, and destination, and affix correct postage. To determine the appropriate label from the exposure rubric, we need to consider the capabilities of the LLM. The LLM can assist in tasks that involve writing, transforming text, providing information, and generating responses based on input. However, in this specific task, the key actions involve physical tasks such as weighing items and affixing postage, which cannot be directly performed by the LLM. While the LLM could potentially assist in providing information on mailing costs based on type and destination, the physical aspects of weighing and affixing postage are outside the scope of the LLM's capabilities. Therefore, this task falls under E0 as it does not significantly benefit from the use of the LLM.
+
+2: E0
+
+3: High

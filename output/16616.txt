@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of supervising the installation or operation of electronic equipment or systems as an Electrical and Electronic Engineering Technologist or Technician, we need to consider the level of exposure to LLM.
+
+- E0: This task involves hands-on supervision of physical equipment and systems, which cannot be directly assisted by the LLM. The task does not involve text-based inputs or outputs that the LLM could significantly aid with.
+
+- E1: While the LLM could potentially provide information or guidance on electronic equipment or systems through text-based instructions, the direct impact on supervising the installation or operation may not be substantial. The task involves real-time decision-making and physical oversight that may not be efficiently supported by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to provide real-time data analysis, troubleshooting tips, or equipment manuals that could enhance the efficiency of supervising electronic equipment or systems. This software could integrate with the LLM to offer quick access to relevant information.
+
+- E3: The task does not involve image capabilities that would significantly impact the supervision of electronic equipment or systems. Therefore, exposure to image capabilities would not greatly affect the completion of this task.
+
+2: E2
+
+3: Moderate

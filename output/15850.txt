@@ -1,0 +1,10 @@
+1: In this task, the occupation of Plasterers and Stucco Masons involves setting up scaffolds. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete the task of setting up scaffolds. 
+
+- E0: This task involves physical work that requires hands-on activity and cannot be automated by the LLM or any software tool. Placing scaffolds typically involves physical labor, precise measurements, and considerations for safety, which cannot be effectively replaced by text-based AI models.
+- E1: The task of setting up scaffolds does not involve writing, transforming text, or other activities that can be directly assisted by the LLM. It is a practical task that requires physical presence and manual labor, making it unsuitable for direct assistance from the LLM.
+- E2: While it is conceivable that software could be developed to assist in planning scaffold placements or providing guidance based on safety regulations, the physical aspect of setting up scaffolds would still require human intervention. The LLM alone would not be able to reduce the time significantly for this task.
+- E3: The task of setting up scaffolds does not involve image processing or detailed visual instructions that would benefit from image capabilities in conjunction with the LLM. Therefore, this task does not fall under E3 either.
+
+2: E0
+
+3: High

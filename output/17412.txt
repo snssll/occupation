@@ -1,0 +1,5 @@
+1: In this task, a Shoe Machine Operator and Tender is required to turn setscrews on needle bars and position the required numbers of needles in stitching machines. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves manual dexterity and physical manipulation of machinery, which cannot be directly assisted by an LLM. The task does not involve complex text input or output, and the actions required are hands-on and mechanical in nature. Therefore, the task does not align with the capabilities of an LLM, and there are no tools built on top of the LLM that could significantly reduce the time it takes to complete the task. As such, this task falls under E0 as it does not benefit from exposure to an LLM.
+
+2: E0
+
+3: High

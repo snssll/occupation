@@ -1,0 +1,5 @@
+1: In this task, a cleaner of vehicles and equipment is required to sweep, shovel, or vacuum loose debris into containers and remove them from work areas. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as sweeping, shoveling, and vacuuming, which cannot be directly performed by an LLM. The task also does not involve complex decision-making, specialized knowledge, or detailed analysis that would benefit significantly from LLM capabilities. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

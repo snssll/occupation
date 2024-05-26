@@ -1,0 +1,11 @@
+1: Geodetic Surveyors are responsible for accurately measuring and mapping the Earth's surface. One of their tasks is to verify the mathematical correctness of newly collected survey data. To determine the appropriate label from the exposure rubric, we can break down the task:
+- Verifying the mathematical correctness of survey data involves checking calculations, ensuring accuracy, and detecting errors in the data.
+- This task primarily involves analyzing and validating numerical information, which can be done effectively by an LLM through text input and output.
+- The LLM can assist in cross-referencing data, performing calculations, and identifying inconsistencies in the survey data.
+- While the task does not involve image processing or complex visual analysis, it heavily relies on text-based information processing, which the LLM excels at.
+
+Based on these considerations, the task of verifying the mathematical correctness of newly collected survey data aligns best with label E1 - Direct exposure. The LLM can significantly reduce the time it takes to complete this task with equivalent quality by providing assistance in analyzing and validating the numerical information.
+
+2: E1
+
+3: High

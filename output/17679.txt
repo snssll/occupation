@@ -1,0 +1,5 @@
+1: In this task, a fashion designer is required to visit textile showrooms to stay informed about the latest fabrics available in the market. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can provide information on historical trends, fabric types, and general knowledge about the fashion industry. However, it cannot provide real-time or up-to-date information unless it is explicitly mentioned in the input data. Since the task involves staying current with the latest fabrics, which may change frequently, the LLM alone cannot provide this information without recent data. Therefore, the task falls under E0 as the LLM cannot reduce the time it takes for an experienced fashion designer to complete this task with high quality by at least half.
+
+2: E0
+
+3: High
