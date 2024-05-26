@@ -1,0 +1,13 @@
+1: In this task, an accountant or auditor is required to examine and evaluate financial and information systems, recommending controls to ensure system reliability and data integrity. To complete this task, the accountant or auditor needs to have a deep understanding of financial systems, data integrity, and controls. The task involves analyzing complex information, identifying potential risks, and making recommendations based on their expertise.
+
+Considering the task description, the exposure to LLM can be evaluated as follows:
+- E0: This task involves specialized domain knowledge and expertise in accounting and auditing principles. While the LLM can provide general information on these topics, it may not have the specific expertise required to evaluate financial systems and recommend controls effectively. The task also involves making critical decisions based on the analysis, which may not be suitable for automation using LLM.
+- E1: The LLM could potentially assist in providing general information on financial systems and controls, which could aid in the initial stages of research. It could also help in generating some recommendations based on standard practices. However, the task requires in-depth analysis and evaluation, which may not be effectively automated by the LLM alone.
+- E2: While the LLM could be used to retrieve information on financial systems and controls, as well as provide some general recommendations, developing additional software on top of the LLM that can analyze complex financial data, identify risks, and recommend controls could significantly enhance the efficiency of completing this task.
+- E3: The task does not involve image capabilities, so exposure to LLM with image capabilities is not relevant for this task.
+
+Based on the above analysis, the most appropriate label for this task would be E2.
+
+2: E2
+
+3: Moderate

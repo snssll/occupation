@@ -1,0 +1,10 @@
+1: In this task, a private detective or investigator is required to question persons to obtain evidence for various cases. To determine the appropriate exposure label, we can break down the task:
+- The task involves interacting with individuals to gather information, which cannot be fully automated by an LLM.
+- While the LLM can potentially assist in drafting questions or providing guidance on interview techniques, the core aspect of questioning individuals in person is not something the LLM can directly facilitate.
+- The task does not involve complex data analysis or specialized domain knowledge that would significantly benefit from LLM capabilities beyond text generation.
+
+Based on these considerations, the task falls under E0 as it requires a high degree of human interaction and cannot be effectively streamlined by the LLM alone.
+
+2: E0
+
+3: High

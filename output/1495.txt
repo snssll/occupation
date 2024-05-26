@@ -1,0 +1,12 @@
+1: In this task, a web developer is required to back up files from websites to local directories for instant recovery in case of problems. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- The task involves a technical aspect that can be automated using scripts or tools that interact with web servers and local directories.
+- The LLM can generate code snippets or provide guidance on how to automate the backup process efficiently.
+- The LLM can assist in writing scripts, providing best practices for backup procedures, and troubleshooting potential issues.
+- While the task involves technical knowledge specific to web development, the LLM can still provide valuable insights and recommendations to streamline the backup process.
+
+Based on these considerations, the task falls under E1 as the LLM can significantly reduce the time it takes to complete the task with equivalent quality by providing guidance, code snippets, and best practices for automating the backup process.
+
+2: E1
+
+3: High

@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of contacting former employers and acquaintances to verify applicants' references, employment, health history, or social behavior as a Credit Authorizer, Checker, or Clerk, we need to consider the capabilities of the LLM. 
+
+- The task involves contacting individuals to verify information, which is primarily a human interaction-based task. 
+- While the LLM can assist in drafting emails or messages, it cannot directly contact individuals on its own.
+- The task does not involve complex data analysis or specialized domain knowledge that the LLM could significantly expedite.
+- The LLM cannot make phone calls or conduct interviews, which are essential for verifying references and social behavior.
+
+Based on these considerations, the task falls under E0 as it involves a high degree of human interaction and cannot be significantly expedited by the LLM alone.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, a Bioengineer or Biomedical Engineer is required to communicate with suppliers regarding the design or specifications of bioproduction equipment, instrumentation, or materials. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E0: This task involves direct communication with suppliers, which requires human interaction and decision-making based on specific requirements. The task does not involve writing or transforming text/code, providing edits, summarizing documents, or any other text-based activities that could be significantly expedited by an LLM. Therefore, it does not fit the criteria for E0.
+
+- E1: While the task involves written communication, the core aspect of the task is the interaction with suppliers to discuss specific design or specifications. The LLM could assist in drafting emails or messages, but the critical component of negotiating and discussing technical details with suppliers would still require human input. The LLM could help in preparing initial drafts or responses, but the negotiation and decision-making aspects would remain human-driven. Therefore, the task does not align with the criteria for E1.
+
+- E2: This task could potentially benefit from additional software that could be developed on top of the LLM. For example, an application that could help in summarizing technical specifications, retrieving relevant information from databases, or providing recommendations based on data analysis could enhance the efficiency of communication with suppliers. Such software could integrate the LLM's capabilities with specialized domain knowledge to streamline the communication process. Therefore, this task aligns more closely with the criteria for E2.
+
+- E3: The task does not involve image capabilities or detailed visual information that would require image processing. Therefore, it does not fit the criteria for E3.
+
+2: E2
+
+3: Moderate

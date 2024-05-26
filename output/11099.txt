@@ -1,0 +1,12 @@
+1: In this task, an Energy Auditor oversees the installation of energy-efficient equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads. To determine the appropriate exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task involves physical installation work that cannot be directly assisted by the LLM.
+- The task requires hands-on interaction and practical knowledge of energy-efficient equipment installation.
+- The LLM does not have the capability to physically install equipment or provide real-time guidance for such tasks.
+- The task does not involve text-based analysis, writing, summarization, or information retrieval that the LLM could significantly enhance.
+
+Based on these considerations, the task of overseeing the installation of energy-efficient equipment is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

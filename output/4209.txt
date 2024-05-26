@@ -1,0 +1,11 @@
+1: Pharmacy Technicians are responsible for various tasks related to medication management and distribution. One of the tasks they perform is delivering medications or pharmaceutical supplies to patients, nursing stations, or surgery. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for a pharmacy technician to complete this task with high quality.
+
+- Pharmacy Technicians delivering medications involves physical movement and interaction with patients or healthcare facilities, which cannot be replaced by text-based interactions with the LLM.
+- The task does not involve complex data analysis, specialized domain knowledge retrieval, or document summarization that would benefit significantly from LLM capabilities.
+- While the LLM could potentially assist in generating written instructions or documentation related to medication delivery, the core task of physically delivering medications is not directly impacted by the LLM's text-based capabilities.
+
+Based on these considerations, the task of delivering medications as a Pharmacy Technician is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

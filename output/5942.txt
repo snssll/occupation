@@ -1,0 +1,13 @@
+1: In this task, the occupation involves operating heavy construction equipment to manipulate and shape the land. To determine the appropriate label from the exposure rubric, we need to consider whether access to the LLM alone or additional software built on top of the LLM could significantly reduce the time it takes for an experienced worker to complete the task.
+
+- E0: This task involves physical operation of heavy equipment, which cannot be replaced by text-based tools like the LLM. The task requires hands-on skills and precise maneuvering that cannot be replicated by the LLM.
+
+- E1: The task description involves practical skills such as driving and maneuvering heavy equipment, which are not text-based activities that the LLM can directly assist with. While the LLM could potentially provide information on operating procedures or safety guidelines, it cannot physically operate the equipment.
+
+- E2: While the LLM could potentially provide information on best practices for operating construction equipment or safety guidelines, it cannot directly reduce the time it takes to physically drive and maneuver the equipment. However, additional software could be developed to provide real-time guidance or simulations for training purposes, which could enhance the efficiency of learning these skills.
+
+- E3: The task does not involve image processing or analysis that would benefit from additional image capabilities alongside the LLM. The task is primarily focused on physical operation rather than visual or image-related tasks.
+
+2: E0
+
+3: High

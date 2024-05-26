@@ -1,0 +1,13 @@
+1: In this task, the occupation of Segmental Pavers involves compacting bedding sand and pavers to finish a paved area using a plate compactor. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical labor and precise measurements that cannot be replaced by text-based instructions or information from the LLM. The task requires hands-on work with machinery, which cannot be performed by the LLM.
+
+- E1: The task does not involve writing, transforming text, or providing feedback on documents that could be significantly aided by the LLM. The physical nature of compacting sand and pavers using a plate compactor cannot be directly assisted by the LLM.
+
+- E2: While it is conceivable that software could be developed to provide guidance or instructions on compacting sand and pavers based on general knowledge, it is unlikely that such software would reduce the time it takes to complete the task by half. The task requires physical labor and expertise that cannot be easily replicated by software.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The use of image capabilities would not significantly impact the completion of this task.
+
+2: E0
+
+3: High

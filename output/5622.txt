@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of coordinating biological laboratory activities as a Molecular and Cellular Biologist, we need to consider the nature of the task and how it can be impacted by the use of the OpenAI large language model (LLM).
+
+- E0: This task involves direct coordination and organization of laboratory activities, which typically requires human judgment, decision-making, and interaction. The task does not involve text-based inputs or outputs that can be easily processed by the LLM. The LLM cannot physically coordinate or prioritize laboratory activities, and the task does not involve text-based information processing that the LLM could significantly assist with.
+
+- E1: While the LLM could potentially assist in generating written instructions, protocols, or reports related to laboratory activities, the core aspect of coordinating, organizing, and prioritizing the activities involves complex decision-making, real-time adjustments, and human interaction that the LLM cannot directly handle. The task is more hands-on and practical, requiring expertise in biological processes and laboratory techniques that go beyond text-based information processing.
+
+- E2: It is challenging to imagine additional software built on top of the LLM that could significantly reduce the time it takes to coordinate biological laboratory activities. The task involves specialized domain knowledge, real-time decision-making, and hands-on management of laboratory processes that are not easily automated or assisted by text-based AI tools.
+
+- E3: The task of coordinating biological laboratory activities does not involve image processing, creation, or analysis that would benefit from additional image capabilities alongside the LLM. The core of the task lies in managing biological experiments, resources, and personnel, which is not directly related to image-based information processing.
+
+2: E0
+
+3: High

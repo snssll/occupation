@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of performing ongoing hardware and software maintenance operations as a Computer Systems Engineer/Architect, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- **E1 (Direct exposure):** If the task involves writing and transforming text and code according to complex instructions, providing edits to existing text or code following specifications, or writing code that can help perform a task that used to be done by hand, then it could be classified as E1. In this case, the LLM could assist in generating documentation, scripts, or instructions related to hardware and software maintenance tasks, potentially reducing the time needed for these activities.
+
+- **E2 (Exposure by LLM-powered applications):** If additional software could be developed on top of the LLM to summarize documents longer than 2000 words, retrieve up-to-date facts from the Internet, or search over an organization's existing knowledge to assist in hardware and software maintenance operations, then the task could be classified as E2. Such software could enhance the efficiency of information retrieval and decision-making in the maintenance process.
+
+- **E3 (Exposure given image capabilities):** Since the task of ongoing hardware and software maintenance primarily involves text-based instructions and technical documentation, the use of image capabilities provided by the LLM would not significantly impact the completion of this task. Therefore, it is unlikely to fall under E3.
+
+2: E2
+
+3: Moderate

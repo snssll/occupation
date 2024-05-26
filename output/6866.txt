@@ -1,0 +1,12 @@
+1: In this task, the occupation of Commercial and Industrial Designers involves fabricating models or samples using various materials and tools. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task with equivalent quality. 
+
+- The task involves physical fabrication using hand or power tools, which cannot be directly assisted by the LLM.
+- The LLM cannot physically manipulate materials or operate tools to fabricate models.
+- While the LLM could potentially provide design ideas, instructions, or information on materials, it cannot directly fabricate the models itself.
+- The task does not involve written or spoken communication that the LLM could assist with.
+
+Based on these considerations, the task falls under E0 as the LLM cannot directly assist in fabricating models or samples in physical materials.
+
+2: E0
+
+3: High

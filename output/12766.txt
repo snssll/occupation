@@ -1,0 +1,13 @@
+1: In this task, a Registered Nurse is responsible for preparing rooms, sterile instruments, equipment, or supplies and ensuring that the stock of supplies is maintained. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for a nurse to complete this task with equivalent quality.
+
+- E0: This task involves physical actions such as preparing rooms and handling equipment and supplies, which cannot be directly assisted by the LLM or any software built on top of it. The task also requires hands-on work that cannot be replaced by text-based interactions with the LLM.
+
+- E1: The task does not involve writing, transforming text, or complex instructions that the LLM could assist with. It also does not involve analyzing written information, preparing training materials, or maintaining records that could be significantly expedited by the LLM.
+
+- E2: While it is conceivable that software could be developed to help manage inventory and supplies more efficiently, the core task of physically preparing rooms and ensuring supply stock is maintained does not lend itself to significant time savings through LLM-powered applications.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant here.
+
+2: E0
+
+3: High

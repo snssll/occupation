@@ -1,0 +1,13 @@
+1: In this task, the Securities, Commodities, and Financial Services Sales Agents are responsible for buying or selling various financial instruments on behalf of investment dealers. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- E0: This task involves making financial transactions involving stocks, bonds, commodities, and currencies, which require a high level of human interaction, decision-making, and legal compliance. The task also involves precise measurements in terms of financial quantities and values, which cannot be accurately handled by the LLM or any tools built on top of it. Therefore, this task falls under E0 as it does not clearly benefit from LLM capabilities.
+
+- E1: The task does not involve writing or transforming text, providing edits, summarizing documents, answering questions, or any other text-based activities that the LLM can directly assist with. The complexity of financial transactions and the need for human expertise in making decisions make it unlikely that the LLM alone can reduce the time it takes to complete the task by at least half.
+
+- E2: While it is conceivable that additional software could be developed on top of the LLM to assist in analyzing market trends, providing recommendations, or automating certain aspects of the trading process, the highly specialized domain knowledge and legal requirements involved in securities trading make it challenging to achieve a significant reduction in time with just the LLM.
+
+- E3: The task does not involve image capabilities such as reading text from PDFs or creating/editing digital images, so it does not fall under E3.
+
+2: E0
+
+3: Moderate

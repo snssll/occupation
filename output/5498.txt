@@ -1,0 +1,11 @@
+1: In this task, a surveyor is required to directly or conduct surveys to establish legal boundaries for properties based on legal deeds and titles. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a surveyor to complete this task with high quality. 
+
+- The task of conducting surveys to establish legal boundaries for properties involves a high degree of precision and expertise in interpreting legal documents and applying them to physical locations.
+- While the LLM can provide information on legal concepts and potentially assist in drafting reports or analyzing data, it cannot physically conduct surveys or measure boundaries on the ground.
+- The task also requires specialized domain knowledge in surveying, which may not be fully captured by the LLM alone.
+
+Considering these factors, it is unlikely that access to the LLM alone would significantly reduce the time it takes for a surveyor to complete this task with high quality. Therefore, this task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

@@ -1,0 +1,7 @@
+1: In this task, the occupation of Fence Erectors involves constructing and repairing various types of barriers, walls, and gates. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half. 
+
+Given the nature of the task, which involves physical construction work such as erecting fences and walls, it is unlikely that the LLM or any tools built on top of it can directly assist in completing the task. The task requires manual labor, precise measurements, and physical interaction with materials, which are not within the capabilities of the LLM. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM or LLM-powered tools.
+
+2: E0
+
+3: High

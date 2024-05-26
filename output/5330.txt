@@ -1,0 +1,7 @@
+1: In this task, an electrician is required to diagnose malfunctioning systems, apparatus, or components using test equipment and hand tools to locate the cause of a breakdown and correct the problem. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced electrician to diagnose and correct electrical issues using test equipment and hand tools.
+
+- E0: This task involves hands-on work that requires physical interaction with electrical systems and tools. The LLM does not have the capability to physically interact with equipment or perform diagnostic tests using test equipment and hand tools. Therefore, the LLM cannot reduce the time it takes for an electrician to complete this task.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, the helper-electrician is responsible for cleaning the work area and washing parts. This task involves physical actions such as cleaning and washing, which cannot be directly performed by an LLM. The LLM cannot physically clean or wash parts, so there is no direct exposure to the LLM for this task. Additionally, this task does not involve complex decision-making, specialized knowledge, or detailed documentation that would require the capabilities of an LLM. Therefore, there is no way for the LLM to significantly reduce the time it takes to complete this task.
+
+2: E0
+
+3: High

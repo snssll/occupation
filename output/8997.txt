@@ -1,0 +1,10 @@
+1: In this task, the nursing instructor or teacher is required to maintain a clinical practice. This involves staying up-to-date with current medical practices, procedures, and technologies, as well as continuing to develop and hone their clinical skills. To determine the exposure level to LLM, we need to consider if the LLM can significantly reduce the time it takes for the instructor to maintain their clinical practice. 
+
+- E0: If the task involves hands-on clinical work, precise measurements, or direct patient care, it would be classified as E0 as the LLM cannot perform these physical tasks.
+- E1: If the instructor needs to research and stay informed about the latest medical advancements, procedures, and guidelines, the LLM can assist in summarizing and providing relevant information. This could save time in gathering and synthesizing information, making it easier for the instructor to maintain their clinical practice.
+- E2: If there were specialized software developed on top of the LLM that could retrieve up-to-date medical information, provide recommendations based on data, or analyze complex medical documents to inform decisions, it could potentially reduce the time needed to maintain a clinical practice by half.
+- E3: If the task involved reading and summarizing medical documents from PDFs, the LLM's text capabilities combined with image capabilities could significantly reduce the time needed to extract relevant information from these documents.
+
+2: E2
+
+3: Moderate

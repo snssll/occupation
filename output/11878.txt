@@ -1,0 +1,5 @@
+1: In this task, an audiologist is required to plan and conduct treatment programs for patients' hearing or balance problems, consulting with various healthcare professionals as necessary. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. The task involves a high level of human interaction, specialized medical knowledge, and decision-making based on individual patient needs. While the LLM could potentially assist in providing general information or guidelines related to treatment programs, it cannot replace the expertise and personalized care provided by an audiologist in this context. The task also involves complex decision-making that impacts patient health, which cannot be solely delegated to an AI model. Therefore, the task falls under E0 as it does not significantly benefit from LLM assistance in completing the task efficiently.
+
+2: E0
+
+3: High

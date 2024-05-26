@@ -1,0 +1,11 @@
+1: In this task, a Fundraising Manager is responsible for assigning, supervising, and reviewing the activities of fundraising staff. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E1: Direct exposure - The LLM could potentially assist in generating reports, providing templates for activity reviews, or drafting communication to fundraising staff. It could also help in summarizing data for review. However, the task of assigning, supervising, and reviewing staff activities involves a significant amount of human interaction, decision-making, and understanding of individual performance, which may not be effectively replaced by the LLM alone.
+- E2: Exposure by LLM-powered applications - While the LLM could potentially assist in generating some written materials or reports related to fundraising activities, the core aspects of assigning, supervising, and reviewing staff activities require a level of human judgment, understanding of organizational dynamics, and interpersonal skills that may not be easily automated by software built on top of the LLM.
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of assigning, supervising, and reviewing the activities of fundraising staff, as it primarily involves text-based communication and management rather than image processing.
+
+Based on the analysis above, the task of assigning, supervising, and reviewing the activities of fundraising staff is best classified as E0 - No exposure.
+
+2: E0
+
+3: High certainty

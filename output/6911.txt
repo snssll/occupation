@@ -1,0 +1,13 @@
+1: In this task for Security and Fire Alarm Systems Installers, the main activity involves feeding cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be impacted by the capabilities of the LLM.
+
+- E0: This task involves physical work that requires manual dexterity and on-site installation skills. The task is hands-on and involves navigating through physical spaces to install cables, which cannot be directly assisted by the LLM.
+
+- E1: While the LLM could potentially provide guidance on cable installation techniques or safety procedures in written form, the core aspect of physically feeding cables through access holes and terminating them cannot be directly assisted by the LLM. The task requires practical skills and physical presence, which the LLM cannot replace.
+
+- E2: It is challenging to imagine additional software built on top of the LLM that could significantly reduce the time it takes to complete this task. The task is highly practical and involves physical installation work that is not easily translatable into a software-based solution leveraging the LLM's capabilities.
+
+- E3: The task does not involve image processing or detailed visual instructions that would benefit from additional image capabilities alongside the LLM. The task is primarily focused on physical installation work rather than visual or image-related aspects.
+
+2: E0
+
+3: High

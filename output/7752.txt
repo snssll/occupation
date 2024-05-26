@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of inspecting aircraft components to locate issues, we need to consider the capabilities of the LLM. The task involves visual inspection of physical components, which cannot be directly performed by the LLM. The LLM does not have the ability to physically inspect aircraft components or interact with physical objects. While the LLM could potentially provide information on common issues to look for during inspections, it cannot directly perform the inspection itself. Therefore, this task falls under E0 as it does not involve text-based work that the LLM can directly assist with.
+
+2: E0
+
+3: High

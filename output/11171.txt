@@ -1,0 +1,7 @@
+1: In this task, the occupation of Athletes and Sports Competitors involves participating in athletic events or competitive sports according to established rules and regulations. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete the task with equivalent quality. 
+
+For this specific task, the nature of participating in athletic events or competitive sports is physical and requires human interaction, precise physical movements, and real-time decision-making based on physical performance. The LLM cannot physically participate in sports events or competitions, as it lacks the physical capabilities and real-time sensory feedback required for such activities. Therefore, the task cannot be completed by the LLM alone or with tools built on top of it. As a result, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

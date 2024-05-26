@@ -1,0 +1,7 @@
+1: In this task, an Ophthalmic Medical Technologist conducts tests to measure the central visual field using tools like the Amsler Grid test. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to conduct these tests with equivalent quality. 
+
+Given that this task involves conducting physical tests on patients, which require precise measurements and interactions that cannot be replaced by text-based information processing, it is unlikely that the LLM or any software built on top of it could reduce the time it takes to complete the task by at least half. The nature of the task involves hands-on skills and human interaction, which cannot be replicated by the LLM. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

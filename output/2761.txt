@@ -1,0 +1,12 @@
+1: In this task, a Fabric and Apparel Patternmaker is required to compute dimensions of patterns based on different sizes, taking into account the stretching of the material. To determine the appropriate label from the exposure rubric, we can break down the task as follows:
+
+- Writing and transforming text: The task involves calculations and adjustments based on different sizes, which can be done through text instructions and formulas.
+- Providing edits to existing text: The pattern dimensions may need to be adjusted based on the material's stretching properties, requiring edits to the existing pattern.
+- Writing code to help perform a task: While this task may not involve writing code, the calculations involved could potentially be automated through a tool that utilizes the LLM's capabilities.
+- Retrieving specialized domain knowledge: Understanding fabric stretching properties and pattern dimensions is a specialized domain knowledge that the LLM can assist with.
+
+Considering these points, the task can benefit from the LLM's capabilities to assist in computing dimensions of patterns, making adjustments, and providing specialized domain knowledge, which would reduce the time it takes to complete the task with equivalent quality. Therefore, the task falls under label E1.
+
+2: E1
+
+3: Moderate

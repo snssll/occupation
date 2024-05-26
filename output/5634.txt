@@ -1,0 +1,7 @@
+1: In this task, a Calibration Technologist or Technician is required to disassemble and reassemble equipment for inspection. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical actions of disassembling and reassembling equipment, which cannot be performed by the LLM or any software tool. Therefore, this task does not fit into any of the exposure categories as it cannot be completed by the LLM or LLM-powered tools.
+
+2: E0
+
+3: High

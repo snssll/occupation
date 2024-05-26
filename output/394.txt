@@ -1,0 +1,5 @@
+1: In this task, an Animal Scientist is required to advise producers about improved products and techniques to enhance their animal production efforts. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves providing recommendations based on specialized knowledge in animal science. The LLM can assist in generating potential suggestions and explanations based on general knowledge in the field of animal science. However, the task also requires specific, up-to-date information about improved products and techniques, which the LLM alone may not be able to provide without access to real-time data. While the LLM can offer general advice and suggestions, the task may benefit from additional software that can retrieve the latest information on animal production techniques and products to enhance the recommendations. Therefore, this task falls under E2 as having access to the LLM alone may not reduce the time significantly, but additional software could be developed to improve efficiency by providing up-to-date information and specialized knowledge.
+
+2: E2
+
+3: Moderate

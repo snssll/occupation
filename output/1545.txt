@@ -1,0 +1,11 @@
+1: In this task, a Cabinetmaker or Bench Carpenter is required to bore holes for the insertion of screws or dowels, either by hand or using boring machines. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves physical actions such as using boring machines, which cannot be directly performed by an LLM.
+- While the task description is straightforward, it requires manual labor and physical coordination, which are not within the capabilities of an LLM.
+- The task does not involve complex decision-making, analysis of large datasets, or specialized domain knowledge that would benefit significantly from an LLM's capabilities.
+
+Based on these considerations, the task of boring holes for insertion of screws or dowels is best classified as E0, as it does not align with the capabilities of an LLM or any tools built on top of it.
+
+2: E0
+
+3: High

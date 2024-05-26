@@ -1,0 +1,13 @@
+1: In this task, a Passenger Attendant is required to provide customers with information on various aspects of their travel, such as routes, gates, prices, timetables, terminals, or concourses. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves providing information to customers based on predefined data related to travel details. An LLM could potentially assist in generating responses to common inquiries or providing standard information. The model could help in crafting responses or generating text for informational purposes based on the input provided.
+
+- Exposure by LLM-powered applications (E2): While the task could benefit from automation and quick access to information, it may not be significantly enhanced by just the LLM alone. However, with additional software development, an application could be created that integrates with the LLM to quickly retrieve and present relevant travel information to passengers.
+
+- Exposure given image capabilities (E3): Image capabilities are not relevant for this task as it primarily involves providing textual information to customers regarding travel details.
+
+Considering the above points, the task of providing customers with information on routes, gates, prices, timetables, terminals, or concourses aligns more closely with E1 - Direct exposure.
+
+2: E1
+
+3: Moderate

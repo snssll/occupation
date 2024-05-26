@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of conducting research on robotic technology as a Robotics Engineer, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E0: This task involves conducting research on robotic technology, which may require accessing a wide range of sources, including academic papers, technical documents, and industry reports. While the LLM can provide general information on robotic technology, it may not have access to the most up-to-date or specialized knowledge required for this task. Additionally, the task may involve synthesizing complex information and drawing insights from various sources, which may go beyond the capabilities of the LLM.
+
+- E1: The LLM can assist in summarizing existing research on robotic technology, providing insights into recent developments, and generating ideas for new robotic systems or capabilities based on the input provided. It can also help in organizing and structuring the information gathered during the research process. However, the task of conducting in-depth research may still require human judgment, critical thinking, and access to specialized knowledge that the LLM alone may not possess.
+
+- E2: While the LLM can be a valuable tool for gathering information and generating ideas, additional software could be developed to enhance its capabilities for this task. For example, a specialized research tool that can retrieve and analyze technical documents, patents, and industry reports related to robotic technology could complement the LLM's abilities and streamline the research process for Robotics Engineers.
+
+- E3: The task of conducting research on robotic technology does not involve image processing or analysis, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E1
+
+3: Moderate

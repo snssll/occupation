@@ -1,0 +1,5 @@
+1: In this task, a Pest Control Worker is required to either dig up and burn weeds or spray them with herbicides. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical labor such as digging and burning weeds or spraying herbicides, which cannot be directly performed by an LLM. The task also requires hands-on work that involves being physically present in the environment where the weeds are located. Since the task is primarily manual and physical in nature, it does not involve text input or output that can be processed by an LLM. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM.
+
+2: E0
+
+3: High

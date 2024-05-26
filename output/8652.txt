@@ -1,0 +1,13 @@
+1: In this task, a Demonstrator and Product Promoter is responsible for maintaining the cleanliness and organization of the demonstration area, ensuring that items are returned to their proper places after demonstrations. To determine the appropriate exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical actions such as cleaning and organizing items, which cannot be directly assisted by the LLM or LLM-powered tools. The task also does not involve complex decision-making or specialized knowledge that would benefit from LLM assistance.
+
+- E1: While the LLM could potentially provide guidance on organizing items or suggest efficient cleaning methods through text input, the direct impact on reducing the time to complete the task may not be significant. The task primarily involves physical actions that cannot be directly replaced by the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to provide recommendations on efficient cleaning and organizing strategies based on general principles. However, the task's nature still heavily relies on physical actions, making it less likely that LLM-powered applications would significantly reduce the time to complete the task.
+
+- E3: This task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant here.
+
+2: E0
+
+3: High

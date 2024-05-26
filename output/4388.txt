@@ -1,0 +1,12 @@
+1: In this task, a Bioengineer or Biomedical Engineer is required to design or conduct follow-up experimentation based on generated data to meet established process objectives. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves analyzing data, designing experiments, and meeting process objectives, which are complex and require specialized knowledge in bioengineering and biomedical engineering.
+- The task does not involve direct text input or output that can be easily processed by an LLM.
+- While an LLM could potentially assist in generating reports, summarizing data, or providing background information, the core aspects of designing experiments and conducting follow-up experimentation require specialized domain knowledge and expertise that an LLM may not possess.
+- The task does not involve image processing or detailed visual analysis that would benefit from additional image capabilities.
+
+Based on these considerations, the task falls under E0 as it requires specialized domain knowledge, decision-making based on data analysis, and expertise that goes beyond the capabilities of an LLM.
+
+2: E0
+
+3: High

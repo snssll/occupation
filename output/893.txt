@@ -1,0 +1,13 @@
+1: For the task of applying weather-stripping to reduce energy loss as a Construction Laborer, the exposure to LLM can be analyzed as follows:
+
+- E0: This task involves physical work that cannot be automated or completed by an LLM. It requires hands-on application of weather-stripping materials, which cannot be done through text-based instructions alone.
+
+- E1: While an LLM could potentially provide information on the best practices for applying weather-stripping or the types of weather-stripping materials to use, the actual application process is hands-on and cannot be directly completed by the LLM. Therefore, the time saved by using an LLM for this task would not be significant.
+
+- E2: It is conceivable that an application could be developed on top of the LLM that provides detailed instructions, visuals, or recommendations for applying weather-stripping based on specific conditions or requirements. This application could potentially reduce the time it takes to complete the task by half by providing tailored guidance.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

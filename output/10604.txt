@@ -1,0 +1,13 @@
+1: In this task for Title Examiners, Abstractors, and Searchers, the main activity involves obtaining maps or drawings delineating properties from various sources such as company title plants, county surveyors, or assessors' offices. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves gathering specific information from maps or drawings related to properties. While an LLM could potentially assist in understanding the content of these maps or drawings, the task primarily involves physical documents and specialized knowledge related to property titles. The LLM may not significantly reduce the time it takes to obtain these maps or drawings as it requires physical access to these sources.
+
+- Exposure by LLM-powered applications (E2): While an LLM could potentially assist in summarizing information related to property titles or providing background information on certain terms, the task of obtaining maps or drawings from specific sources is not directly addressed by the capabilities of the LLM alone. However, with the development of additional software that could potentially scan and interpret maps or drawings, the time taken to complete this task could be reduced.
+
+- Exposure given image capabilities (E3): The task involves dealing with maps or drawings, which are visual representations of properties. If there were a system that could view, interpret, and extract information from these images accurately, it could significantly reduce the time required to obtain the necessary maps or drawings. This would involve image recognition capabilities beyond what the LLM alone can provide.
+
+Based on the analysis above, the task of obtaining maps or drawings delineating properties aligns most closely with Exposure by LLM-powered applications (E2) as the LLM alone may not directly reduce the time it takes to complete the task, but additional software could potentially be developed to enhance the process.
+
+2: E2
+
+3: Moderate

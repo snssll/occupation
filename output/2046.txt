@@ -1,0 +1,13 @@
+1: In this task, a Recycling and Reclamation Worker is responsible for cleaning materials, such as metals, according to recycling requirements. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical labor and hands-on work that cannot be automated by the LLM or any software tool. The cleaning process likely requires manual dexterity and physical effort, making it unsuitable for automation by text-based tools.
+
+- E1: While the LLM could potentially provide information on recycling requirements or guidelines for cleaning materials, the actual cleaning process itself cannot be automated through text-based instructions. The task involves practical, hands-on work that cannot be directly assisted by the LLM.
+
+- E2: It is challenging to imagine additional software built on top of the LLM that could automate the cleaning of materials according to recycling requirements. This task is highly manual and requires physical interaction with the materials, making it unsuitable for automation through text-based tools alone.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, the image capabilities of the LLM would not significantly reduce the time it takes to complete this task.
+
+2: E0
+
+3: High

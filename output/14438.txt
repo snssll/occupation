@@ -1,0 +1,5 @@
+1: In this task, a coroner is responsible for removing or supervising the removal of bodies from death scenes and arranging for transportation to morgues. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for a coroner to complete this task with high quality. The task involves physical actions such as handling bodies and coordinating transportation, which cannot be directly assisted by the LLM. While the LLM could potentially provide information on procedures, regulations, or best practices related to this task, the core actions of physically removing bodies and arranging transportation cannot be automated by the LLM. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM assistance.
+
+2: E0
+
+3: High

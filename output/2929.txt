@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of conducting inspections and acceptance testing of newly installed fire protection systems as a Fire Inspector and Investigator, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- E1: Direct exposure - If the task involves writing reports, documenting findings, or communicating with stakeholders through written reports, the LLM could significantly reduce the time needed to complete these tasks by assisting in drafting detailed reports, summarizing inspection results, or generating standardized communication templates.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not directly reduce the time to conduct physical inspections or testing, additional software built on top of the LLM could potentially streamline the process by providing automated checklists, generating inspection reports based on input data, or offering real-time analysis of fire protection system data.
+
+- E3: Exposure given image capabilities - Since the task involves inspecting fire protection systems, having access to image capabilities could aid in capturing visual documentation of the systems, annotating images with inspection notes, or creating visual reports to complement the written documentation.
+
+Based on the above considerations, the task of conducting inspections and acceptance testing of newly installed fire protection systems as a Fire Inspector and Investigator could be best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

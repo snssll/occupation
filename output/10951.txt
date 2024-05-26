@@ -1,0 +1,13 @@
+1: In this task, a nurse midwife is required to order and interpret diagnostic or laboratory tests. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- E0: This task involves a high level of medical expertise and decision-making that typically requires human judgment and interaction. The interpretation of diagnostic tests involves understanding complex medical information and making critical decisions based on the results. The LLM, even with its capabilities, cannot replace the specialized knowledge and experience required for this task.
+
+- E1: While the LLM can provide general information about diagnostic tests and their interpretation, it lacks the specialized medical knowledge and training necessary to accurately order and interpret these tests. The task involves specific medical expertise that goes beyond the capabilities of the LLM.
+
+- E2: It is conceivable that specialized software could be developed on top of the LLM that could assist nurse midwives in ordering and interpreting diagnostic tests. This software could potentially provide recommendations based on general guidelines and information available in medical literature. However, the complexity and variability of medical conditions and test results make it challenging to fully automate this task.
+
+- E3: The task of ordering and interpreting diagnostic tests does not involve image processing or detailed visual analysis that would benefit from additional image capabilities. The task primarily revolves around medical knowledge and decision-making rather than visual information.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: Sales Engineers are responsible for selling complex scientific and technological products or services to businesses. One of the tasks they perform is maintaining sales forecasting reports, which involves analyzing sales data, trends, and market conditions to predict future sales. To determine the appropriate exposure label for this task, we need to consider the nature of the task and how an LLM could assist in completing it. 
+
+- E1: Direct exposure - An LLM could potentially assist in maintaining sales forecasting reports by analyzing historical sales data, market trends, and other relevant information to generate accurate forecasts. The LLM could help in summarizing data, identifying patterns, and providing insights to improve forecasting accuracy. This task involves working with text data and making predictions based on the analysis, which aligns well with the capabilities of an LLM. Therefore, this task could benefit significantly from direct access to an LLM, reducing the time it takes to maintain sales forecasting reports with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - While an LLM alone could assist in this task, additional software built on top of the LLM could further enhance the process. For example, specialized software could be developed to integrate real-time sales data, external market reports, and customer feedback to provide more accurate forecasting insights. This additional software could leverage the LLM's capabilities to analyze vast amounts of data quickly and provide recommendations for improving sales forecasts. Therefore, there is potential for further optimization beyond the basic LLM capabilities.
+
+- E3: Exposure given image capabilities - This task does not involve image processing or analysis, so the image capabilities of an LLM are not directly relevant here.
+
+Based on the analysis above, the task of maintaining sales forecasting reports aligns best with the E1 label, as direct access to an LLM could significantly reduce the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: Moderate

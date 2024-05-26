@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of locating and marking the position of pipe installations as a Plumber, Pipefitter, or Steamfitter, we need to consider the nature of the task and how it could potentially benefit from the use of a large language model (LLM).
+
+- **E0 (No exposure):** This task involves physical work that requires hands-on measurement using tools like rulers or levels. The task does not involve text input or output that could be significantly enhanced by an LLM. The precision and accuracy required in marking pipe installations in structures are best achieved through manual measurement techniques.
+
+- **E1 (Direct exposure):** While an LLM could potentially assist in providing written instructions or guidance on pipe installations, the core aspect of this task involves physical measurement and marking, which cannot be directly replaced by text-based instructions. The task does not primarily involve text input or output that an LLM could significantly enhance.
+
+- **E2 (Exposure by LLM-powered applications):** It is challenging to imagine additional software built on top of an LLM that could reduce the time it takes to complete the physical task of locating and marking pipe installations by half. The task is inherently hands-on and requires manual measurement skills that are not easily replaceable by text-based tools.
+
+- **E3 (Exposure given image capabilities):** Image capabilities would not significantly impact the task of locating and marking pipe installations, as the core requirement is precise physical measurement rather than image processing.
+
+2: E0
+
+3: High

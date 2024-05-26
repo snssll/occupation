@@ -1,0 +1,7 @@
+1: In this task, a Transportation Security Screener is responsible for checking passengers' tickets to ensure validity and determine if passengers have special designations that require special handling, such as providing photo identification. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+Given the nature of the task, which involves physical interaction with passengers, checking physical tickets, and verifying photo identification, it is unlikely that the LLM or any software built on top of it could reduce the time it takes to complete this task. The task requires real-time decision-making based on physical documents and interactions, which cannot be effectively replaced by text-based AI models. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any software that could be developed on top of it.
+
+2: E0
+
+3: High

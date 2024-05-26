@@ -1,0 +1,11 @@
+1: In this task, a Telecommunications Engineering Specialist is required to document user support activity, including system problems, corrective actions, resolution status, and completed equipment installations. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves writing and transforming text according to specific instructions, which is a capability of the LLM.
+- The task does not require accessing up-to-date facts from the internet, specialized domain knowledge, or complex databases beyond what can be captured in 2000 words.
+- While additional software could potentially be developed to streamline the documentation process further, the task itself can be effectively completed using the LLM alone.
+
+Based on these considerations, the task falls under E1 as direct access to the LLM can significantly reduce the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: High

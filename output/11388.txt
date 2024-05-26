@@ -1,0 +1,11 @@
+1: In this task, a Fast Food and Counter Worker is required to perform cleaning duties to maintain the cleanliness of equipment and facilities. To determine the exposure label for this task in relation to the LLM, we need to consider if the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- The task of performing cleaning duties involves physical actions such as sweeping, mopping, and washing dishes, which cannot be directly assisted by the LLM.
+- The task does not involve complex decision-making, specialized knowledge, or detailed analysis that would benefit from LLM-powered applications.
+- The task does not require reading text from PDFs, scanning images, or creating/editing digital images, so image capabilities are not relevant here.
+
+Based on these considerations, it is clear that the LLM or any tools built on top of it cannot assist in completing the physical cleaning duties required for this task. Therefore, this task falls under the E0 label as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

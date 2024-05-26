@@ -1,0 +1,13 @@
+1: In this task, an Usher, Lobby Attendant, or Ticket Taker is responsible for managing informational kiosks or displays of event signs or posters. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves managing informational kiosks or displays, which may require writing or updating information on signs or posters. An LLM could potentially assist in generating text for these displays based on the event information provided. The LLM could also help in formatting the text to fit the display requirements. Therefore, direct access to the LLM could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- Exposure by LLM-powered applications (E2): While the task may not involve highly specialized domain knowledge or complex databases, additional software built on top of the LLM could potentially streamline the process of managing informational kiosks or displays. For example, an application that can summarize event information and generate display content automatically could enhance efficiency.
+
+- Exposure given image capabilities (E3): Since the task involves managing event signs or posters, having access to image capabilities could aid in creating or editing digital images for the displays. The LLM could potentially assist in generating text content for the posters, but the image capabilities would be more relevant for tasks involving visual elements.
+
+Based on the considerations above, the task of managing informational kiosks or displays of event signs or posters could be best classified as E2 - Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

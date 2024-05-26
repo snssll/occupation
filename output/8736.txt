@@ -1,0 +1,5 @@
+1: In this task, a Heating, Air Conditioning, and Refrigeration Mechanic and Installer is required to lay out and connect electrical wiring between controls and equipment based on wiring diagrams using electrician's hand tools. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves following specific instructions (wiring diagrams) to perform a technical task that requires manual dexterity and knowledge of electrical systems. While an LLM could potentially provide information on wiring diagrams or electrical systems, the actual physical work of laying out and connecting electrical wiring using hand tools cannot be directly performed by the LLM. Therefore, the task does not fall under E1 as it cannot be fully automated by the LLM. Additionally, developing software on top of the LLM to physically perform the wiring task is not feasible. The task does not involve detailed measurements or visuals that would require image capabilities, so it does not fall under E3. Given these considerations, the task is best classified as E0.
+
+2: E0
+
+3: High

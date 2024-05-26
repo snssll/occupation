@@ -1,0 +1,13 @@
+1: In this task, a Shipping, Receiving, and Inventory Clerk is responsible for delivering or routing materials to departments using various methods such as handtrucks, conveyors, or sorting bins. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical movement and manual handling of materials, which cannot be replaced by the LLM or any software tool. Therefore, this task falls under E0 as it does not involve text-based work that can be automated or assisted by the LLM.
+
+- E1: The task does not involve writing, transforming text, providing edits, summarizing documents, answering questions, or any other text-based activities that the LLM can directly assist with. Therefore, it does not qualify for E1.
+
+- E2: While it is conceivable that software could be developed to optimize routing and delivery processes based on data analysis and recommendations, the core task of physically moving materials cannot be significantly expedited by the LLM alone. Thus, this task does not fit under E2.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, which are the capabilities required for exposure under E3. Therefore, this task does not fall under E3.
+
+2: E0
+
+3: High

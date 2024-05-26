@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of incorporating security systems into exhibit layouts for Set and Exhibit Designers, we need to consider the capabilities of the LLM. In this task, the designer would need to understand the layout of the exhibit, the placement of various elements, and how to seamlessly integrate security systems without compromising the overall design aesthetic. 
+
+- E0: This task involves physical considerations and specialized knowledge related to exhibit design and security systems. The LLM alone cannot physically incorporate security systems into the layout or provide hands-on expertise in this area. Therefore, this task is unlikely to benefit significantly from LLM capabilities alone.
+
+- E1: While the LLM can provide information on security systems and potentially offer design suggestions based on input, the task of physically incorporating security systems into exhibit layouts requires practical, hands-on implementation that goes beyond text-based instructions. The LLM may assist in generating ideas or providing information, but it cannot directly perform the task.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Set and Exhibit Designers in incorporating security systems into exhibit layouts. This software could potentially analyze different security system options, provide recommendations based on the exhibit layout, and even generate design proposals. However, as of now, the LLM alone does not have the capability to significantly reduce the time it takes to complete this task.
+
+- E3: The task of incorporating security systems into exhibit layouts does not involve image processing or detailed visual analysis that would require image capabilities in addition to the LLM. Therefore, this task does not fall under the E3 category.
+
+2: E2
+
+3: Moderate

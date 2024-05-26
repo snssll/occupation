@@ -1,0 +1,8 @@
+1: In this task, a Supply Chain Manager is responsible for determining the appropriate equipment and staffing levels needed to handle materials within a supply chain. To decide on the label that best fits this task's exposure to LLM, we can break down the requirements:
+- The task involves analyzing data related to equipment and staffing needs, which can be done by the LLM through processing and interpreting information provided in the input.
+- The task may require accessing specialized knowledge related to supply chain management, which the LLM may not have readily available unless it is included in the input or within its existing knowledge base.
+- While the LLM can assist in generating recommendations based on the information provided, it may not significantly reduce the time it takes for an experienced worker to complete the task, as it involves a high level of decision-making and domain-specific expertise.
+
+2: E2
+
+3: Moderate

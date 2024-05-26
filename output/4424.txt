@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of designing or implementing strategies for the collection, analysis, or display of geographic data as a Remote Sensing Scientist or Technologist, we need to consider the level of exposure to LLM.
+
+- This task involves working with geographic data, which may require specialized domain knowledge in remote sensing and geospatial analysis.
+- The task may involve complex instructions related to data collection, analysis, and visualization techniques specific to remote sensing.
+- While the task may benefit from the general text input and output capabilities of the LLM, it may not significantly reduce the time it takes to complete the task with high quality by at least half.
+- Developing software on top of the LLM that could specifically assist in summarizing large amounts of geographic data, providing recommendations for data analysis strategies, or generating visualizations based on data inputs could potentially enhance the efficiency of completing this task.
+
+Based on these considerations, the task of designing or implementing strategies for the collection, analysis, or display of geographic data as a Remote Sensing Scientist or Technologist would likely fall under label E2 - Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

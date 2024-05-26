@@ -1,0 +1,5 @@
+1: In this task, a Transportation Security Screener is required to perform pat-down or hand-held wand searches of passengers under specific circumstances. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical interaction with passengers, which cannot be replaced by text-based interactions with an LLM. Additionally, the task requires human judgment, sensitivity, and adherence to security protocols, which are not within the capabilities of an LLM. Therefore, this task falls under E0 as it involves physical actions, human judgment, and security protocols that cannot be effectively handled by an LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, a midwife is required to refer patients to specialists for specific procedures like ultrasounds or biophysical profiles. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves decision-making based on patient needs and medical requirements, which may not be directly related to text-based information processing.
+- The task requires human judgment and interaction with patients, specialists, and medical records.
+- The task does not involve writing, summarizing text, or generating content that can be easily automated by an LLM.
+
+Based on these considerations, it is evident that the task of referring patients to specialists as a midwife falls under the category of E0 as it involves human judgment, interaction, and decision-making that cannot be significantly expedited by an LLM.
+
+2: E0
+
+3: High

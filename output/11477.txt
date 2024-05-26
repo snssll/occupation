@@ -1,0 +1,15 @@
+1: In this task, a Maintenance and Repair Worker, General is required to perform general cleaning of buildings or properties. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be aided by the use of the LLM. 
+
+- E0: This task involves physical work such as cleaning buildings, which cannot be directly assisted by the LLM or any software tools. The task requires hands-on work and does not involve text-based activities that the LLM can significantly assist with.
+
+- E1: While the LLM can provide information on cleaning techniques, safety procedures, or equipment maintenance through text-based instructions, the actual cleaning work itself cannot be completed by the LLM. The task involves physical labor that cannot be replaced by the LLM.
+
+- E2: It is conceivable that software could be developed to provide recommendations on cleaning techniques, safety protocols, or equipment maintenance based on the LLM's capabilities. However, the core task of physically cleaning buildings or properties would still require human intervention and cannot be fully automated by the LLM alone.
+
+- E3: The task of performing general cleaning of buildings or properties does not involve image processing or detailed visual analysis that would benefit from additional image capabilities. The task is primarily focused on physical cleaning rather than visual or image-related activities.
+
+Based on the analysis above, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

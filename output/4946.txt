@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of developing methodologies for transferring procedures or biological processes from laboratories to commercial-scale manufacturing production for Bioengineers and Biomedical Engineers, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - If the task involves writing and transforming text and code according to complex instructions, providing edits to existing text or code following specifications, or writing code to automate tasks, then direct access to the LLM could significantly reduce the time needed to complete the task with equivalent quality.
+- E2: Exposure by LLM-powered applications - If additional software could be developed on top of the LLM to summarize documents longer than 2000 words, retrieve up-to-date facts from the internet, or provide highly specialized domain knowledge, then the task may benefit from such capabilities.
+- E3: Exposure given image capabilities - If the task involves reading text from PDFs, scanning images, or creating/editing digital images, then access to image capabilities along with the LLM could significantly reduce the time needed to complete the task.
+
+Considering the nature of the task for Bioengineers and Biomedical Engineers, which involves developing methodologies for transferring procedures or biological processes to commercial-scale manufacturing, it is likely that the task falls under E2. While direct access to the LLM could assist in generating text or code related to the methodologies, additional software that can summarize documents, retrieve specialized domain knowledge, or make recommendations based on data could further enhance the efficiency of completing the task.
+
+2: E2
+
+3: Moderate

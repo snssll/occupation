@@ -1,0 +1,5 @@
+1: In this task, a radiologist is required to check and approve the quality of diagnostic images before patients are discharged. The task involves analyzing medical images to ensure they meet quality standards for accurate diagnosis and treatment. With access to the most powerful OpenAI large language model (LLM), the model could potentially assist in providing information on common quality standards for diagnostic images, guidelines for image interpretation, and potential issues to look out for in the images. The LLM could also help in generating reports or summaries based on the analysis of the images. However, the task primarily involves visual analysis of medical images, which cannot be directly performed by the LLM. While the LLM could provide some support in terms of information retrieval and report generation, the core aspect of visually inspecting and interpreting the images remains a manual task for the radiologist.
+
+2: E0
+
+3: Moderate

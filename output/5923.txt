@@ -1,0 +1,12 @@
+1: In this task, the occupation of Roof Bolters, Mining involves drilling bolt holes into roofs at specified distances from ribs or adjacent bolts. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be impacted by the capabilities of the LLM. 
+
+- The task of drilling bolt holes into roofs at specified distances is a physical task that requires manual labor and precise measurements. This task involves working in a mining environment, which may have safety considerations and specific regulations that need to be followed.
+- The task does not involve text input or output, complex instructions, document analysis, or data retrieval that can be significantly enhanced by the LLM.
+- The LLM does not have the physical capability to drill bolt holes or interact with the physical environment required for this task.
+- While the LLM could potentially provide information on mining techniques or safety regulations related to roof bolting, the primary task of physically drilling bolt holes is not something that can be directly impacted by the LLM.
+
+Based on these considerations, the task of drilling bolt holes into roofs at specified distances from ribs or adjacent bolts is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

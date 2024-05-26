@@ -1,0 +1,11 @@
+1: In this task, a construction manager is required to inspect or review projects to ensure compliance with building and safety codes or regulations. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+- The task involves understanding and applying specific building codes and regulations, which may require domain-specific knowledge that the LLM may not have access to.
+- The task also involves physical inspection of projects, which cannot be done through text-based interactions with the LLM.
+- While the LLM could potentially provide information on building codes and regulations, it may not be able to replace the hands-on inspection required for compliance monitoring.
+
+Considering these points, it is unlikely that the LLM can significantly reduce the time it takes for an experienced construction manager to complete the task with high quality. Therefore, this task is best classified as E0.
+
+2: E0
+
+3: High

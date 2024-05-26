@@ -1,0 +1,7 @@
+1: To determine the appropriate label for the task of reading work orders to determine dimensions, cutting locations, and quantities to cut as a Cutter and Trimmer, Hand, we need to consider the capabilities of the LLM. The task involves interpreting text-based instructions and extracting specific information to guide the cutting process. The LLM can assist in reading and understanding the work orders, extracting relevant details, and potentially even suggesting cutting locations based on the provided dimensions and quantities. This task does not require any specialized domain knowledge beyond basic understanding of cutting and trimming instructions.
+
+Considering the task's reliance on text-based information processing and the LLM's ability to assist in interpreting and extracting details from text, this task falls under E1 - Direct exposure. The LLM can significantly reduce the time it takes to complete the task by providing support in understanding and processing the work orders effectively.
+
+2: E1
+
+3: High

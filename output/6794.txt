@@ -1,0 +1,12 @@
+1: In this task, an Insurance Sales Agent is required to explain the features, advantages, and disadvantages of various insurance policies to potential customers to promote the sale of insurance plans. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves a significant amount of text-based communication, where the agent needs to convey complex information about insurance policies clearly and persuasively.
+- The task requires the agent to have a good understanding of insurance policies, their features, advantages, and disadvantages.
+- The task involves providing tailored information to potential customers based on their needs and preferences.
+- The task does not involve highly specialized domain knowledge that would require advanced capabilities beyond text-based communication.
+
+Considering these points, the task falls under E1 - Direct exposure. The LLM can assist in generating persuasive and informative text to explain the features, advantages, and disadvantages of insurance policies, thereby reducing the time it takes for an Insurance Sales Agent to prepare such information for potential customers.
+
+2: E1
+
+3: High

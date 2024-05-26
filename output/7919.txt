@@ -1,0 +1,9 @@
+1: In this task, the occupation involves inspecting meat products for defects, bruises, or blemishes, and removing them along with excess fat. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+Inspecting meat products for defects, bruises, or blemishes is a visual task that requires human judgment and decision-making based on physical inspection. It involves assessing the quality of the meat visually, which cannot be effectively done by an LLM. Additionally, the task involves physical actions such as removing defects and excess fat, which cannot be performed by the LLM. 
+
+Given that the task is primarily visual and physical in nature, and it requires human judgment and action, it falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

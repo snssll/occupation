@@ -1,0 +1,5 @@
+1: In this task, the Continuous Mining Machine Operators are responsible for guiding and assisting crews in laying track and resetting supports and blocking. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. Since this task involves physical work and hands-on guidance, it does not seem like the LLM or any tools built on top of it can directly assist in completing the task. The task requires practical, on-site assistance that cannot be replaced by text-based instructions or information provided by the LLM. Therefore, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, a Switchboard Operator is responsible for greeting visitors, logging them in and out of the facility, assigning security badges, and contacting employee escorts. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves interacting with visitors, assigning physical security badges, and contacting employee escorts, which are all physical actions that cannot be directly replaced by text-based interactions with an LLM.
+- While the LLM could potentially assist in generating written instructions or communication scripts for the operator to use, the core tasks of greeting visitors, assigning badges, and contacting escorts are not text-based activities that can be directly automated by the LLM.
+- Additionally, the task does not involve complex data analysis, specialized domain knowledge, or image processing that would significantly benefit from LLM capabilities.
+
+Based on these considerations, the task of greeting visitors, logging them in and out of the facility, assigning security badges, and contacting employee escorts is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

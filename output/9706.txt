@@ -1,0 +1,5 @@
+1: In this task, a helper to an electrician is required to measure, cut, and bend wire and conduit using measuring instruments and hand tools. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical actions such as measuring, cutting, and bending wires and conduits, which cannot be directly performed by an LLM. While the LLM could potentially provide guidance on measurements or techniques, it cannot physically manipulate objects. Therefore, the task does not fall under E1, E2, or E3 as it does not involve text input or output, and it cannot be significantly aided by LLM capabilities.
+
+2: E0
+
+3: High

@@ -1,0 +1,7 @@
+1: In this task, the helper is required to clean work areas and equipment. This task involves straightforward instructions that can be easily understood by the LLM. The LLM can generate text describing the process of cleaning work areas and equipment, including the tools and materials needed for the task. The LLM can also provide information on best practices for cleaning specific types of equipment commonly used by roofers. However, since this task does not involve complex decision-making, specialized domain knowledge, or detailed visual analysis, the LLM's capabilities are not significantly leveraged beyond basic text generation.
+
+Considering the task's simplicity and the LLM's ability to generate text instructions, the exposure level for this task would be E1. The LLM can assist in providing detailed instructions for cleaning work areas and equipment, reducing the time it takes to create such instructions manually.
+
+2: E1
+
+3: Moderate

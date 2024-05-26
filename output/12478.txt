@@ -1,0 +1,13 @@
+1: In this task, a Computer Network Architect is required to prepare detailed network specifications, including diagrams, charts, equipment configurations, or recommended technologies. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E0: This task involves creating detailed network specifications, which requires specialized technical knowledge and expertise in computer networking. While the LLM can provide general information on networking concepts, it may not have the specific domain knowledge required to create detailed network specifications accurately.
+
+- E1: The LLM can assist in generating text-based descriptions of network configurations, technologies, or concepts based on the input provided. It can help in drafting written content for the specifications, but it may not be able to create diagrams or charts accurately without additional image capabilities.
+
+- E2: With the development of additional software on top of the LLM, such as a tool that can generate network diagrams based on text descriptions, retrieve up-to-date information on recommended technologies, or provide recommendations on equipment configurations, the time taken to prepare detailed network specifications could be significantly reduced.
+
+- E3: Image capabilities could further enhance the assistance provided by the LLM by allowing the model to create or edit digital images of network diagrams based on the text input. This would enable a more comprehensive approach to preparing detailed network specifications.
+
+2: E2
+
+3: Moderate

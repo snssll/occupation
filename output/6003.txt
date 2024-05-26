@@ -1,0 +1,5 @@
+1: In this task, a Refractory Materials Repairer is responsible for drying and baking new linings using various methods. To determine the exposure level to LLM, we need to consider if the task can be completed more efficiently with the help of the LLM. Since this task involves physical actions like building fires and using blowtorches, it falls under the category of tasks that require hands-on work and precise measurements, which are not suitable for automation by the LLM. The LLM cannot physically perform these actions, and the task does not involve text-based instructions or data analysis that the LLM could significantly assist with. Therefore, this task is best classified as E0.
+
+2: E0
+
+3: High

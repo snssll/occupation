@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of performing sheet metal work necessary for solar panel installations as a Sheet Metal Worker, we need to consider the level of exposure to LLM.
+
+- E0: This task involves physical work that requires hands-on skills and precise measurements. The task does not involve text-based instructions or data analysis that could be significantly expedited by an LLM.
+
+- E1: While the task involves specific instructions related to sheet metal work for solar panel installations, the actual work is hands-on and requires physical labor. The LLM could potentially provide some guidance or information on best practices, but the core task itself cannot be completed solely through text-based instructions.
+
+- E2: It is conceivable that an LLM-powered application could assist in providing recommendations for sheet metal work techniques, safety guidelines, or material specifications for solar panel installations. However, the task still heavily relies on physical labor and practical skills that cannot be fully replaced by text-based instructions.
+
+- E3: This task does not involve image processing or detailed visual instructions that would benefit significantly from image capabilities in conjunction with the LLM. The task primarily revolves around practical sheet metal work rather than visual or image-related aspects.
+
+2: E0
+
+3: High

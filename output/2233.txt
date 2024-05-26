@@ -1,0 +1,11 @@
+1: In this task, a Bioengineer or Biomedical Engineer collaborates with manufacturing or quality assurance staff to prepare various documents such as product specifications, safety sheets, standard operating procedures, user manuals, and qualification and validation reports. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could assist in completing it.
+
+- E1: Direct exposure - The LLM could be used to draft and refine the text for these documents based on the input provided by the engineer. It can help in writing and transforming text according to complex instructions, providing edits to existing text, and summarizing information. The LLM could significantly reduce the time required to draft these documents with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can assist in writing and refining text, additional software could be developed on top of the LLM to automate the process further. This software could potentially summarize longer documents, retrieve up-to-date information for inclusion, and provide recommendations based on data. Such software could enhance the efficiency of document preparation in collaboration with manufacturing or quality assurance staff.
+
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to the task of preparing documents such as product specifications, safety sheets, and reports. Therefore, this task does not fall under E3.
+
+2: E1
+
+3: Moderate

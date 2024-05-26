@@ -1,0 +1,5 @@
+1: In this task, a Grader and Sorter of Agricultural Products is responsible for placing products in containers based on their grade and marking the grades on the containers. To determine the appropriate label from the exposure rubric, we need to consider if the task can be significantly expedited or improved by using the LLM. The task involves physical sorting and marking, which cannot be directly assisted by the LLM. While the LLM could potentially provide information on grading standards or assist in generating labels, the core task of physically sorting and marking the products cannot be directly impacted by the LLM. Therefore, the task does not fall under E1, E2, or E3 categories.
+
+2: E0
+
+3: High

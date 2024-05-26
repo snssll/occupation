@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of reading blueprints or other specifications as a Drywall and Ceiling Tile Installer, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The task involves reading and interpreting technical documents (blueprints or specifications) to understand installation methods, work procedures, and material/tool requirements. The LLM could assist by providing explanations, definitions, or additional context related to specific terms or concepts found in the blueprints. It could also help in summarizing key points or generating questions for clarification.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to read and interpret blueprints, additional software could be developed on top of the LLM to provide more specialized assistance. This software could potentially summarize complex blueprints, retrieve relevant information from similar projects, or offer recommendations based on the specifications provided.
+
+- E3: Exposure given image capabilities - Since the task involves reading blueprints, which are visual documents, having access to image capabilities could enhance the interpretation of diagrams, symbols, or layouts present in the blueprints. The LLM could work in conjunction with an image system to provide captions, identify components, or assist in understanding visual information.
+
+2: E2
+
+3: Moderate

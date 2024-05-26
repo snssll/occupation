@@ -1,0 +1,11 @@
+1: In this task, the Heating, Air Conditioning, and Refrigeration Mechanics and Installers need to estimate, order, pick up, deliver, and install materials and supplies required for maintaining equipment. To determine the exposure level, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task involves estimating, ordering, and handling physical materials, which are not directly related to text-based or information-based tasks that the LLM excels at.
+- The task requires physical actions like picking up and delivering materials, which cannot be performed by the LLM.
+- The task does not involve complex decision-making, analysis of data, or specialized knowledge that the LLM could assist with.
+
+Based on these considerations, it is clear that the task of estimating, ordering, picking up, delivering, and installing materials for maintenance does not align with the capabilities of the LLM. Therefore, the task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

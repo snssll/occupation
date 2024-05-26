@@ -1,0 +1,5 @@
+1: In this task, a respiratory therapist is required to monitor a patient's physiological responses to therapy and consult with a physician if adverse reactions occur. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a respiratory therapist to complete this task with high quality. The LLM could potentially assist in providing information on physiological responses, vital signs, blood gases, and blood chemistry changes, which could aid in monitoring the patient's condition. However, the critical aspect of this task involves real-time monitoring of a patient's physical responses and making immediate decisions based on those observations. The LLM may not have the capability to directly monitor a patient's physiological responses or consult with a physician in real-time, as this task requires hands-on, practical skills and immediate decision-making based on physical assessments.
+
+2: E0
+
+3: High

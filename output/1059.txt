@@ -1,0 +1,11 @@
+1: In this task, the occupation involves assembling elevator cars, installing platforms, walls, and doors. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+- The task of assembling elevator cars involves physical work that cannot be directly assisted by the LLM.
+- The task requires precise measurements and physical manipulation of materials, which are not within the capabilities of the LLM.
+- The LLM cannot interact with physical objects or perform tasks that require hands-on work.
+
+Based on these considerations, it is clear that the task of assembling elevator cars cannot be significantly assisted by the LLM, and therefore falls under the E0 category.
+
+2: E0
+
+3: High

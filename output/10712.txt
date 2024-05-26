@@ -1,0 +1,5 @@
+1: In this task, a Pharmacy Aide is responsible for operating a capsule or tablet counting machine to distribute a specific number of capsules or tablets into smaller containers. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves a physical action of operating a machine to count and distribute medication, which cannot be directly performed by an LLM. The task does not involve writing, summarizing, analyzing text, or any other activity that an LLM could directly assist with. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

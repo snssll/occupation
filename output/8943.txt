@@ -1,0 +1,5 @@
+1: In this task, the Fishing and Hunting Worker is required to locate fish using fish-finding equipment. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves using specialized equipment to locate fish, which may require knowledge of specific fishing techniques and understanding of fish behavior. While the LLM can provide general information about fishing and fish-finding equipment, it may not have the specialized domain knowledge required to effectively locate fish in a real-world fishing scenario. Additionally, the task involves physical interaction with equipment and the environment, which is not something the LLM can assist with. Therefore, this task falls under E0 as it does not clearly benefit from the use of the LLM to reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

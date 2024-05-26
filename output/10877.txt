@@ -1,0 +1,5 @@
+1: In this task, a Food Batchmaker is required to operate refining machines to reduce the particle size of cooked batches. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves physical operation of machines to achieve a specific outcome, which cannot be directly performed by an LLM. The task does not involve writing, transforming text, summarizing documents, or any other text-based activities that an LLM could assist with. Therefore, this task falls under E0 as it does not align with the capabilities of an LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,7 @@
+1: To determine the appropriate label for the task of collecting and analyzing data on customer demographics, preferences, needs, and buying habits, we need to consider the capabilities of the LLM. The task involves processing and analyzing data to identify potential markets and factors affecting product demand. The LLM can assist in tasks such as summarizing documents, providing feedback on documents, analyzing written information to inform decisions, and making recommendations given data or written input. In this case, the LLM can help in analyzing the data provided and generating insights based on the information given.
+
+Considering the task's nature, the LLM can significantly reduce the time it takes to analyze the data and provide insights compared to manual analysis. The LLM can process large amounts of text data, extract relevant information, and generate insights based on the input provided. Therefore, this task falls under the E1 label as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

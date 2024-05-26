@@ -1,0 +1,8 @@
+1: In this task, a Quality Control Systems Manager is responsible for collecting and analyzing production samples to evaluate quality. To determine the appropriate exposure label, we can break down the task:
+- Collecting production samples: This involves physically gathering samples from the production line, which cannot be done by the LLM.
+- Analyzing production samples: This step involves examining the samples for quality issues, which may require specialized knowledge and expertise that the LLM alone may not possess.
+Given that the task involves physical collection of samples and specialized analysis beyond text-based information, it is unlikely that the LLM alone or any software built on top of it could significantly reduce the time it takes to complete this task.
+
+2: E0
+
+3: High

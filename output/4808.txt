@@ -1,0 +1,13 @@
+1: For the task of developing application-specific software as a Computer Systems Engineer/Architect, we need to consider the level of assistance the LLM can provide in this process. 
+
+- **E0**: This task involves a high degree of technical expertise, problem-solving, and decision-making that typically requires human intervention. Developing application-specific software involves understanding complex requirements, designing software architecture, coding, testing, and debugging. The LLM may not have the ability to fully comprehend the intricacies of software development, especially in a specific application context.
+
+- **E1**: While the LLM can assist in generating code snippets, providing general programming advice, or explaining concepts, the task of developing application-specific software goes beyond just writing code. It involves a deep understanding of software engineering principles, domain-specific knowledge, and collaboration with stakeholders. The LLM may be able to provide some assistance in certain aspects, but it cannot replace the expertise and experience required for this task.
+
+- **E2**: It is conceivable that additional software could be developed on top of the LLM to assist in certain aspects of software development, such as generating boilerplate code, suggesting design patterns, or providing documentation. However, the core task of developing application-specific software still heavily relies on human expertise and decision-making, which the LLM alone may not significantly expedite.
+
+- **E3**: The LLM does not have image capabilities that would be relevant for developing application-specific software. Therefore, this task does not fall under E3.
+
+2: E0
+
+3: High

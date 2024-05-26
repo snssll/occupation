@@ -1,0 +1,7 @@
+1: In this task, the occupation of bailiffs involves ensuring the security and safety of individuals involved in legal proceedings. The specific task of guarding the lodging of a sequestered jury requires monitoring and protecting the jury members while they are kept separate from the public during a trial. To determine the appropriate exposure label for this task in relation to the LLM, we need to consider if the LLM or any tools built on top of it can significantly reduce the time it takes to complete this task with high quality.
+
+Given the nature of the task, which involves physical security and human interaction, it is clear that the LLM or any LLM-powered tools cannot directly assist in guarding the lodging of a sequestered jury. This task requires physical presence, monitoring, and ensuring the safety of individuals, which cannot be replaced by text-based AI models. Additionally, the task involves real-time decision-making and potential interventions that are beyond the capabilities of the LLM.
+
+2: E0
+
+3: High

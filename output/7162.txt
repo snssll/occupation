@@ -1,0 +1,5 @@
+1: In this task, a real estate broker is required to generate lists of properties for sale, including their locations, descriptions, and available financing options using computers. With the help of the LLM, the broker can efficiently draft property descriptions, compile lists of properties based on specific criteria, and potentially even generate financing options based on common practices in the real estate industry. The LLM can assist in summarizing property details, drafting descriptions, and even providing insights into market trends that could influence financing options. However, the task does not involve any specialized domain knowledge or complex databases that would require additional software beyond the capabilities of the LLM. Therefore, the task falls under E1 as the LLM can significantly reduce the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: High

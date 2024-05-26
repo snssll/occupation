@@ -1,0 +1,5 @@
+1: For the task of picking up and delivering parts as a Parts Salesperson, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task with high quality. In this case, the task involves physical actions of picking up and delivering parts, which cannot be directly assisted by the LLM. The task does not involve complex text input or output, and there are no specific instructions or information processing that the LLM can assist with in this context. Therefore, the task does not align with any of the exposure levels (E0, E1, E2, E3) provided.
+
+2: E0
+
+3: High

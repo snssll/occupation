@@ -1,0 +1,11 @@
+1: In this task, an Education Administrator, Postsecondary is required to advise students on various issues such as course selection, progress toward graduation, and career decisions. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves providing personalized advice to students based on their individual circumstances, which may require empathy, understanding, and human interaction. This aspect of the task cannot be effectively automated by an LLM.
+- While an LLM could potentially provide general information on course selection, graduation requirements, and career options, the personalized nature of advising students would likely require human judgment, understanding, and emotional intelligence.
+- Additionally, advising students often involves nuanced discussions, understanding of individual goals, and the ability to provide tailored guidance, which may not be effectively replicated by an LLM.
+
+Based on these considerations, the task of advising students on issues such as course selection, progress toward graduation, and career decisions is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

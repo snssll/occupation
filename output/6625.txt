@@ -1,0 +1,5 @@
+1: In this task, a Medical Equipment Preparer is required to examine equipment to detect issues like leaks, worn or loose parts, or signs of disrepair. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Since the task involves physical inspection of equipment, it cannot be directly completed using an LLM. The LLM does not have the capability to physically examine equipment for leaks or worn parts. Therefore, this task falls under E0 as it does not involve text-based work that can be completed using the LLM or any of its capabilities.
+
+2: E0
+
+3: High

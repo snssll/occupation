@@ -1,0 +1,12 @@
+1: For the task of requesting repair services and waiting for repair workers to arrive as a Maid or Housekeeping Cleaner, let's evaluate the exposure level to LLM:
+
+- This task involves basic communication skills to request repair services, which can be easily done through written or spoken communication.
+- The task does not require any specialized domain knowledge or complex decision-making.
+- The LLM can assist in drafting emails or making phone calls to request repair services, but it does not significantly reduce the time it takes to complete the task as this is a straightforward process.
+- There is no need for image capabilities or specialized databases for this task.
+
+Based on the above analysis, this task falls under E0 as the use of LLM or LLM-powered tools does not significantly reduce the time it takes for an experienced worker to complete the task with high quality.
+
+2: E0
+
+3: High

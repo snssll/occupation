@@ -1,0 +1,9 @@
+1: In this task, a Costume Attendant is responsible for distributing costumes or related equipment and keeping records of item status. To determine the appropriate exposure label, we can break down the task:
+- Distributing costumes: The LLM could potentially assist in generating lists of costumes to be distributed based on specific criteria provided, such as character names, scene numbers, or sizes. It could also help in organizing the distribution process efficiently.
+- Keeping records of item status: The LLM could aid in maintaining detailed records of costume items, tracking their availability, condition, and location. It could generate reports, update inventory lists, and provide reminders for restocking or maintenance.
+
+Considering the task involves a combination of organizing and record-keeping, which heavily relies on text-based information processing, the LLM could significantly reduce the time it takes to complete this task with equivalent quality. Therefore, this task falls under label E1.
+
+2: E1
+
+3: High

@@ -1,0 +1,7 @@
+1: Clinical Data Managers are responsible for ensuring the accuracy, integrity, and quality of clinical data collected during trials. One of their tasks is to contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation. To determine the appropriate label for this task's exposure to LLM, we need to consider the nature of the task. 
+
+Clinical data management involves handling sensitive and highly regulated information related to clinical trials. This task requires a deep understanding of regulatory requirements, medical terminology, and data management principles. While an LLM can assist in generating text, summarizing information, or providing feedback on documents, the specialized nature of clinical data management and the need for accuracy and compliance with regulations make it challenging for an LLM to significantly reduce the time it takes to complete this task with equivalent quality. The task involves complex domain-specific knowledge and adherence to strict guidelines, which may not be effectively handled by an LLM alone.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a firefighter is required to patrol burned areas after fires to locate and eliminate hot spots that may restart fires. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical work in the field, which cannot be directly assisted by an LLM. The task requires hands-on inspection and action, such as locating and extinguishing hot spots, which cannot be performed by a language model. Therefore, the task falls under E0 as it does not involve text-based activities that can be significantly aided by an LLM.
+
+2: E0
+
+3: High

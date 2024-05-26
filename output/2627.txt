@@ -1,0 +1,11 @@
+1: In this task, a Cartographer or Photogrammetrist is required to compile various types of data needed for map preparation, such as aerial photographs, survey notes, records, reports, and original maps. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The LLM could potentially assist in organizing and summarizing the data required for map preparation. It can help in processing textual information from reports, notes, and maps, making it easier for the cartographer to access and utilize the necessary data efficiently.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to compile the data, additional software could be developed on top of the LLM to automate the process of data compilation. This software could potentially retrieve and summarize information from various sources, making the task more efficient.
+
+- E3: Exposure given image capabilities - Since the task involves working with aerial photographs, having access to image capabilities along with the LLM could significantly reduce the time required to compile the data. The system could assist in scanning and processing images, extracting relevant information, and organizing the data for map preparation.
+
+2: E3
+
+3: Moderate

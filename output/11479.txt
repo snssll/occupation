@@ -1,0 +1,11 @@
+1: In this task, a Funeral Attendant is responsible for performing general maintenance tasks for funeral homes, such as maintaining equipment or caring for funeral grounds. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task of performing general maintenance tasks for funeral homes involves physical work such as cleaning, repairing, and maintaining equipment, as well as outdoor tasks like caring for funeral grounds. These activities require hands-on work and cannot be directly assisted by the LLM.
+- The LLM does not have the capability to physically perform maintenance tasks or care for grounds.
+- While the LLM could potentially provide information on maintenance procedures or best practices, the nature of this task primarily involves physical labor rather than information processing or decision-making that the LLM could significantly assist with.
+
+Based on these considerations, the task of performing general maintenance tasks for funeral homes is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

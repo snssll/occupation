@@ -1,0 +1,5 @@
+1: In this task, a travel guide leads individuals or groups to tour site locations and describes points of interest. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves providing real-time, on-site guidance and narration to tourists at various locations. This task requires physical presence, interaction with tourists, and the ability to adapt to the environment and audience feedback. While an LLM could potentially assist in providing information about the tour sites and points of interest, it cannot physically lead individuals or groups to these locations or interact with them in person. Therefore, the task falls under E0 as it requires a high degree of human interaction and physical presence, which cannot be replaced by the LLM.
+
+2: E0
+
+3: High

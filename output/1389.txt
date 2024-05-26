@@ -1,0 +1,12 @@
+1: In this task, a roofer is required to attach solar panels to existing roofs while ensuring they meet specifications and do not cause damage to the roofing materials or the structural integrity of buildings. To determine the exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for a roofer to complete this task with high quality.
+
+- Roofers require hands-on skills, physical labor, and specialized knowledge of roofing materials and structures to safely and effectively install solar panels. This task involves precise measurements, understanding of load-bearing capacities, and adherence to building codes.
+- The task does not involve writing, summarizing documents, or accessing specialized domain knowledge that the LLM could assist with.
+- While the LLM could potentially provide general information on solar panel installation, it cannot physically attach the panels or assess the structural integrity of a building.
+- The task does not involve text input or output, making it unsuitable for direct LLM interaction or applications that could be developed on top of the LLM.
+
+Based on these considerations, the task of attaching solar panels to existing roofs as a roofer falls under E0 as it does not align with the capabilities of the LLM to significantly reduce the time or improve the quality of completing the task.
+
+2: E0
+
+3: High

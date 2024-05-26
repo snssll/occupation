@@ -1,0 +1,11 @@
+1: In this task, a Sales Representative for Technical and Scientific Products is required to identify prospective customers through various means such as business directories, leads from existing clients, participation in organizations, or attending trade shows or conferences. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E1: Direct access to the LLM could significantly reduce the time it takes to complete this task by providing assistance in generating lists of potential customers based on specific criteria, summarizing information from business directories, or drafting outreach emails to these prospects. The LLM can help in transforming text and code according to complex instructions, providing edits to existing text, and maintaining records of written data related to potential customers.
+
+- E2: While having access to the LLM alone may not reduce the time to complete the task by half, additional software could be developed on top of the LLM to enhance the process. For example, a specialized application could be created to search and retrieve information from business directories or existing client data, analyze trends in customer preferences, or provide recommendations on the most promising leads based on data inputs.
+
+- E3: Image capabilities are not relevant for this task as it primarily involves text-based activities such as identifying customers through directories, leads, and organizational participation.
+
+2: E2
+
+3: Moderate

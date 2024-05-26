@@ -1,0 +1,12 @@
+1: Geodetic Surveyors are professionals who are responsible for accurately measuring and mapping the Earth's surface. One of the tasks they perform is maintaining databases of geodetic and related information, including coordinate, descriptive, or quality assurance data. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task.
+
+- Geodetic surveying involves dealing with precise measurements and specialized domain knowledge related to geography and mapping. The task of maintaining databases of geodetic information requires accuracy and attention to detail.
+- While the LLM can assist with writing and transforming text, providing edits, and even summarizing documents, it may not have the specialized domain knowledge required for geodetic surveying.
+- Access to the LLM alone may not reduce the time significantly for a geodetic surveyor to maintain databases of geodetic information, as the task involves specific technical expertise and data management skills that the LLM may not possess.
+- It is possible to imagine additional software built on top of the LLM that could assist in organizing and managing geodetic data more efficiently, but such software would need to integrate specialized geodetic knowledge and data management capabilities.
+
+Based on these considerations, the task of maintaining databases of geodetic and related information is best classified as E0 - No exposure.
+
+2: E0
+
+3: Moderate

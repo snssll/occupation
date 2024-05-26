@@ -1,0 +1,11 @@
+1: In this task, a Bioinformatics Scientist is required to collaborate with software developers in the development and modification of commercial bioinformatics software. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E1: Direct exposure - The task involves collaborating with software developers, which may require writing and transforming text and code according to complex instructions. The LLM could assist in generating code snippets, providing explanations, or suggesting improvements in the software development process.
+- E2: Exposure by LLM-powered applications - While the task may not be directly reducible to text-based interactions, it is conceivable that specialized software could be developed on top of the LLM to streamline the collaboration process, provide recommendations, or analyze complex bioinformatics data.
+- E3: Exposure given image capabilities - Since the task primarily involves software development and collaboration, image capabilities are not directly relevant here.
+
+Considering the above analysis, the task seems to align more closely with E2 as it involves specialized domain knowledge and collaboration that could benefit from additional software tools built on top of the LLM.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,7 @@
+1: In this task, a baker needs to adjust the quantity of ingredients based on the number of items they need to bake. To complete this task, the baker would typically need to calculate the new ingredient quantities manually based on the original recipe. With the help of an LLM, the baker could input the original recipe, specify the number of items to be baked, and receive the adjusted ingredient quantities as output. The LLM could perform the calculations and provide the baker with the necessary adjustments quickly and accurately, saving time and effort.
+
+Considering the nature of the task and the capabilities of the LLM to perform calculations and provide text-based outputs, this task falls under E1. The LLM can efficiently handle the text input and output required for this task, significantly reducing the time it takes for a baker to adapt ingredient quantities.
+
+2: E1
+
+3: High

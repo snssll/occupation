@@ -1,0 +1,5 @@
+1: In this task, a Real Estate Sales Agent is required to locate and appraise undeveloped areas for building sites based on evaluations of area market conditions. To determine the exposure label, we need to consider the nature of the task. The task involves analyzing market conditions, evaluating undeveloped areas, and making appraisals based on this information. While an LLM could potentially assist in providing general information about real estate market trends or definitions related to real estate appraisal, the task itself requires specialized knowledge and expertise in real estate, including understanding local market dynamics, zoning regulations, and property valuation methods. The task also involves on-site assessments and interactions with property owners, which cannot be effectively performed by an LLM. Therefore, the task does not significantly benefit from LLM capabilities, and the exposure label should be E0.
+
+2: E0
+
+3: High

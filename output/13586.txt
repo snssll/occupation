@@ -1,0 +1,7 @@
+1: In this task, a Print Binding and Finishing Worker is required to punch holes in and fasten paper sheets, signatures, or other materials using hand or machine punches and staplers. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical actions such as punching holes and using staplers, which cannot be automated by the LLM or any software tool. The task also does not involve complex decision-making or specialized knowledge that the LLM could assist with. Therefore, this task is not suitable for any exposure label.
+
+2: E0
+
+3: High

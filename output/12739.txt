@@ -1,0 +1,12 @@
+1: In this task, a Brokerage Clerk is responsible for preparing reports summarizing daily transactions and earnings for individual customer accounts. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- The task involves summarizing data and generating reports based on specific information, which aligns well with the capabilities of the LLM to process and generate text based on input.
+- The LLM can be used to transform raw transaction data into organized reports, saving time and effort in manual data processing.
+- The LLM can also assist in ensuring the accuracy and consistency of the reports by processing large amounts of data quickly and efficiently.
+- While the task does not involve highly specialized domain knowledge or complex databases, the LLM's ability to process and generate text based on input is sufficient to significantly reduce the time required to complete the task.
+
+Based on these considerations, the task of preparing reports summarizing daily transactions and earnings for individual customer accounts would likely fall under the E1 exposure label, as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

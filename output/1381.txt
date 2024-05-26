@@ -1,0 +1,10 @@
+1: In this task, the occupation is "Helpers--Roofers" and the specific task is to attach roofing paper and composition shingles using nails. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical labor that cannot be replaced by text-based instructions or information provided by the LLM. The task requires manual dexterity, physical strength, and the ability to work at heights, which are not capabilities of the LLM.
+- E1: The task of attaching roofing paper and shingles using nails is a hands-on task that cannot be directly completed by the LLM through text-based instructions. The LLM cannot physically perform the task, and the nature of the work involves manual labor that cannot be substituted by the LLM.
+- E2: While the LLM could potentially provide information on best practices for attaching roofing materials, it cannot physically perform the task. However, it is conceivable that software could be developed to provide detailed instructions or safety guidelines related to roofing tasks, which could complement the work of roofers.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

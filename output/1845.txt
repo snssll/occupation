@@ -1,0 +1,5 @@
+1: In this task, a Food Scientist or Technologist is required to check raw ingredients for maturity or stability for processing, as well as finished products for safety, quality, and nutritional value. To determine the appropriate label from the exposure rubric, we need to consider the capabilities of the LLM. The LLM can provide information on food safety guidelines, quality standards, and nutritional values based on existing knowledge up to a certain point. However, the task also involves physical inspection of raw ingredients and finished products, which cannot be done by the LLM alone. While the LLM can provide some information and guidelines, it cannot physically inspect the items. Therefore, this task falls under E0 as it requires physical inspection that the LLM cannot perform.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, a Shoe and Leather Worker and Repairer is responsible for attaching insoles to shoe lasts, affixing shoe uppers, and applying heels and outsoles. To determine the appropriate exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- Shoe and Leather Workers and Repairers primarily engage in physical tasks that involve manual dexterity and craftsmanship. The task of attaching insoles, affixing uppers, and applying heels and outsoles requires hands-on work and precise measurements, which are not tasks that an LLM can perform.
+- The task does not involve text input or output, complex instructions, data analysis, or decision-making based on information processing, which are areas where an LLM could be beneficial.
+- While there may be some theoretical applications of LLM-powered tools in the design or planning stages of shoe production, the actual physical assembly and repair work involved in this task cannot be effectively automated by an LLM.
+
+Based on these considerations, the task of attaching insoles to shoe lasts, affixing shoe uppers, and applying heels and outsoles is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

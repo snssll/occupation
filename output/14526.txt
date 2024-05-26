@@ -1,0 +1,5 @@
+1: In this task, a Bus and Truck Mechanic or Diesel Engine Specialist is required to repair or adjust seats, doors, or windows in vehicles. To determine the appropriate exposure label, we need to consider the nature of the task. Repairing or adjusting seats, doors, or windows involves physical manipulation of objects in the real world, which cannot be directly performed by an LLM. While an LLM could potentially provide information on how to repair or adjust these components, the actual hands-on work is beyond its capabilities. Therefore, this task falls under E0 as it does not involve text-based work that can be significantly aided by an LLM.
+
+2: E0
+
+3: High

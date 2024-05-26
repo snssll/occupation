@@ -1,0 +1,13 @@
+1: In this task, a Financial Risk Specialist is required to develop contingency plans to deal with emergencies. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be aided by the use of the LLM. 
+
+- E0: This task involves a high level of human judgment and decision-making, especially in the context of financial risk management. Contingency planning for emergencies requires a deep understanding of financial risks, regulations, and industry best practices. The task may involve assessing various scenarios, analyzing data, and making strategic decisions, which are not easily automated by the LLM.
+
+- E1: While the LLM can provide general information on contingency planning and emergency management, the task of developing specific contingency plans tailored to a company's financial risks and requirements is highly specialized and requires expertise beyond what the LLM can provide. The task involves complex decision-making and strategic thinking that cannot be fully automated by the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Financial Risk Specialists in developing contingency plans. This software could potentially help in analyzing data, generating risk scenarios, or providing recommendations based on historical data. However, the task still heavily relies on human expertise and judgment, making it challenging to fully automate with existing technology.
+
+- E3: The task of developing contingency plans for emergencies does not involve image processing or visual data that would benefit significantly from image capabilities. Therefore, this task does not fall under E3 exposure.
+
+2: E0
+
+3: High

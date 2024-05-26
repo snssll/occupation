@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of modifying existing software for software developers, we need to consider the capabilities of the LLM. In this case, the task involves making changes to software code to correct errors, adapt it to new hardware, or enhance performance. The LLM can assist in writing and transforming text and code according to complex instructions. It can provide edits to existing code following specifications and even generate code snippets based on requirements. Given that the task involves text input and output related to software development, the LLM can significantly reduce the time it takes to complete this task with equivalent quality. Therefore, this task falls under the E1 category as direct access to the LLM can expedite the process of modifying existing software.
+
+2: E1
+
+3: High

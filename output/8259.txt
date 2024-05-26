@@ -1,0 +1,11 @@
+1: In this task, a paramedic is required to instruct an emergency medical response team about emergency interventions to ensure the correct application of procedures. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves providing specific instructions and guidance related to emergency medical procedures, which may require detailed and specialized knowledge in the field of emergency medicine.
+- While the LLM can provide general information and guidance on medical procedures, it may not have access to the most up-to-date and specialized knowledge required for emergency medical interventions.
+- The task also involves human interaction and real-time decision-making, which may not be effectively replaced by the LLM alone.
+
+Based on these considerations, the task falls under E0 as it involves specialized knowledge, human interaction, and real-time decision-making that may not be significantly expedited by the use of the LLM alone.
+
+2: E0
+
+3: Moderate

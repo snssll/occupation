@@ -1,0 +1,11 @@
+1: In this task, the occupation involves Reservation and Transportation Ticket Agents and Travel Clerks who are responsible for announcing arrival and departure information using public address systems. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- This task involves communicating information verbally using a public address system, which is a straightforward and direct task that does not require complex decision-making or specialized knowledge.
+- The task primarily involves generating and delivering spoken announcements, which can be easily accomplished by a large language model (LLM) like OpenAI's model.
+- The LLM can generate text-based announcements that can be read aloud using a public address system, making it a suitable tool for this task.
+
+Based on these considerations, this task falls under E1 - Direct exposure, as the LLM can significantly reduce the time it takes to complete the task with equivalent quality by generating the necessary announcements.
+
+2: E1
+
+3: High

@@ -1,0 +1,7 @@
+1: In this task, the Service Unit Operators, Oil and Gas are responsible for installing pressure-control devices onto wellheads. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical work that requires hands-on installation of pressure-control devices onto wellheads. The task does not involve text input or output that can be easily processed by the LLM. The LLM cannot physically install devices, and there are no text-based instructions or information that would significantly benefit from LLM assistance.
+
+2: E0
+
+3: High

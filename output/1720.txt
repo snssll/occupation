@@ -1,0 +1,11 @@
+1: In this task, the occupation of Rotary Drill Operators, Oil and Gas involves activities related to regulating the outflow of oil from wells. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete the task with high quality. 
+
+- The task involves specific actions such as capping wells with packers or turning valves to regulate oil outflow. These actions require physical interaction and specialized knowledge related to oil drilling operations.
+- The task does not involve text-based activities that can be easily automated by the LLM, such as writing, summarizing documents, or providing feedback on written content.
+- The task is hands-on and requires practical skills that cannot be directly substituted by text-based AI tools.
+
+Based on these considerations, the task of capping wells with packers or regulating oil outflow does not align with the capabilities of the LLM or any tools built on top of it. Therefore, the task falls under label E0 - No exposure.
+
+2: E0
+
+3: High

@@ -1,0 +1,7 @@
+1: In this task, the motion picture projectionist is responsible for cleaning the projection booth, which involves tasks such as dusting equipment, cleaning lenses, and ensuring the overall cleanliness of the space. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete the task with high quality.
+
+- E0: This task involves physical cleaning of a space, which cannot be automated by the LLM or any software tools. The task requires manual labor and does not involve text-based or data-driven processes that the LLM can assist with.
+
+2: E0
+
+3: High

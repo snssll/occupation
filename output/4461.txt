@@ -1,0 +1,9 @@
+1: In this task, a geneticist is required to design sampling plans or coordinate the field collection of samples such as tissue specimens. To determine the exposure level to LLM, we can break down the task:
+- Designing sampling plans: This involves creating a structured plan for collecting samples, considering factors like sample size, location, timing, and methodology. LLM could assist in generating detailed sampling plans based on input criteria and guidelines.
+- Coordinating field collection: This task involves organizing the logistics of sample collection, ensuring proper procedures are followed, and overseeing the collection process. LLM could potentially help by providing templates for coordination plans, suggesting best practices, or generating communication materials.
+
+Considering the nature of the task, it involves a significant amount of domain-specific knowledge and practical coordination skills. While LLM could assist in generating some parts of the sampling plans or providing general guidance, the task heavily relies on hands-on fieldwork and specialized expertise that an LLM alone may not fully address. Therefore, this task falls under E0 as the use of LLM or LLM-powered tools would not significantly reduce the time it takes for an experienced geneticist to complete the task with high quality.
+
+2: E0
+
+3: Moderate

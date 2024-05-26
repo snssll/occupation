@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of cleaning laboratory equipment as a Janitor or Cleaner, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- The task involves cleaning laboratory equipment using various tools and solvents, which is a manual and practical task that does not involve complex decision-making or specialized knowledge beyond knowing how to clean different types of equipment.
+- While the LLM could potentially provide information on the best cleaning practices or safety guidelines for handling certain solvents, this information is likely already standardized and easily accessible through existing resources.
+- The task does not require text transformation, summarization, or complex data analysis that would significantly benefit from the LLM's capabilities.
+- The task does not involve image processing or detailed visual analysis that would require additional image capabilities beyond what the LLM offers.
+
+Based on these considerations, the task of cleaning laboratory equipment as a Janitor or Cleaner would likely fall under the E0 category as it does not significantly benefit from the use of the LLM in terms of reducing time or improving quality.
+
+2: E0
+
+3: High

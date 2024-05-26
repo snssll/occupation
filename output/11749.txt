@@ -1,0 +1,11 @@
+1: In this task, a Roof Bolter in mining performs ventilation tasks like hanging ventilation curtains and tubes. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task of performing ventilation tasks like hanging ventilation curtains and tubes involves physical work that cannot be directly assisted by the LLM.
+- The task requires hands-on skills and knowledge of mining safety regulations, which the LLM cannot provide.
+- The LLM does not have the capability to interact physically with the environment or perform tasks that require physical labor.
+
+Based on these considerations, it is clear that the task of performing ventilation tasks in mining is not suitable for exposure to the LLM. Therefore, the appropriate label for this task is E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, an Industrial Truck and Tractor Operator is required to hook tow trucks to trailer hitches and fasten attachments to tractors using hitchpins. This task involves physical actions such as connecting equipment and securing attachments, which cannot be directly performed by an LLM. The task does not involve text input or output, complex instructions, data analysis, or decision-making based on information processed by the LLM. Therefore, the task does not align with the capabilities of the LLM or any tools built on top of it. As a result, this task would be classified as E0 as it does not benefit from exposure to the LLM.
+
+2: E0
+
+3: High

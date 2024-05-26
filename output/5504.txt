@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of "Direct or coordinate activities of project personnel" for Information Technology Project Managers, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- E1: Direct exposure - If the task involves writing and transforming text or code according to complex instructions, providing edits to existing text following specifications, or maintaining records of written data, then direct access to the LLM could significantly reduce the time needed to complete the task with equivalent quality. In this case, the LLM could assist in generating communication materials, coordinating activities, or providing guidance to project personnel.
+
+- E2: Exposure by LLM-powered applications - If additional software could be developed on top of the LLM to summarize documents, retrieve up-to-date facts, or provide recommendations based on data, then the task could potentially benefit from such tools. For example, an application that can analyze project data and provide insights to help in coordinating project activities could be developed.
+
+- E3: Exposure given image capabilities - Since the task does not involve reading text from PDFs, scanning images, or creating/editing digital images, the use of image capabilities provided by the LLM would not significantly impact the completion of the task.
+
+Based on the nature of the task of "Direct or coordinate activities of project personnel" for Information Technology Project Managers, it is most likely that the task falls under E2: Exposure by LLM-powered applications, as developing software on top of the LLM to assist in coordinating project activities could potentially reduce the time needed to complete the task.
+
+2: E2
+
+3: Moderate

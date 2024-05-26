@@ -1,0 +1,7 @@
+1: In this task, a cook in a restaurant is required to plan and price menu items. With access to the powerful OpenAI large language model (LLM), the cook could potentially use the model to generate menu item ideas based on various criteria such as seasonality, popularity, dietary restrictions, and ingredient availability. The LLM could also assist in calculating the costs of ingredients, suggesting pricing strategies based on market trends, and even generating descriptions for the menu items. Overall, the LLM could significantly streamline the menu planning and pricing process by providing creative ideas, cost analysis, and pricing suggestions.
+
+Considering the task involves text input and output within the context of menu planning and pricing, the LLM can be directly used to generate text and calculations related to this task. The LLM can assist in writing and transforming text, providing recommendations, and analyzing data to inform decisions, all of which are relevant to planning and pricing menu items. Therefore, this task falls under the E1 label as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

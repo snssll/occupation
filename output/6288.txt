@@ -1,0 +1,11 @@
+1: In this task, the Appraisers and Assessors of Real Estate are required to estimate building replacement costs using building valuation manuals and professional cost estimators. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves analyzing and interpreting information from building valuation manuals and cost estimators to estimate replacement costs. This task primarily involves text-based information processing and analysis.
+- The task does not require real-time interaction, physical measurements, or detailed visual analysis.
+- The task relies on accessing and synthesizing information to make informed estimates based on existing data and guidelines.
+
+Based on these considerations, the task falls under E1 as it involves processing text-based information to estimate building replacement costs, a task that can be significantly expedited and improved in quality by using the LLM to assist in analyzing and interpreting the relevant data.
+
+2: E1
+
+3: High

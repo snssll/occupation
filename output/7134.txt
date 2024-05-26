@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of gathering historical data as a Historian, we need to consider the nature of the task and how the LLM can assist in completing it. Historians typically rely on a wide range of sources to gather historical data, including archives, court records, diaries, news files, photographs, books, pamphlets, and periodicals. The task involves searching, analyzing, and synthesizing information from these sources to create a comprehensive historical narrative.
+
+- E0: This task involves manual work of searching through physical and digital archives, analyzing various sources, and interpreting historical data. The LLM, while capable of processing text and providing information, may not significantly reduce the time it takes for a Historian to gather historical data from diverse sources.
+
+- E1: The LLM can assist Historians by providing quick access to information from digital sources such as books, articles, and news files. It can help in summarizing texts, answering specific questions, and even generating insights based on the data provided. This direct access to the LLM can streamline the process of gathering historical data to some extent.
+
+- E2: While the LLM alone may not reduce the time significantly for a Historian to gather historical data, additional software could be developed on top of the LLM to enhance the process. For example, a specialized tool could be created to search and retrieve information from historical archives, court records, and other sources more efficiently, integrating the capabilities of the LLM with data retrieval systems.
+
+- E3: The task of gathering historical data does not involve image processing or creation, so the image capabilities of the LLM are not directly relevant in this context.
+
+2: E2
+
+3: Moderate

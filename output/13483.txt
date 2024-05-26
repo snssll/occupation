@@ -1,0 +1,5 @@
+1: In this task, the Educational, Guidance, and Career Counselors and Advisors are required to provide students with information on various topics related to education and career choices. To complete this task, the counselor needs to have access to up-to-date information on college degree programs, admission requirements, financial aid opportunities, trade and technical schools, and apprenticeship programs. The LLM can assist in providing general information on these topics, summarizing key points, and potentially generating responses to specific questions. However, the LLM alone may not have access to the most current information unless it is explicitly provided in the input text. While the LLM can help in generating responses, it may not have the specialized domain knowledge required for detailed guidance in educational and career choices. Therefore, this task falls under E2 as additional software could be developed on top of the LLM to provide more specialized and up-to-date information to students.
+
+2: E2
+
+3: Moderate

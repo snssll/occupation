@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of installing green plumbing equipment as a plumber, pipefitter, or steamfitter, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves physical installation work that requires hands-on skills and precise measurements. The task also involves working with plumbing systems, which may have complexities that cannot be fully captured by text-based instructions alone. The LLM and any tools built on top of it cannot physically install plumbing equipment or make decisions that require physical interaction.
+
+- E1: While the LLM could potentially provide information on green plumbing equipment, such as specifications, installation instructions, or troubleshooting tips, the actual installation work itself cannot be performed by the LLM. The task involves practical skills and physical labor that cannot be replaced by text-based assistance alone.
+
+- E2: It is conceivable that software could be developed on top of the LLM to provide detailed step-by-step guides for installing specific green plumbing equipment. This software could potentially include interactive 3D models or augmented reality tools to assist plumbers, pipefitters, and steamfitters in the installation process. However, such tools would need to go beyond text-based instructions to significantly reduce the time it takes to complete the task.
+
+- E3: The task of installing green plumbing equipment does not involve image processing or detailed visual instructions that would require image capabilities in addition to text-based assistance. Therefore, the task does not significantly benefit from access to image capabilities alongside the LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a nursing assistant is required to observe and examine patients to detect symptoms that may require medical attention. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves observing and examining patients, which is primarily a hands-on activity that requires physical presence and interaction with patients. While the LLM can provide information on symptoms and medical conditions, it cannot physically observe or examine patients. Additionally, the task involves detecting physical symptoms such as bruises, open wounds, or blood in urine, which require direct visual inspection. Since the task is inherently hands-on and involves physical examination, it does not lend itself to automation or assistance from the LLM. Therefore, the task falls under E0 as it cannot be significantly aided by the LLM.
+
+2: E0
+
+3: High

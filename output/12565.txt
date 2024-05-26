@@ -1,0 +1,13 @@
+1: In this task, Order Clerks are responsible for preparing invoices, shipping documents, and contracts. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E1: Direct exposure - The LLM can assist in generating text for invoices, shipping documents, and contracts based on provided information. It can help in structuring the documents correctly and ensuring accuracy in the content. The model can also provide templates or examples to follow, speeding up the process significantly.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can handle text generation and formatting, additional software could be developed to integrate with existing systems for document management, data extraction, and verification. This software could automate the process further by retrieving relevant data, cross-referencing information, and ensuring compliance with regulations.
+
+- E3: Exposure given image capabilities - Since this task primarily involves text-based documents like invoices, shipping documents, and contracts, image capabilities are not directly relevant. The LLM's text generation and processing abilities are more critical for this task.
+
+Based on the above analysis, the task of preparing invoices, shipping documents, and contracts aligns most closely with E1: Direct exposure.
+
+2: E1
+
+3: Moderate

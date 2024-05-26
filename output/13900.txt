@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of recommending changes to company procedures in response to changes in regulations or standards for Regulatory Affairs Specialists, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E1: Direct exposure - The LLM can help in researching and summarizing the latest regulations or standards, providing insights into potential changes needed in company procedures, and drafting recommendations based on the information provided. This can significantly reduce the time it takes to analyze and respond to regulatory changes effectively.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can assist in generating recommendations based on input data, additional software could be developed to automate the process further by integrating real-time regulatory updates, analyzing the impact on company procedures, and generating tailored recommendations more efficiently.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant for this task as it involves recommending changes to company procedures in response to regulatory changes, which is primarily text-based and does not require image processing.
+
+Based on the above analysis, the task of recommending changes to company procedures in response to changes in regulations or standards for Regulatory Affairs Specialists falls under E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

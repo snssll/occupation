@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of interpreting engineering sketches, specifications, or drawings as a Mechanical Engineering Technologist or Technician, we need to consider the nature of the task and how the LLM could potentially assist in completing it.
+
+- **E1 (Direct exposure):** The task involves interpreting technical information from engineering sketches, specifications, or drawings, which may require domain-specific knowledge and expertise. While the LLM can provide general information and explanations, it may not have the specialized knowledge required to accurately interpret complex engineering drawings. Therefore, direct access to the LLM alone may not significantly reduce the time it takes to complete this task with equivalent quality.
+
+- **E2 (Exposure by LLM-powered applications):** It is conceivable that additional software could be developed on top of the LLM to assist in interpreting engineering sketches, specifications, or drawings. This software could potentially analyze the drawings, provide explanations, or even generate 3D models based on the sketches. Such tools could enhance the efficiency of the task by leveraging the LLM's capabilities in combination with specialized engineering knowledge.
+
+- **E3 (Exposure given image capabilities):** While the task involves interpreting visual information from engineering sketches, specifications, or drawings, the LLM's text-based capabilities may not directly benefit from image processing capabilities. However, if the system could view and analyze images of engineering drawings, it could potentially assist in interpreting the visual content of the sketches.
+
+2: E2
+
+3: Moderate

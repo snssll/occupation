@@ -1,0 +1,7 @@
+1: In this task, a Parts Salesperson needs to read catalogs, microfiche viewers, or computer displays to determine replacement part stock numbers and prices. With the help of a large language model (LLM), the task could potentially be automated by having the LLM read and extract the relevant information from these sources. The LLM could scan through the text, identify stock numbers, and extract pricing information, thus reducing the manual effort required by the Parts Salesperson.
+
+Considering the nature of the task and the capabilities of the LLM, it falls under E2 exposure. While the LLM alone may not reduce the time it takes to complete the task by at least half, additional software could be developed on top of the LLM to create a tool that could significantly streamline the process of extracting and organizing part numbers and prices from catalogs, microfiche viewers, or computer displays.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of changing dressings on wounds for Medical Assistants in terms of exposure to LLM, we need to consider the nature of the task and how LLM could potentially assist in completing it. 
+
+- E0: This task involves hands-on, physical work that requires direct interaction with patients and wound care. LLMs do not have the capability to physically change dressings on wounds, so there is no way for LLM to significantly reduce the time it takes to complete this task.
+
+- E1: LLMs can provide information on wound care techniques, best practices, and guidelines for changing dressings on wounds through text-based instructions. Medical Assistants could potentially use LLM to look up specific information related to wound care, but the actual task of physically changing dressings would still need to be done manually.
+
+- E2: While LLMs could potentially provide detailed information on wound care procedures and guidelines, there is not a straightforward way to develop software on top of LLM that could automate the physical task of changing dressings on wounds. Therefore, the time it takes to complete this task would not be significantly reduced by additional software.
+
+- E3: LLMs do not have image capabilities that would be relevant to changing dressings on wounds. This task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the addition of image capabilities would not significantly impact the completion of this task.
+
+2: E0
+
+3: High

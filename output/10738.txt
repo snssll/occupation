@@ -1,0 +1,11 @@
+1: In this task, the Earth Driller needs to operate controls to stabilize machines and position and align drills. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task. 
+
+- The task involves physical manipulation of machinery and precise positioning, which cannot be directly assisted by the LLM.
+- The task does not involve writing, summarizing documents, providing feedback, or any other text-based activities that the LLM could directly assist with.
+- While the LLM could potentially provide information on operating controls or drilling techniques, the physical aspect of the task cannot be directly influenced by the LLM.
+
+Based on these considerations, it is clear that the task of operating controls to stabilize machines and position and align drills falls under E0 as it does not align with any of the exposure levels where the LLM could significantly reduce the time to complete the task.
+
+2: E0
+
+3: High

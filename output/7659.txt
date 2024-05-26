@@ -1,0 +1,12 @@
+1: In this task, the Crossing Guards and Flaggers need to inform drivers of detour routes through construction sites. To determine the appropriate label from the exposure rubric, we can analyze the nature of the task. 
+
+- The task involves providing information to drivers, which can be formulated as text input and output.
+- The context for the task can be captured within 2000 words, as it mainly involves communicating detour routes.
+- The task does not require drawing up-to-date facts unless specific details about the construction sites or detour routes are needed, which can be included in the input.
+- The task does not involve detailed visuals, precise measurements, or human interaction that would require in-person demonstrations.
+
+Based on these considerations, the task of informing drivers of detour routes through construction sites can be significantly aided by the use of a large language model. The LLM can help generate clear and informative text messages or instructions for drivers, improving the efficiency of communication.
+
+2: E1
+
+3: Moderate

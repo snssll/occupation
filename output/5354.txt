@@ -1,0 +1,12 @@
+1: In this task, a roustabout working in the oil and gas industry is required to dig drainage ditches around wells and storage tanks. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be impacted by the capabilities of the LLM. 
+
+- E0: This task involves physical labor that cannot be automated or assisted by the LLM. The task requires manual digging, which cannot be replaced by text-based instructions or automation.
+- E1: The task does not involve complex text-based instructions, editing, summarizing, translating, or any other text-based activities that the LLM can directly assist with. The physical nature of the task cannot be significantly impacted by the LLM.
+- E2: While it is conceivable that software could be developed to provide guidance or instructions on digging drainage ditches based on specific parameters, the task itself is primarily physical and does not involve extensive text-based processing that the LLM could significantly assist with.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The physical aspect of digging drainage ditches does not align with the capabilities of the LLM, even with image capabilities.
+
+Based on the analysis, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

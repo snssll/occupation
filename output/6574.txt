@@ -1,0 +1,5 @@
+1: In this task, a fine artist is required to examine and test paintings for restoration or cleaning purposes. The task involves assessing the condition of the artwork, identifying the techniques and materials needed for restoration, and making decisions based on their expertise and knowledge of art conservation. While the LLM can provide general information on art restoration techniques and materials, it lacks the specialized domain knowledge and hands-on experience required for this task. The task also involves physical examination of the paintings, which cannot be done through text input alone. Therefore, the task does not significantly benefit from the LLM's capabilities, and it falls under E0 as it does not reduce the time for an experienced fine artist to complete the task.
+
+2: E0
+
+3: High

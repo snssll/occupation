@@ -1,0 +1,5 @@
+1: In this task, a Carpet Installer is required to nail tack strips around the area to be carpeted or use old strips to attach edges of new carpet. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical labor, specifically nailing tack strips, which cannot be directly performed by an LLM. The task does not involve complex decision-making, specialized knowledge retrieval, document analysis, or any other activity that could be significantly aided by an LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

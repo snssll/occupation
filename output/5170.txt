@@ -1,0 +1,13 @@
+1: In this task, a Set and Exhibit Designer is required to develop set designs based on various inputs such as scripts, budgets, research information, and available locations. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be impacted by the capabilities of the LLM. 
+
+- E0: This task involves a high degree of creativity, spatial awareness, and visual design skills. It requires the designer to consider multiple factors beyond just text-based information, such as physical space, aesthetics, and practicality. The LLM, even with its text-based capabilities, cannot directly assist in the visual design process or spatial considerations required for set design.
+
+- E1: While the LLM can provide information on scripts, budgets, and research data, it cannot directly assist in the creative process of developing set designs. The task involves a significant amount of visual and spatial reasoning that goes beyond text-based information processing. Therefore, the LLM alone cannot reduce the time it takes to complete this task by at least half with equivalent quality.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Set and Exhibit Designers in tasks such as summarizing research information, providing recommendations based on budget constraints, or even generating initial design concepts. However, this software would need to incorporate visual and spatial design capabilities that the LLM lacks to significantly reduce the time it takes to complete the task.
+
+- E3: The task of developing set designs involves a visual component that goes beyond text-based information. While the LLM can assist with processing text-based inputs like scripts and research data, it lacks the ability to directly interact with visual elements required for set design. Therefore, the task does not benefit significantly from image capabilities in conjunction with the LLM.
+
+2: E0
+
+3: High

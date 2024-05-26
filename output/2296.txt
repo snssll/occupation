@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of collaborating with search engine shopping specialists to place marketing content in desired online locations as an Online Merchant, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - In this task, the Online Merchant may need to communicate with search engine shopping specialists, provide instructions, and possibly draft marketing content. The LLM can assist in writing and transforming text, providing edits, and generating questions or responses related to the task. The model can help streamline the communication process and enhance the quality of the content produced.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to complete the task, additional software could be developed on top of the LLM to summarize documents related to marketing strategies, retrieve up-to-date information on online trends, or provide recommendations based on data analysis. These capabilities could enhance the efficiency of collaborating with specialists and optimizing marketing content placement.
+
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to the task of collaborating with search engine shopping specialists. Therefore, this task does not fall under E3.
+
+Based on the considerations above, the task of collaborating with search engine shopping specialists to place marketing content in desired online locations aligns best with **E2: Exposure by LLM-powered applications**.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing soil maps as a Conservation Scientist, we need to consider the nature of the task and how the LLM can assist in completing it.
+
+- **E0**: This task involves a high degree of specialized knowledge and expertise in soil science, geography, and conservation practices. Developing soil maps requires fieldwork, data collection, analysis, and interpretation, which are not tasks that can be easily automated by the LLM. The task also involves precise measurements and detailed analysis that may not be effectively handled by the LLM alone.
+
+- **E1**: While the LLM can assist in providing general information about soil mapping techniques, conservation practices, and data analysis methods, the task of developing soil maps is highly specialized and requires domain-specific knowledge that goes beyond what the LLM can provide. The LLM may help in generating some text-based descriptions or explanations related to soil mapping, but it cannot replace the expertise and hands-on work required for this task.
+
+- **E2**: It is conceivable that additional software could be developed on top of the LLM to assist Conservation Scientists in developing soil maps. This software could potentially automate certain data analysis processes, provide recommendations based on existing soil data, or help in summarizing large amounts of information related to soil mapping. However, the core task of developing soil maps still heavily relies on specialized knowledge and fieldwork, which may limit the extent to which the LLM-powered applications can significantly reduce the time needed to complete the task.
+
+- **E3**: The task of developing soil maps does not directly involve image processing or creation, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: Moderate

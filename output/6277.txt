@@ -1,0 +1,11 @@
+1: In this task, a machinist is required to establish work procedures for fabricating new structural products using metalworking machines. To complete this task, the machinist needs to have a deep understanding of metalworking processes, materials, and machine operations. The task involves creating detailed instructions and processes for fabricating new products, which may require expertise in various metalworking techniques and equipment.
+
+Considering the task description, the exposure to LLM can be evaluated as follows:
+- E0: This task involves hands-on work that requires practical knowledge of metalworking processes and machine operations. The expertise needed to establish work procedures for fabricating new structural products is highly specialized and practical in nature, which may not be effectively replaced by LLM capabilities alone.
+- E1: While the LLM could potentially assist in providing general information or guidelines related to metalworking processes, it may not significantly reduce the time or expertise required to establish specific work procedures for fabricating new structural products using metalworking machines.
+- E2: It is conceivable that specialized software could be developed on top of the LLM to assist machinists in generating work procedures by providing recommendations based on existing knowledge or data. This software could potentially streamline the process of creating work procedures, but it would likely require additional domain-specific information and capabilities beyond what the LLM alone can offer.
+- E3: The task does not involve image processing or detailed visual analysis, so exposure to image capabilities would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

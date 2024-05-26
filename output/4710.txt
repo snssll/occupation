@@ -1,0 +1,5 @@
+1: In this task, a Reservation and Transportation Ticket Agent needs to determine the availability of space on travel dates requested by customers and assign spaces if available. This task involves checking and managing reservations, which can be time-consuming and require attention to detail. With access to the powerful OpenAI large language model (LLM), the agent could potentially automate parts of this task by inputting customer travel dates and receiving immediate responses on space availability. The LLM could assist in quickly processing and cross-referencing information to provide accurate and timely responses to customers. This would significantly reduce the time it takes to complete the task with equivalent quality, as the agent would not have to manually check availability and assign spaces.
+
+2: E1
+
+3: High

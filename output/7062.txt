@@ -1,0 +1,13 @@
+1: In this task, the medical scientist needs to follow strict safety procedures when handling toxic materials to avoid contamination. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a medical scientist to complete this task with high quality. 
+
+- Direct exposure (E1): The task involves following safety procedures, which may not be significantly aided by the LLM alone. While the LLM can provide information on safety protocols, the actual implementation of these procedures requires physical actions and adherence to specific guidelines that may not be directly influenced by the LLM.
+
+- Exposure by LLM-powered applications (E2): It is conceivable that additional software could be developed on top of the LLM to provide guidance on safety procedures, offer real-time safety alerts, or even simulate hazardous scenarios for training purposes. However, the direct impact of the LLM alone on reducing the time to complete this task may not be substantial.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the completion of this task as it primarily involves following safety protocols rather than interpreting or creating visual content.
+
+Considering the above points, the task of following strict safety procedures when handling toxic materials to avoid contamination is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

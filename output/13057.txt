@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of producing data layers, maps, tables, or reports using spatial analysis procedures or GIS technology as a Geographic Information Systems Technologist or Technician, we need to consider the capabilities of the LLM.
+
+- E0: This task involves technical expertise in GIS technology and spatial analysis procedures, which may require specialized domain knowledge and skills beyond what the LLM can provide. The task may involve working with complex datasets, understanding geographic information systems, and applying spatial analysis techniques, which are not directly related to text-based tasks that the LLM excels at.
+
+- E1: While the LLM can assist in generating text-based reports or summaries related to GIS data, it may not have the specialized knowledge or capabilities to directly perform spatial analysis procedures or work with GIS technology. The task involves hands-on manipulation of data layers and maps, which may not be easily translated into text-based instructions for the LLM to follow.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist with tasks related to GIS technology. This software could potentially automate certain aspects of data layer production, map creation, or report generation by integrating with GIS systems or providing recommendations based on data inputs. However, this would require a more specialized application tailored to GIS tasks.
+
+- E3: Given the limitations of the LLM in handling image-based tasks and the complexity of GIS technology, it is unlikely that the LLM alone, even with image capabilities, could significantly reduce the time it takes to complete the task of producing data layers, maps, tables, or reports using spatial analysis procedures or GIS technology.
+
+2: E0
+
+3: Moderate

@@ -1,0 +1,10 @@
+1: In this task, a midwife needs to identify tubal and ectopic pregnancies in patients and refer them for appropriate treatments. To determine the exposure level to LLM, we can break down the task:
+- Identifying tubal and ectopic pregnancies requires medical knowledge and expertise in obstetrics and gynecology, which an LLM may not have access to unless explicitly provided in the input.
+- Referring patients for treatments involves decision-making based on medical guidelines and patient-specific factors, which may not be within the capabilities of the LLM to make independently.
+- The task involves real-time patient care and interaction, which cannot be performed solely through text-based input and output.
+
+Considering these points, the task of identifying tubal and ectopic pregnancies and referring patients for treatments falls under E0 as it involves a high degree of human interaction, requires specialized medical knowledge and decision-making, and cannot be fully automated by an LLM.
+
+2: E0
+
+3: High

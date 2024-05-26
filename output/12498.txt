@@ -1,0 +1,12 @@
+1: In this task, a Mechanical Door Repairer is responsible for preparing doors for hardware installation, such as drilling holes to install locks. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves physical work that cannot be directly performed by an LLM, as it requires drilling holes in doors.
+- While an LLM could potentially provide guidance on the process of drilling holes or offer theoretical knowledge about lock installation, it cannot physically perform the task.
+- The task does not involve complex written instructions, translations, summarizations, or data analysis that could significantly benefit from direct LLM exposure.
+- Additionally, the task does not involve image processing or detailed image editing that would require the capabilities of an LLM with image capabilities.
+
+Based on these considerations, the task of preparing doors for hardware installation by drilling holes to install locks is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

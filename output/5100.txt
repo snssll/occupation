@@ -1,0 +1,15 @@
+1: Non-Destructive Testing Specialists are professionals who are responsible for ensuring the safety and reliability of structures, components, and materials without causing damage. The task provided involves developing or using new non-destructive testing methods, such as acoustic emission testing, leak testing, and thermal or infrared testing. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task.
+
+- E0: This task involves specialized knowledge and expertise in non-destructive testing methods, which may not be easily accessible through the LLM alone. The task also requires practical skills and hands-on experience that cannot be replicated by the LLM.
+
+- E1: While the LLM can provide information on existing non-destructive testing methods, it may not have the capability to develop new testing methods or provide practical guidance on using specific techniques. Therefore, the LLM alone may not be able to reduce the time significantly for this task.
+
+- E2: It is conceivable that additional software built on top of the LLM could assist Non-Destructive Testing Specialists by summarizing research papers, providing recommendations based on data analysis, or retrieving specialized domain knowledge related to testing methods. This software could potentially enhance the efficiency of developing or using new non-destructive testing methods.
+
+- E3: The task does not involve image capabilities, so access to a system that can view, caption, and create images would not significantly impact the completion time for this task.
+
+Based on the analysis, the task of developing or using new non-destructive testing methods is best classified as E2.
+
+2: E2
+
+3: Moderate

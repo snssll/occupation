@@ -1,0 +1,13 @@
+1: In this task, a Construction and Building Inspector is required to estimate the cost of completed work or needed renovations or upgrades. To determine the exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- **E0**: This task involves a high degree of expertise and experience in construction and building inspection. Estimating costs for construction projects requires detailed knowledge of materials, labor costs, market prices, and other factors that may not be readily available in text form for the LLM to access. Additionally, precise measurements and on-site assessments are often necessary, which cannot be performed by the LLM.
+
+- **E1**: While the LLM could potentially provide general information on average costs of materials or labor, the task of estimating costs for specific projects involves a level of detail and context that may not be effectively captured by the model. The LLM alone is unlikely to reduce the time it takes to complete this task by at least half with equivalent quality.
+
+- **E2**: It is conceivable that specialized software could be developed on top of the LLM that integrates with databases of construction costs, market trends, and project specifications to assist in estimating costs more efficiently. Such software could potentially analyze large datasets and provide recommendations based on historical data, thus reducing the time needed for cost estimation.
+
+- **E3**: Image capabilities would not significantly impact the estimation of costs for construction projects, as this task primarily involves data analysis and knowledge of construction practices rather than image processing.
+
+2: E2
+
+3: Moderate

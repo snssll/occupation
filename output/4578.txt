@@ -1,0 +1,5 @@
+1: In this task, a taxi driver needs to determine fares based on trip distances and times using taximeters and fee schedules, and then announce the fares to passengers. With the help of an LLM, the taxi driver could potentially automate the fare calculation process by inputting the trip distance and time into the model, which could then provide the fare amount based on predefined fee schedules or algorithms. The LLM could also assist in generating clear and accurate announcements of the fares to passengers. This task involves text input (trip distances and times) and text output (fare amounts and announcements), which falls within the capabilities of the LLM. Therefore, the LLM could significantly reduce the time it takes for a taxi driver to complete this task with equivalent quality, making it suitable for an E1 label.
+
+2: E1
+
+3: High

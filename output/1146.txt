@@ -1,0 +1,12 @@
+1: In this task, an Advanced Practice Psychiatric Nurse is required to assess patients' mental and physical status based on their presenting symptoms and complaints. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves analyzing and interpreting information provided by patients, which can be text-based.
+- The task does not involve detailed visuals, precise measurements, or physical interactions.
+- The task relies heavily on the nurse's expertise in understanding and evaluating mental and physical health conditions.
+- While the LLM can provide general information on symptoms and conditions, it may not have the specialized knowledge and experience required to assess patients accurately.
+
+Based on these considerations, the task falls under E0 as it requires specialized domain knowledge, human judgment, and interaction that cannot be effectively replaced by the LLM alone.
+
+2: E0
+
+3: High

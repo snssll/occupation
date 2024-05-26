@@ -1,0 +1,13 @@
+1: In this task, a Transportation Security Screener is required to follow individuals who have breached security until law enforcement or other security personnel can apprehend them. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be aided by the LLM. 
+
+- Direct exposure (E1): The task involves physical surveillance and intervention, which cannot be directly assisted by the LLM. The LLM cannot physically follow individuals or apprehend them, so this task does not fall under direct exposure.
+
+- Exposure by LLM-powered applications (E2): While the LLM could potentially assist in providing information or guidance on how to handle security breaches, the task primarily involves physical actions that cannot be significantly aided by the LLM alone. It is challenging to imagine additional software that could be developed on top of the LLM to reduce the time it takes to complete this task by half.
+
+- Exposure given image capabilities (E3): The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, image capabilities provided by the LLM are not relevant to this task.
+
+Based on the above analysis, the task of following individuals who breach security until law enforcement arrives is best classified as E0 - No exposure.
+
+2: E0
+
+3: Certainty level: High

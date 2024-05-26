@@ -1,0 +1,13 @@
+1: In this task, a Set and Exhibit Designer is required to confer with clients and staff to gather information about various aspects of an exhibit, such as space, themes, content, timelines, budgets, materials, and promotion requirements. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E0: This task involves direct human interaction and requires gathering information through discussions with clients and staff. It also involves understanding the specific needs and preferences of clients, which may not be easily captured by an LLM. The task does not involve writing or transforming text/code, summarizing documents, or providing feedback on documents, which are areas where LLMs excel. Therefore, using an LLM may not significantly reduce the time it takes for an experienced Set and Exhibit Designer to complete this task.
+
+- E1: While an LLM could potentially assist in generating questions or providing information based on general knowledge, the core aspect of this task involves direct communication and collaboration with clients and staff. The nuanced understanding of client requirements, budget constraints, and design preferences may not be effectively captured by an LLM alone. Therefore, the direct exposure to an LLM may not reduce the time significantly for this task.
+
+- E2: It is conceivable that additional software could be developed on top of an LLM to assist Set and Exhibit Designers in organizing and summarizing information gathered from clients and staff. This software could potentially help in managing timelines, budgets, and materials efficiently. However, the complexity of client interactions and the need for creative input in designing exhibits may still require significant human involvement. Therefore, while an LLM-powered application could enhance certain aspects of the task, it may not halve the time required for completion.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, which are areas where image capabilities could significantly reduce the time needed to complete the task. Therefore, exposure given image capabilities is not relevant in this context.
+
+2: E2
+
+3: Moderate

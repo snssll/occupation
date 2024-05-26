@@ -1,0 +1,7 @@
+1: In this task, a Security and Fire Alarm Systems Installer is required to mount and fasten various components such as control panels, door and window contacts, sensors, and video cameras. They also need to attach electrical and telephone wiring to connect these components. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical installation work that cannot be directly assisted by the LLM. The LLM does not have the capability to perform physical tasks like mounting components or attaching wiring. Therefore, this task is not suitable for any exposure label that involves the LLM directly assisting in completing the task.
+
+2: E0
+
+3: High

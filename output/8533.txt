@@ -1,0 +1,5 @@
+1: In this task, a Construction Manager is required to investigate damage, accidents, or delays at construction sites to ensure proper construction procedures are being followed. To determine the exposure label for this task in relation to the LLM, we need to consider the nature of the task. The task involves on-site investigation, which requires physical presence, observation, and interaction with the construction site and personnel. It involves assessing the physical conditions, understanding the sequence of events, and ensuring compliance with safety and construction protocols. While the LLM can provide information on construction procedures, regulations, and best practices, it cannot physically investigate the site, assess damages, or interact with personnel on-site. Therefore, the task does not align with the capabilities of the LLM or any tools built on top of it. As a result, this task falls under E0 as it cannot be significantly expedited or completed with high quality using the LLM.
+
+2: E0
+
+3: High

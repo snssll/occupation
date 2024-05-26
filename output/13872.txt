@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of recognizing and reporting abnormalities in cells as a Cytogenetic Technologist, we need to consider the capabilities of the LLM. The task involves analyzing visual information related to cells, which falls under the category of detailed visual analysis. The LLM does not have image capabilities to view, caption, or create images, and it cannot accurately retrieve detailed information from image inputs. Since the task requires precise visual analysis and interpretation of cell characteristics, it is unlikely that the LLM alone or with additional software could significantly reduce the time it takes to complete the task with high quality. Therefore, this task would fall under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: Moderate

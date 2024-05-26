@@ -1,0 +1,15 @@
+1: For the task of providing assistance to craft workers in construction, such as carpenters, plasterers, or masons, the exposure to LLM can be evaluated as follows:
+
+- E0: This task involves physical labor and hands-on assistance, which cannot be replaced by LLM or any software tools. The task requires direct interaction and physical support, making it unsuitable for automation through LLM.
+
+- E1: LLM could potentially assist in providing written instructions or guidance for the construction laborers, but the nature of the task involves hands-on work that cannot be fully automated by LLM. While LLM could provide some written assistance, the core task of physical support remains outside the capabilities of LLM.
+
+- E2: It is challenging to imagine additional software built on top of LLM that could significantly reduce the time it takes to complete this task. The task of providing physical assistance to craft workers in construction is highly specialized and requires human presence and physical labor, which cannot be easily automated by LLM or any software tools.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of LLM are not relevant in this context.
+
+Based on the above analysis, the task of providing assistance to craft workers in construction is best classified as E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,12 @@
+1: In this task, a radiologist is required to provide guidance to nuclear medicine technologists or technicians regarding dosages, techniques, positions, and projections. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves providing specific instructions and guidance based on medical knowledge and expertise.
+- The task does not involve writing or transforming text, summarizing documents, or generating questions.
+- The task requires specialized domain knowledge in radiology and nuclear medicine.
+- The task does not involve image capabilities or detailed image analysis.
+
+Based on these considerations, the task does not directly benefit from the capabilities of the LLM in a way that would significantly reduce the time it takes for an experienced radiologist to complete the task. The task relies heavily on specialized domain knowledge and expertise that the LLM may not possess.
+
+2: E0
+
+3: High

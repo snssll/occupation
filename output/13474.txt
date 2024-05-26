@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of providing statistical and computational tools for biologically based activities as a Bioinformatics Scientist, we need to consider the level of exposure to LLM.
+
+- This task involves utilizing statistical and computational tools in the field of bioinformatics, which may require specialized domain knowledge.
+- The task description does not explicitly mention the need for up-to-date facts or information retrieval from the internet.
+- While the task involves complex data analysis and tool development, it does not inherently require image capabilities or detailed visual analysis.
+- The task primarily involves working with text-based data related to genetic analysis, gene expression, and gene function determination.
+
+Based on these considerations, this task falls under E2 - Exposure by LLM-powered applications. While direct access to the LLM alone may not significantly reduce the time it takes to complete the task, additional software developed on top of the LLM could enhance the efficiency of data analysis and tool development in bioinformatics.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, a Cytogenetic Technologist is required to communicate test results or technical information to various individuals such as patients, physicians, family members, or researchers. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves communicating information in written or spoken form. An LLM could potentially assist in drafting written communications or providing responses to common queries. However, the task also involves conveying technical information accurately and sensitively, which may require human judgment and empathy. While the LLM can generate text, it may not fully capture the nuances required for effective communication in this context.
+
+- Exposure by LLM-powered applications (E2): An LLM-powered application could potentially assist in summarizing complex technical information, generating initial drafts of communication, or providing relevant information based on input queries. However, the task also involves understanding the context of the communication, tailoring messages to different audiences, and handling sensitive information. These aspects may require human intervention beyond what an LLM-powered application can provide.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the task of communicating test results or technical information to various individuals. This task primarily involves written or spoken communication rather than image processing.
+
+Considering the above points, the task of communicating test results or technical information to patients, physicians, family members, or researchers is best classified as E2 - Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

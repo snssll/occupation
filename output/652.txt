@@ -1,0 +1,5 @@
+1: In this task, an Inspector, Tester, Sorter, Sampler, or Weigher is required to analyze test data and make computations to determine test results. With the help of a large language model (LLM), the worker can input the test data, describe the computations needed, and receive the test results. The LLM can assist in performing calculations, interpreting data, and providing insights based on the input data. This task involves processing text-based information and performing computations, which align well with the capabilities of an LLM. Therefore, this task falls under E1 as the LLM can significantly reduce the time it takes to complete the task with equivalent quality by providing computational assistance and data interpretation.
+
+2: E1
+
+3: High

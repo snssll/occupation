@@ -1,0 +1,5 @@
+1: In this task, the airline pilot is required to monitor engine operation, fuel consumption, and functioning of aircraft systems during flights. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves real-time monitoring and decision-making based on complex data related to aircraft systems. While an LLM could potentially provide information on general aircraft systems, it lacks the ability to access real-time data or physically monitor the aircraft during a flight. Additionally, tasks related to aviation safety require precise decision-making and human judgment, which cannot be fully replaced by an LLM. Therefore, this task falls under E0 as it involves a high degree of human interaction, real-time decision-making, and precise measurements that cannot be effectively handled by an LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,7 @@
+1: In this task, a Hazardous Materials Removal Worker is responsible for preparing hazardous materials for removal or storage. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. 
+
+Given that this task involves physical work such as handling hazardous materials, it is unlikely that the LLM or any tool built on top of it can directly assist in the physical preparation of hazardous materials. The task requires specific training, safety protocols, and physical handling that cannot be replaced by text-based or image-based assistance. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

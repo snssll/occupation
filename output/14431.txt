@@ -1,0 +1,11 @@
+1: In this task, the helper-roofer is responsible for removing old roofing materials from a building. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be impacted by the capabilities of the LLM. 
+
+- The task of removing old roofing materials is physical in nature and requires manual labor. It does not involve complex decision-making, analysis, or specialized knowledge that the LLM could significantly assist with.
+- The task does not involve text input or output, making it unsuitable for direct interaction with the LLM.
+- While it's possible to imagine software that could assist with roofing tasks, such as providing guidance on the best methods for removal or safety tips, the current capabilities of the LLM do not directly apply to this physical task.
+
+Based on these considerations, the task of removing old roofing materials is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

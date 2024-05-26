@@ -1,0 +1,15 @@
+1: In this task, the occupation involves applying hardening and sealing compounds to cure the surface of concrete, as well as waterproofing or restoring the surface. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- E0: This task involves physical work that requires hands-on application of compounds to concrete surfaces. It does not involve text-based instructions or information processing that could be significantly aided by an LLM.
+
+- E1: While the task involves specific actions related to applying compounds to concrete surfaces, there may be aspects such as reading safety instructions, understanding different types of compounds, or researching best practices for waterproofing or restoring concrete that could benefit from the use of an LLM to provide information or guidance. The LLM could assist in generating written instructions or safety guidelines for the task.
+
+- E2: If there were specialized software developed on top of the LLM that could provide detailed recommendations on the best hardening and sealing compounds to use based on the specific type of concrete or surface, as well as the latest industry trends in waterproofing and restoration, it could potentially reduce the time needed to gather this information manually.
+
+- E3: This task does not involve image processing or creation, so the additional capabilities provided by image recognition would not significantly impact the completion of the task.
+
+Based on the above analysis, the task of applying hardening and sealing compounds to cure the surface of concrete, and waterproofing or restoring the surface could be best classified as E1.
+
+2: E1
+
+3: Moderate

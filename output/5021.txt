@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing or implementing fund investment policies or strategies for Investment Fund Managers, we need to consider the level of exposure to LLM.
+
+- E0: This task involves a high level of expertise in finance and investment strategies, which may not be significantly aided by the use of LLM. The task likely requires specialized domain knowledge and decision-making skills that go beyond what an LLM can provide.
+
+- E1: While an LLM could potentially assist in providing general information or summaries related to investment policies or strategies, the task of developing or implementing these policies requires a deep understanding of financial markets, risk management, and regulatory frameworks. The critical decision-making involved in this task may not be effectively supported by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Investment Fund Managers in analyzing market data, generating insights, or providing recommendations based on the latest financial information. This software could potentially enhance the efficiency of the task by leveraging the LLM's capabilities in processing large amounts of text data.
+
+- E3: Given the nature of the task, which primarily involves developing and implementing investment strategies, the use of image capabilities provided by the LLM would not significantly impact the completion of the task.
+
+2: E2
+
+3: Moderate

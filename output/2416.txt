@@ -1,0 +1,5 @@
+1: In this task, an Inspector, Tester, Sorter, Sampler, or Weigher is required to collect or select samples for testing or as models. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Collecting or selecting samples involves physical actions that cannot be directly performed by an LLM. The task requires hands-on work, such as physically gathering samples, which cannot be accomplished through text-based instructions alone. As a result, this task falls under E0 as it involves physical actions that cannot be automated by the LLM.
+
+2: E0
+
+3: High

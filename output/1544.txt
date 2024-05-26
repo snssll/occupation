@@ -1,0 +1,13 @@
+1: In this task, the carpenter is required to bore boltholes in timber, masonry, or concrete walls using a power drill. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves physical work that requires the use of a power drill to bore holes in various materials. The task does not involve text-based instructions, complex data analysis, or decision-making that could be significantly aided by an LLM. Therefore, the task does not align with the capabilities of the LLM or any tools built on top of it.
+
+- E1: The task does not involve writing, transforming text, providing edits, summarizing documents, answering questions about documents, or any other text-based activities that the LLM could directly assist with. The task is primarily hands-on and requires physical skills rather than text-based processing.
+
+- E2: While it is conceivable that software could be developed to assist carpenters in specific tasks related to planning, design, or material selection, the core task of physically boring boltholes using a power drill is not one that can be significantly expedited or improved by an LLM-powered application. The task is more about manual labor and practical skills rather than information processing or decision-making that an LLM could enhance.
+
+- E3: The task does not involve image capabilities, reading text from PDFs, or creating/editing digital images. It is a hands-on task that requires physical drilling rather than visual or image-related processing that an LLM with image capabilities could assist with.
+
+2: E0
+
+3: High

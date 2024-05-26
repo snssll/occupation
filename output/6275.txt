@@ -1,0 +1,11 @@
+1: In this task, a Cabinetmaker or Bench Carpenter is required to establish specifications for articles to be constructed or repaired based on various forms of instructions such as blueprints, drawings, diagrams, or oral/written instructions. To determine the exposure level to LLM, we need to consider if the LLM can assist in interpreting and understanding these instructions, providing guidance on shaping or assembling parts, and potentially suggesting alternative methods or operations. 
+
+- E1: If the LLM can help in interpreting complex instructions, providing detailed guidance on construction or repair processes, and offering suggestions based on the provided information, then it could significantly reduce the time needed to establish specifications for articles. This would involve the LLM transforming text instructions into actionable plans or methods.
+  
+- E2: While the LLM alone may not be able to reduce the time by half for this task, additional software could be developed on top of the LLM to summarize complex instructions, provide detailed construction methods, or offer alternative approaches based on the input data. This software could enhance the LLM's capabilities to better assist in establishing specifications for articles.
+
+- E3: Image capabilities are not directly relevant to this task as it primarily involves interpreting text-based instructions and planning construction or repair operations based on them. Therefore, image capabilities would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

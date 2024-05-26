@@ -1,0 +1,11 @@
+1: In this task, the occupation of embalmers involves assisting with placing caskets in hearses and organizing cemetery processions. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an average worker to complete this task with high quality. 
+
+- The task involves physical actions such as placing caskets and organizing processions, which cannot be directly assisted by the LLM.
+- The task does not involve complex data analysis, decision-making, or information retrieval that would benefit from the LLM's capabilities.
+- The task is more about physical coordination and logistics rather than information processing or writing.
+
+Based on these considerations, it is clear that the task of assisting with placing caskets in hearses and organizing cemetery processions does not align with any of the exposure labels (E0, E1, E2, E3) provided.
+
+2: E0
+
+3: High

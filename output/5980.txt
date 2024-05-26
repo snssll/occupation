@@ -1,0 +1,12 @@
+1: In this task, the main activity is driving trucks equipped with public address systems to broadcast announcements for advertising or publicity purposes. To determine the exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical driving and operating equipment, which cannot be directly assisted by the LLM. The core task of driving the truck cannot be automated or significantly improved by the LLM.
+- E1: The task does involve some written communication for the announcements, but the primary function is the physical act of driving the truck and broadcasting the announcements. While the LLM could potentially assist in drafting the announcements, the driving aspect remains a manual task.
+- E2: While the LLM could potentially help in drafting the announcements or providing advertising ideas, the core task of driving the truck through city streets cannot be significantly improved by the LLM alone. However, additional software could be developed to automate the process of generating advertising content or optimizing routes based on data analysis.
+- E3: The task does not involve image processing or detailed visual analysis, so the image capabilities of the LLM would not significantly impact the completion of this task.
+
+Based on the analysis, the most fitting label for this task is E2.
+
+2: E2
+
+3: Moderate

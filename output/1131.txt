@@ -1,0 +1,9 @@
+1: In this task, a firefighter is required to assess fires and situations, then report conditions to superiors using two-way radios. To determine the appropriate label from the exposure rubric, we can break down the task:
+- Assessing fires and situations involves observing and analyzing the current state of a fire or emergency situation.
+- Reporting conditions to superiors requires clear and concise communication of the assessment findings using two-way radios.
+
+Given the nature of the task, it involves real-time assessment and communication in emergency situations, which are not text-based or easily translatable to written instructions. The task also requires physical presence and interaction, which cannot be effectively replaced by an LLM or any software tool. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any software tool based on it.
+
+2: E0
+
+3: High

@@ -1,0 +1,9 @@
+1: In this task, a private detective or investigator is required to monitor industrial or commercial properties to enforce rules and protect people or property. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+Private detectives and investigators typically engage in physical surveillance, monitoring activities on-site, and interacting with individuals in person. These tasks involve real-time observations, physical movements, and human interactions that cannot be directly replaced by an LLM. The task also involves ensuring conformance to establishment rules, which may require physical presence and actions beyond text-based analysis.
+
+Given the nature of the task and the limitations of the LLM, it is evident that the task of monitoring industrial or commercial properties as a private detective or investigator falls under E0. The task involves physical surveillance and real-time actions that cannot be effectively performed by an LLM or any tool built on top of it.
+
+2: E0
+
+3: High

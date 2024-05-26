@@ -1,0 +1,12 @@
+1: In this task, a landscaping and groundskeeping worker is required to build forms, mix cement, and pour it to create garden borders. To determine the appropriate exposure label, we need to consider if access to the LLM would significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical labor such as building forms and pouring cement, which cannot be directly assisted by the LLM.
+- The task does not involve complex text input or output that the LLM could assist with.
+- The task does not involve accessing up-to-date information or specialized knowledge that the LLM could provide.
+- The task does not involve image processing or analysis that would benefit from the LLM's capabilities.
+
+Based on these considerations, it is clear that the task of building forms and pouring cement for garden borders does not have any direct exposure to the LLM's capabilities. Therefore, this task falls under label E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, a Pest Control Worker is required to cut or bore openings in buildings or concrete to access infested areas and inject pesticides. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- Direct exposure (E1): The task involves physical actions such as cutting, boring, and injecting pesticides, which cannot be directly assisted by the LLM. The model cannot physically perform these actions, so it is unlikely that direct access to the LLM would reduce the time it takes to complete the task by at least half.
+
+- Exposure by LLM-powered applications (E2): While the LLM could potentially provide information on the types of pesticides to use, safety precautions, or general pest control knowledge, the task primarily involves physical labor and specialized skills that the LLM cannot directly assist with. It is conceivable that specialized software could be developed to provide recommendations or safety guidelines, but the core task of physically accessing and treating infested areas would not be significantly expedited by the LLM alone.
+
+- Exposure given image capabilities (E3): The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, image capabilities would not significantly reduce the time it takes to complete the task.
+
+Considering the above analysis, the task of a Pest Control Worker does not align well with any of the exposure levels provided, as the core components of the task involve physical actions that cannot be directly assisted by the LLM.
+
+2: E0
+
+3: Certainty level: High

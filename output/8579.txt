@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of investigating traffic problems and recommending methods to improve traffic flow or safety as a Transportation Engineer, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- **E1 (Direct exposure):** If the task involves researching traffic data, analyzing traffic patterns, and formulating recommendations based on existing knowledge and best practices, the LLM could significantly reduce the time needed to gather information, generate reports, and propose solutions. The LLM can assist in summarizing relevant documents, providing insights into traffic engineering concepts, and even drafting reports or recommendations based on the input provided.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone may not reduce the time to complete the task by half, additional software could be developed on top of the LLM to enhance the capabilities for Transportation Engineers. This software could include tools for analyzing complex traffic data, generating real-time traffic flow predictions, or even simulating traffic scenarios to test proposed solutions.
+
+- **E3 (Exposure given image capabilities):** Since the task primarily involves investigating traffic problems and recommending solutions, image capabilities may not be directly relevant in this context. The focus is more on textual data related to traffic patterns, engineering principles, and safety measures.
+
+Considering the above points, the task of investigating traffic problems and recommending methods to improve traffic flow or safety as a Transportation Engineer could be best classified as **E2 (Exposure by LLM-powered applications)**.
+
+2: E2
+
+3: Moderate

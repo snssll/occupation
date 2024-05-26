@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of plotting characteristics of boreholes for oil and gas wells as an Architectural and Civil Drafter, we need to consider the capabilities of the LLM. The task involves analyzing photographic subsurface survey recordings and other data to represent depth, degree, and direction of inclination. 
+
+- E0: This task involves working with photographic data and specialized knowledge related to oil and gas wells. The LLM may not have the ability to accurately interpret and analyze such detailed and specialized information, especially when it comes to representing the characteristics of boreholes accurately. Additionally, the task may require precise measurements and domain-specific expertise that the LLM may not possess.
+
+- E1: While the LLM can assist in providing general information about oil and gas wells and drafting tasks, the specific requirements of this task, such as accurately plotting characteristics from photographic data and other specialized information, may be beyond the capabilities of the LLM. The task involves a high level of domain expertise and precision that may not be easily achieved through text-based interactions with the LLM.
+
+- E2: It is conceivable that with additional software development, a tool could be created that combines the LLM's capabilities with image analysis and specialized domain knowledge to assist in analyzing and plotting characteristics of boreholes for oil and gas wells. Such a tool could potentially reduce the time required to complete the task by half by leveraging the LLM's text analysis abilities and image processing capabilities.
+
+- E3: Given that the task involves working with photographic subsurface survey recordings, having access to image capabilities in addition to the LLM could significantly reduce the time required to complete the task. The ability to view, caption, and analyze images could enhance the drafting process by providing visual information that complements the text-based analysis.
+
+2: E3
+
+3: Moderate

@@ -1,0 +1,7 @@
+1: In this task, an embalmer is required to reshape or reconstruct disfigured or maimed bodies using various techniques and materials. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves hands-on, physical work that requires specialized skills and expertise in dermasurgery techniques. The task also involves working with materials like clay, cotton, plaster of Paris, and wax, which are not text-based or easily translatable to a digital format. The LLM and any software built on top of it cannot physically reshape or reconstruct bodies, making this task unsuitable for automation through text-based tools alone.
+
+2: E0
+
+3: High

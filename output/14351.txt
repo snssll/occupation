@@ -1,0 +1,13 @@
+1: In this task, a Rotary Drill Operator in the Oil and Gas industry is required to remove core samples during drilling to determine the nature of the strata being drilled. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical work and specialized knowledge related to drilling operations in the oil and gas industry. The task requires hands-on skills and expertise that cannot be replaced by text-based tools like the LLM. Therefore, it is unlikely that the LLM or any software built on top of it could significantly reduce the time needed to complete this task.
+
+- E1: The task of removing core samples during drilling involves practical skills and knowledge specific to the oil and gas industry. While the LLM could potentially provide some general information or guidance on drilling procedures, it is unlikely to directly assist in the physical act of removing core samples. Therefore, the task is not easily reducible to text-based instructions that the LLM could provide to complete the task in half the time with equivalent quality.
+
+- E2: While it is conceivable that software could be developed on top of the LLM to assist in analyzing data related to core samples or providing recommendations based on the nature of the strata being drilled, the core task of physically removing core samples during drilling would still require human intervention and expertise. The LLM alone may not significantly reduce the time needed to complete this task.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, the task does not benefit from the image capabilities in conjunction with the LLM.
+
+2: E0
+
+3: Certainty level: High

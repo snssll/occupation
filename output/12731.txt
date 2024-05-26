@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of preparing reports or recommendations on transportation planning as a Transportation Planner, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The task involves writing reports or recommendations based on transportation planning. The LLM can assist in generating written content, summarizing information, providing insights, and structuring the report in a coherent manner. The LLM can significantly reduce the time it takes to draft these reports with equivalent quality by providing relevant information and suggestions.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can help in generating text and providing information, additional software could be developed on top of the LLM to enhance the process further. This software could include features like summarizing large volumes of transportation data, analyzing trends, and making data-driven recommendations based on the input provided.
+
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to the task of preparing reports or recommendations on transportation planning. This task primarily involves text-based information and analysis related to transportation planning, which can be effectively handled by the LLM without the need for image capabilities.
+
+Based on the above analysis, the task of preparing reports or recommendations on transportation planning is best classified as E1: Direct exposure.
+
+2: E1
+
+3: High

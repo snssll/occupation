@@ -1,0 +1,13 @@
+1: In this task, a Set and Exhibit Designer is responsible for designing and building scale models of set designs or miniature sets used in filming backgrounds or special effects. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves physical construction and design work that requires hands-on skills and precise measurements. The task also involves creating physical scale models, which cannot be directly assisted by the LLM.
+
+- E1: The LLM could potentially assist in providing design ideas, generating text descriptions of the sets, or even helping with the planning phase by suggesting creative concepts. However, the actual construction of scale models and miniature sets would still require manual work and physical materials, which cannot be replaced by the LLM.
+
+- E2: While the LLM could potentially help in generating text descriptions, providing inspiration, or even assisting in researching design concepts, the task of physically building scale models and miniature sets is not something that can be significantly expedited or improved by additional software built on top of the LLM.
+
+- E3: The task does not involve image processing, reading text from PDFs, or creating/editing digital images, so the additional image capabilities do not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

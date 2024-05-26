@@ -1,0 +1,9 @@
+1: In this task, a Transportation Planner is required to analyze information related to transportation, such as land use policies, environmental impact of projects, or long-range planning needs. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. 
+
+Given that the task involves analyzing complex information related to transportation, including policies, environmental impacts, and long-range planning, the LLM could assist in providing relevant data, summarizing reports, generating insights, and potentially even suggesting recommendations based on the input data. The LLM could help in processing large amounts of text data, extracting key information, and generating insights that could aid Transportation Planners in their analysis.
+
+Considering the nature of the task and the potential for the LLM to assist in processing and analyzing textual information, it is likely that direct access to the LLM could reduce the time it takes to complete this task with equivalent quality by at least half. Therefore, this task falls under the label E1.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of recommending procedures, equipment, or software upgrades to increase data accessibility or ease of use for Geographic Information Systems (GIS) Technologists and Technicians, we need to consider the capabilities of the LLM. The task involves analyzing the current system and making recommendations based on expertise in GIS technology.
+
+- E0: This task does not involve direct text-based input or output that the LLM can significantly assist with. The task requires domain-specific knowledge and expertise in GIS technology, which the LLM may not have access to without specific training data on GIS systems.
+
+- E1: While the LLM can provide general information on GIS technology and potentially suggest some upgrades based on existing knowledge, the task of recommending specific procedures, equipment, or software upgrades in a specialized field like GIS may require more nuanced understanding and expertise that the LLM alone may not possess.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in this task by providing recommendations based on a combination of the LLM's capabilities and specialized GIS knowledge. This software could potentially analyze data on current GIS systems, suggest upgrades, and provide insights based on the information processed by the LLM.
+
+- E3: The task does not involve image capabilities, so exposure to LLM with image capabilities is not relevant in this context.
+
+2: E2
+
+3: Moderate

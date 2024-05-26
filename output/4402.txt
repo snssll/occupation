@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of designing or developing nuclear equipment as a Nuclear Engineer, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves highly specialized domain knowledge and technical expertise in nuclear engineering. While the LLM can provide general information on nuclear engineering concepts, it may not have the specific knowledge required to design or develop nuclear equipment accurately.
+
+- E1: The task of designing or developing nuclear equipment requires a deep understanding of nuclear physics, materials science, and engineering principles. The LLM may be able to provide some general information or background knowledge on these topics, but it is unlikely to significantly reduce the time it takes for an experienced Nuclear Engineer to complete this task with equivalent quality.
+
+- E2: While the LLM alone may not be able to reduce the time it takes to complete the task by half, it is conceivable that additional software could be developed on top of the LLM to assist Nuclear Engineers in the design process. This software could potentially help in generating initial design concepts, conducting simulations, or providing recommendations based on existing data.
+
+- E3: The task of designing or developing nuclear equipment does not involve image capabilities, so exposure to LLM with image capabilities would not significantly impact the completion of this task.
+
+Based on the considerations above, the most appropriate label for this task is E2.
+
+2: E2
+
+3: Moderate

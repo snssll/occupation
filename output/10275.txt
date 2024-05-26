@@ -1,0 +1,5 @@
+1: In this task, the Gas Compressor and Gas Pumping Station Operators are required to move controls and turn valves to start compressor engines, pumps, and auxiliary equipment. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as moving controls and turning valves, which cannot be directly performed by an LLM. The task does not involve complex decision-making, analysis, or information retrieval that would benefit significantly from LLM capabilities. Therefore, this task does not align with any of the exposure levels that involve LLM capabilities.
+
+2: E0
+
+3: High

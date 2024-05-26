@@ -1,0 +1,11 @@
+1: In this task, a Stocker and Order Filler is responsible for cleaning and maintaining supplies, tools, equipment, and storage areas to ensure compliance with safety regulations. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical actions such as cleaning and maintaining supplies, tools, and equipment, which cannot be directly performed by the LLM.
+- While the LLM can provide information on safety regulations and guidelines, it cannot physically clean or maintain the areas.
+- The task does not involve complex decision-making or specialized knowledge that would require the LLM's capabilities beyond text processing.
+
+Based on these considerations, the task falls under E0 as it does not meet the criteria for direct exposure, exposure by LLM-powered applications, or exposure given image capabilities.
+
+2: E0
+
+3: High

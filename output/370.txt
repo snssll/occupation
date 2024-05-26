@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of advising manufacturing staff regarding problems with fermentation, filtration, or other bioproduction processes as a Bioengineer or Biomedical Engineer, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- **E1 (Direct exposure):** The task involves providing advice and guidance based on specialized knowledge in bioengineering and biomedical engineering. While the LLM can assist in generating text and providing information, the specific expertise required for troubleshooting bioproduction processes may not be directly accessible through the LLM alone. The task involves a high level of domain-specific knowledge and practical experience that may not be effectively replaced by the LLM.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM could potentially assist in providing general information or explanations related to fermentation, filtration, or bioproduction processes, the task of advising manufacturing staff on specific problems likely requires real-time, up-to-date information and interactive problem-solving that goes beyond the capabilities of the LLM alone. Developing additional software on top of the LLM that integrates real-time data, simulations, and interactive problem-solving tools could enhance the efficiency of addressing such issues.
+
+- **E3 (Exposure given image capabilities):** Image capabilities would not significantly impact the task of advising manufacturing staff on bioproduction processes, as the task primarily involves verbal communication, data analysis, and problem-solving related to biological systems rather than visual information.
+
+2: E2
+
+3: Moderate

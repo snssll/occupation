@@ -1,0 +1,9 @@
+1: In this task, a Transportation Planner is required to define or update information related to urban boundaries or the classification of roadways. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E1: Direct exposure - The LLM can help in writing and transforming text based on complex instructions related to defining or updating information about urban boundaries or roadway classifications. It can assist in summarizing existing documents, providing feedback on drafts, or generating questions for further research. The LLM can also aid in preparing training materials based on general knowledge related to transportation planning concepts.
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time to complete this task, additional software could be developed on top of the LLM to summarize lengthy documents related to transportation planning, retrieve up-to-date facts from the internet, or search through existing knowledge databases for relevant information.
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to defining or updating information about urban boundaries or roadway classifications. Therefore, this task does not fall under E3.
+
+2: E2
+
+3: Moderate

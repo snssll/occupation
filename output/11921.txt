@@ -1,0 +1,12 @@
+1: In this task, a Sales Engineer is required to plan and modify product configurations to meet customer needs. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Sales Engineers typically work closely with customers to understand their requirements and then propose solutions that meet those needs. This task involves analyzing customer needs, understanding product capabilities, and making modifications to product configurations accordingly.
+- While the task involves some level of analysis and decision-making, it primarily revolves around understanding customer requirements and product features to propose suitable configurations.
+- The task does not involve highly specialized domain knowledge that would require access to specific databases or complex systems beyond what the LLM can provide.
+- The task does not involve detailed visual analysis, precise measurements, or physical interactions that would require capabilities beyond text-based processing.
+
+Based on these considerations, the task of planning and modifying product configurations to meet customer needs aligns most closely with the E0 label as it does not clearly benefit from the capabilities of the LLM or any additional software tools that could significantly reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

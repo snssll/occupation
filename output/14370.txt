@@ -1,0 +1,7 @@
+1: In this task, a Roof Bolter in mining is responsible for removing drill bits from chucks after drilling holes and inserting bolts into chucks. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality. 
+
+Given the physical nature of the task, which involves handling machinery and equipment in a mining environment, it is unlikely that the LLM or any software built on top of it could directly assist in completing the task. The task requires manual dexterity, physical strength, and specific knowledge of mining equipment and safety procedures, which are not within the capabilities of the LLM. Therefore, the task does not fall under E1, E2, or E3 exposure categories.
+
+2: E0
+
+3: High

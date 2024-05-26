@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of requesting bids from suppliers or consultants as an Environmental Engineer, we need to consider the nature of the task and how it can be impacted by the use of the LLM. 
+
+- E0: This task involves human interaction and decision-making that cannot be fully automated by the LLM. It requires the engineer to evaluate the bids, negotiate terms, and make decisions based on various factors beyond just text processing.
+
+- E1: While the LLM can assist in drafting the bid request document or emails to suppliers/consultants, it cannot fully automate the process of requesting bids, evaluating them, and making decisions. The critical aspects of negotiation and decision-making still require human judgment.
+
+- E2: With additional software development, it is conceivable that an application could be created to streamline the process of requesting bids by automatically generating bid requests based on input criteria, analyzing responses, and providing recommendations. However, this would require a more sophisticated system beyond just the LLM.
+
+- E3: The task of requesting bids does not involve image processing or detailed visual analysis, so the image capabilities of the LLM are not relevant in this context.
+
+2: E1
+
+3: Moderate

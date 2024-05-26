@@ -1,0 +1,5 @@
+1: In this task, a commercial pilot is required to check the aircraft before flights to ensure everything is functioning properly. This task involves a visual and hands-on inspection of the aircraft, which cannot be done by an LLM. The LLM does not have the capability to physically inspect an aircraft or interact with the physical systems of the plane. Therefore, this task falls under E0 as it does not involve text-based or image-based analysis that the LLM can assist with.
+
+2: E0
+
+3: High

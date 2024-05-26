@@ -1,0 +1,5 @@
+1: In this task, a Tailor, Dressmaker, or Custom Sewer is required to develop, copy, or adapt designs for garments and design patterns to fit measurements. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. While the task involves creativity, knowledge of garment design, construction, styling, and fabric, it does not involve direct text-based interactions that can be easily automated by an LLM. The task also requires practical skills such as cutting and sewing, which cannot be performed by a language model. Therefore, this task does not fall under E1 as it cannot be directly completed by an LLM. Additionally, developing software that could automate the practical aspects of garment creation would be complex and not straightforward, so it does not fit under E2 either. Since the task does not involve reading text from PDFs, scanning images, or creating/editing digital images, it also does not align with E3. Therefore, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of "Identify and apply for project funding" for Brownfield Redevelopment Specialists and Site Managers, we need to consider the level of exposure to LLM. 
+
+- E1: Direct exposure - In this case, the task involves researching and identifying potential sources of project funding, which could benefit from the LLM's ability to gather and synthesize information from various sources. The LLM can assist in drafting compelling funding applications by providing detailed information and language that may increase the chances of securing funding.
+
+- E2: Exposure by LLM-powered applications - While the task may not be directly reducible to half the time with just the LLM, additional software built on top of the LLM could streamline the process further. For example, an application that can analyze funding opportunities based on specific criteria, generate tailored funding proposals, or track application deadlines could enhance efficiency.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant for the task of identifying and applying for project funding, so this label does not apply.
+
+Considering the nature of the task and the potential for additional software to be developed on top of the LLM to streamline the process further, the most appropriate label for this task is E2.
+
+2: E2
+
+3: Moderate

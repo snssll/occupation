@@ -1,0 +1,13 @@
+1: In this task of performing general marine vessel maintenance or repair work as a Ship Engineer, the exposure to LLM can be evaluated as follows:
+
+- **E0**: This task involves hands-on work that requires physical presence and manual labor. Ship Engineers need to physically inspect, repair, and maintain marine vessels, which cannot be done through text input and output alone. The task also involves tasks like repairing leaks and maintaining decks, which require practical skills and experience that cannot be replaced by LLM.
+
+- **E1**: While the LLM could potentially provide information on general marine vessel maintenance procedures or guidelines, it cannot physically perform the maintenance or repair work itself. The task involves practical skills, physical labor, and hands-on work that cannot be completed through text input and output alone. Therefore, the direct access to LLM would not significantly reduce the time it takes to complete the task with equivalent quality.
+
+- **E2**: It is challenging to imagine additional software that could be developed on top of the LLM to reduce the time it takes to physically perform marine vessel maintenance or repair work. The task requires specialized knowledge, skills, and physical presence, which cannot be substituted by software or automation.
+
+- **E3**: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It is primarily focused on hands-on maintenance and repair work on marine vessels, which does not align with the capabilities provided by image processing systems.
+
+2: E0
+
+3: High

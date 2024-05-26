@@ -1,0 +1,5 @@
+1: In this task, a Food Batchmaker is required to fill processing or cooking containers with ingredients using various methods such as opening valves, starting pumps, or injecting ingredients. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical actions like opening valves and starting pumps, which cannot be directly performed by an LLM. While the LLM could potentially provide information on ingredient quantities or recipes, it cannot physically interact with the containers or equipment. Therefore, this task does not fall under E1, E2, or E3 as it does not involve text-based interactions that the LLM can directly assist with.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, the Dining Room and Cafeteria Attendants and Bartender Helpers are responsible for carrying trays from food counters to tables for cafeteria patrons. To determine the appropriate exposure label, we need to consider if access to the LLM could significantly reduce the time it takes to complete this task with equivalent quality. Since this task involves physical movement and interaction with patrons, it cannot be effectively automated or completed by the LLM alone. The LLM does not have the capability to physically carry trays or interact with the environment in a cafeteria setting. Therefore, this task falls under E0 as it does not meet the criteria for exposure to the LLM.
+
+2: E0
+
+3: High

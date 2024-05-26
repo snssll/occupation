@@ -1,0 +1,5 @@
+1: In this task, a flight attendant is required to inspect passenger tickets to verify information and obtain destination information. With the help of the LLM, the task could potentially be automated to some extent. The LLM could assist in reading and interpreting the information on the tickets, cross-referencing it with databases to verify details, and even providing destination information based on the ticket data. However, there are limitations to consider. The task involves physical tickets, which the LLM cannot directly interact with. Additionally, there may be security and privacy concerns related to passenger information that would require human oversight. Overall, while the LLM could aid in some aspects of this task, it may not significantly reduce the time it takes for an experienced flight attendant to complete it with high quality.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,5 @@
+1: In this task, the worker needs to read switching instructions and daily car schedules to determine the work to be performed or receive orders from yard conductors. This task involves processing text-based information and making decisions based on that information. An LLM could potentially assist by summarizing the instructions and schedules, providing additional context or explanations, or even generating responses to potential orders. The LLM could also help in understanding complex instructions or clarifying any ambiguities in the information provided. However, since the task primarily involves reading and interpreting text, the LLM's direct access may not significantly reduce the time it takes to complete the task, as the worker still needs to understand and act upon the information provided.
+
+2: E2
+
+3: Moderate

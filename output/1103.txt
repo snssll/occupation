@@ -1,0 +1,11 @@
+1: In this task, an Ophthalmic Medical Technologist is required to assess abnormalities of color vision, such as amblyopia. To complete this task, the technologist needs to have a good understanding of color vision abnormalities, their causes, symptoms, and diagnostic procedures. The task involves observing patients, conducting color vision tests, interpreting the results, and potentially recommending further evaluation or treatment.
+
+When considering the exposure rubric:
+- E0 would apply if this task requires hands-on interaction with patients, precise measurements, or detailed visual analysis that cannot be effectively done by an LLM.
+- E1 would apply if the LLM can assist in providing information on color vision abnormalities, diagnostic procedures, and potential treatment options, thereby reducing the time it takes for the technologist to gather relevant information and make informed assessments.
+- E2 would apply if there were specialized software that could be developed on top of the LLM to assist in analyzing color vision test results, providing recommendations based on the data, or accessing up-to-date research on color vision abnormalities.
+- E3 would apply if the task involved reading text from complex medical documents or images related to color vision abnormalities, which could be processed by the LLM along with image capabilities to aid in the assessment.
+
+2: E0
+
+3: High

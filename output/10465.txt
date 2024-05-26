@@ -1,0 +1,11 @@
+1: In this task, a nanny is required to observe children's behavior for irregularities, take their temperature, transport them to the doctor, and administer medications as directed to maintain their health. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+- The task involves observing children's behavior, which requires human interaction and judgment, making it unsuitable for automation through LLM.
+- Taking a child's temperature, transporting them to the doctor, and administering medications are physical tasks that cannot be performed by the LLM.
+- While the LLM can provide information on administering medications or general health guidelines, the practical aspects of physically carrying out these tasks are beyond its capabilities.
+
+Considering the nature of the task involving physical actions and human interaction, it is unlikely that the LLM can significantly reduce the time it takes for an experienced worker to complete the task with high quality. Therefore, this task falls under E0.
+
+2: E0
+
+3: High

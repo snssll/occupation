@@ -1,0 +1,11 @@
+1: In this task, a Stocker and Order Filler is responsible for receiving and counting stock items, as well as recording data manually or on a computer. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves recording data manually or on a computer, which can be easily done using the LLM to generate text or input data into a computer system.
+- The task does not require specialized domain knowledge or complex decision-making that would necessitate additional software beyond the LLM.
+- The task does not involve image processing, so the image capabilities of the LLM are not relevant here.
+
+Based on these considerations, the task of receiving and counting stock items and recording data falls under E1 as it can be significantly expedited and completed with equivalent quality using the LLM to assist in writing and transforming text and data entry.
+
+2: E1
+
+3: High

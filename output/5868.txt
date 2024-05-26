@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of drafting plans and detailed drawings for architectural and civil projects, we need to consider the capabilities of the LLM. The task involves transforming sketches or notes into detailed drawings, which requires a high level of technical knowledge and expertise in architectural and civil drafting.
+
+- E1: Direct exposure - The LLM could potentially assist in generating text descriptions based on sketches or notes provided, but it may not have the specialized knowledge required to create detailed architectural or civil drawings accurately. While it could help with some aspects of the task, the complexity and technical nature of drafting plans may not be fully supported by the LLM alone.
+
+- E2: Exposure by LLM-powered applications - It is conceivable that additional software could be developed on top of the LLM to assist in drafting plans by providing templates, automating certain aspects of the process, or offering suggestions based on the input provided. This software could potentially streamline the drafting process, but it would likely require specialized domain knowledge and capabilities beyond what the LLM can offer on its own.
+
+- E3: Exposure given image capabilities - While the task involves creating detailed drawings, it primarily focuses on text input (sketches or notes) rather than image inputs. The LLM's image capabilities may not significantly impact the drafting process for this task, as it is more text-based.
+
+Considering the technical nature and specialized knowledge required for architectural and civil drafting, it is unlikely that the LLM alone can significantly reduce the time it takes to complete the task with high quality. Therefore, the most appropriate label for this task is E0.
+
+2: E0
+
+3: Moderate

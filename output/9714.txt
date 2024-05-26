@@ -1,0 +1,5 @@
+1: In this task, a Plating Machine Setter, Operator, or Tender working with metal and plastic needs to measure, mark, and mask areas to be excluded from plating. This task involves physical actions such as measuring and marking, which cannot be directly performed by an LLM. The task also requires manual dexterity and precision, which are not capabilities of the LLM. As a result, this task falls under the category of tasks that require physical interaction and precise measurements, making it unsuitable for automation using the LLM.
+
+2: E0
+
+3: High

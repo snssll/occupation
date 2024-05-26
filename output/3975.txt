@@ -1,0 +1,13 @@
+1: Mechatronics Engineers are responsible for designing, developing, and testing mechanical and electrical systems. One of the tasks they perform is creating mechanical design documents for parts, assemblies, or finished products. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it.
+
+- E0: This task involves creating technical documents that require specialized knowledge in mechanical engineering. While the LLM can assist with writing and transforming text, providing edits, and generating content, it may not have the domain-specific knowledge required to create accurate mechanical design documents.
+
+- E1: The LLM can help in writing and transforming text according to complex instructions, which could be useful in drafting the written content of the mechanical design documents. However, the LLM may not have the specialized knowledge of mechatronics engineering required to create accurate technical drawings and specifications.
+
+- E2: While the LLM alone may not significantly reduce the time it takes to complete the task, additional software could be developed on top of the LLM to assist in summarizing technical documents, retrieving specialized domain knowledge, or providing recommendations based on data. This additional software could enhance the efficiency of creating mechanical design documents.
+
+- E3: The task does not involve image capabilities, so exposure to image processing capabilities would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,11 @@
+1: In this task, a Media Programming Director is required to monitor network transmissions for advisories related to daily program schedules, program content, special feeds, or program changes. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves monitoring network transmissions, which may require understanding and interpreting information in real-time.
+- The task also involves staying updated on program schedules, content, and changes, which may involve accessing and processing a large amount of data.
+- While the task involves text-based information, it also requires real-time monitoring and decision-making based on the received advisories.
+
+Given these considerations, the task does not seem to be directly reducible to text-based interactions with an LLM. It involves real-time monitoring, decision-making, and potentially interacting with live broadcasts, which are not solely text-based activities that an LLM can handle. Therefore, this task falls under E0 as it does not clearly benefit from LLM exposure.
+
+2: E0
+
+3: Moderate

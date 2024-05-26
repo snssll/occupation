@@ -1,0 +1,5 @@
+1: In this task, a Helper-Extraction Worker is responsible for cleaning up work areas and removing debris after extraction activities. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical labor and manual work, such as picking up debris and cleaning work areas. Since the task does not involve writing, transforming text, summarizing documents, or any other text-based activities that can be significantly aided by an LLM, it is unlikely that direct access to the LLM would reduce the time it takes to complete the task. Additionally, the task does not involve complex decision-making, specialized knowledge retrieval, or image processing that could benefit from LLM-powered applications or image capabilities. Therefore, the task is best classified as E0, as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

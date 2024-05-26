@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of documenting quantity, quality, type, weight, test result data, and value of materials or products, we need to consider the capabilities of the LLM. The task involves recording and maintaining records of data related to materials and products. The LLM can assist in writing and transforming text according to complex instructions, maintaining records of written data, and informing anyone of information via written medium. The LLM can also help summarize medium-length documents and provide feedback on documents. However, the task does not involve complex databases, highly specialized domain knowledge, or retrieving up-to-date facts from the internet. Therefore, the task falls under the E1 label as the LLM can significantly reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

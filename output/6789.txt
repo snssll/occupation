@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of explaining drawings to production or construction teams and providing adjustments as necessary for Architectural and Civil Drafters, we need to consider the nature of the task and how LLM exposure could impact its completion.
+
+- E0: This task involves direct communication and interpretation of technical drawings to teams, which requires human judgment, understanding of construction principles, and collaboration. LLM cannot replace the expertise and experience needed for this task.
+
+- E1: While the LLM could potentially assist in generating written explanations or adjustments based on provided information, it cannot fully replace the domain-specific knowledge and experience required for this task. The task involves more than just writing text; it requires a deep understanding of architectural and civil drafting principles.
+
+- E2: With additional software development, an application could potentially be created to assist in summarizing complex drawings, providing suggestions for adjustments, or even generating basic explanations. However, the specialized domain knowledge and expertise needed for this task may still limit the extent to which an LLM-powered application could significantly reduce the time to complete the task.
+
+- E3: The task does not involve image processing or creation, so the image capabilities of the LLM are not directly relevant in this context.
+
+2: E0
+
+3: High

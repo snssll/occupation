@@ -1,0 +1,7 @@
+1: In this task, a Public Safety Telecommunicator is responsible for answering routine inquiries and referring calls that do not require dispatch to the appropriate departments and agencies. To determine the exposure label, we need to consider the nature of the task. The task involves processing text-based inquiries and directing them to the correct departments or agencies. An LLM could potentially assist in this task by providing suggested responses to routine inquiries based on predefined templates or by helping to identify the appropriate departments or agencies based on the content of the inquiries.
+
+Given that the task primarily involves text-based communication and decision-making based on the content of the inquiries, the LLM could significantly reduce the time it takes to complete the task with equivalent quality. The LLM could help in generating responses, identifying patterns in inquiries, and suggesting appropriate referrals. Therefore, this task falls under the E1 label as direct access to the LLM could reduce the time it takes to complete the task by at least half.
+
+2: E1
+
+3: High

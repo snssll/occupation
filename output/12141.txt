@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of "Position and cut out master or sample patterns, using scissors and knives, or print out copies of patterns, using computers" for Fabric and Apparel Patternmakers, we need to consider the capabilities of the LLM. In this task, the main actions involve physical manipulation of materials (cutting patterns) and using physical tools like scissors and knives. While the task mentions using computers to print out copies of patterns, this step is likely straightforward and doesn't require complex text generation or analysis that the LLM excels at. The LLM cannot physically cut patterns or interact with physical objects, so it cannot directly assist in the primary actions of this task. Therefore, the task does not fall under E1 as the LLM alone cannot significantly reduce the time it takes to complete the task. Additionally, developing software on top of the LLM to handle physical cutting tasks is not feasible. The task also does not involve detailed image analysis or creation that would fall under E3. Given these considerations, the task is best classified as E0.
+
+2: E0
+
+3: High

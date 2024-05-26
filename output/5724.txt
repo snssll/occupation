@@ -1,0 +1,13 @@
+1: In this task, a rigger is responsible for dismantling and storing rigging equipment after it has been used. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical actions such as dismantling equipment and storing it, which cannot be directly assisted by the LLM or any software tools. The task also does not involve any written or spoken communication that could be streamlined by the LLM.
+
+- E1: The task does not involve writing, transforming text, providing edits, translating languages, summarizing documents, answering questions, generating questions, writing emails, maintaining records, or preparing training materials. The task is more focused on physical actions rather than text-based activities that the LLM could assist with.
+
+- E2: While it is conceivable that software could be developed to track and manage rigging equipment inventory, provide reminders for maintenance, or generate reports on equipment usage, the core task of physically dismantling and storing rigging equipment does not lend itself to significant time savings through LLM-powered applications.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant here.
+
+2: E0
+
+3: High

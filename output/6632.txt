@@ -1,0 +1,5 @@
+1: In this task, a Fire Inspector or Investigator is required to examine fire sites and collect evidence to determine the cause of a fire. This task involves physical inspection, evidence collection, and analysis, which cannot be directly performed by an LLM. The LLM does not have the capability to physically examine a fire site, collect physical evidence such as glass or metal fragments, or analyze accelerant residue. Therefore, this task falls under E0 as it does not involve text-based inputs or outputs that can be processed by the LLM.
+
+2: E0
+
+3: High

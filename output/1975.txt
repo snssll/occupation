@@ -1,0 +1,11 @@
+1: In this task, a Pest Control Worker is required to clean and remove blockages from infested areas to prepare for spraying procedures. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical labor such as using brooms, mops, shovels, or rakes to clean and remove blockages. This physical aspect cannot be replaced by the LLM or any software tool.
+- The task also requires on-site presence and direct interaction with the infested areas, which cannot be substituted by text-based tools like the LLM.
+- The expertise needed for this task lies in identifying and physically removing blockages, which is not a task that can be effectively performed by an LLM.
+
+Considering these factors, it is clear that the task of cleaning and removing blockages from infested areas as a Pest Control Worker falls under the E0 label as it does not benefit from exposure to the LLM.
+
+2: E0
+
+3: High

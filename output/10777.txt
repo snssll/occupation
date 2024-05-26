@@ -1,0 +1,7 @@
+1: In this task, a paramedic is required to operate equipment in advanced life support environments, such as electrocardiograms (EKGs), external defibrillators, or bag valve mask resuscitators. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for a paramedic to learn how to operate this equipment effectively or provide guidance on using them in specific scenarios. 
+
+- E0: This task involves hands-on skills and real-time decision-making in critical situations. The LLM cannot physically operate equipment or provide practical training on using medical devices in emergency situations. Therefore, the task is unlikely to benefit from LLM access in reducing the time it takes for a paramedic to operate equipment in advanced life support environments.
+
+2: E0
+
+3: High

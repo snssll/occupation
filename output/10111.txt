@@ -1,0 +1,7 @@
+1: In this task, a cardiologist is required to monitor the progress of patients following cardiac surgery. This involves tracking vital signs, interpreting test results, adjusting medications, and making decisions about the next steps in the patient's care. With access to the most powerful OpenAI large language model (LLM), the cardiologist could potentially input patient data, test results, and other relevant information to get recommendations on monitoring strategies, medication adjustments, and potential complications to watch out for. The LLM could provide insights based on current medical knowledge and guidelines, helping the cardiologist make informed decisions about patient care.
+
+Considering the nature of the task and the potential for the LLM to provide recommendations and insights based on medical knowledge, the task could be classified as E2. While the LLM alone may not reduce the time it takes to complete the task by half, additional software built on top of the LLM could be developed to streamline the monitoring process, provide real-time updates on medical research, and offer personalized recommendations for patient care post-surgery.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, a Stocker and Order Filler is responsible for packing and unpacking items to be stocked on shelves in stockrooms, warehouses, or storage yards. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical actions such as packing and unpacking items, which cannot be directly assisted by the LLM. The LLM cannot physically handle items or interact with the physical environment, so it would not reduce the time significantly for an experienced worker to complete this task.
+
+- E1: The task does not involve writing, transforming text, providing edits, translating languages, summarizing documents, answering questions, or any other text-based activities that the LLM can directly assist with. Therefore, direct access to the LLM would not reduce the time it takes to complete this task by at least half.
+
+- E2: While it is conceivable that software could be developed on top of the LLM to assist with inventory management, such as generating packing lists or optimizing stockroom layouts, the task of physically packing and unpacking items would still require human intervention. The LLM alone would not significantly reduce the time to complete this task.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The LLM's text-based capabilities are not directly relevant to the physical actions required for packing and unpacking items.
+
+2: E0
+
+3: High

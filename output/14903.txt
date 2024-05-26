@@ -1,0 +1,7 @@
+1: In this task, the Orderlies are required to restrain patients to prevent violence or injury or to assist physicians or nurses in administering treatments. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an average worker to complete this task with equivalent quality. 
+
+Given the nature of the task, which involves physical interaction and restraint of patients, it is clear that the LLM or any tools built on top of it cannot directly assist in this process. The task requires physical intervention and human judgment to ensure the safety and well-being of both the patient and the healthcare provider. The LLM cannot perform physical actions or make decisions that involve physical contact with individuals. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

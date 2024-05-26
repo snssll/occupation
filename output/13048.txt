@@ -1,0 +1,5 @@
+1: In this task, a Locker Room, Coatroom, and Dressing Room Attendant is responsible for procuring beverages, food, and other items as requested by customers. To determine the exposure level to LLM, we need to consider if the task can be completed more efficiently with the help of the language model. Since this task involves physical actions such as fetching items, it does not directly involve text-based activities that the LLM can assist with. The LLM cannot physically procure items, so it cannot directly reduce the time it takes to complete this task.
+
+2: E0
+
+3: High

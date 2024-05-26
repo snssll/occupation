@@ -1,0 +1,11 @@
+1: In this task, a Civil Engineering Technologist or Technician is required to develop project budgets by estimating the cost of project activities. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E1: Direct exposure - The LLM can assist in providing information on cost estimation techniques, industry standards, and best practices for developing project budgets. It can help in generating detailed cost breakdowns based on input data provided by the technician. The LLM can also assist in writing reports or summaries related to the estimated costs.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to estimate project costs, additional software could be developed on top of the LLM to streamline the process. This software could potentially analyze historical cost data, industry trends, and project specifications to provide more accurate and efficient cost estimates.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant to this task as it primarily involves cost estimation for project activities and does not require image processing or analysis.
+
+2: E2
+
+3: Moderate

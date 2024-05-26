@@ -1,0 +1,13 @@
+1: In this task, a Pest Control Worker is required to post warning signs and lock building doors to secure the area to be fumigated. To determine the appropriate exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- Direct exposure (E1): The task of posting warning signs and locking doors does not involve writing, transforming text, providing edits, translating languages, summarizing documents, answering questions, generating questions, writing emails, maintaining records, preparing training materials, or informing anyone via written or spoken medium. Therefore, direct access to the LLM may not provide a substantial advantage in completing this physical task.
+
+- Exposure by LLM-powered applications (E2): While it is conceivable that software could be developed to assist Pest Control Workers in managing their tasks more efficiently, such as scheduling fumigation appointments or tracking inventory, the specific task of physically posting warning signs and locking doors does not directly align with the capabilities typically associated with LLM-powered applications.
+
+- Exposure given image capabilities (E3): The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, the image capabilities of the LLM are not relevant in this context.
+
+Considering the above analysis, the task of posting warning signs and locking building doors for fumigation does not align with any of the exposure levels E1, E2, or E3.
+
+2: E0
+
+3: High

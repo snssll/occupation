@@ -1,0 +1,11 @@
+1: In this task, an Electro-Mechanical and Mechatronics Technologist or Technician is required to inspect parts for surface defects. To determine the appropriate exposure label, we can break down the task as follows:
+
+- The task involves visual inspection of parts for surface defects, which is a manual and visual process.
+- The task does not involve complex decision-making or analysis beyond identifying surface defects.
+- The task does not require specialized domain knowledge beyond understanding surface defects in electro-mechanical and mechatronics parts.
+
+Based on the nature of the task, it does not seem like access to an LLM would significantly reduce the time it takes to complete the task. The task is primarily manual and visual, requiring physical inspection rather than text-based analysis or decision-making that an LLM could assist with. Therefore, the task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of coordinating, preparing, or reviewing regulatory submissions for domestic or international projects as a Regulatory Affairs Specialist, we need to consider the level of exposure to LLM.
+
+- E0: This task involves a high level of expertise in understanding regulatory requirements, guidelines, and documentation standards. It also requires knowledge of specific regulations and laws that may vary by country. The task does not involve direct text-based interactions that can be easily automated by an LLM.
+
+- E1: While an LLM could potentially assist in generating some text for regulatory submissions based on provided information, the complexity and specificity of regulatory requirements make it challenging for the LLM to significantly reduce the time it takes to complete this task with equivalent quality. The task involves a deep understanding of regulations and may require interpretation and analysis beyond what an LLM can provide.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Regulatory Affairs Specialists in summarizing regulatory documents, retrieving up-to-date regulatory information, or providing recommendations based on regulatory changes. However, the task of coordinating, preparing, or reviewing regulatory submissions still heavily relies on human expertise and judgment, which may not be easily automated by the current capabilities of the LLM alone.
+
+- E3: The task does not involve image processing capabilities, so exposure to LLM with image capabilities is not relevant in this context.
+
+2: E0
+
+3: High

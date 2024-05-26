@@ -1,0 +1,5 @@
+1: In this task, a dermatologist is required to counsel patients on various topics related to dermatology, such as the need for screenings, sun protection, skin cancer awareness, and self-examinations. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves providing personalized advice and recommendations to patients based on their individual needs and medical history. While an LLM can provide general information on these topics, it lacks the ability to interact with patients, understand their specific concerns, or tailor advice to their unique circumstances. The task also requires a high level of human interaction, empathy, and medical expertise, which are beyond the capabilities of the LLM. Therefore, this task falls under E0 as it cannot be significantly expedited or completed with equivalent quality by using the LLM alone.
+
+2: E0
+
+3: High

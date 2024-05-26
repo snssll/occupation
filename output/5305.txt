@@ -1,0 +1,10 @@
+1: In this task, a Telecommunications Equipment Installer and Repairer is required to diagnose and correct problems from remote locations using special switchboards. To determine the appropriate label from the exposure rubric, we can break down the task:
+- The task involves diagnosing and correcting technical issues remotely, which may require accessing technical documentation, troubleshooting guides, and possibly communicating with other technicians or customers.
+- The task does not involve detailed visual inspections or physical repairs that would require in-person presence.
+- The task relies heavily on technical knowledge, problem-solving skills, and familiarity with telecommunication equipment.
+
+Based on the nature of the task, it is clear that the task can be significantly aided by an LLM. The model can assist in providing troubleshooting steps, accessing relevant technical information, and even suggesting potential solutions based on the input provided. Therefore, this task falls under the E1 label as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

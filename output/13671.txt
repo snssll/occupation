@@ -1,0 +1,15 @@
+1: In this task, a Civil Engineering Technologist or Technician is required to read and review project blueprints and structural specifications to determine dimensions of a structure or system and material requirements. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E0: This task involves reviewing detailed technical drawings and specifications, which may require precise measurements and a deep understanding of engineering principles. The task also involves interpreting complex information from blueprints, which may not be easily translatable into text for an LLM to process accurately. Additionally, the task may involve making critical decisions based on the information gathered, which an LLM may not be able to do effectively.
+
+- E1: While an LLM could potentially assist in summarizing or providing information based on the text input, the complexity of interpreting blueprints and structural specifications, as well as the need for precise dimensions and material requirements, may not be easily handled by the LLM alone. The task involves specialized domain knowledge and practical application that may not be effectively addressed by the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in summarizing technical documents, retrieving relevant information, or providing recommendations based on the data extracted from blueprints and specifications. This software could potentially enhance the efficiency of the task by leveraging the LLM's capabilities in processing text and generating insights.
+
+- E3: The task does not involve image processing or detailed visual analysis that would significantly benefit from image capabilities. While blueprints may contain visual information, the key focus of the task lies in interpreting the text-based content to determine dimensions and material requirements.
+
+Based on the above considerations, the task of reading and reviewing project blueprints and structural specifications for a Civil Engineering Technologist or Technician would likely fall under E2, as additional software built on top of the LLM could enhance the efficiency of processing technical documents and providing recommendations.
+
+2: E2
+
+3: Moderate

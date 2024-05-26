@@ -1,0 +1,5 @@
+1: In this task, an Agricultural Inspector is responsible for monitoring the operations and sanitary conditions of slaughtering or meat processing plants. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves observing and evaluating the processes and conditions in these facilities, which may require physical presence, interaction with workers, and detailed visual inspections. Since the task involves on-site inspections and assessments that require human judgment and interaction, it is unlikely that the LLM or any tools built on top of it can significantly reduce the time it takes to complete the task with high quality. The task also involves ensuring compliance with regulations and standards, which may involve nuanced decision-making based on specific circumstances that an LLM may not be able to fully grasp. Therefore, this task is best classified as E0, as it does not lend itself to automation or assistance from the LLM.
+
+2: E0
+
+3: High

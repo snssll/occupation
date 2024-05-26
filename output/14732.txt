@@ -1,0 +1,11 @@
+1: In this task, the helper is required to requisition tools and equipment, select the type and size of pipe, and collect and transport materials and equipment to the work site. To determine the appropriate label from the exposure rubric, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task involves physical actions such as collecting and transporting materials, which cannot be directly assisted by the LLM.
+- The decision-making process for selecting the type and size of pipe may require specific technical knowledge and on-site assessment, which the LLM may not be able to provide.
+- While the LLM could potentially assist in providing general information about tools and equipment, it may not have the real-time or specific knowledge required for this task.
+
+Considering these points, it is evident that the task of requisitioning tools and equipment, selecting pipe type and size, and collecting materials for a work site does not align with the capabilities of the LLM to significantly reduce the time or improve the quality of completion. Therefore, this task falls under label E0 - No exposure.
+
+2: E0
+
+3: High

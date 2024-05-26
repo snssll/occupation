@@ -1,0 +1,7 @@
+1: In this task, a Hotel, Motel, and Resort Desk Clerk is responsible for computing bills, collecting payments, and making change for guests. With the help of the LLM, the desk clerk could potentially automate the process of computing bills by inputting the necessary information and receiving the total amount due. The LLM could also assist in generating templates for bills or receipts. However, when it comes to collecting payments and making change, these tasks involve physical transactions and interactions with guests, which cannot be automated by the LLM. Therefore, while the LLM could assist in certain aspects of this task, it cannot fully automate it.
+
+Based on this analysis, I would classify this task as E2 - Exposure by LLM-powered applications. While the LLM alone may not significantly reduce the time it takes to complete the task, additional software could be developed on top of the LLM to streamline certain aspects of the task.
+
+2: E2
+
+3: Moderate

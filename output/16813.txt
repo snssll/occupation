@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of teaching or supervising students and performing research as a biologist, we need to consider the nature of the task and how it can be impacted by the use of the LLM. 
+
+- E0: This task involves direct human interaction, teaching, and supervising students, which cannot be effectively replaced by the LLM. The hands-on nature of guiding students and conducting research in a university setting requires human expertise and interaction, making it unsuitable for automation by the LLM.
+
+- E1: While the LLM could potentially assist in generating teaching materials, providing information on research topics, or answering questions related to biology, the core aspects of teaching, supervising, and conducting research in a university environment heavily rely on human expertise, interaction, and practical skills that cannot be adequately replicated by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist biologists in summarizing research papers, retrieving up-to-date information for lectures, or providing recommendations based on data analysis. However, the fundamental aspects of teaching, supervising students, and conducting research would still require significant human involvement and expertise.
+
+- E3: The task of teaching, supervising students, and conducting research as a biologist does not involve image processing or detailed visual tasks that would benefit significantly from image capabilities in conjunction with the LLM. Therefore, this task does not fall under the E3 category.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of describing tour points of interest to group members and responding to questions as a Tour Guide or Escort, we need to consider the capabilities of the LLM. The task involves providing information about various points of interest and engaging in a dialogue with group members. The LLM can assist in generating detailed descriptions of tour points of interest, crafting engaging narratives, and formulating responses to common questions that may arise during a tour. The model can also help in preparing scripts or materials for tours based on general knowledge. However, the task does not involve highly specialized domain knowledge or complex databases that would require additional software beyond the LLM itself. Therefore, the task falls under E1 as the LLM can significantly reduce the time it takes to complete the task with equivalent quality by providing text input and output support for tour descriptions and responses to questions.
+
+2: E1
+
+3: Moderate

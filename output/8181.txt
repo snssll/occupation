@@ -1,0 +1,11 @@
+1: In this task, the millwright is responsible for installing a robot and modifying its program using a teach pendant. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves technical knowledge related to robotics and programming, which may require specialized expertise beyond what a typical worker possesses.
+- The task involves hands-on work with physical equipment, such as installing the robot, which cannot be directly assisted by an LLM.
+- While the LLM could potentially provide information on programming or troubleshooting, the hands-on aspect of installing the robot and physically modifying its program using a teach pendant cannot be directly assisted by the LLM.
+
+Based on these considerations, the task falls under E0 as it involves physical installation and modification of a robot, which cannot be significantly assisted by an LLM.
+
+2: E0
+
+3: High

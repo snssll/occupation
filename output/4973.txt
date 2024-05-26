@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of developing new products and procedures for sterilization, food and pharmaceutical supply preservation, or microbial contamination detection as a microbiologist, we need to consider the level of exposure to LLM.
+
+- E0: This task involves specialized knowledge and expertise in microbiology, which may not be effectively replaced by LLM alone. The task likely requires hands-on experimentation, testing, and analysis that cannot be fully replicated by text-based AI models.
+
+- E1: While the LLM can provide information and insights related to microbiology, it may not significantly reduce the time it takes for a microbiologist to develop new products and procedures. The task involves practical applications and experimentation that go beyond text-based interactions.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist microbiologists in researching new products and procedures. This software could potentially help in summarizing research findings, analyzing data, or suggesting innovative approaches based on existing knowledge.
+
+- E3: The task does not involve image processing or detailed visual analysis, so the additional capabilities provided by image processing tools would not significantly impact the completion time of the task.
+
+Based on the considerations above, the task of developing new products and procedures for sterilization, food and pharmaceutical supply preservation, or microbial contamination detection as a microbiologist is best classified as E2.
+
+2: E2
+
+3: Moderate

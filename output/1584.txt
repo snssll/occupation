@@ -1,0 +1,5 @@
+1: In this task, an upholsterer is required to build furniture by adding loose fiber stuffing, cotton, felt, or foam padding to create smooth and rounded surfaces. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced upholsterer to complete this task with high quality. Since this task involves physical work and precise manual skills, it is unlikely that the LLM or any tool built on top of it can effectively assist in physically building furniture with padding materials. The task does not involve text input or output, complex instructions, data analysis, or decision-making that can be automated by the LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any LLM-powered tool.
+
+2: E0
+
+3: High

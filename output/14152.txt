@@ -1,0 +1,11 @@
+1: In this task, a coroner is responsible for recording the disposition of minor children and details of arrangements made for their care. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a coroner to complete this task with high quality. 
+
+- The task involves recording specific details and information accurately, which the LLM can assist with by providing templates, suggesting language, or even generating parts of the record based on input.
+- The LLM can help in organizing and structuring the information in a clear and concise manner, ensuring that all necessary details are included.
+- The LLM can also assist in providing guidance on legal requirements or best practices related to recording such information, which can improve the quality and accuracy of the records.
+
+Considering these points, access to the LLM through an interface like ChatGPT could reduce the time it takes for a coroner to complete this task with equivalent quality. Therefore, this task falls under label E1.
+
+2: E1
+
+3: Moderate

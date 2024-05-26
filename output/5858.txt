@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of documenting, designing, coding, or testing Geographic Information Systems (GIS) models as a Geographic Information Systems Technologist or Technician, we need to consider the nature of the task and how it can be impacted by the use of a large language model (LLM).
+
+- **E0 (No exposure):** This task involves technical expertise in GIS, which may require specialized knowledge and skills beyond what an LLM can provide. The task likely involves working with complex data structures, algorithms, and software tools specific to GIS, which may not be easily substituted by an LLM. Additionally, the task may involve hands-on testing and debugging of GIS applications, which cannot be effectively performed by an LLM.
+
+- **E1 (Direct exposure):** While an LLM could potentially assist in documenting aspects of GIS models or applications by generating text based on provided information, the core tasks of designing, coding, and testing GIS solutions require specialized technical skills and domain knowledge that an LLM may not possess. The complexity of GIS systems and the need for precise implementation make it unlikely that an LLM alone could significantly reduce the time it takes to complete these tasks with equivalent quality.
+
+- **E2 (Exposure by LLM-powered applications):** It is conceivable that additional software built on top of an LLM could aid in summarizing technical documentation related to GIS models, providing recommendations based on data inputs, or retrieving specialized domain knowledge relevant to GIS. However, the core tasks of designing, coding, and testing GIS applications may still heavily rely on the expertise of a Geographic Information Systems Technologist or Technician, making it less likely that an LLM-powered application alone could halve the time needed to complete these tasks.
+
+- **E3 (Exposure given image capabilities):** Image capabilities would not significantly impact the completion of tasks related to documenting, designing, coding, or testing GIS models. These tasks are primarily text-based and involve working with data structures and algorithms rather than visual content.
+
+2: E0
+
+3: High

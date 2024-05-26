@@ -1,0 +1,5 @@
+1: In this task, the worker needs to examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves visual and sensory inspection of samples to assess various qualities. This task does not involve text input or output, and the key aspect is the physical examination of samples. While an LLM could potentially provide information on the qualities being assessed, it cannot directly perform the physical examination required. Therefore, the task does not align with the capabilities of the LLM or any tools built on top of it. As a result, this task falls under E0 as it does not benefit from the use of an LLM or LLM-powered tools.
+
+2: E0
+
+3: High

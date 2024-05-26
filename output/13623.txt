@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of Postal Service Clerks putting away undelivered parcels, retrieving them when customers claim them, and completing related documentation, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- The task involves handling parcels, interacting with customers, and completing documentation, which are physical and interactive aspects that cannot be directly assisted by the LLM.
+- While the LLM could potentially assist in generating documentation or providing information related to parcel tracking, the core activities of physically storing parcels and interacting with customers cannot be significantly expedited by the LLM alone.
+- The task does not involve complex decision-making, specialized domain knowledge, or detailed image processing that would benefit from additional software beyond the LLM.
+
+Based on these considerations, the task of Postal Service Clerks is best classified as E0, as the use of the LLM or LLM-powered tools would not significantly reduce the time it takes for an experienced worker to complete the task with high quality.
+
+2: E0
+
+3: High

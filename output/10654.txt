@@ -1,0 +1,5 @@
+1: In this task, the Loading and Moving Machine Operators, Underground Mining, are required to open and close the bottom doors of cars to dump contents. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. Given that this task involves physical actions such as opening and closing doors in an underground mining setting, it does not seem feasible for the LLM or any tool built on top of it to assist in completing this task. The task is highly manual and requires physical presence and interaction, which cannot be replaced by text-based AI tools.
+
+2: E0
+
+3: High

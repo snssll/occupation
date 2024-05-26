@@ -1,0 +1,5 @@
+1: In this task, a Cargo and Freight Agent is required to inspect and count items received, check them against invoices or other documents, record shortages, and reject damaged goods. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves a series of manual actions such as inspecting, counting, checking, recording, and rejecting items. While the task involves some level of decision-making (e.g., rejecting damaged goods), it primarily consists of physical actions that cannot be directly performed by an LLM. The LLM could potentially assist in generating documentation or providing guidance on best practices, but it cannot physically inspect or count items. Therefore, this task falls under E0 as it does not significantly benefit from LLM capabilities in terms of reducing time or improving quality.
+
+2: E0
+
+3: Moderate

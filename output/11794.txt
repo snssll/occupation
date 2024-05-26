@@ -1,0 +1,5 @@
+1: In this task, a Library Assistant, Clerical is responsible for preparing books for mailing to blind library patrons. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical actions such as placing books in containers, affixing labels, and securing containers with straps. These actions require manual dexterity and physical handling, which cannot be directly performed by an LLM. While the LLM could potentially assist in generating mailing labels or providing information on mailing procedures, the core actions of physically handling the books and containers cannot be automated by the LLM. Therefore, this task falls under E0 as it does not involve activities that can be significantly expedited or automated by the LLM.
+
+2: E0
+
+3: High

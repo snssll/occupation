@@ -1,0 +1,13 @@
+1: In this task, a detective or criminal investigator is required to collaborate with other offices and agencies to exchange information and coordinate activities. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves exchanging information and coordinating activities, which can be facilitated through written communication. An LLM could assist in drafting emails, summarizing information, providing feedback on documents, or even generating questions for further investigation. The LLM could help in maintaining records of written data related to the collaboration efforts.
+
+- Exposure by LLM-powered applications (E2): While the task may not be significantly reduced by half with just the LLM, additional software could be developed on top of the LLM to streamline the collaboration process. This software could involve searching and retrieving information from various sources, making recommendations based on data, or analyzing written information to inform decisions.
+
+- Exposure given image capabilities (E3): Image capabilities are not relevant for this task as it primarily involves written communication and coordination activities, which can be handled by the LLM without the need for image processing.
+
+Based on the above analysis, the task of collaborating with other offices and agencies to exchange information and coordinate activities aligns best with E1 - Direct exposure.
+
+2: E1
+
+3: Moderate

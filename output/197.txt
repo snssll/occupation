@@ -1,0 +1,7 @@
+1: In this task, a cytotechnologist is responsible for adjusting, maintaining, or repairing laboratory equipment, such as microscopes. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or additional software built on top of the LLM could significantly reduce the time it takes for a cytotechnologist to complete this task.
+
+- E0: This task involves physical interaction with laboratory equipment, such as adjusting, maintaining, or repairing microscopes. The LLM and systems built on top of it cannot physically interact with equipment, so they cannot directly assist in this task. Therefore, this task is unlikely to benefit from LLM exposure.
+
+2: E0
+
+3: High

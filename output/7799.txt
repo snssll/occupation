@@ -1,0 +1,7 @@
+1: In this task, a Weatherization Installer or Technician inspects buildings to identify necessary weatherization measures. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. The task involves visually inspecting buildings, identifying weatherization needs, and potentially recommending repair work or modifications. While the LLM could potentially provide information on weatherization techniques or materials, it cannot physically inspect the building or perform repairs. The task is primarily hands-on and requires physical presence and expertise in building inspection.
+
+Considering the limitations of the LLM in performing physical tasks and the specialized knowledge and skills required for building inspection, it is unlikely that the LLM can significantly reduce the time it takes for an experienced worker to complete this task. The task involves on-site assessment and decision-making based on physical observations, which cannot be effectively replaced by the LLM.
+
+2: E0
+
+3: High

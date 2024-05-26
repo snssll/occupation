@@ -1,0 +1,11 @@
+1: In this task, a Credit Authorizer, Checker, or Clerk is required to examine city directories and public records to verify various aspects of an applicant's background. This task involves researching and cross-referencing information from different sources to make informed decisions about credit applications. 
+
+To determine the appropriate label from the exposure rubric, we can break down the task:
+- Researching city directories and public records: The LLM can assist in summarizing information from these sources, but it may not significantly reduce the time required for the initial research process.
+- Verifying residence property ownership, bankruptcies, liens, arrest records, or unpaid taxes: The LLM can help in providing general information on these topics, but it may not have access to up-to-date or specific details unless provided in the input.
+
+Considering these points, the task does not fall under E1 as the LLM alone may not reduce the time significantly for the research and verification process. However, it could potentially fall under E2 if additional software could be developed to retrieve up-to-date facts and assist in analyzing the gathered information more efficiently.
+
+2: E2
+
+3: Moderate

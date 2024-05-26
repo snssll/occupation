@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of adapting or designing computer hardware or software for medical science uses as a Bioengineer or Biomedical Engineer, we need to consider the level of exposure to LLM.
+
+- E0: This task involves adapting or designing computer hardware or software, which requires specialized technical knowledge and expertise in the field of bioengineering and biomedical engineering. While an LLM could potentially assist with providing general information or explanations related to computer hardware or software, it is unlikely to significantly reduce the time it takes for an experienced Bioengineer or Biomedical Engineer to complete the task.
+
+- E1: If the task involved writing detailed technical specifications or documentation related to the adaptation or design of computer hardware or software, an LLM could assist in generating text based on provided instructions. However, the critical aspect of this task lies in the technical expertise required to ensure the hardware or software meets the specific needs of medical science applications, which the LLM may not be able to provide.
+
+- E2: While an LLM alone may not reduce the time it takes to complete the task by half, it is conceivable that additional software could be developed on top of the LLM to assist in summarizing complex technical documents, retrieving up-to-date information on medical science applications, or providing recommendations based on data analysis. This software could enhance the capabilities of the LLM for Bioengineers and Biomedical Engineers.
+
+- E3: The task of adapting or designing computer hardware or software for medical science uses does not directly involve image capabilities, so exposure to LLM with image capabilities is not relevant in this context.
+
+2: E2
+
+3: Moderate

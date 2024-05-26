@@ -1,0 +1,13 @@
+1: In this task, a Police Identification and Records Officer is required to dust selected areas of a crime scene and lift latent fingerprints while adhering to proper preservation procedures. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves specific instructions related to crime scene investigation techniques, which may require specialized knowledge and training.
+- The task does not involve writing or transforming text, summarizing documents, or providing feedback on documents.
+- While the task does involve physical actions like dusting and lifting fingerprints, the core of the task is related to following procedures and techniques rather than physical labor.
+- The task does not involve highly specialized domain knowledge that an LLM alone can provide.
+- The task does not involve analyzing written information to inform decisions or providing counsel on issues.
+
+Based on these considerations, the task falls under E0 as it involves physical actions, specialized knowledge, and procedures that are not directly related to the capabilities of an LLM.
+
+2: E0
+
+3: High

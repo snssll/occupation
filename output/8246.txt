@@ -1,0 +1,13 @@
+1: In this task, the camera operator is responsible for receiving instructions regarding camera setups, angles, distances, movement, and variables for filming. The task involves providing guidance and direction to camera operators to ensure the desired shots are captured effectively. To determine the appropriate label from the exposure rubric, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- E0: This task involves hands-on guidance and instruction that requires human interaction and physical adjustments in real-time. The task does not involve text-based information processing or analysis that could be automated by the LLM. Therefore, it is unlikely that the LLM can reduce the time significantly for an experienced camera operator to complete this task.
+
+- E1: The task does not involve writing, transforming text, summarizing documents, or any other text-based activities that the LLM could directly assist with. The nature of the task is more practical and hands-on, requiring real-time adjustments and communication with camera operators. Therefore, the LLM is not likely to reduce the time significantly for completing this task.
+
+- E2: While it is conceivable that software could be developed to assist camera operators in setting up shots or providing guidance based on pre-defined parameters, the real-time nature of the task and the need for physical adjustments make it challenging for the LLM alone to reduce the time significantly for completing this task.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The task primarily revolves around practical instructions and guidance for camera operators in a live filming environment, which does not align with the capabilities of the LLM and image processing systems.
+
+2: E0
+
+3: High

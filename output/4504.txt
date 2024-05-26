@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of designing, developing, and modifying software systems using scientific analysis and mathematical models, we need to consider the level of exposure to LLM.
+
+- E0: This task involves a high level of technical expertise and creativity in software development, which may not be significantly enhanced by the use of an LLM. The task requires deep understanding of programming languages, algorithms, and software engineering principles, which are not directly related to the capabilities of an LLM.
+
+- E1: While an LLM could potentially assist in providing general information or explanations related to software development concepts, it is unlikely to significantly reduce the time it takes for an experienced software developer to design, develop, and modify complex software systems using scientific analysis and mathematical models. The task involves specialized knowledge and skills that go beyond the capabilities of an LLM.
+
+- E2: It is conceivable that additional software could be developed on top of an LLM to assist software developers in tasks such as summarizing technical documents, retrieving specialized domain knowledge, or making recommendations based on data. However, the core task of designing, developing, and modifying software systems using scientific analysis and mathematical models may still require human expertise and creativity that cannot be fully automated by an LLM-powered application.
+
+- E3: The task does not involve image processing or visual content, so the additional capabilities provided by image processing tools in conjunction with an LLM are not relevant in this context.
+
+2: E2
+
+3: Moderate

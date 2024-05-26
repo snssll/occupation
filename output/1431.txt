@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of attending meetings or seminars to obtain information for training programs as a Training and Development Specialist, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- E1: Direct exposure - The task involves gathering information from meetings or seminars, which can be a text-based activity. The LLM can assist in summarizing the key points discussed, generating reports, or drafting training materials based on the information obtained. The LLM can significantly reduce the time needed to process and transform the information gathered into actionable insights or training content.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone can help with text-based tasks related to summarizing information or drafting reports, additional software could be developed on top of the LLM to automate the process further. This software could potentially analyze meeting transcripts, extract key insights, and generate training materials more efficiently.
+
+- E3: Exposure given image capabilities - Since the task primarily involves attending meetings or seminars to gather information, there is no direct need for image capabilities in this context. Therefore, this task does not fall under E3.
+
+2: E1
+
+3: Moderate

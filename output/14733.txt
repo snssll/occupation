@@ -1,0 +1,13 @@
+1: Commercial pilots are responsible for various tasks related to flying aircraft, including rescue and evacuation operations in emergency situations. To determine the appropriate exposure label for the task of "Rescue and evacuate injured persons," we need to consider the nature of the task and how it could potentially benefit from the use of a large language model (LLM).
+
+- E0: This task involves physical actions such as rescuing and evacuating injured persons, which cannot be directly performed by an LLM. The task requires hands-on, real-time decision-making, coordination, and physical abilities that are beyond the capabilities of text-based AI models.
+
+- E1: While an LLM could potentially assist in generating written procedures or guidelines for rescue and evacuation operations, the core task of physically rescuing and evacuating injured persons cannot be directly accomplished by an LLM. The real-time nature of the task and the need for physical intervention make it unsuitable for significant automation through text-based AI.
+
+- E2: It is challenging to imagine additional software built on top of an LLM that could significantly reduce the time it takes to complete the task of rescuing and evacuating injured persons. This task involves complex decision-making, physical coordination, and human judgment that are not easily replicable by AI systems.
+
+- E3: This task does not involve image processing or detailed visual analysis that would benefit from additional image capabilities alongside an LLM. The task primarily requires physical actions and decision-making in emergency situations, which are not related to image processing.
+
+2: E0
+
+3: High

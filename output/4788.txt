@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing and modifying astronomy-related programs for public presentation as an astronomer, we need to consider the level of exposure to LLM.
+
+- E0: This task involves developing and modifying programs, which may require specialized knowledge and expertise in astronomy. While the LLM can assist with writing code or providing information related to astronomy, the task likely involves more than just text-based activities. It may require hands-on programming skills, understanding of data visualization techniques, and domain-specific knowledge that goes beyond what the LLM can provide.
+
+- E1: The LLM can assist in generating text-based content related to astronomy, such as explanations, descriptions, or educational material. It can also help in writing code snippets or providing general information. However, the task of developing and modifying programs for public presentation may involve more complex tasks that require hands-on coding, debugging, and testing, which may not be fully supported by the LLM alone.
+
+- E2: While the LLM can provide information and generate text, additional software could be developed on top of the LLM to automate certain aspects of program development and modification. This software could potentially assist in summarizing technical documents, retrieving relevant information, or even generating code snippets based on requirements. Such tools could streamline the process and enhance productivity for astronomers working on program development.
+
+- E3: The task does not involve image processing or detailed visual analysis, so exposure to image capabilities would not significantly impact the completion time of the task.
+
+2: E2
+
+3: Moderate

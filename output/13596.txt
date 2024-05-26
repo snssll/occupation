@@ -1,0 +1,13 @@
+1: In this task, a chemist is responsible for purchasing laboratory supplies, such as chemicals, when they are low or near their expiration date. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how an LLM could assist in completing it more efficiently.
+
+- E0: This task involves physical actions such as ordering supplies, which cannot be directly performed by an LLM. Additionally, the task requires real-time monitoring of inventory levels and expiration dates, which may not be effectively handled by an LLM alone.
+
+- E1: An LLM could potentially assist in generating a list of commonly used laboratory supplies, tracking inventory levels, and setting reminders for near-expiration dates. The LLM could also help in drafting purchase orders based on predefined criteria. However, the task still involves physical actions like placing orders, which cannot be automated by the LLM.
+
+- E2: With additional software development, an LLM-powered application could potentially integrate with inventory management systems to automatically track supplies and expiration dates. It could also analyze usage patterns to predict future needs and optimize purchasing decisions. Such a system could significantly streamline the process of purchasing laboratory supplies.
+
+- E3: The task does not involve image processing or detailed visual analysis, so the image capabilities of the LLM would not provide a significant advantage in completing this task.
+
+2: E2
+
+3: Moderate

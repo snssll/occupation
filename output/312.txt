@@ -1,0 +1,5 @@
+1: In this task, a Credit Counselor is required to advise clients on various housing matters such as housing rental, homeownership, mortgage delinquency, or foreclosure prevention. To determine the appropriate exposure label, we need to consider the nature of the task. Providing advice on housing matters involves a significant amount of domain-specific knowledge related to credit, finance, real estate, and legal aspects. While an LLM can provide general information on these topics, it may not have access to the most up-to-date or specialized information required for advising clients effectively. Additionally, the task involves understanding individual client situations, which may require empathy, active listening, and personalized recommendations based on nuanced details that an LLM may not be able to capture accurately. Therefore, the task seems to require a high degree of human interaction, specialized domain knowledge, and personalized advice, which are not easily replicable by an LLM alone.
+
+2: E0
+
+3: High

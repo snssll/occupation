@@ -1,0 +1,5 @@
+1: Telemarketers are responsible for contacting potential customers over the phone to promote products or services and secure sales. One of the tasks they perform is obtaining customer information such as name, address, and payment method, and entering orders into computers. To determine the exposure level of this task to LLM, we need to consider if the LLM can significantly reduce the time it takes for a telemarketer to complete this task with high quality. In this case, the task involves interacting with customers over the phone, collecting sensitive information, and accurately entering data into computer systems. While the LLM could potentially assist in generating scripts for telemarketing calls or providing information on products/services, it cannot directly interact with customers or input data into computer systems. Therefore, the task of obtaining customer information and entering orders into computers is not significantly reducible by the LLM alone.
+
+2: E0
+
+3: High

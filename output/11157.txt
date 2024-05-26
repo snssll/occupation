@@ -1,0 +1,7 @@
+1: In this task, the occupation of Patternmakers, Metal and Plastic involves painting or lacquering patterns onto metal or plastic surfaces. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical work that cannot be directly replaced by the LLM. Painting or lacquering patterns requires manual dexterity and precision that cannot be replicated by a language model alone. Therefore, this task falls under E0 as it does not benefit from LLM capabilities.
+
+2: E0
+
+3: High

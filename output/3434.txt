@@ -1,0 +1,12 @@
+1: In this task, an electrician is required to construct or fabricate parts using hand tools according to specifications. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- The task involves physical construction and fabrication using hand tools, which cannot be directly assisted by the LLM.
+- The specifications for the parts may require technical knowledge and expertise that the LLM may not possess.
+- The task does not involve text input or output that can be easily processed by the LLM.
+- The LLM cannot physically manipulate tools or materials to construct parts.
+
+Based on these considerations, it is clear that the task of constructing or fabricating parts as an electrician falls under E0 as it involves physical work that cannot be significantly assisted by the LLM.
+
+2: E0
+
+3: High

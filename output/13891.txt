@@ -1,0 +1,13 @@
+1: In this task, an Advertising Sales Agent is required to recommend appropriate sizes and formats for advertising based on the medium being used. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- E0: This task involves a level of expertise in understanding advertising mediums, target audiences, and design principles. While the LLM can provide general information on advertising and design, it may not have the specific domain knowledge required to make tailored recommendations for different mediums.
+
+- E1: The LLM can assist in providing general guidelines for advertising sizes and formats based on common practices and principles. It can generate sample recommendations that the agent can further refine based on their expertise. This could potentially reduce the time it takes to come up with initial suggestions.
+
+- E2: With additional software development, an application could be created that integrates the LLM's capabilities with real-time data on advertising trends, audience preferences, and platform requirements. This application could analyze vast amounts of data to provide more data-driven recommendations, potentially enhancing the agent's decision-making process.
+
+- E3: Image capabilities are not directly relevant to this task, as it primarily involves recommending sizes and formats for advertising content rather than creating or editing visual content.
+
+2: E1
+
+3: Moderate

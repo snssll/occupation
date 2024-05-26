@@ -1,0 +1,5 @@
+1: In this task, a glazier is responsible for preparing glass for cutting by applying oil along cutting lines or dipping cutting tools in oil. To determine the exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. The task itself is very manual and hands-on, involving physical actions like resting glass on racks and brushing oil. The instructions are straightforward and do not require complex decision-making or specialized knowledge that the LLM could provide. Since the task is purely physical and does not involve written or spoken communication, the LLM would not be able to assist in completing it more efficiently. Therefore, this task falls under E0 as the LLM would not reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

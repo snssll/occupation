@@ -1,0 +1,5 @@
+1: In this task, a physical therapist is required to directly supervise, assess, and communicate with supportive personnel. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone can significantly reduce the time it takes for a physical therapist to complete this task. Since the task involves direct interaction, supervision, assessment, and communication with other individuals, it is unlikely that the LLM can directly assist in these aspects. The task does not involve text input or output that can be easily processed by the LLM. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM or systems built on top of it.
+
+2: E0
+
+3: High

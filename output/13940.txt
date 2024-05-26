@@ -1,0 +1,5 @@
+1: In this task, an Inspector, Tester, Sorter, Sampler, or Weigher is required to recommend necessary corrective actions based on inspection results. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves analyzing inspection results and making recommendations based on that analysis. This task does not involve complex decision-making that impacts human livelihood, precise measurements, or detailed visual analysis. The task primarily revolves around analyzing data (inspection results) and providing recommendations. Given that the task can be broken down into analyzing information and generating recommendations, it aligns more closely with E1 exposure, where the LLM can assist in writing and transforming text according to complex instructions, providing edits, and generating recommendations based on data analysis.
+
+2: E1
+
+3: Moderate

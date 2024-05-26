@@ -1,0 +1,11 @@
+1: In this task, a Postal Service Mail Carrier is required to obtain signed receipts for registered, certified, and insured mail, collect associated charges, and complete any necessary paperwork. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves interacting with customers to obtain signatures and collect charges, which requires human interaction and physical presence. This aspect of the task cannot be automated by an LLM.
+- Completing necessary paperwork may involve specific forms, regulations, and procedures that may not be easily captured by the LLM without up-to-date information.
+- While the LLM could potentially assist in generating standard forms or providing information on mail regulations, the core aspects of obtaining signatures and collecting charges are not easily automated by text-based AI models.
+
+Based on these considerations, the task falls under E0 as it involves a high degree of human interaction, physical presence, and specific procedural knowledge that cannot be effectively automated by an LLM.
+
+2: E0
+
+3: High

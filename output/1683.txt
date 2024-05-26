@@ -1,0 +1,12 @@
+1: In this task, a Medical Dosimetrist is responsible for calculating or verifying prescribed radiation doses for patients undergoing radiation therapy. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves complex calculations and requires a high level of accuracy to ensure patient safety.
+- The calculations may involve various factors such as the type of cancer, the location of the tumor, the patient's anatomy, and the prescribed treatment plan.
+- While the LLM can assist with providing general information on radiation therapy and dosages, the specific calculations required for this task are highly specialized and may involve patient-specific data that the LLM may not have access to.
+- The task also involves a critical aspect of patient care, where any errors in dosage calculations can have serious consequences for the patient's health.
+
+Based on these considerations, the task of calculating or verifying prescribed radiation doses for Medical Dosimetrists falls under the E0 category. The specialized nature of the calculations, the need for accuracy, and the critical implications for patient safety make it unlikely that the LLM alone or tools built on top of it could significantly reduce the time it takes for an experienced Medical Dosimetrist to complete this task with high quality.
+
+2: E0
+
+3: High

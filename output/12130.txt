@@ -1,0 +1,5 @@
+1: In this task, a Food Preparation Worker is responsible for portioning and wrapping food or placing it directly on plates for service to patrons. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. The task involves physical actions such as wrapping food and placing it on plates, which cannot be directly assisted by the LLM. The LLM cannot perform tasks that require physical interaction or precise measurements, which are essential in food preparation. Therefore, the task does not fall under E1, E2, or E3 as the LLM cannot directly assist in completing the task.
+
+2: E0
+
+3: High

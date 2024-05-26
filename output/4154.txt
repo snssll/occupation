@@ -1,0 +1,5 @@
+1: In this task, a Food Preparation Worker is required to cut, slice, or grind meat, poultry, and seafood to prepare them for cooking. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as cutting, slicing, and grinding, which cannot be directly performed by an LLM. While the LLM can provide information on food preparation techniques, recipes, and safety guidelines, it cannot physically handle the food items. Therefore, this task falls under E0 as it does not involve text-based activities that can be directly assisted by the LLM.
+
+2: E0
+
+3: High

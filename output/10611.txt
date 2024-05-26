@@ -1,0 +1,13 @@
+1: In this task, a radiologist is required to obtain patients' histories from various sources such as electronic records, patient interviews, dictated reports, or by communicating with referring clinicians. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how an LLM could assist in completing it. 
+
+- E0: This task involves interacting with various sources of information, including electronic records and communication with clinicians. While an LLM could potentially assist in summarizing or organizing the information, the task primarily involves human interaction and interpretation of medical data, which may not be significantly expedited by the LLM.
+
+- E1: An LLM could potentially help in summarizing dictated reports, organizing information from electronic records, or even drafting communication with referring clinicians based on the provided information. This could reduce the time required to gather patient histories, especially if the LLM can extract relevant details efficiently.
+
+- E2: With further development, specialized software could be created on top of the LLM to not only extract patient histories but also analyze the data, provide insights, or even suggest potential diagnoses based on the gathered information. Such software could significantly enhance the efficiency of obtaining patient histories for radiologists.
+
+- E3: Image capabilities are not directly relevant to this task as it primarily involves text-based information retrieval and communication rather than image processing.
+
+2: E2
+
+3: Moderate

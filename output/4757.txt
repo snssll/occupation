@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of developing and implementing solutions for network problems as a Computer Network Architect, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - If the task involves writing and transforming text and code according to complex instructions, providing edits to existing text or code following specifications, or writing code to help perform a task that used to be done by hand, then it would fall under E1. In this case, the task of developing and implementing solutions for network problems may involve writing code or providing detailed technical instructions, which could benefit from direct access to the LLM for assistance.
+
+- E2: Exposure by LLM-powered applications - If having access to the LLM alone may not reduce the time it takes to complete the task by at least half, but additional software developed on top of the LLM could enhance the process, then it would be classified as E2. For this task, if there were specialized software that could summarize complex network issues, provide recommendations based on data, or analyze written information to inform decisions, it could fall under E2.
+
+- E3: Exposure given image capabilities - If the task involved reading text from PDFs, scanning images related to network configurations, or creating/editing digital images for network diagrams, then it would be categorized as E3. However, since the task primarily focuses on developing and implementing solutions for network problems, it is less likely to involve significant image-related tasks.
+
+2: E2
+
+3: Moderate

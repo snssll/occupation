@@ -1,0 +1,11 @@
+1: In this task, a Solar Thermal Installer and Technician is responsible for filling water tanks and checking tanks, pipes, and fittings for leaks. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- The task involves physical actions such as filling water tanks and visually inspecting tanks, pipes, and fittings for leaks. These actions cannot be directly performed by the LLM.
+- The task does not involve complex data analysis, decision-making, or specialized domain knowledge that would significantly benefit from the LLM's capabilities.
+- While the LLM could potentially provide information on best practices for checking tanks and pipes, the task primarily requires hands-on inspection and maintenance work.
+
+Based on these considerations, the task of filling water tanks and checking for leaks is not suitable for LLM assistance as it involves physical actions and does not heavily rely on text-based information processing or analysis.
+
+2: E0
+
+3: High

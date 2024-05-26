@@ -1,0 +1,13 @@
+1: In this task, an Automotive Glass Installer and Repairer is required to replace various parts such as moldings, clips, windshield wipers, or other components that were removed before glass replacement or repair. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- E0: This task involves physical work that requires manual dexterity and hands-on skills to replace automotive parts. The task is practical and involves working with physical components, which cannot be directly assisted by the LLM.
+
+- E1: The task does not involve writing, transforming text, or providing feedback on documents. It is a hands-on task that requires technical skills related to automotive repair. The LLM cannot directly assist in physically replacing parts in a vehicle.
+
+- E2: While it is conceivable that software could be developed to provide guidance or instructions on replacing specific automotive parts, the task itself is primarily practical and hands-on. The LLM alone may not significantly reduce the time it takes to complete the task.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The use of image capabilities would not significantly impact the completion of the task, as it is focused on physical repair work.
+
+2: E0
+
+3: High

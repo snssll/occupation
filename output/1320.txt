@@ -1,0 +1,10 @@
+1: In this task, an Usher, Lobby Attendant, or Ticket Taker assists patrons in finding seats, potentially using flashlights to light the way if necessary. To determine the appropriate exposure label, we can break down the task:
+- The task involves interacting with patrons, guiding them to their seats, and potentially using flashlights. This task requires physical presence and human interaction, which cannot be replaced by an LLM or any software tool.
+- The task does not involve complex data analysis, writing, summarizing documents, or any other activity that an LLM could significantly assist with.
+- The task is straightforward and does not require specialized domain knowledge or complex decision-making that would benefit from LLM capabilities.
+
+Based on these considerations, the task of assisting patrons in finding seats with flashlights falls under E0 as it does not align with any of the exposure levels described in the rubric.
+
+2: E0
+
+3: High

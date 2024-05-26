@@ -1,0 +1,5 @@
+1: In this task, a parking attendant is required to call emergency responders or authorities and provide motorist assistance, such as giving directions or helping jump start a stalled vehicle. This task involves real-time interaction with individuals in need of immediate assistance, which cannot be effectively automated by an LLM. The task also requires physical presence and actions, such as jump-starting a vehicle, which are beyond the capabilities of an LLM. Therefore, this task falls under the category of E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

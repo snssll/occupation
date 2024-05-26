@@ -1,0 +1,15 @@
+1: For the task of processing transactions as a teller, the exposure to LLM can be evaluated as follows:
+
+- E0: This task involves hands-on interaction with physical documents and possibly cash, which cannot be handled by the LLM. Additionally, the task may require precise financial calculations and adherence to banking regulations, which are not within the capabilities of the LLM.
+
+- E1: While the LLM could potentially assist in generating written communication related to transactions or providing general information on banking processes, it cannot directly perform the transaction processing tasks that involve physical documents and financial calculations.
+
+- E2: It is conceivable that software could be developed on top of the LLM to assist with certain aspects of transaction processing, such as generating reports, summarizing transaction data, or providing customer service information. However, the core task of processing transactions would still require human intervention.
+
+- E3: The task does not involve image processing or creation, so the image capabilities of the LLM would not significantly impact the completion of this task.
+
+Based on the above analysis, the task of processing transactions as a teller would be best classified as E0.
+
+2: E0
+
+3: High

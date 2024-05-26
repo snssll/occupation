@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of programming CNC machines to fabricate model parts as a Model Maker, Metal and Plastic, we need to consider the nature of the task and how it can be impacted by the use of a large language model (LLM).
+
+- Programming CNC machines involves writing code that dictates the movements and actions of the machine to fabricate specific parts. This task requires technical knowledge of CNC programming languages and the ability to understand the specifications of the model parts to be fabricated.
+- An LLM could potentially assist in generating or refining the code needed for CNC programming based on the specifications provided. The model could help in automating certain aspects of the programming process, such as generating complex toolpaths or optimizing the code for efficiency.
+- While an LLM could provide suggestions or even generate code snippets, the task of programming CNC machines still heavily relies on technical expertise and domain-specific knowledge. The precision and accuracy required in CNC programming may not be fully met by an LLM alone, as it lacks the ability to directly interact with the CNC machine or verify the code's functionality in a physical setting.
+
+Based on these considerations, the task of programming CNC machines to fabricate model parts as a Model Maker, Metal and Plastic would likely fall under **E2 - Exposure by LLM-powered applications**. While the LLM could potentially assist in generating code or providing recommendations, additional software tailored specifically for CNC programming tasks would be needed to significantly reduce the time it takes to complete the task.
+
+2: E2
+
+3: Moderate

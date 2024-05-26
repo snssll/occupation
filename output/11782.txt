@@ -1,0 +1,15 @@
+1: In this task, the occupation of Travel Guides involves piloting airplanes or driving land and water vehicles to transport tourists to activity or tour sites. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical actions such as piloting airplanes or driving vehicles, which cannot be performed by the LLM or LLM-powered tools. Additionally, tasks that require precise measurements or in-person demonstrations fall under E0.
+
+- E1: The task does not involve writing, transforming text, summarizing documents, or any other text-based activities that the LLM can directly assist with. Therefore, it does not fit the criteria for E1.
+
+- E2: While it is conceivable that software could be developed to assist travel guides in planning routes, providing real-time information, or offering recommendations based on data, the core task of piloting airplanes or driving vehicles is not something that can be significantly aided by the LLM alone.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so it does not fall under E3.
+
+Based on the analysis above, the task of piloting airplanes or driving land and water vehicles for travel guides is best classified as E0.
+
+2: E0
+
+3: High

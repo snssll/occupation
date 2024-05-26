@@ -1,0 +1,5 @@
+1: In this task, Biomass Plant Technicians are required to calculate, measure, load, or mix biomass feedstock for power generation. This task involves physical activities such as measuring and loading biomass feedstock, which cannot be directly performed by an LLM. The task does not involve text input or output, and the context is more focused on physical actions rather than text-based information processing. Therefore, the task does not align with the capabilities of the LLM, and there are no tools built on top of the LLM that could significantly reduce the time it takes to complete this task. As a result, this task falls under E0 as it does not benefit from exposure to the LLM.
+
+2: E0
+
+3: High

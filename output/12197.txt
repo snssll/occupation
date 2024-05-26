@@ -1,0 +1,5 @@
+1: In this task, the helper production worker is responsible for positioning spouts or chutes of storage bins to facilitate the filling of containers. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as positioning spouts or chutes, which cannot be directly performed by an LLM. The task does not involve complex decision-making, specialized knowledge, or extensive data analysis that would benefit significantly from LLM capabilities. Therefore, this task does not align with any of the exposure levels in the rubric.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, a Maid or Housekeeping Cleaner is required to carry linens, towels, toilet items, and cleaning supplies using wheeled carts. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical actions such as carrying items using wheeled carts, which cannot be directly assisted by the LLM.
+- The task does not involve complex decision-making, specialized knowledge, or detailed analysis that would benefit from LLM capabilities.
+- The task is straightforward and does not require text input or output that the LLM could assist with.
+
+Based on these considerations, it is clear that the task of carrying linens, towels, and cleaning supplies using wheeled carts does not align with any of the exposure levels (E0, E1, E2, E3) provided in the rubric. 
+
+2: E0
+
+3: High

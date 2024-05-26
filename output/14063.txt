@@ -1,0 +1,5 @@
+1: In this task, a Transportation Security Screener is required to record information about baggage that sets off alarms in monitoring equipment. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves recording information based on real-time monitoring equipment alerts, which requires human judgment and decision-making. While an LLM could potentially assist in providing guidelines or templates for recording information, the task itself involves real-time interaction with physical monitoring equipment and baggage. As such, the task does not involve text-based inputs or outputs that can be easily processed by an LLM. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM to significantly reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

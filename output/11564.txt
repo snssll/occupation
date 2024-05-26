@@ -1,0 +1,5 @@
+1: Floral designers perform various office and retail service duties, such as keeping financial records, serving customers, answering telephones, selling giftware items, and receiving payment. To determine the appropriate exposure label for this task in relation to the LLM, we need to consider the nature of the task. The task involves a mix of administrative and customer service responsibilities, which are primarily non-textual in nature. While the LLM can assist with tasks related to writing, summarizing, translating, and providing feedback on documents, it may not be directly applicable to tasks involving physical interactions, financial transactions, and customer service. The task does not involve complex text-based analysis or decision-making that would significantly benefit from the LLM's capabilities. Therefore, the task is unlikely to be significantly impacted by the LLM, leading to a classification of E0.
+
+2: E0
+
+3: High

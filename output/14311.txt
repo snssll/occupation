@@ -1,0 +1,5 @@
+1: In this task, a Fishing and Hunting Worker is required to release the caught animals from traps or nets and transfer them to cages. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as handling traps, nets, and live animals, which cannot be directly performed by an LLM. The task also requires physical dexterity and the ability to work in outdoor environments, which are beyond the capabilities of an LLM. As such, this task falls under the category of tasks that require physical interaction and cannot be automated by an LLM. Therefore, this task would be classified as E0 as it does not benefit from LLM capabilities.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a hairdresser, hairstylist, or cosmetologist is required to administer therapeutic medication and advise patrons to seek medical treatment for chronic or contagious scalp conditions. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves providing advice based on medical conditions, which requires specialized knowledge and expertise beyond what an LLM can provide. The task also involves physical interaction with patrons, which cannot be performed by an LLM. Additionally, the task involves making decisions that could impact the health and well-being of individuals, which should not be delegated to an AI system. Therefore, this task falls under E0 as it does not align with the capabilities of an LLM or any tools built on top of it.
+
+2: E0
+
+3: High

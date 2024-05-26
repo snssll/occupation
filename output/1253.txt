@@ -1,0 +1,11 @@
+1: In this task, the occupation involves assisting customers in selecting tile and grout. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E1: Direct exposure - The task of assisting customers in selecting tile and grout involves a high level of human interaction and requires physical presence to show samples, discuss options, and provide recommendations based on customer preferences. While the LLM could potentially provide information on different types of tiles and grout, it cannot replace the personalized assistance and expertise needed in this task. Therefore, direct access to the LLM would not significantly reduce the time needed to complete this task.
+
+- E2: Exposure by LLM-powered applications - While it is conceivable that software could be developed to provide recommendations on tile and grout selection based on customer preferences and existing knowledge, the complexity of customer interactions, preferences, and the tactile nature of selecting materials make it challenging for an LLM-powered application to fully replace the role of a Tile and Stone Setter in assisting customers effectively.
+
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of assisting customers in selecting tile and grout, as the task primarily involves verbal communication, physical samples, and visual inspection of materials. The LLM's text capabilities are not sufficient to replace the hands-on nature of this task.
+
+2: E0
+
+3: High

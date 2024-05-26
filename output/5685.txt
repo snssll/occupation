@@ -1,0 +1,12 @@
+1: In this task, a Fabric and Apparel Patternmaker is required to discuss design specifications with designers and convert their original garment models into patterns of separate parts for fabric layout. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves understanding design specifications and converting them into patterns, which may require some level of creativity and expertise.
+- The task does not involve direct text input or output that can be easily automated by an LLM.
+- While an LLM could potentially assist in providing information on garment design trends or techniques, it may not significantly reduce the time it takes to complete the task of converting garment models into patterns.
+- Developing software on top of the LLM that could accurately interpret and convert garment designs into patterns would require specialized image recognition capabilities, which are not explicitly mentioned in the task description.
+
+Based on these considerations, the task does not clearly benefit from direct exposure to an LLM, nor is it easily adaptable to software that could be developed on top of an LLM. Therefore, the task is best classified as E0.
+
+2: E0
+
+3: Moderate

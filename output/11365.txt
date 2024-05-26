@@ -1,0 +1,9 @@
+1: In this task, a Community Health Worker is required to perform basic diagnostic procedures such as blood pressure screening, breast cancer screening, or communicable disease screening. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+Performing basic diagnostic procedures involves hands-on skills and direct interaction with patients. It requires physical presence, the ability to use medical equipment, and interpret the results accurately. These tasks cannot be completed solely through text-based interactions with an LLM. The task also involves making critical decisions based on the results obtained, which require human judgment and expertise.
+
+Given that the task involves physical procedures, direct interaction with patients, and the need for human judgment, it falls under E0. The task cannot be significantly expedited or completed with equivalent quality by using an LLM or LLM-powered tool.
+
+2: E0
+
+3: High

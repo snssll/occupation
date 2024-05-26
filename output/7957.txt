@@ -1,0 +1,11 @@
+1: In this task, a curator is responsible for inspecting premises to assess the need for repairs and to ensure that climate and pest control issues are addressed. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves physical inspection of premises, which cannot be directly assisted by the LLM as it requires on-site presence and observation.
+- While the LLM could potentially provide information on best practices for climate and pest control, it cannot physically address these issues or assess the actual conditions of the premises.
+- The task does not involve text-based analysis or decision-making that could be streamlined by the LLM.
+
+Based on these considerations, the task of inspecting premises for repairs and climate/pest control issues falls under E0 as it does not benefit from direct exposure to the LLM.
+
+2: E0
+
+3: High

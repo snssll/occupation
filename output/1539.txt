@@ -1,0 +1,13 @@
+1: In this task, a Rotary Drill Operator in the Oil and Gas industry is required to bolt together pump and engine parts, and connect tanks and flow lines. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical work that cannot be replaced by text-based instructions or information provided by the LLM. The task requires hands-on skills and precise mechanical work that cannot be performed by the LLM.
+
+- E1: The task of bolting together pump and engine parts, and connecting tanks and flow lines involves practical, hands-on work that cannot be directly assisted by the LLM. While the LLM could potentially provide written instructions or guidance on the process, the actual physical assembly and connection of parts require manual labor and expertise that the LLM cannot replicate.
+
+- E2: While the LLM alone may not be able to directly assist in completing the task, it is conceivable that additional software could be developed on top of the LLM to provide augmented reality instructions or simulations to aid in the physical assembly process. This software could potentially reduce the time it takes to complete the task by providing visual guidance or step-by-step instructions.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E2
+
+3: Moderate

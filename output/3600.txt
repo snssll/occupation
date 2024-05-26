@@ -1,0 +1,11 @@
+1: In this task, a Conveyor Operator or Tender is responsible for contacting workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves communication and coordination, which are primarily verbal and may not directly benefit from the text-based capabilities of the LLM.
+- The task requires real-time interaction and coordination with other workers, which may not be efficiently facilitated by the LLM.
+- The task involves practical logistics and operational aspects that may not be effectively addressed by the LLM's text-based abilities alone.
+
+Considering these points, it is unlikely that the task of contacting workers for material movement coordination would be significantly expedited or enhanced by the use of the LLM. Therefore, this task is best classified as E0.
+
+2: E0
+
+3: High

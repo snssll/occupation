@@ -1,0 +1,13 @@
+1: In this task, a Mortician, Undertaker, or Funeral Arranger is responsible for contacting cemeteries to schedule the opening and closing of graves. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves direct human interaction and coordination with cemeteries, which cannot be replaced by the LLM. The LLM cannot physically open or close graves, so the core aspect of this task cannot be automated by the model.
+
+- E1: While the LLM could potentially draft emails or written correspondence to cemeteries, the critical aspect of scheduling and coordinating the physical opening and closing of graves still requires human intervention. The LLM may assist in drafting emails, but the core task remains largely manual.
+
+- E2: It is challenging to imagine additional software that could be developed on top of the LLM to significantly reduce the time it takes to contact cemeteries and schedule grave openings and closings. The task involves real-time coordination and communication that is not easily automated.
+
+- E3: Image capabilities are not relevant to this task as it primarily involves communication and coordination with cemeteries, without a significant reliance on visual information.
+
+2: E0
+
+3: High

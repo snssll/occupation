@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of designing or developing new crystals for photonics applications as a Photonics Engineer, we need to consider the level of exposure to LLM.
+
+- E0: This task involves a high degree of specialized knowledge and expertise in photonics engineering, which may not be easily accessible or replicable by an LLM alone. The task likely requires hands-on experimentation, precise measurements, and detailed understanding of material properties, making it unsuitable for automation by an LLM.
+
+- E1: While an LLM could potentially provide some information or background research on existing crystal properties or photonics applications, the actual design and development of new crystals would require specialized knowledge and skills that go beyond what an LLM can provide. The hands-on nature of the task and the need for practical experimentation make it unlikely that an LLM could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E2: It is conceivable that additional software could be developed on top of an LLM to assist with the research aspect of designing new crystals for photonics applications. This software could potentially help in summarizing existing research, retrieving relevant data, or providing recommendations based on the information available. However, the actual design and development process would still heavily rely on the expertise and hands-on work of the Photonics Engineer.
+
+- E3: Given the task involves designing new crystals, which may involve visualizing and conceptualizing complex structures, having image capabilities in addition to an LLM could potentially aid in creating digital representations or simulations of the crystals. This could help in the visualization and initial design stages of the process, but the actual development and testing of the crystals would still require specialized knowledge and practical skills.
+
+2: E2
+
+3: Moderate

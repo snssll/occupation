@@ -1,0 +1,11 @@
+1: In this task, an Endoscopy Technician assists physicians or registered nurses in conducting endoscopic procedures. The task involves providing support during medical procedures, ensuring equipment is prepared and functioning properly, and assisting with patient care. To determine the exposure level to LLM, we need to consider if the task can be significantly enhanced or automated by the use of the language model.
+
+- Endoscopy procedures involve a high level of human interaction and hands-on work, such as handling medical equipment and assisting medical professionals. The task requires physical presence and direct assistance during procedures, which cannot be replaced by text-based interactions with an LLM.
+- While an LLM could potentially provide information on endoscopy procedures, safety protocols, or equipment maintenance, the practical aspects of assisting in real-time procedures require physical presence and hands-on skills.
+- The task does not involve extensive written documentation or data analysis that could be significantly expedited by an LLM. The critical aspects of the job involve practical skills and real-time support during medical procedures.
+
+Based on these considerations, the task of assisting in endoscopic procedures is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,10 @@
+1: In this task, a plumber, pipefitter, or steamfitter is required to maintain or repair plumbing systems by performing tasks such as replacing defective washers, mending broken pipes, and opening clogged drains. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical work that cannot be automated by the LLM. Plumbers, pipefitters, and steamfitters require hands-on skills and precise measurements that cannot be performed by a language model alone.
+- E1: The LLM could potentially provide written instructions or guidance on how to perform specific plumbing tasks, but it cannot physically replace defective washers, mend broken pipes, or open clogged drains. While it may assist in providing information or troubleshooting tips, the actual repair work cannot be done by the LLM.
+- E2: It is challenging to imagine additional software built on top of the LLM that could automate the physical repair work involved in plumbing maintenance. While the LLM could potentially provide theoretical knowledge or troubleshooting advice, the hands-on nature of the task limits the applicability of additional software.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

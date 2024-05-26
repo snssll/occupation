@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of devising or applying independent models or tools to help verify results of analytical systems as a Financial Quantitative Analyst, we need to consider the level of automation and assistance provided by the LLM.
+
+- E1: Direct exposure - If the task involves writing and transforming text or code according to complex instructions, providing edits to existing text or code, or writing code to automate tasks that were previously done manually, the LLM could significantly reduce the time needed to complete the task with equivalent quality. In this case, the LLM could assist in generating models or tools based on the input provided, thereby expediting the process.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not reduce the time to complete the task by half, additional software could be developed on top of the LLM to summarize documents, retrieve up-to-date facts, or provide recommendations based on data. This additional software could enhance the capabilities of the LLM in assisting Financial Quantitative Analysts in verifying analytical systems.
+
+- E3: Exposure given image capabilities - Since the task does not involve reading text from PDFs, scanning images, or creating/editing digital images, the image capabilities of the LLM are not directly relevant to this task.
+
+Based on the considerations above, the task of devising or applying independent models or tools to help verify results of analytical systems as a Financial Quantitative Analyst would likely fall under E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

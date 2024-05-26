@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of preparing and verifying cashier's checks as part of the Tellers occupation, we need to consider the nature of the task and how it can be impacted by the capabilities of the LLM.
+
+- **E0**: This task involves physical actions such as handling checks, verifying signatures, and ensuring security measures are in place. It also requires precision and attention to detail, which may not be effectively replaced by the LLM.
+
+- **E1**: While the LLM could potentially assist in generating written instructions or explanations related to cashier's checks, the core task of physically preparing and verifying the checks involves actions that cannot be directly performed by the LLM. The LLM could provide information on the process or guidelines, but it cannot physically handle the checks.
+
+- **E2**: It is conceivable that software could be developed on top of the LLM that could assist in automating some aspects of the verification process, such as cross-referencing information or flagging potential discrepancies. However, the physical preparation of the checks would still require human intervention.
+
+- **E3**: The task of preparing and verifying cashier's checks does not involve image processing or detailed visual analysis that would benefit significantly from additional image capabilities. Therefore, this task is not suitable for an E3 label.
+
+Based on the above analysis, the most appropriate label for the task of preparing and verifying cashier's checks for Tellers would be **E2**.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,5 @@
+1: In this task, the Hotel, Motel, and Resort Desk Clerks are responsible for greeting guests, registering them, and assigning rooms. To determine the exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. The task involves interacting with guests, handling check-ins, and room assignments, which are primarily hands-on and require human interaction. While the LLM could potentially assist in generating standard greeting scripts or providing information on room availability, the core tasks of greeting guests and physically assigning rooms would still need to be done manually. The LLM cannot replace the human touch and personalized service required in this role. Therefore, the task does not significantly benefit from LLM assistance, leading to an E0 classification.
+
+2: E0
+
+3: High

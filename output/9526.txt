@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of mapping data between source systems, data warehouses, and data marts for Data Warehousing Specialists in terms of exposure to LLM, we need to consider the nature of the task. This task involves understanding the structure and relationships of data across different systems, which requires domain-specific knowledge and expertise in data management.
+
+- E0: This task involves specialized domain knowledge and expertise in data warehousing, which may not be easily replaced by LLM capabilities alone. LLM may not have the specific knowledge required to effectively map data between systems without detailed understanding of the data architecture and business requirements.
+
+- E1: While LLM can assist in providing general information about data warehousing concepts and potentially generate some basic mappings based on provided information, the complexity and specificity of mapping data between systems may require human expertise and domain knowledge that LLM alone may not possess.
+
+- E2: It is conceivable that additional software could be developed on top of LLM to assist Data Warehousing Specialists in mapping data more efficiently by integrating with existing data systems, analyzing data structures, and providing recommendations based on best practices. This software could potentially enhance the efficiency of the mapping process.
+
+- E3: The task of mapping data between systems does not involve image processing or visual data, so the additional image capabilities provided by LLM are not relevant in this context.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of altering or modifying designs to obtain specified functional or operational performance as an Automotive Engineer, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- **E1 (Direct exposure):** If the task involves writing and transforming text or code related to design alterations, providing edits to existing designs, or generating design ideas based on specifications, the LLM could significantly reduce the time it takes to complete the task with equivalent quality. The LLM could assist in drafting design proposals, suggesting modifications, or even generating alternative design solutions based on input specifications.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone may not reduce the time to complete the task by half, additional software could be developed on top of the LLM to streamline the design modification process. This software could potentially summarize design documents, retrieve up-to-date information on automotive engineering trends, or provide recommendations for design improvements based on data analysis.
+
+- **E3 (Exposure given image capabilities):** Since the task involves design modifications, having access to image capabilities in addition to the LLM could be beneficial. The ability to view and create digital images could aid in visualizing design changes, creating design mock-ups, or editing design schematics.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,7 @@
+1: In this task, the critical care nurse is required to administer medications through various methods. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a critical care nurse to complete this task with high quality. 
+
+- E0: This task involves physical actions such as administering medications intravenously, by injection, orally, etc. These actions require hands-on skills and cannot be performed by the LLM or any software tool. Therefore, this task falls under E0 as the LLM cannot reduce the time it takes for a critical care nurse to administer medications physically.
+
+2: E0
+
+3: High

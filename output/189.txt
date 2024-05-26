@@ -1,0 +1,11 @@
+1: In this task, a potter working in manufacturing needs to adjust wheel speeds based on the feel of the clay as pieces enlarge and walls become thinner. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced potter to complete this task with high quality.
+
+- The task involves a hands-on, tactile aspect that requires the potter to physically interact with the clay and adjust the wheel speeds based on sensory feedback. This physical manipulation cannot be directly replaced by text-based instructions or outputs from the LLM.
+- While the LLM could potentially provide general information on pottery techniques or troubleshooting tips, it cannot directly assist in the real-time adjustment of wheel speeds based on the feel of the clay.
+- The task does not involve text input or output, complex instructions, data analysis, or information retrieval that could be significantly expedited by the LLM.
+
+Based on these considerations, the task of adjusting wheel speeds in pottery manufacturing is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

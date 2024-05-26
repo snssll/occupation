@@ -1,0 +1,7 @@
+1: In this task, a radiologist is required to advise other physicians on various aspects related to the use of radioactive materials in diagnostic and therapeutic applications. To complete this task, the radiologist needs to have a deep understanding of radiology, medical imaging, and the effects of radioactive materials on the human body. The task involves providing detailed information, explanations, and recommendations based on specialized knowledge and experience in the field.
+
+Considering the task requirements, using the LLM alone may not significantly reduce the time it takes to complete the task. While the LLM can provide general information on radiology and medical imaging, it may not have the specialized domain knowledge and expertise required to advise on the clinical indications, limitations, assessments, and risks specific to radioactive materials. Developing additional software on top of the LLM that can retrieve highly specialized domain knowledge in radiology and provide accurate recommendations based on that knowledge could potentially reduce the time to complete the task by half.
+
+2: E2
+
+3: Moderate

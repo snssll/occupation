@@ -1,0 +1,5 @@
+1: In this task, the occupation involves accompanying and assisting emergency medical technicians on calls. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an average worker to complete this task with equivalent quality. Since the task involves physical presence and assistance during emergency calls, it requires hands-on, real-time support that cannot be provided solely through text-based interactions with the LLM. The LLM cannot physically accompany or assist in emergency situations, making it unsuitable for this task. Therefore, this task falls under E0 as it does not benefit from LLM capabilities.
+
+2: E0
+
+3: High

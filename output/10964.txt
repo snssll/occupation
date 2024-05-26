@@ -1,0 +1,7 @@
+1: In this task, the commercial pilot is responsible for making critical decisions to ensure the safety of flights by ordering changes in fuel supplies, loads, routes, or schedules. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a commercial pilot to complete this task with high quality. 
+
+Given the nature of the task, which involves real-time decision-making based on complex factors such as weather conditions, aircraft performance, regulations, and safety considerations, it is unlikely that the LLM alone can provide the real-time data and analysis required for making these decisions. The task also involves a high degree of human interaction and physical coordination, which cannot be replaced by text-based AI models. Therefore, the task does not fall under E1, E2, or E3 exposure categories.
+
+2: E0
+
+3: High

@@ -1,0 +1,10 @@
+1: In this task, a First-Line Supervisor of Housekeeping and Janitorial Workers is required to perform or assist with cleaning duties as necessary. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical cleaning duties that cannot be performed by the LLM or any software tools. The task requires hands-on work and direct physical interaction, making it unsuitable for automation by the LLM.
+- E1: The LLM can provide written instructions, guidelines, or training materials related to cleaning duties. It can also assist in documenting cleaning procedures, maintaining records, or communicating information via written or spoken mediums. However, the actual cleaning tasks cannot be performed by the LLM itself.
+- E2: While the LLM alone may not reduce the time it takes to complete the cleaning duties, additional software could potentially be developed to provide recommendations, analyze cleaning data, or offer specialized knowledge related to cleaning techniques. This software could enhance the supervisor's decision-making process and improve efficiency.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

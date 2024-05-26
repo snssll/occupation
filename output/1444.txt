@@ -1,0 +1,5 @@
+1: In this task, a flight attendant is required to attend preflight briefings concerning various aspects of the upcoming flight. To complete this task, the flight attendant needs to gather information about weather, altitudes, routes, emergency procedures, crew coordination, flight durations, food and beverage services, and passenger numbers. With access to the LLM, the model can assist in summarizing and organizing this information, providing insights into emergency procedures, and potentially generating questions or responses related to the briefing content. The LLM can also help in creating training materials based on general knowledge related to flight procedures and services. However, the task does not involve complex data analysis, specialized domain knowledge, or image processing, which would require additional capabilities beyond text-based information processing. Therefore, the task falls under E1 as the LLM can significantly reduce the time needed to gather, organize, and understand the information presented in preflight briefings.
+
+2: E1
+
+3: High

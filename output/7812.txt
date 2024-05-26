@@ -1,0 +1,7 @@
+1: In this task, a carpenter is required to inspect various surfaces such as ceiling or floor tiles, wall coverings, siding, glass, or woodwork to detect any broken or damaged structures. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves physical inspection and detection of broken or damaged structures, which cannot be done solely through text-based interactions with the LLM. The task requires hands-on examination and expertise in identifying structural issues, making it unsuitable for automation through the LLM.
+
+2: E0
+
+3: High

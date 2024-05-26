@@ -1,0 +1,5 @@
+1: In this task, the flight attendant's role is to assist passengers as they enter or exit the aircraft. This task involves providing guidance, ensuring passenger safety, and helping with any immediate needs. To determine the exposure label, we need to consider if access to the LLM could significantly reduce the time it takes for a flight attendant to assist passengers entering or disembarking the aircraft. Since this task involves physical interaction and real-time assistance, it cannot be effectively completed using the LLM or any LLM-powered tools. The task requires immediate physical presence and actions that cannot be replaced by text-based interactions or automated processes.
+
+2: E0
+
+3: High

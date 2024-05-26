@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of preparing colored drawings of landscape and interior designs for presentation to a client as an Architectural and Civil Drafter, we need to consider the capabilities of the LLM. 
+
+- E1: Direct exposure - The task involves creating visual designs, which may not be directly achievable through text-based interactions with the LLM. While the LLM can assist in generating text descriptions or providing design ideas, the actual creation of colored drawings may require specialized software or tools beyond the LLM's text-based capabilities. Therefore, direct access to the LLM alone may not significantly reduce the time it takes to complete this task.
+
+- E2: Exposure by LLM-powered applications - It is conceivable that additional software could be developed on top of the LLM to assist in creating colored drawings based on text descriptions or design specifications. This software could potentially leverage the LLM's ability to generate detailed descriptions and translate them into visual representations. However, as of now, such software may not exist or may not be readily available, so the time savings for completing this task with an LLM alone may not be significant.
+
+- E3: Exposure given image capabilities - While the LLM itself may not have direct image creation capabilities, if paired with a system that can view, caption, and create images, there could be a significant reduction in the time it takes to complete the task. This combined system could potentially assist in creating digital images of landscape and interior designs based on text inputs, thereby enhancing the efficiency of the drafting process.
+
+2: E3
+
+3: Moderate

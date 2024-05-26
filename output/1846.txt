@@ -1,0 +1,13 @@
+1: For the task of checking reference materials to obtain relevant facts as a News Analyst, Reporter, or Journalist, we can consider the exposure rubric as follows:
+
+- E0: This task involves manually checking reference materials such as books, news files, or public records to obtain relevant facts. While an LLM can assist in summarizing or analyzing the information obtained from these references, it cannot directly access or retrieve the information from these sources. Therefore, the task does not significantly benefit from LLM capabilities in reducing the time it takes to complete the task.
+
+- E1: While an LLM can help in summarizing or analyzing the information obtained from reference materials, the direct access to the LLM does not reduce the time it takes to complete the task by at least half. The core task of checking reference materials still requires manual effort and cannot be fully automated by the LLM alone.
+
+- E2: It is easy to imagine additional software that could be developed on top of the LLM to assist in retrieving up-to-date facts from the internet and cross-referencing them with the reference materials. This software could potentially reduce the time it takes to complete the task by half by automating the fact-checking process and providing relevant information directly to the user.
+
+- E3: Given the nature of the task which involves checking reference materials like books and news files, the addition of image capabilities would not significantly impact the completion of the task. Image capabilities are not directly relevant to the task of checking reference materials for obtaining facts.
+
+2: E2
+
+3: Moderate

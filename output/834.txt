@@ -1,0 +1,11 @@
+1: In this task, a Cement Mason or Concrete Finisher is required to apply muriatic acid to clean a surface and then rinse it with water. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Applying muriatic acid to clean a surface and rinsing it with water is a manual task that involves physical interaction with the surface. This task does not involve complex text input or output that would benefit significantly from the use of an LLM.
+- The task does not require writing, summarizing documents, providing feedback on text, translating languages, or any other text-based activities that an LLM could assist with.
+- Additionally, the task does not involve image processing, reading text from PDFs, or creating/editing digital images, which would require additional capabilities beyond text-based processing.
+
+Based on these considerations, it is clear that the task of applying muriatic acid to clean a surface and rinsing it with water falls under the E0 label as it does not benefit from the capabilities of an LLM.
+
+2: E0
+
+3: High

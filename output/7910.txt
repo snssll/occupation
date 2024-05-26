@@ -1,0 +1,12 @@
+1: In this task, a Septic Tank Servicer and Sewer Pipe Cleaner is required to inspect manholes to locate sewer line stoppages. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and whether the LLM can significantly reduce the time it takes to complete it with equivalent quality.
+
+- The task involves physical inspection of manholes, which requires on-site presence and manual labor. The LLM does not have the capability to physically inspect manholes or interact with physical infrastructure.
+- While the LLM could potentially provide information on common issues related to sewer line stoppages or general guidance on inspection procedures, it cannot directly perform the inspection itself.
+- The task does not involve text input or output that can be effectively processed by the LLM to provide a substantial time-saving benefit.
+- Given the physical and hands-on nature of the task, it is unlikely that the LLM or any tool built on top of it could significantly reduce the time required to complete the task.
+
+Based on these considerations, the task of inspecting manholes to locate sewer line stoppages would be classified as E0 - No exposure.
+
+2: E0
+
+3: High

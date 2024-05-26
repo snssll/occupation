@@ -1,0 +1,5 @@
+1: In this task, the Loading and Moving Machine Operators, Underground Mining, are responsible for guiding and stopping cars underground by switching, applying brakes, or using scotches or wooden wedges. To determine the exposure label, we need to consider if the task can be completed more efficiently with the help of an LLM. Since this task involves physical actions such as switching and applying brakes, it does not involve text-based instructions or information that can be easily processed by an LLM. The task also requires physical presence underground, which cannot be substituted by text-based tools. Therefore, this task falls under E0 as it does not benefit from LLM capabilities.
+
+2: E0
+
+3: High

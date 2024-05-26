@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of performing quality control checks on laboratory equipment or cameras as a Nuclear Medicine Technologist, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM).
+
+- **E0**: This task involves physical interaction with laboratory equipment and cameras to ensure they are functioning correctly. It requires hands-on inspection and testing, which cannot be directly assisted by an LLM. The task does not involve text-based inputs or outputs that could be significantly enhanced by the use of an LLM.
+
+- **E1**: While an LLM could potentially provide information on standard procedures for quality control checks in nuclear medicine, the actual performance of the checks on equipment and cameras requires physical presence and manipulation. The LLM may be able to provide some guidance or reference material, but it cannot directly assist in the execution of the task.
+
+- **E2**: It is conceivable that software could be developed on top of an LLM that could streamline the process of performing quality control checks by providing detailed step-by-step instructions, troubleshooting tips, or access to relevant documentation. However, this software would likely need to integrate with physical equipment or cameras to automate some aspects of the quality control process.
+
+- **E3**: The task of performing quality control checks on laboratory equipment or cameras does not involve image processing or creation that would significantly benefit from additional image capabilities alongside an LLM. The task is primarily focused on ensuring the proper functioning of equipment through physical checks rather than visual analysis.
+
+2: E0
+
+3: High

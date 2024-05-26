@@ -1,0 +1,7 @@
+1: In this task, a hospitalist is responsible for prescribing medications or treatment regimens to hospital inpatients. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E0: This task involves making critical decisions regarding patient care, which requires a high degree of human interaction, expertise, and legal responsibility. The LLM cannot make decisions that impact human livelihood, and prescribing medications is a task that legally requires a human to perform. Therefore, this task falls under E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,12 @@
+1: In this task, the occupation involves shampooers who are responsible for washing and treating customers' hair. The specific task involves advising patrons with chronic or potentially contagious scalp conditions to seek medical treatment. To determine the appropriate exposure label, we need to consider if the task can be significantly aided by the use of the LLM. 
+
+- The task involves providing advice based on specific conditions, which may require knowledge of medical conditions and treatments.
+- The LLM can provide general information on medical conditions, but it may not have access to up-to-date medical knowledge or specific details on contagious scalp conditions.
+- While the LLM can generate text and provide information, it may not have the expertise to accurately advise on medical conditions.
+- The task also involves a level of human interaction and judgment that may not be easily replaced by the LLM.
+
+Based on these considerations, it is unlikely that the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. Therefore, this task is best classified as E0.
+
+2: E0
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, the Highway Maintenance Workers are required to flag motorists to warn them of obstacles or repair work ahead. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality by at least half.
+
+- E0: This task involves physical interaction with motorists on the highway, which cannot be replaced by the LLM or any software tool. Therefore, it falls under E0 as the LLM cannot assist in completing this task.
+
+- E1: The task does not involve writing, transforming text, providing edits, translating, summarizing documents, answering questions, generating questions, writing emails, maintaining records, preparing training materials, or informing anyone via written or spoken medium. The task is more physical in nature, requiring direct interaction with motorists.
+
+- E2: While it is conceivable that software could be developed to automate some aspects of flagging motorists, such as using automated signs or signals, the task still involves physical presence and interaction. The LLM alone may not significantly reduce the time it takes to complete this task by at least half.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It is more focused on physical actions rather than image-related tasks.
+
+2: E0
+
+3: High

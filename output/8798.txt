@@ -1,0 +1,5 @@
+1: Postal Service Mail Carriers are responsible for delivering and collecting mail on a designated route. One of the tasks they perform is leaving notices for patrons to inform them where to collect mail that could not be delivered. This task involves physical interaction with mailboxes and buildings, as well as direct communication with patrons. Since this task requires physical presence and interaction, it cannot be effectively automated or completed by an LLM. Therefore, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

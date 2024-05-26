@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of computing financial fees, interest, and service charges for Tellers using the LLM, we need to consider the complexity of the task and the potential for the LLM to assist in completing it.
+
+- **E1 (Direct exposure):** The task of computing financial fees, interest, and service charges involves numerical calculations and financial knowledge. The LLM can assist in providing formulas, explanations, and examples related to these calculations. It can also help in generating sample scenarios or explaining concepts related to financial calculations. Therefore, the LLM can significantly reduce the time it takes to complete this task with equivalent quality by at least half.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone can provide valuable information and guidance for financial calculations, additional software could be developed on top of the LLM to automate the computation process further. This software could potentially integrate with financial databases, perform real-time calculations, and provide more interactive tools for financial analysis. However, the task itself can already be efficiently tackled with the LLM alone.
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not relevant for the task of computing financial fees, interest, and service charges. This task primarily involves numerical calculations and financial concepts, which can be addressed effectively using text-based inputs and outputs.
+
+2: E1
+
+3: High

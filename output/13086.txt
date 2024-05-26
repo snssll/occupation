@@ -1,0 +1,13 @@
+1: In this task, a Robotics Technician is required to program complex robotic systems, such as vision systems. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves hands-on programming of robotic systems, which requires technical expertise and practical skills that cannot be directly replaced by the LLM. The LLM may not have the capability to physically interact with the robotic systems or perform the programming tasks in a real-world setting.
+
+- E1: While the LLM can provide information on programming concepts and potentially generate code snippets based on provided instructions, the task of programming complex robotic systems, especially vision systems, involves specialized knowledge and hands-on implementation that goes beyond text-based instructions. The LLM may not have the ability to directly interface with the robotic systems to test and debug the code.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Robotics Technicians in programming complex robotic systems. This software could potentially provide recommendations on coding practices, suggest solutions to common programming challenges, or offer insights into optimizing vision systems. However, the direct programming and implementation tasks would still require human expertise.
+
+- E3: The task of programming complex robotic systems, such as vision systems, does not involve image processing or creation that would significantly benefit from image capabilities alongside the LLM. While vision systems may involve image recognition, the core programming tasks are more focused on algorithms and logic rather than visual data processing.
+
+2: E2
+
+3: Moderate

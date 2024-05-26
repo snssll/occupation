@@ -1,0 +1,5 @@
+1: In this task, a Food Preparation Worker is responsible for receiving and storing food supplies, equipment, and utensils in designated storage areas. To determine the appropriate exposure label for this task in relation to the LLM, we need to consider the nature of the task. The task involves basic organizational skills and physical actions such as moving items to storage areas. Since the task does not involve complex text input or output, specialized knowledge, decision-making, or detailed analysis, it is unlikely that the LLM or any tools built on top of it would significantly reduce the time it takes to complete this task. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

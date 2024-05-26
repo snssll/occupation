@@ -1,0 +1,11 @@
+1: In this task, a Fabric and Apparel Patternmaker is required to mark samples and finished patterns with various information. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves providing specific information on garments, such as size, style, and sewing instructions. The LLM can assist in generating this text based on input provided, potentially saving time in manually writing out this information.
+- The task does not involve complex decision-making, precise measurements, or detailed visuals that would require human interaction or physical manipulation.
+- While the task is straightforward and text-based, it does not necessarily require specialized domain knowledge that the LLM alone could provide beyond general information related to garment details.
+
+Based on these considerations, the task could benefit from the LLM's ability to generate text and instructions, potentially reducing the time needed to complete the task with equivalent quality.
+
+2: E1
+
+3: Moderate

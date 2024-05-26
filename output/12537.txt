@@ -1,0 +1,12 @@
+1: In this task, a Brokerage Clerk is responsible for preparing forms based on transaction requests from stockholders. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves writing and transforming text (forms) based on specific transaction requests.
+- The task does not require accessing up-to-date facts or specialized domain knowledge beyond standard brokerage procedures.
+- The task does not involve creating or editing digital images, reading text from PDFs, or any image-related capabilities.
+- While the task may benefit from automation or software tools to streamline form preparation, the complexity of the task lies more in following instructions accurately rather than in complex decision-making or analysis.
+
+Based on these considerations, the task falls under E1 as it involves writing and transforming text according to specific instructions, which can be efficiently handled by the LLM to reduce the time needed for completion.
+
+2: E1
+
+3: High

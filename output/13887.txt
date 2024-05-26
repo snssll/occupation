@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of recommending and selling lotions, tonics, or other cosmetic supplies as a barber, we need to consider the capabilities of the LLM. The task involves providing recommendations based on customer needs and preferences, as well as selling cosmetic supplies. 
+
+- E0: This task does not involve complex data analysis, specialized domain knowledge, or image processing that would significantly benefit from the use of an LLM or LLM-powered tools. It primarily relies on interpersonal skills, product knowledge, and sales techniques, which are not directly enhanced by the LLM.
+
+- E1: While the LLM could potentially assist in generating product recommendations based on general information available online, it may not significantly reduce the time it takes for an experienced barber to complete the task with high quality. The task involves a level of personalization and interaction that may not be effectively replaced by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to provide personalized product recommendations based on customer preferences and trends in the cosmetic industry. This software could analyze customer data, current market trends, and product information to offer tailored suggestions, potentially reducing the time needed to make recommendations.
+
+- E3: The task does not involve image processing, reading text from PDFs, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E2
+
+3: Moderate

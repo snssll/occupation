@@ -1,0 +1,5 @@
+1: In this task, a First-Line Supervisor of Construction Trades and Extraction Workers is required to read specifications, such as blueprints, to determine construction requirements or plan procedures. With access to the powerful OpenAI large language model (LLM), the supervisor could potentially benefit from the model's ability to assist in interpreting complex technical documents like blueprints, providing additional insights, explanations, or even generating summaries of the information. The LLM could also help in generating questions for clarification or further analysis of the specifications. However, since this task primarily involves reading and interpreting technical documents related to construction, which may not significantly benefit from the LLM's text generation capabilities beyond what is already available in existing software tools, it is unlikely that the LLM alone would reduce the time it takes to complete the task by at least half. Therefore, this task falls under E2, where additional software built on top of the LLM could potentially enhance the efficiency of completing the task.
+
+2: E2
+
+3: Moderate

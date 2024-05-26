@@ -1,0 +1,5 @@
+1: In this task, a nursing assistant is required to change bed linens or make beds in a healthcare setting. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Changing bed linens or making beds involves physical actions such as lifting and moving bedding, arranging pillows, and ensuring cleanliness. These actions cannot be directly performed by an LLM or any software tool. While the LLM could potentially provide guidance on best practices for bed-making or offer tips on efficient ways to change linens, the actual physical task cannot be automated or significantly assisted by the LLM. Therefore, this task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: High

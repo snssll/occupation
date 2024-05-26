@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of researching or implementing green automotive technologies as an Automotive Engineer, we need to consider the level of exposure to LLM.
+
+- E0: This task involves researching and implementing cutting-edge technologies related to green automotive solutions. While the LLM can provide general information on these topics, the task likely requires specialized domain knowledge and technical expertise that goes beyond what the LLM can offer. Additionally, hands-on work and precise measurements may be necessary, which are not within the capabilities of the LLM.
+
+- E1: The task involves researching and implementing green automotive technologies, which can involve reading and synthesizing information, generating ideas, and potentially writing reports or proposals. The LLM can assist in gathering information, summarizing documents, and generating text based on input. While the task may require specialized knowledge, the LLM can still significantly reduce the time needed to gather information and generate initial ideas.
+
+- E2: While the LLM alone may not be able to provide all the specialized domain knowledge required for implementing green automotive technologies, additional software built on top of the LLM could enhance its capabilities. For example, a specialized tool could be developed to retrieve up-to-date facts, analyze complex data, or provide recommendations based on the information gathered by the LLM. This additional software could streamline the research process and provide valuable insights to support decision-making.
+
+- E3: This task does not involve image capabilities, so exposure to LLM with image capabilities is not relevant for this particular task.
+
+2: E1
+
+3: Moderate

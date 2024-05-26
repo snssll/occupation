@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of examining maps, deposits, drilling locations, or mines to assess mineral, oil, and gas deposits, we need to consider the capabilities of the LLM. The task involves analyzing geological data, maps, and other information to make assessments about the potential profitability of mineral resources. While the LLM can provide general information about mining and geological engineering, it may not have the specialized domain knowledge required to accurately assess the location, size, accessibility, contents, value, and potential profitability of specific mineral, oil, and gas deposits. This task also involves practical considerations and field-specific expertise that may not be within the scope of the LLM's capabilities. Therefore, the task is not easily reducible to text-based interactions with the LLM, and additional software development on top of the LLM would be needed to significantly enhance its capabilities for this task.
+
+2: E2
+
+3: Moderate

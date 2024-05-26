@@ -1,0 +1,10 @@
+1: To determine the appropriate label for the task of obtaining information about potential creditors as a Credit Authorizer, Checker, and Clerk, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- The task involves obtaining information about potential creditors from various sources such as banks and credit bureaus. This task primarily requires researching and gathering data from different sources.
+- The LLM can assist in this task by providing information on how to access and interpret data from banks, credit bureaus, and other credit services. It can also help in understanding the information obtained and providing insights or summaries based on the data collected.
+- While the LLM can aid in researching and understanding the information, it may not significantly reduce the time it takes to complete the task by half. The task involves accessing external sources of information that may not be readily available within the LLM's knowledge base.
+- Additionally, the task may require verifying and cross-referencing information obtained, which may involve manual processes beyond the capabilities of the LLM.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of identifying or qualifying new suppliers in collaboration with other departments as a Supply Chain Manager, we need to consider the level of exposure to LLM.
+
+- E0: This task involves collaboration with other departments, which may require human interaction, nuanced decision-making, and specialized domain knowledge. While the LLM can provide information and insights, the task itself involves complex interactions and decision-making that may not be significantly expedited by the LLM alone.
+
+- E1: The task involves analyzing and processing information to identify and qualify new suppliers. The LLM can assist in providing relevant data, insights, and recommendations based on the input provided. It can help in summarizing information, generating questions, and even drafting communication. However, the collaborative nature of the task and the need for domain-specific knowledge may limit the extent to which the LLM can directly reduce the time to complete the task by at least half.
+
+- E2: While the LLM can provide valuable information and insights, additional software could be developed to enhance the capabilities for this task. For example, a specialized tool could be created to search and retrieve supplier data, analyze supplier performance metrics, and make recommendations based on the data. Such a tool could leverage the LLM's capabilities along with specialized domain knowledge to streamline the supplier identification and qualification process.
+
+- E3: The task does not involve image processing or detailed visual analysis, so exposure to image capabilities would not significantly impact the completion time for this task.
+
+2: E2
+
+3: Moderate

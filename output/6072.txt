@@ -1,0 +1,13 @@
+1: In this task, a Crematory Operator is responsible for preparing the deceased for viewing, which involves embalming, dressing, or other preparations. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical interaction with the deceased, which cannot be replaced by text-based tools like the LLM. Additionally, it requires a high level of human sensitivity and care, which cannot be replicated by AI.
+
+- E1: While the LLM could potentially provide information on embalming techniques or dressing procedures, the actual physical preparation of the deceased cannot be done through text-based tools. Therefore, the LLM would not significantly reduce the time it takes to complete this task.
+
+- E2: Developing software on top of the LLM that could provide detailed step-by-step instructions for embalming or dressing procedures might be possible, but the physical aspect of the task would still require human intervention. The LLM alone would not be able to perform this task.
+
+- E3: Image capabilities would not be relevant for this task as it does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task for Surveying and Mapping Technicians, the main responsibility is to collect information required for new surveys. This involves utilizing various sources such as maps, survey data, photographs, computer records, and other relevant information. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how an LLM could potentially assist in this process.
+
+- E0: This task involves physical data collection and analysis that requires hands-on work with maps, photographs, and other sources. An LLM would not significantly reduce the time it takes to physically collect this information or analyze it.
+
+- E1: An LLM could potentially assist in organizing and summarizing the collected data, generating reports based on the information gathered, or even providing additional context or insights based on the data input. However, the core task of physically collecting the information would not be significantly impacted by the LLM.
+
+- E2: While an LLM could potentially be used to search for relevant information in computer records or provide additional context based on the data input, the task of collecting physical information from maps, photographs, and other sources would still require manual work. Developing software that could automate the data collection process or integrate with mapping tools could potentially reduce the time taken for this task.
+
+- E3: The task does not involve image processing or detailed image analysis that would benefit from additional image capabilities. Therefore, the task does not align with the capabilities provided by image processing tools in conjunction with an LLM.
+
+2: E2
+
+3: Moderate

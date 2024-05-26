@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of advertising products and work for Craft Artists using media such as internet advertising and brochures, we need to consider the level of exposure to LLM.
+
+- E0: This task involves creating advertisements and promotional materials, which typically require a human touch to ensure creativity, visual appeal, and effective communication with the target audience. LLM may not significantly reduce the time it takes for an experienced craft artist to create compelling advertising content.
+
+- E1: While LLM can assist in generating text content for advertisements or brochures, it may not fully capture the artistic and visual aspects that are crucial in promoting craft products effectively. The task involves more than just writing text; it requires creativity, design skills, and an understanding of the craft industry.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to help craft artists in generating advertising content more efficiently. This software could potentially provide templates, design suggestions, or market research insights to streamline the advertising process. However, the current capabilities of LLM alone may not significantly reduce the time for this task.
+
+- E3: The task does not involve image processing or detailed visual content creation that would benefit from image capabilities. While images may be part of the advertising materials, the primary focus is on text-based content creation and promotion.
+
+Based on the considerations above, the task of advertising products and work for Craft Artists using media such as internet advertising and brochures is best classified as E2.
+
+2: E2
+
+3: Moderate

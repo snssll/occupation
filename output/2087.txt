@@ -1,0 +1,13 @@
+1: In this task, the crematory operator is responsible for cleaning the crematorium, including tables, floors, and equipment. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for an experienced worker to complete the task with high quality.
+
+- E0: This task involves physical cleaning of the crematorium, which cannot be automated by the LLM or any software tool. It requires manual labor and does not involve text-based or image-based tasks that the LLM can assist with.
+
+- E1: The task does not involve writing, transforming text, summarizing documents, or any other text-based activities that the LLM can directly assist with. It is a physical cleaning task that does not benefit from the LLM's capabilities.
+
+- E2: While it is conceivable that software could be developed to assist with scheduling or inventory management related to cleaning tasks, the core activity of physically cleaning the crematorium cannot be significantly expedited by the LLM or any software tool based on the current capabilities.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It is a physical cleaning task that does not require image capabilities.
+
+2: E0
+
+3: High

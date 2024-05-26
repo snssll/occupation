@@ -1,0 +1,13 @@
+1: For the task of marking and storing parts in stockrooms according to prearranged systems, the exposure to LLM can be evaluated as follows:
+
+- E1: Direct exposure - The task involves following specific instructions to mark and store parts in stockrooms. The LLM can assist in providing detailed guidance on how to organize and label the parts effectively, ensuring they are stored in the correct locations within the stockrooms. The model can generate text instructions, checklists, or even visual aids to help the parts salespersons carry out their tasks efficiently.
+
+- E2: Exposure by LLM-powered applications - While the task may not require advanced capabilities beyond text-based instructions, it is conceivable that additional software could be developed on top of the LLM to streamline the process further. This software could include features like real-time inventory tracking, automated labeling systems, or predictive analytics to optimize stockroom organization based on demand patterns.
+
+- E3: Exposure given image capabilities - This task does not involve image processing or detailed visual analysis, so the additional image capabilities provided by the LLM would not significantly impact the completion time or quality of the task.
+
+Based on the above analysis, the task of marking and storing parts in stockrooms according to prearranged systems is best classified as E1: Direct exposure to LLM.
+
+2: E1
+
+3: High

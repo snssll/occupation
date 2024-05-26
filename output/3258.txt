@@ -1,0 +1,9 @@
+1: In this task, a geneticist is required to confer with information technology specialists to develop computer applications for genetic data analysis. The task involves collaboration between a domain expert (geneticist) and IT specialists to create software tools for analyzing genetic data. 
+
+- E1: Direct exposure - The LLM can assist in writing and transforming text and code according to complex instructions, which could include drafting specifications for the computer applications needed for genetic data analysis. The model can also help in providing edits to existing text or code following specifications, which could be useful in refining the requirements for the software tools. Therefore, the LLM can significantly reduce the time it takes to complete this task with equivalent quality by at least half.
+- E2: Exposure by LLM-powered applications - While having access to the LLM alone may not reduce the time it takes to complete the task by half, it is easy to imagine additional software that could be developed on top of the LLM to streamline the collaboration process between geneticists and IT specialists. This software could potentially automate certain aspects of the software development process, making it more efficient.
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to this task as it primarily involves developing computer applications for genetic data analysis, which is more text and code-based rather than image-based.
+
+2: E1
+
+3: Moderate

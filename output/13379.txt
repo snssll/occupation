@@ -1,0 +1,5 @@
+1: In this task, an orthoptist is required to provide instructions to patients or family members concerning diagnoses or treatment plans. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Providing instructions involves communicating complex medical information in a clear and understandable manner. An LLM could potentially assist in generating clear and concise instructions based on the diagnoses or treatment plans provided. The model could help in formulating the language to use, ensuring that the information is easily comprehensible to patients or family members. This task involves writing text based on specific information, which falls under the capabilities of the LLM. Therefore, this task could be categorized as E1, as the LLM can significantly reduce the time it takes to complete the task with equivalent quality by providing assistance in generating instructions.
+
+2: E1
+
+3: Moderate

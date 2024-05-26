@@ -1,0 +1,5 @@
+1: In this task, the First-Line Supervisors of Material-Moving Machine and Vehicle Operators are required to drive vehicles or operate machines to complete work assignments or assist workers. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task. Since this task involves physical actions such as driving vehicles or operating machinery, it cannot be directly completed using the LLM. The LLM does not have the capability to physically operate machines or vehicles. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

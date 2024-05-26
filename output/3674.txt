@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of coordinating and linking computer systems within an organization as a Computer Systems Analyst, we need to consider the level of exposure to LLM.
+
+- E0: This task involves hands-on technical work that requires direct interaction with computer systems and networks. It also involves decision-making based on technical knowledge and understanding of organizational needs, which cannot be fully automated by an LLM.
+
+- E1: While an LLM could potentially assist in providing general information or guidelines on system compatibility and information sharing, the task of coordinating and linking computer systems is highly technical and practical. It requires hands-on work, troubleshooting, and implementation that go beyond the capabilities of an LLM.
+
+- E2: It is conceivable that software could be developed on top of an LLM to assist Computer Systems Analysts in tasks such as analyzing system compatibility, suggesting solutions, or providing documentation. However, the core task of physically coordinating and linking computer systems would still require human expertise and hands-on work.
+
+- E3: The task does not involve image processing or detailed visual analysis, so exposure to image capabilities would not significantly impact the completion of the task.
+
+Based on the above considerations, the task of coordinating and linking computer systems within an organization as a Computer Systems Analyst is best classified as E0.
+
+2: E0
+
+3: High

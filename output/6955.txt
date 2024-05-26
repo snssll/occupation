@@ -1,0 +1,12 @@
+1: In this task, a carpenter is required to fill cracks or defects in plaster or plasterboard and then sand the patch using specific tools like patching plaster, trowel, and sanding tool. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for a carpenter to complete this task with high quality.
+
+- The task involves physical actions such as filling cracks, using tools, and sanding, which cannot be directly performed by the LLM.
+- The task is practical and hands-on, requiring manual dexterity and skill that cannot be replicated by the LLM.
+- The LLM does not have the ability to physically interact with materials like plaster or tools.
+- While the LLM could potentially provide information on techniques or best practices for filling cracks in plaster, it cannot replace the physical work involved in this task.
+
+Based on these considerations, it is clear that the task of filling cracks in plaster and sanding patches as a carpenter falls under E0 as it does not involve activities that can be significantly aided by the LLM.
+
+2: E0
+
+3: High

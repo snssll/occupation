@@ -1,0 +1,7 @@
+1: In this task, a Reservation and Transportation Ticket Agent or Travel Clerk examines passenger documentation to determine destinations and assign boarding passes. To complete this task, the agent needs to understand the information presented in the passenger documentation, such as names, flight details, and destinations. The task involves reading and interpreting text, making decisions based on the information provided, and assigning appropriate boarding passes.
+
+Considering the task description, the most relevant exposure label from the rubric would be E0. This task involves human interaction, decision-making based on specific information, and physical handling of boarding passes. While an LLM could potentially assist in providing information or guidelines related to travel documentation, the core aspects of this task require human judgment and interaction, which cannot be fully replaced by the LLM.
+
+2: E0
+
+3: High

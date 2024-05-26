@@ -1,0 +1,13 @@
+1: In this task, a Radiologic Technologist or Technician is responsible for recording, processing, and maintaining patient data or treatment records and preparing reports. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves a significant amount of text-based work, such as recording patient data, processing information, and preparing reports.
+- The task does not require precise measurements or detailed visual analysis.
+- The task does not involve interactions that require human judgment or decision-making that impacts human livelihood.
+- The task does not involve specialized domain knowledge beyond what can be accessed by the LLM.
+- The task does not require up-to-date facts from the internet unless they are included in the input data.
+
+Based on these considerations, the task of recording, processing, and maintaining patient data or treatment records and preparing reports aligns most closely with the E1 label. The task involves working with text-based information and can benefit significantly from the capabilities of the LLM to assist in writing, processing, and summarizing data.
+
+2: E1
+
+3: High

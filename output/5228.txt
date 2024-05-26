@@ -1,0 +1,5 @@
+1: In this task, a radiologist is required to develop treatment plans for radiology patients. To complete this task, the radiologist needs to analyze medical images, interpret findings, consult with other healthcare professionals, and determine the best course of action for the patient. While an LLM could potentially assist in providing general information about treatment options based on existing medical knowledge, it lacks the specialized domain knowledge and expertise required to develop specific treatment plans for individual patients. The task also involves a high degree of human interaction, consultation, and decision-making based on complex medical information, which cannot be fully automated by an LLM. Therefore, this task falls under E0 as it does not significantly benefit from LLM capabilities.
+
+2: E0
+
+3: High

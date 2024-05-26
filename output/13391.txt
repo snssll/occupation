@@ -1,0 +1,11 @@
+1: In this task, a Licensed Practical or Licensed Vocational Nurse is required to provide medical treatment or personal care to patients in private home settings. This includes tasks such as cooking, keeping rooms orderly, ensuring patient comfort, and instructing family members in simple nursing tasks. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+- The task involves hands-on care and interaction with patients, which cannot be replaced by text-based assistance from an LLM.
+- The task requires physical presence and actions that are beyond the capabilities of the LLM.
+- The task involves providing direct care and support to patients, which necessitates human empathy and physical assistance.
+
+Based on these considerations, it is clear that the task of providing medical treatment or personal care to patients in private home settings falls under E0 as it involves physical actions and human interaction that cannot be replaced or significantly aided by an LLM.
+
+2: E0
+
+3: High

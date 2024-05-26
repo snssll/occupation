@@ -1,0 +1,5 @@
+1: In this task, a Bus and Truck Mechanic is required to inspect various components of vehicles to ensure they are in proper working condition. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. The task involves physical inspection of mechanical parts, which cannot be directly assisted by an LLM. While the LLM could potentially provide information on best practices for inspections or guidelines for maintenance, the core task of physically inspecting the parts cannot be directly impacted by the model. Therefore, the task does not fall under E1, E2, or E3 as it does not involve text input or output, and the inspection process is primarily physical.
+
+2: E0
+
+3: High

@@ -1,0 +1,12 @@
+1: In this task, a farmworker is responsible for ordering food for animals on the farm and arranging for its delivery. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves basic administrative work related to ordering supplies, which can be easily described in text.
+- The task does not require complex decision-making or specialized domain knowledge beyond basic farm operations.
+- The task does not involve detailed visuals, precise measurements, or human interaction that would require physical presence.
+- The task does not involve accessing up-to-date facts from the internet or specialized databases beyond general knowledge of farm operations.
+
+Based on these considerations, the task falls under E0 as it does not significantly benefit from the capabilities of the LLM or any additional software beyond basic text description and does not involve specialized domain knowledge or complex decision-making.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, a Pest Control Worker is required to directly or assist in the treatment or extermination processes to eliminate or control rodents, insects, or weeds. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical work such as handling chemicals, setting traps, and other hands-on activities that cannot be performed by the LLM. Additionally, the task requires practical knowledge and skills in pest control that are not solely based on text or data analysis.
+
+- E1: The LLM could potentially assist in providing information on the latest pest control techniques, safety protocols, or regulations related to pest control. It could also help in generating written materials for training purposes or answering questions related to pest control. However, the core task of directly treating or exterminating pests involves physical actions that the LLM cannot perform.
+
+- E2: While the LLM alone may not significantly reduce the time it takes to complete the task, additional software could potentially be developed to provide recommendations on pest control strategies based on data analysis or specialized knowledge. This software could integrate information from the LLM with real-time data on pest populations or environmental factors to optimize treatment processes.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E0
+
+3: High

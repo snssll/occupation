@@ -1,0 +1,11 @@
+1: In this task, the occupation involves assembling aircraft structures, surfaces, rigging, and systems. The specific task mentioned is cleaning, oiling, or coating system components before assembly or attachment. To determine the exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task of cleaning, oiling, or coating system components is a manual and hands-on task that requires physical interaction with the components. The LLM cannot physically perform these actions.
+- While the LLM could potentially provide information on the best cleaning, oiling, or coating methods based on text input, the task itself does not involve complex text transformation, writing, or analysis that would significantly benefit from the LLM's capabilities.
+- The task does not involve detailed text analysis, complex decision-making, or specialized domain knowledge that would require the LLM's assistance.
+
+Based on these considerations, the task of cleaning, oiling, or coating system components before assembly or attachment does not significantly benefit from the LLM's capabilities, and therefore falls under label E0 - No exposure.
+
+2: E0
+
+3: High

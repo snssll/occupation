@@ -1,0 +1,13 @@
+1: In this task, a glazier is required to grind or polish glass to smooth edges when necessary. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for a glazier to complete this task with high quality.
+
+- E0: This task involves physical work that cannot be performed by the LLM or any software tool. It requires manual labor and precision in handling glass, which cannot be replaced by text-based AI models.
+
+- E1: The LLM could potentially provide information on techniques for grinding or polishing glass, safety guidelines, or troubleshooting tips. It could also generate written instructions or explanations related to glass grinding and polishing. However, the actual physical task of grinding or polishing glass cannot be directly performed by the LLM, so the time saved would not be significant enough to warrant an E1 label.
+
+- E2: While the LLM could potentially assist in providing theoretical knowledge, safety protocols, or best practices related to glass grinding and polishing, it cannot physically perform the task. However, it is conceivable that specialized software could be developed on top of the LLM that could provide detailed step-by-step instructions, safety guidelines, and troubleshooting tips specific to different types of glass or polishing techniques. This software could potentially enhance the glazier's efficiency in completing the task, but the physical aspect of grinding or polishing glass would still require human intervention.
+
+- E3: The task of grinding or polishing glass does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, the image capabilities provided by the LLM are not relevant to this task.
+
+2: E2
+
+3: Moderate

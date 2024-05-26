@@ -1,0 +1,12 @@
+1: In this task, a Robotics Technician is required to install, program, or repair various components of robotic systems. To determine the appropriate exposure label, we need to consider whether access to the LLM alone or with additional software could significantly reduce the time it takes to complete the task.
+
+- The task involves technical knowledge and hands-on skills related to robotics, which may not be directly aided by the LLM.
+- While the LLM could potentially provide information on programming languages or troubleshooting techniques, the practical aspects of installing, programming, and repairing physical components may not be easily assisted by the LLM alone.
+- Developing software on top of the LLM that could assist in diagnosing issues or providing step-by-step repair instructions tailored to specific robotic systems could be beneficial but would require a high level of integration with hardware systems.
+- Given the hands-on nature of the task and the specialized domain knowledge required, it is unlikely that the LLM alone or with additional software could reduce the time to complete the task significantly.
+
+Based on these considerations, the task of installing, programming, or repairing programmable controllers, robot controllers, end-of-arm tools, or conveyors as a Robotics Technician would be classified as E0 - No exposure.
+
+2: E0
+
+3: High

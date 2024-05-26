@@ -1,0 +1,13 @@
+1: For the task of "Answer alarms and investigate disturbances" typically performed by Security Guards, the exposure to LLM can be evaluated as follows:
+
+- **E1 (Direct exposure):** The task involves responding to alarms and investigating disturbances, which may require quick decision-making and on-the-spot judgment. While the LLM can provide information on general procedures for handling alarms and disturbances, it may not have real-time data or specific situational awareness required for immediate response. Therefore, the direct access to the LLM may not significantly reduce the time it takes to complete the task with equivalent quality.
+
+- **E2 (Exposure by LLM-powered applications):** It is conceivable that additional software could be developed on top of the LLM to assist Security Guards in analyzing alarm patterns, providing guidance on common disturbances, or accessing relevant security protocols. Such software could potentially enhance the efficiency of handling alarms and disturbances by leveraging the LLM's capabilities in information retrieval and decision support.
+
+- **E3 (Exposure given image capabilities):** Image capabilities would not significantly impact the task of "Answer alarms and investigate disturbances" as it primarily involves responding to auditory alerts and investigating physical disturbances rather than relying on visual information.
+
+Considering the above analysis, the task of "Answer alarms and investigate disturbances" aligns best with **E2 (Exposure by LLM-powered applications)** as there is potential for software development to enhance the task efficiency.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,5 @@
+1: In this task, a fashion designer is required to draw patterns for articles designed, cut patterns, and cut material according to patterns using measuring instruments and scissors. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves manual work that requires physical actions such as drawing patterns, cutting materials, and using measuring instruments. These actions cannot be directly performed by an LLM or any software tool based on an LLM. The task also involves precise measurements and physical manipulation of materials, which are not within the capabilities of the LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tool based on the LLM.
+
+2: E0
+
+3: High

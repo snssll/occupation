@@ -1,0 +1,5 @@
+1: In this task, a Recycling and Reclamation Worker is responsible for cleaning the recycling yard by performing various physical tasks such as sweeping, raking, picking up debris, and moving barrels and bins. This task involves manual labor and physical coordination, which cannot be directly performed by an LLM. While the LLM could potentially provide information on best practices for recycling or safety guidelines, it cannot physically clean the yard. Therefore, this task falls under E0 as it does not involve text input or output that can be processed by the LLM to reduce the time it takes to complete the task.
+
+2: E0
+
+3: High

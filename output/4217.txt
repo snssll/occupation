@@ -1,0 +1,7 @@
+1: In this task, the occupation involves delivering pianos to purchasers or locations of their use. To determine the exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete the task. 
+
+- E0: This task involves physical labor, specifically the delivery of pianos, which cannot be automated by the LLM or any software tool. The task requires human interaction, physical handling, and precise measurements, making it unsuitable for automation by the LLM.
+
+2: E0
+
+3: High

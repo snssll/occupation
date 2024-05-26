@@ -1,0 +1,11 @@
+1: In this task, a Carpet Installer is required to move furniture from the area to be carpeted and remove the old carpet and padding. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical labor, such as moving furniture and removing carpet, which cannot be directly assisted by the LLM.
+- The task does not involve complex decision-making, specialized knowledge, or detailed analysis that would benefit from LLM capabilities.
+- While the LLM could potentially provide general information on carpet installation techniques or safety guidelines, this information is unlikely to significantly impact the efficiency of completing the physical tasks involved in this specific job.
+
+Based on these considerations, it is clear that the task of moving furniture and removing old carpet and padding as a Carpet Installer falls under the E0 category as it does not benefit from direct exposure to the LLM.
+
+2: E0
+
+3: High

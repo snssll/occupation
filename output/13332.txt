@@ -1,0 +1,7 @@
+1: To determine the appropriate label for the task of providing guests with information about local areas, including directions, we need to consider the capabilities of the LLM. In this task, the LLM can assist by generating text-based information about local areas, including directions, based on the input provided. The model can help create detailed descriptions of local attractions, landmarks, and directions to various places. It can also assist in crafting responses to common questions guests may have about the area.
+
+Considering the task requirements, the LLM's ability to generate text-based information and directions aligns with tasks that involve writing and transforming text according to complex instructions. The model can provide detailed and accurate responses, reducing the time it would take for a human to research and compile this information manually. Therefore, this task falls under the E1 label as direct access to the LLM can significantly reduce the time needed to complete the task with equivalent quality.
+
+2: E1
+
+3: High

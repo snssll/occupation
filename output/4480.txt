@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of designing test plans, scenarios, scripts, or procedures as a Software Quality Assurance Analyst and Tester, we need to consider the capabilities of the LLM. 
+
+- E1: Direct exposure - The task involves writing and transforming text according to complex instructions. The LLM can assist in generating detailed test plans, scenarios, scripts, or procedures based on input criteria and requirements. The model can help in structuring and organizing the information effectively.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not reduce the time significantly for this task, additional software could be developed on top of the LLM to streamline the process further. This software could potentially automate the generation of test plans, scenarios, scripts, or procedures based on specific parameters.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant for this task as it primarily involves text-based activities related to designing test plans, scenarios, scripts, or procedures.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,12 @@
+1: In this task, the optometrist is required to prescribe medications to treat eye diseases if state laws permit. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM. 
+
+- Optometrists need to have specialized medical knowledge to diagnose and treat eye conditions. While the LLM can provide general information on eye diseases and medications, it lacks the specific domain knowledge required to make accurate medical decisions.
+- Prescribing medications involves considering various factors such as the patient's medical history, current medications, allergies, and specific eye conditions. This task requires a personalized approach that takes into account individual patient needs, which goes beyond the capabilities of the LLM.
+- State laws and regulations regarding prescribing medications are constantly changing, and the LLM may not have access to up-to-date legal information to ensure compliance with state laws.
+- The task also involves potential risks to the patient's health if medications are prescribed incorrectly, highlighting the importance of human expertise and judgment in this context.
+
+Based on these considerations, the task of prescribing medications to treat eye diseases is highly specialized, requires domain-specific knowledge, involves legal considerations, and carries potential risks if not done correctly. Therefore, this task falls under E0 as it cannot be effectively supported by the capabilities of the LLM.
+
+2: E0
+
+3: High

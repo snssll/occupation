@@ -1,0 +1,11 @@
+1: In this task, a Family Medicine Physician is required to coordinate work with various healthcare providers such as nurses, social workers, therapists, pharmacists, psychologists, etc. This task involves communication, collaboration, and ensuring the smooth functioning of a patient's care team. 
+
+To determine the appropriate label from the exposure rubric:
+- E0: This task involves human interaction and coordination that requires interpersonal skills, understanding nuances, and building relationships. It does not involve direct text-based tasks that an LLM could significantly assist with.
+- E1: While the LLM could potentially help in drafting communication messages or summarizing information for coordination, the core aspect of this task involves human interaction and coordination, which cannot be fully automated by the LLM.
+- E2: Developing software on top of the LLM that could assist in organizing schedules, summarizing patient information, or providing reminders for follow-ups might be possible, but the complexity of human interactions and coordination in healthcare settings makes it challenging to automate this task significantly.
+- E3: Image capabilities would not be relevant for this task as it primarily involves text-based communication and coordination among healthcare providers.
+
+2: E0
+
+3: High

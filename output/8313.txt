@@ -1,0 +1,12 @@
+1: In this task, the Adapted Physical Education Specialist instructs students using adapted physical education techniques to improve various skills related to physical fitness, motor skills, and sports achievement. To determine the exposure label for this task:
+
+- The task involves providing instructions and guidance to students, which can be formulated as text input and output within the 2000-word context limit of the LLM.
+- The task does not require up-to-date facts or highly specialized domain knowledge that cannot be captured within the input context.
+- The task does not involve detailed visuals, precise measurements, or physical interactions that would require human involvement.
+- The task primarily revolves around written instructions and guidance, which can be effectively handled by the LLM.
+
+Based on these considerations, the task falls under E1 as the LLM can significantly reduce the time it takes to provide instructions and guidance for improving physical fitness and motor skills to students.
+
+2: E1
+
+3: High

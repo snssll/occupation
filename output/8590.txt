@@ -1,0 +1,5 @@
+1: In this task, the Postmasters and Mail Superintendents are responsible for issuing and cashing money orders. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. Issuing and cashing money orders involve specific procedures, regulations, and security measures that may not be easily automated by the LLM. The task also requires handling financial transactions and ensuring accuracy, which may involve physical verification of documents and funds. As this task involves financial transactions and potential security risks, it is unlikely that the LLM alone can handle it efficiently without human oversight. Therefore, this task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: Moderate

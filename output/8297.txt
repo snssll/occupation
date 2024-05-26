@@ -1,0 +1,11 @@
+1: In this task, the clergy member is required to instruct individuals who are seeking conversion to a particular faith. To complete this task effectively, the clergy member needs to have a deep understanding of the specific faith, its teachings, rituals, and practices. The clergy member must also be able to communicate these aspects clearly and compassionately to the individuals seeking conversion. 
+
+Considering the task at hand, the exposure to LLM can be evaluated as follows:
+- E0: This task involves a high degree of human interaction and requires personalized guidance and support, which cannot be effectively replaced by an LLM.
+- E1: While the LLM can provide information on various faiths and their practices, it cannot fully replace the personalized guidance and support needed in the process of conversion.
+- E2: It is conceivable that additional software could be developed on top of the LLM to provide general information about different faiths, but the personalized instruction and guidance required for conversion would still need to come from a human clergy member.
+- E3: Image capabilities are not relevant for this task.
+
+2: E0
+
+3: High

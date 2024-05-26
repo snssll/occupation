@@ -1,0 +1,11 @@
+1: In this task, a teller is required to examine checks for endorsements and verify various information such as dates, bank names, identification of the persons receiving payments, and the legality of the documents. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves examining text on checks and verifying information, which can be done through reading and analyzing written content.
+- The task does not involve complex decision-making or specialized domain knowledge beyond what is typically required for a teller.
+- While the task involves some level of analysis, it primarily revolves around reading and verifying information present on the checks.
+
+Based on these considerations, the task does not significantly benefit from the capabilities of an LLM beyond what a human teller can already do efficiently. Therefore, the task falls under E0 as the use of an LLM or LLM-powered tool would not substantially reduce the time it takes for an experienced worker to complete the task with high quality.
+
+2: E0
+
+3: High

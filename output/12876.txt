@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of preparing, maintaining, and updating files and records for Urban and Regional Planners, we need to consider how the task can be completed with the help of an LLM.
+
+- **E1 (Direct exposure):** An LLM could assist in writing and transforming text related to land use data and statistics, providing edits to existing records, summarizing documents related to urban planning, and maintaining records of written data. The LLM could also help in generating questions or feedback on documents related to urban planning. Therefore, this task could potentially benefit from direct access to the LLM, reducing the time it takes to complete the task with equivalent quality by at least half.
+
+- **E2 (Exposure by LLM-powered applications):** While the task may not require highly specialized domain knowledge or up-to-date facts from the internet, additional software could be developed on top of the LLM to summarize longer documents, retrieve information from an organization's existing knowledge, or make recommendations based on the data. This additional software could further enhance the efficiency of completing the task.
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not directly relevant to the task of preparing, maintaining, and updating files and records, as it primarily involves text-based data related to land use and statistics. Therefore, this task does not fall under E3.
+
+Considering the above points, the task of preparing, maintaining, and updating files and records for Urban and Regional Planners could be classified as **E1 (Direct exposure)**.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, the Farm Labor Contractors need to direct and transport workers to appropriate work sites. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. 
+
+Direct exposure (E1) is unlikely as this task involves physical coordination and transportation of workers, which cannot be directly assisted by the LLM. 
+
+Exposure by LLM-powered applications (E2) is also not applicable here as the task does not involve complex data analysis, specialized domain knowledge, or document summarization that could be significantly aided by additional software built on top of the LLM.
+
+Given image capabilities (E3) is not relevant as the task does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+
+Therefore, the task is best classified as having no exposure to the LLM (E0).
+
+2: E0
+
+3: High

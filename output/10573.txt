@@ -1,0 +1,5 @@
+1: In this task, a chiropractor is required to obtain and record patients' medical histories. With the help of the LLM, the chiropractor could potentially streamline the process of recording these histories by generating structured notes based on the information provided by the patients. The LLM could assist in organizing the data in a coherent and standardized format, saving time for the chiropractor. However, since this task involves interacting with patients to obtain the medical histories, which cannot be done solely through text input, the LLM's assistance would be limited to the documentation aspect. Therefore, while the LLM can aid in recording the medical histories, it cannot directly obtain them from patients. As a result, this task falls under E2 exposure, as additional software could be developed to further enhance the process by integrating the LLM's capabilities with patient interaction tools.
+
+2: E2
+
+3: Moderate

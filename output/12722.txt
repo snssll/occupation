@@ -1,0 +1,5 @@
+1: Non-Destructive Testing Specialists are responsible for inspecting, testing, and evaluating materials, components, or assemblies for discontinuities, deviations, or defects without causing damage to the original part. One of the tasks they perform is preparing reports on non-destructive testing results. To determine the exposure level of this task to LLM, we need to consider if the task involves complex decision-making, precise measurements, detailed visual analysis, or human interaction. In this case, preparing reports on testing results involves organizing and summarizing data obtained from testing procedures, interpreting findings, and documenting them in a clear and concise manner. Since this task primarily involves writing and transforming text based on specific instructions and data, it is likely that access to an LLM could significantly reduce the time it takes to complete the task with equivalent quality. Therefore, this task falls under E1 as the LLM can assist in writing and transforming text according to complex instructions.
+
+2: E1
+
+3: Moderate

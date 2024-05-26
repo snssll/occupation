@@ -1,0 +1,11 @@
+1: In this task, a Traffic Technician is responsible for preparing work orders for repair, maintenance, or changes in traffic systems. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how an LLM could assist in completing it. 
+
+- **E1 (Direct exposure):** An LLM could potentially assist in writing and transforming text related to work orders, providing edits to existing work orders, or summarizing information relevant to traffic systems maintenance. The LLM could help generate detailed descriptions, instructions, or reports needed for the work orders.
+
+- **E2 (Exposure by LLM-powered applications):** While an LLM alone may not significantly reduce the time to complete this task, additional software could be developed on top of the LLM to streamline the process. For example, an application could be created to retrieve up-to-date information on traffic systems, analyze data to inform decisions on maintenance, or provide recommendations based on the input provided.
+
+- **E3 (Exposure given image capabilities):** Image capabilities would not significantly impact the completion of this task as it primarily involves text-based work orders for traffic systems. Therefore, this task does not align with the benefits of image capabilities.
+
+2: E2
+
+3: Moderate

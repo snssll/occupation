@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of investigating applications for special licenses or permits as a Government Property Inspector and Investigator, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- E1: Direct exposure - In this case, the LLM could assist in writing reports, analyzing information provided in the applications, summarizing key points, and potentially generating questions to ask during the investigation process. The LLM could also help in drafting responses or recommendations based on the findings of the investigation.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to investigate applications for special licenses or permits, additional software could be developed to streamline the process. This software could involve summarizing lengthy documents related to the applications, retrieving up-to-date information on regulations or requirements, and providing recommendations based on the analysis of the applications.
+
+- E3: Exposure given image capabilities - Image capabilities would not have a significant impact on investigating applications for special licenses or permits, as the task primarily involves reviewing written documents and information rather than images.
+
+Based on the above analysis, the task of investigating applications for special licenses or permits as a Government Property Inspector and Investigator would likely fall under E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

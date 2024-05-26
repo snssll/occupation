@@ -1,0 +1,14 @@
+1: In this task, the occupation of Roof Bolters, Mining involves the activity of dusting rocks after bolting. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+- Dusting rocks after bolting is a physical task that requires manual labor and cannot be directly performed by an LLM.
+- The task does not involve text input or output, and the context of the task is not something that can be captured within 2000 words.
+- There are no complex instructions, text transformations, or data analysis involved that an LLM could assist with.
+- The task does not involve any written or spoken communication that an LLM could help with.
+- There are no documents to summarize, questions to answer, or emails to write or respond to in this task.
+- The task does not involve any image processing or creation that an LLM with image capabilities could assist with.
+
+Based on these considerations, it is clear that the task of dusting rocks after bolting does not fall within the scope of tasks that an LLM or LLM-powered tool could assist with in reducing the time it takes to complete the task.
+
+2: E0
+
+3: High

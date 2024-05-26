@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing planting plans as a Landscape Architect, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The task involves creating detailed planting plans based on client needs and aesthetic goals. The LLM could assist in generating text descriptions of plant species, their characteristics, and how they can be arranged to achieve specific effects. The model could also help in providing information on plant care and maintenance. Overall, the LLM could significantly reduce the time it takes to research and compile information for the planting plans.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not reduce the time to complete the task by half, additional software could be developed on top of the LLM to streamline the process further. This software could include features like summarizing information on plant species, providing recommendations based on client preferences, and even generating visual representations of the planting plans.
+
+- E3: Exposure given image capabilities - The task of developing planting plans may benefit from image capabilities if the LLM could assist in creating or editing digital images of the proposed planting layouts. However, since the task primarily involves text-based planning, the image capabilities may not significantly impact the completion time.
+
+Considering the above points, the task of developing planting plans as a Landscape Architect is best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

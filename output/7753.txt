@@ -1,0 +1,7 @@
+1: In this task, the occupation of Airline Pilots, Copilots, and Flight Engineers involves inspecting aircraft for defects and malfunctions according to pre-flight checklists. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves a physical inspection of an aircraft for defects and malfunctions, which requires hands-on work and expertise in aviation safety protocols. The task does not involve text-based information processing or analysis that could be significantly expedited by the LLM. Therefore, it is unlikely that the LLM or LLM-powered tools could reduce the time needed to complete this task.
+
+2: E0
+
+3: High

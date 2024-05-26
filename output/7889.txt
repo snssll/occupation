@@ -1,0 +1,10 @@
+1: In this task, a Security and Fire Alarm Systems Installer is required to inspect installation sites, study work orders, building plans, and installation manuals to determine materials requirements and installation procedures. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E0: This task involves physical inspection of installation sites, which cannot be done by the LLM or any software tool. It also requires hands-on work to determine materials requirements, which is beyond the capabilities of the LLM.
+- E1: The task involves analyzing work orders, building plans, and installation manuals, which could potentially be done by the LLM to some extent. The LLM could assist in summarizing information from these documents, providing insights, or generating reports based on the input data.
+- E2: While the LLM alone may not significantly reduce the time to complete this task, additional software could be developed to help automate the analysis of work orders, building plans, and installation manuals. This software could leverage the LLM's capabilities to provide recommendations, analyze data, or generate reports more efficiently.
+- E3: This task does not involve image processing or analysis, so the image capabilities of the LLM are not relevant here.
+
+2: E2
+
+3: Moderate

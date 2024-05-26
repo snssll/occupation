@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of locating worn or torn areas in roofs as a Helper Roofer, we need to consider the nature of the task and how it can be aided by the use of the OpenAI large language model (LLM).
+
+- **E1 (Direct exposure):** The task of locating worn or torn areas in roofs involves visual inspection and physical work, which cannot be directly assisted by the LLM. The LLM does not have the capability to physically inspect roofs or provide real-time feedback on the condition of a roof.
+
+- **E2 (Exposure by LLM-powered applications):** While it is conceivable that software could be developed on top of the LLM to assist with tasks related to roofing, such as generating reports based on input data or providing recommendations for repair based on descriptions of the issue, the direct task of locating worn or torn areas in roofs would not be significantly expedited by the LLM alone.
+
+- **E3 (Exposure given image capabilities):** The task of locating worn or torn areas in roofs could potentially benefit from image capabilities if the LLM could view images of roofs and identify areas of concern. However, the task primarily involves physical inspection and may require specialized equipment or expertise beyond what an image-based system could provide.
+
+Based on the analysis above, the most appropriate label for the task of locating worn or torn areas in roofs as a Helper Roofer is **E0 (No exposure)**.
+
+2: E0
+
+3: Certainty level: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of ordering medical tests as a Cardiologist, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves making medical decisions and ordering specific tests based on a patient's condition, which requires specialized medical knowledge and expertise. The LLM, even though powerful, cannot make medical decisions or provide specific patient-related recommendations without risking patient safety. Therefore, this task falls under E0 as it cannot be fully automated or significantly expedited by the LLM.
+
+- E1: While the LLM could potentially provide general information about medical tests, it cannot replace the specialized knowledge and expertise required by a Cardiologist to order the appropriate tests for a patient. The task involves more than just providing information; it requires clinical judgment and patient-specific considerations that the LLM cannot provide. Therefore, the task does not fit under E1.
+
+- E2: Although the LLM could potentially assist in retrieving general information about medical tests, it cannot access real-time patient data or provide personalized recommendations based on individual patient cases. Developing software on top of the LLM to assist in ordering medical tests for Cardiologists would be complex and would require integration with patient records and real-time data, which is beyond the capabilities of the LLM alone. Therefore, this task does not fit under E2.
+
+- E3: The task of ordering medical tests as a Cardiologist does not involve image processing or analysis that would benefit from additional image capabilities. It primarily involves clinical decision-making based on patient history, symptoms, and medical knowledge, which the LLM cannot directly assist with using image capabilities. Therefore, this task does not fit under E3.
+
+2: E0
+
+3: High

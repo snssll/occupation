@@ -1,0 +1,11 @@
+1: In this task, the occupation involves explaining products or services, discussing prices, and demonstrating the use of products. To determine the exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task does not involve complex text transformations, code writing, summarization of long documents, or specialized domain knowledge retrieval that would benefit from the LLM's capabilities.
+- The task is more focused on in-person demonstrations and interactions, which cannot be directly assisted by the LLM.
+- While the LLM could potentially help in preparing written materials or scripts for sales pitches, the core aspect of demonstrating product use and engaging with customers in person is not something the LLM can directly assist with.
+
+Based on these considerations, the task falls under E0 as it does not significantly benefit from the capabilities of the LLM.
+
+2: E0
+
+3: High

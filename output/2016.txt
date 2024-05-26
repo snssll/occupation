@@ -1,0 +1,11 @@
+1: In this task, an orderly is responsible for cleaning medical equipment and documenting any necessary repairs or maintenance. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves physical cleaning of equipment, which cannot be directly assisted by an LLM.
+- Documenting needed repairs or maintenance may involve recording specific details about the equipment, which could potentially benefit from the LLM's ability to generate text based on provided information.
+- However, the task primarily involves physical actions and manual documentation, which do not align with the capabilities of the LLM to a significant extent.
+
+Considering the nature of the task and the limitations of the LLM in assisting with physical tasks, it is unlikely that the LLM can reduce the time it takes to complete this task significantly.
+
+2: E0
+
+3: High

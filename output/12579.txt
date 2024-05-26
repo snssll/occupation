@@ -1,0 +1,12 @@
+1: In this task, a Title Examiner, Abstractor, or Searcher is required to prepare lists of all legal instruments applying to a specific piece of land and the buildings on it. To determine the exposure label for this task:
+
+- The task involves analyzing legal documents and extracting relevant information, which can be time-consuming and requires expertise.
+- The task does not involve direct text generation or transformation but rather information retrieval and organization.
+- While the task may benefit from the LLM's ability to assist in understanding legal language and providing context, the primary challenge lies in the interpretation of legal documents and identifying relevant legal instruments.
+- The task does not involve image processing or detailed visual analysis.
+
+Based on these considerations, the task falls under E0 as it does not clearly benefit from direct access to the LLM to reduce the time it takes for an experienced worker to complete the task significantly.
+
+2: E0
+
+3: Moderate

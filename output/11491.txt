@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of performing geospatial data building, modeling, or analysis as a Geographic Information Systems Technologist or Technician, we need to consider the capabilities of the LLM. The task involves using advanced spatial analysis, data manipulation, or cartography software, which may require specialized domain knowledge and technical skills related to geographic information systems (GIS).
+
+- E0: This task involves working with specialized software and tools specific to GIS, which may not be directly supported by the LLM. The LLM may not have the ability to interact with GIS software or perform the intricate data manipulation and analysis required in this field. Therefore, the task may not benefit significantly from the LLM's capabilities.
+
+- E2: While the LLM alone may not be able to directly perform geospatial data building, modeling, or analysis tasks, it is conceivable that additional software could be developed on top of the LLM to assist in these tasks. This software could potentially help in summarizing complex GIS data, providing recommendations based on data inputs, or analyzing written information to inform decisions in the GIS domain.
+
+- E3: Given the task involves working with spatial data and potentially cartography, having access to image capabilities alongside the LLM could enhance the completion of the task. The image capabilities could assist in reading text from maps or visualizing spatial data, which could complement the text-based capabilities of the LLM in this context.
+
+2: E2
+
+3: Moderate

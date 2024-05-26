@@ -1,0 +1,15 @@
+1: For the task of "Contract or oversee craft work, such as painting or plumbing" in the occupation of Construction Managers, we need to determine the exposure level to LLM.
+
+- E0: This task involves overseeing physical craft work, such as painting or plumbing, which requires in-person supervision and interaction. LLM cannot physically oversee or manage such tasks, so it does not reduce the time significantly for an experienced worker to complete this task.
+
+- E1: LLM could potentially assist in drafting contracts, communicating with contractors via written correspondence, or providing general guidance on overseeing craft work. However, the task of overseeing physical craft work itself, such as ensuring quality, safety, and compliance on-site, cannot be directly handled by LLM.
+
+- E2: While LLM could help in generating written documents, providing information on regulations or best practices, or even assisting in communication, there is no specific software that could be developed on top of LLM to significantly reduce the time it takes to oversee craft work on-site.
+
+- E3: LLM's capabilities do not extend to viewing or analyzing images in detail, which would be necessary for tasks like inspecting the quality of painting or plumbing work visually. Therefore, the task does not fall under E3.
+
+Based on the above analysis, the task of "Contract or oversee craft work, such as painting or plumbing" in the occupation of Construction Managers is best classified as E0.
+
+2: E0
+
+3: Certainty level: High

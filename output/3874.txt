@@ -1,0 +1,7 @@
+1: In this task, the occupation of Tellers involves counting currency, coins, and checks received to prepare them for deposit or shipment. With the help of an LLM, the task of counting currency and checks could potentially be automated by developing a software tool that can recognize and count different denominations accurately. The LLM could assist in creating such a tool by providing guidance on how to design the software, recognizing patterns in currency and checks, and generating code for the counting process. This task does not involve precise measurements or detailed visuals, making it suitable for automation using an LLM.
+
+Considering the task's nature and the potential for automation through software development, this task falls under E2 - Exposure by LLM-powered applications. While direct access to the LLM alone may not reduce the time significantly, the development of additional software on top of the LLM could streamline the process of counting currency and checks.
+
+2: E2
+
+3: Moderate

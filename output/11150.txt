@@ -1,0 +1,13 @@
+1: In this task, a Switchboard Operator is responsible for paging individuals to inform them of telephone calls using paging or interoffice communication equipment. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves communicating information to individuals via written or spoken medium, which is a capability of the LLM.
+- The task does not require specialized domain knowledge or complex databases beyond what the LLM can access.
+- The task does not involve image capabilities or detailed visual analysis.
+- The task does not involve making decisions that impact human livelihood or require precise measurements.
+- The task does not involve interactions that require physical presence or human judgment beyond what the LLM can provide.
+
+Based on these considerations, the task can be completed with equivalent quality using the LLM to generate the messages for paging individuals. Therefore, the task falls under label E1.
+
+2: E1
+
+3: High

@@ -1,0 +1,11 @@
+1: For the task of performing cleaning duties as a waiter or waitress, the exposure to LLM can be analyzed as follows:
+
+- Direct exposure (E1): The task of performing cleaning duties involves straightforward and routine actions that can be easily described and instructed using text. The LLM can assist in providing detailed step-by-step instructions on how to perform each cleaning duty efficiently. It can also help in generating checklists or reminders for the tasks. Overall, the LLM can significantly reduce the time it takes to understand and carry out the cleaning duties effectively.
+
+- Exposure by LLM-powered applications (E2): While there may not be specific software developed on top of the LLM solely for performing cleaning duties, it is conceivable that an application could be created to provide interactive guidance or virtual simulations for cleaning tasks. This application could integrate with the LLM to offer real-time feedback, tips, or troubleshooting assistance during the cleaning process, thereby enhancing the efficiency and effectiveness of the task.
+
+- No exposure (E0): Tasks that involve physical actions such as sweeping, mopping, vacuuming, and taking out the trash cannot be directly performed by the LLM or any software built on top of it. The task of cleaning also does not require specialized domain knowledge or complex decision-making that would benefit significantly from LLM capabilities.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,7 @@
+1: In this task, a Maintenance Worker, Machinery is required to install, replace, or change machine parts and attachments according to production specifications. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be aided by the LLM. 
+
+- **E0**: This task involves physical work that requires hands-on interaction with machinery. The task of installing, replacing, or changing machine parts and attachments is highly practical and involves precise measurements and physical manipulation, which cannot be effectively assisted by the LLM or any software tools. Therefore, this task falls under E0 as it does not involve text-based work that can be significantly aided by the LLM.
+
+2: E0
+
+3: High

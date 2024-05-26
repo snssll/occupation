@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of analyzing storm water systems to identify opportunities for water resource improvements as a Water Resource Specialist, we need to consider the nature of the task and how the LLM could potentially assist in completing it.
+
+- **E0**: This task involves analyzing physical storm water systems, which may require on-site inspections, precise measurements, and detailed visual assessments. The task also likely involves specialized domain knowledge in water resource management, which may not be easily accessible or accurately retrievable by the LLM alone. Therefore, it is unlikely that the LLM or LLM-powered tools could significantly reduce the time it takes for an experienced Water Resource Specialist to complete this task.
+
+- **E1**: While the LLM could potentially assist in providing general information on storm water systems and water resource management principles, the task of analyzing specific storm water systems for improvement opportunities likely requires specialized domain knowledge, data analysis skills, and possibly fieldwork. The LLM may not have the capability to provide real-time data on storm water systems or conduct on-site inspections, which are crucial for this task.
+
+- **E2**: It is conceivable that additional software could be developed on top of the LLM to assist Water Resource Specialists in analyzing storm water systems. This software could potentially help in summarizing technical documents related to storm water systems, retrieving up-to-date data on water resource management practices, or making recommendations based on the analysis conducted by the specialist. However, the complexity of the task and the need for specialized domain knowledge may limit the extent to which the LLM alone can significantly reduce the time needed to complete this task.
+
+- **E3**: The task of analyzing storm water systems may involve reviewing technical drawings, maps, or diagrams related to water infrastructure. If the LLM had image capabilities to view and interpret such visual information, it could potentially assist Water Resource Specialists in analyzing storm water systems more efficiently. However, since the task primarily involves data analysis and domain-specific knowledge, the impact of image capabilities on reducing the time to complete the task may be limited.
+
+2: E2
+
+3: Moderate

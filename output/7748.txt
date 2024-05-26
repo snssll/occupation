@@ -1,0 +1,5 @@
+1: In this task, the occupation involves handling explosives and performing tasks related to preparing blast holes for detonation. To determine the exposure level to LLM, we need to consider if the LLM can significantly reduce the time it takes for an explosives worker to complete the task with high quality. Given the nature of the task, which involves physical actions like shoveling, pouring explosives, and compacting charges, it is unlikely that the LLM or any tools built on top of it can effectively assist in completing these physical actions. The task also requires specialized knowledge and training in handling explosives safely, which may not be effectively replaced by the LLM. Therefore, the task is best classified as E0, as the LLM is not likely to reduce the time it takes for an experienced explosives worker to complete the task.
+
+2: E0
+
+3: High

@@ -1,0 +1,9 @@
+1: In this task, a Costume Attendant is responsible for assigning lockers to employees and maintaining various areas related to costumes and dressing rooms. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+Assigning lockers to employees may involve organizing and keeping track of locker assignments, which could potentially be managed more efficiently with the help of a digital system or database. The maintenance of locker rooms, dressing rooms, and costume storage areas may involve documenting inventory, tracking maintenance schedules, and ensuring cleanliness and organization. While some aspects of this task may involve written documentation and record-keeping, the core activities are more operational and hands-on in nature.
+
+Given that the task involves physical organization and maintenance of spaces, it does not directly align with the capabilities of an LLM. The task does not primarily involve complex text-based instructions, data analysis, or decision-making that would benefit significantly from the language model's capabilities. Therefore, this task is best classified as E0.
+
+2: E0
+
+3: High

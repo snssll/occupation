@@ -1,0 +1,11 @@
+1: In this task, a water/wastewater engineer is required to design water or wastewater lift stations, including water wells. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- **E1 (Direct exposure):** If the task involves writing detailed design specifications, calculations, or reports that can be generated or assisted by the LLM, then direct exposure would apply. The LLM could help in drafting technical documents, performing calculations, or providing design suggestions based on input criteria.
+
+- **E2 (Exposure by LLM-powered applications):** If the task involves accessing specialized domain knowledge, retrieving specific technical information, or making recommendations based on data, an LLM-powered application could be developed to assist in these aspects. The LLM could potentially provide insights into best practices, regulations, or innovative design solutions.
+
+- **E3 (Exposure given image capabilities):** Since the task involves designing physical structures like lift stations and water wells, which may require visual representations or schematics, having image capabilities could aid in creating or editing digital images according to instructions. The LLM could potentially assist in generating visual representations of the proposed designs.
+
+2: E2
+
+3: Moderate

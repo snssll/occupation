@@ -1,0 +1,12 @@
+1: In this task, a Recycling Coordinator is responsible for preparing bills of lading, statements of shipping records, or customer receipts related to recycling or hazardous material services. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- The task involves generating written documents such as bills of lading and statements of shipping records, which can be effectively completed by an LLM through text generation capabilities.
+- The LLM can assist in organizing and formatting the information required for these documents, ensuring accuracy and compliance with regulations.
+- The task does not involve complex decision-making or specialized domain knowledge beyond what the LLM can provide.
+- While the task may require some knowledge of regulations and specific details, the LLM can still significantly reduce the time needed to draft these documents accurately.
+
+Based on these considerations, the task of preparing bills of lading, statements of shipping records, or customer receipts for recycling or hazardous material services would likely fall under the E1 label, as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

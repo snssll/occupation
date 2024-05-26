@@ -1,0 +1,9 @@
+1: In this task, the occupation involves door-to-door sales workers, news and street vendors, and related workers. The specific task is to order or purchase supplies. To determine the exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete the task. 
+
+Considering the nature of the task, ordering or purchasing supplies typically involves interacting with suppliers, comparing prices, negotiating terms, and making decisions based on various factors such as quality, cost, and availability. This task requires human interaction, decision-making, and potentially physical actions like handling paperwork or making payments. While the LLM could potentially provide information on suppliers, prices, or product details, it cannot replace the need for human judgment, negotiation skills, or physical actions involved in the procurement process. 
+
+Given that the task involves a high degree of human interaction, decision-making, and physical actions, it is unlikely that access to the LLM alone or with additional software could significantly reduce the time it takes to complete the task. Therefore, this task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a Cardiovascular Technologist or Technician is required to attach electrodes to patients' chests, arms, and legs, connect electrodes to leads from the EKG machine, and operate the EKG machine to obtain a reading. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical interaction with patients, precise placement of electrodes, and operating medical equipment. These actions cannot be directly performed by an LLM or any software tool based on it. The task also requires specialized knowledge and training in cardiovascular technology, which goes beyond the capabilities of the LLM. Therefore, this task falls under E0 as it involves physical actions, precise measurements, and specialized domain knowledge that cannot be effectively replaced by an LLM.
+
+2: E0
+
+3: High

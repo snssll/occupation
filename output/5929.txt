@@ -1,0 +1,12 @@
+1: In this task, a stonemason is required to drill holes in marble or ornamental stone and anchor brackets in those holes. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical work that cannot be directly performed by the LLM.
+- The task requires precise measurements and physical manipulation of materials, which are not within the capabilities of the LLM.
+- The LLM does not have the ability to interact with physical objects like marble or stone.
+- The task does not involve text input or output that can be processed by the LLM.
+
+Based on these considerations, it is clear that the task of drilling holes in marble or ornamental stone and anchoring brackets is not suitable for exposure to the LLM. The LLM cannot perform physical tasks or interact with physical materials, making it unsuitable for this type of work.
+
+2: E0
+
+3: High

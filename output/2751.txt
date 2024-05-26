@@ -1,0 +1,13 @@
+1: In this task, a Conservation Scientist is required to compute cost estimates of different conservation practices based on various factors such as the needs of land users, maintenance requirements, and the life expectancy of practices. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it.
+
+- E0: This task involves analyzing and computing cost estimates based on specific criteria. While the LLM can provide general information on conservation practices and cost estimation principles, it may not significantly reduce the time it takes for an experienced Conservation Scientist to compute detailed cost estimates based on specific factors.
+
+- E1: The LLM can assist in providing general information on conservation practices, maintenance requirements, and life expectancy, which can aid in the computation of cost estimates. It can help in writing reports, summarizing data, and providing insights based on the input data. However, the task of computing detailed cost estimates may still require significant manual calculations and domain expertise.
+
+- E2: With the development of additional software on top of the LLM, it is possible to create a tool that can analyze cost data, maintenance requirements, and life expectancy information to generate accurate cost estimates for different conservation practices. This software could leverage the LLM's capabilities to process and analyze large amounts of data efficiently, potentially reducing the time needed to compute cost estimates.
+
+- E3: Image capabilities are not relevant for this task as it primarily involves data analysis and computation of cost estimates based on textual information related to conservation practices.
+
+2: E2
+
+3: Moderate

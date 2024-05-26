@@ -1,0 +1,7 @@
+1: In this task, the Food Preparation Workers are required to assemble meal trays according to patients' diets. To determine the appropriate exposure label, we need to consider if direct access to the LLM could significantly reduce the time it takes to complete this task with equivalent quality. 
+
+Food Preparation Workers need to understand patients' dietary requirements, portion sizes, food restrictions, and meal composition. The LLM could potentially assist in providing information on various dietary restrictions, recommended portion sizes, and meal composition guidelines. It could also help generate meal tray assembly suggestions based on specific dietary needs. However, the task involves physical actions such as handling food items, arranging them on trays, and ensuring accuracy in meal preparation, which cannot be directly performed by the LLM.
+
+2: E0
+
+3: Moderate

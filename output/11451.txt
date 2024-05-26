@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of performing errands for customers or employers as a Shuttle Driver or Chauffeur, we need to consider the nature of the task and how it can be completed with the help of an LLM.
+
+- E0: This task involves physical actions such as driving, picking up, and delivering items, which cannot be directly assisted by an LLM. The task also requires real-time decision-making and interactions with customers, which are beyond the capabilities of the LLM.
+
+- E1: While the task involves text input (such as addresses or instructions), the core aspect of the task, which is physically delivering or picking up items, cannot be significantly aided by an LLM. The LLM can potentially assist in generating written instructions or communication with customers, but the primary action of physically performing errands is not within the scope of what the LLM can directly assist with.
+
+- E2: It is conceivable that software could be developed on top of the LLM that could assist in organizing and optimizing errand routes, providing real-time traffic updates, or generating written communication related to the errands. However, the physical aspect of the task, such as handling packages or interacting with customers in person, would still require human intervention.
+
+- E3: The task does not involve image processing or detailed visual instructions that would benefit significantly from image capabilities in addition to the LLM.
+
+2: E0
+
+3: High

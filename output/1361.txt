@@ -1,0 +1,5 @@
+1: In this task, the occupation involves sailors and marine oilers who are responsible for transferring substances to and from liquid cargo tanks by attaching hoses and operating pumps. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. Given that this task involves physical actions such as attaching hoses and operating pumps, it does not seem feasible for the LLM to directly assist in completing the task. The task requires hands-on work and cannot be easily translated into text-based instructions for the LLM to follow. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

@@ -1,0 +1,10 @@
+1: In this task, a potter is required to design clay forms, molds, and decorations. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a potter to complete this task with high quality. 
+
+- E0: This task involves physical creation and manipulation of clay, which cannot be directly assisted by the LLM. The LLM cannot physically design or create clay forms, molds, or decorations.
+- E1: While the LLM can provide inspiration, ideas, or even some design suggestions for clay forms and decorations, the actual design and creation process heavily relies on physical skills and techniques that the LLM cannot directly assist with. The LLM may help with brainstorming or providing information on different design styles, but the core task of physically designing clay forms is not significantly expedited by the LLM alone.
+- E2: It is conceivable that additional software could be developed on top of the LLM that could assist potters in generating design ideas, providing detailed instructions, or even simulating different clay forms virtually. Such software could potentially reduce the time it takes to experiment with different designs and decorations, but the physical aspect of creating the clay forms would still require manual work.
+- E3: The task does not involve image processing, reading text from PDFs, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E2
+
+3: Moderate

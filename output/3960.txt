@@ -1,0 +1,13 @@
+1: Mechatronics engineers are responsible for designing, developing, and testing embedded systems that combine mechanical and electronic components. One of the tasks they perform is creating embedded software design programs, which involves writing code to control the behavior of embedded systems. To determine the exposure level of this task to LLM, we can break it down:
+
+- Writing code for embedded software design programs: This task involves writing code, which is a task that can be significantly aided by the LLM. The LLM can help generate code snippets, provide suggestions, and assist in debugging.
+
+- Understanding the specific requirements of embedded systems: While the LLM can provide general information about embedded systems, it may not have the specialized knowledge required for designing software for these systems.
+
+- Testing and debugging the software: The LLM can assist in providing general debugging tips and strategies but may not be able to directly test the software on the embedded system.
+
+Based on these considerations, the task of creating embedded software design programs can benefit from the LLM's assistance in writing code but may require additional specialized knowledge beyond what the LLM can provide.
+
+2: E2
+
+3: Moderate

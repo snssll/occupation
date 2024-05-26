@@ -1,0 +1,11 @@
+1: In this task, a landscaping and groundskeeping worker is required to haul or spread topsoil and spread straw over seeded soil to hold the soil in place. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical labor such as hauling and spreading soil, which cannot be directly assisted by the LLM.
+- The task does not involve complex decision-making, specialized domain knowledge, or detailed data analysis that would benefit from LLM capabilities.
+- The task does not require written or spoken communication, feedback on documents, or translation services that the LLM could provide.
+
+Based on these considerations, it is clear that the task of hauling or spreading topsoil and spreading straw over seeded soil falls under E0 as it does not align with any of the exposure levels described in the rubric.
+
+2: E0
+
+3: High

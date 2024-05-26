@@ -1,0 +1,5 @@
+1: In this task, the occupation of Lodging Managers involves providing assistance to staff members by inspecting rooms, setting tables, or doing laundry. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. The task involves physical activities such as inspecting rooms and doing laundry, which cannot be directly performed by the LLM. While the LLM could potentially assist in generating written instructions or checklists for staff members, it cannot physically inspect rooms or do laundry. Therefore, the task does not fall under E1 as the direct access to the LLM would not reduce the time significantly. Additionally, developing software on top of the LLM to automate physical tasks like laundry is not feasible. The task also does not involve detailed visuals or specialized domain knowledge that would fall under E2 or E3. Hence, the task is best classified as E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

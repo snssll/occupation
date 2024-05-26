@@ -1,0 +1,5 @@
+1: In this task, an Electrical and Electronics Drafter is required to measure factors that affect the installation and arrangement of equipment, such as distances to be spanned by wire and cable. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Since the task involves precise measurements and physical factors that cannot be captured solely through text input, it is unlikely that the LLM or any tools built on top of it can significantly reduce the time it takes to complete the task. The LLM does not have the capability to physically measure distances or factors that affect equipment installation. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

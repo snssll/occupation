@@ -1,0 +1,5 @@
+1: In this task, a Refuse and Recyclable Material Collector needs to check road or weather conditions to determine how routes will be affected. With access to the powerful OpenAI large language model (LLM), the collector could potentially save time by quickly looking up real-time weather conditions or traffic updates, which could impact route planning. The LLM could provide information on current road closures, weather forecasts, or traffic patterns, allowing the collector to make informed decisions about the most efficient routes to take. This task involves accessing up-to-date information that the LLM can provide, making it likely that the LLM could significantly reduce the time needed to complete this task with equivalent quality.
+
+2: E1
+
+3: High

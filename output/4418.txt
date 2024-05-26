@@ -1,0 +1,11 @@
+1: In this task, a Brownfield Redevelopment Specialist or Site Manager is responsible for designing or implementing measures to improve the environmental quality of contaminated sites. To complete this task, the specialist needs to have a deep understanding of environmental regulations, remediation techniques, and site-specific factors. The task involves analyzing the contamination levels, assessing risks to human health and the environment, and developing strategies to mitigate these risks.
+
+When considering the exposure rubric:
+- E0: This task involves highly specialized domain knowledge related to environmental remediation and regulations. While the LLM can provide general information on environmental topics, it may not have the specific expertise required to design and implement measures for contaminated sites.
+- E1: The LLM could potentially assist in providing general information on environmental regulations, remediation techniques, and case studies. It could also help in drafting reports or proposals related to the remediation process. However, the task's complexity and the need for specialized knowledge may limit the LLM's ability to significantly reduce the time it takes to complete the task with equivalent quality.
+- E2: While the LLM alone may not be able to reduce the time significantly for this task, additional software built on top of the LLM could potentially be developed to assist in data analysis, risk assessment, or generating initial remediation strategies based on input data. Such software could enhance the specialist's decision-making process and streamline certain aspects of the task.
+- E3: Image capabilities are not relevant for this task as it primarily involves analyzing data, regulations, and developing strategies related to environmental remediation.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,5 @@
+1: In this task, a Cost Estimator is required to analyze blueprints and other documentation to prepare estimates related to time, cost, materials, and labor. With the help of a large language model (LLM), the estimator could potentially input the details from the blueprints and other documentation into the LLM to assist in generating estimates. The LLM could help in processing the information, performing calculations, and providing insights based on the data provided. This would involve writing and transforming text based on complex instructions, as well as analyzing and summarizing information to generate estimates. Since the task involves text input and output within the context of the provided documentation, the LLM could significantly reduce the time it takes to complete the task with equivalent quality. Therefore, this task falls under the E1 label as direct access to the LLM can reduce the time it takes to complete the task by at least half.
+
+2: E1
+
+3: High

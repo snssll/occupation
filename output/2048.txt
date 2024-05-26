@@ -1,0 +1,10 @@
+1: In this task, a Museum Technician or Conservator is responsible for cleaning various objects using different cleaning agents. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes to complete the task with high quality.
+
+- The task of cleaning objects like paper, textiles, wood, metal, glass, rock, pottery, and furniture requires physical interaction and expertise in handling delicate items. This task involves manual work and specialized knowledge of conservation techniques.
+- While the LLM can provide information on cleaning methods and materials, it cannot physically clean objects or assess the condition of artifacts in a hands-on manner.
+- The LLM does not have the capability to perform physical tasks or interact with objects in the real world, making it unsuitable for directly assisting in the cleaning process.
+- Therefore, the task of cleaning objects as described for Museum Technicians and Conservators falls under E0 as it involves physical work and specialized skills that cannot be significantly aided by the LLM.
+
+2: E0
+
+3: High

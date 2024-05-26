@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of performing laboratory procedures as a Molecular and Cellular Biologist, we need to consider the nature of the task and how it can be impacted by the use of the LLM. 
+
+- E0: This task involves hands-on laboratory work that requires physical presence and manipulation of biological samples and equipment. The LLM cannot directly assist in performing these tasks that involve DNA sequencing, cloning, RNA purification, and gel electrophoresis.
+
+- E1: While the LLM can provide information on protocols, theories, and background knowledge related to molecular and cellular biology, it cannot physically perform the laboratory procedures. The task of actually carrying out the procedures in a laboratory setting is beyond the capabilities of the LLM.
+
+- E2: It is conceivable that software could be developed on top of the LLM that could assist Molecular and Cellular Biologists in analyzing data, interpreting results, or even suggesting experimental designs based on existing knowledge. However, the core task of physically conducting laboratory procedures would still require human intervention.
+
+- E3: The task does not involve image processing or analysis that would significantly benefit from additional image capabilities beyond what the LLM offers. Therefore, the task does not fall under this category.
+
+Based on the above analysis, the most appropriate label for the task of performing laboratory procedures as a Molecular and Cellular Biologist is E0.
+
+2: E0
+
+3: Certainty level: High

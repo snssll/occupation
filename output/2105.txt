@@ -1,0 +1,12 @@
+1: In this task, a helper for carpenters is responsible for cleaning work areas, machines, or equipment to maintain a clean and safe job site. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves straightforward instructions that can be easily understood by the LLM.
+- The LLM can generate text instructions on how to clean work areas, machines, or equipment.
+- The LLM can provide information on safety protocols and guidelines for maintaining a clean job site.
+- The task does not require specialized domain knowledge beyond general knowledge about cleaning and safety procedures.
+
+Based on these considerations, the task can be completed with the help of the LLM by providing text instructions and guidelines related to cleaning and safety. Therefore, this task falls under label E1 as the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

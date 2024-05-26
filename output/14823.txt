@@ -1,0 +1,13 @@
+1: In this task, a Library Technician is responsible for managing the circulation of books and materials in a library. The task involves activities such as reserving items for patrons, checking items in and out, renewing borrowed materials, and handling returns. To determine the exposure level to LLM, we need to consider if the LLM can significantly reduce the time it takes for a Library Technician to complete these tasks with high quality.
+
+- **E0**: This task involves physical interactions with books and materials, such as handling them for circulation. LLM cannot physically handle books or materials, so it cannot directly assist in these physical aspects of the task. Additionally, the task does not involve complex decision-making that would benefit significantly from LLM assistance.
+
+- **E1**: While the LLM can potentially assist in generating written communication related to book reservations, renewals, and other administrative tasks, the core activities of physically handling materials and interacting with patrons cannot be directly replaced by the LLM. The LLM can help with writing emails, maintaining records, or providing information, but it cannot perform the core functions of circulating books.
+
+- **E2**: It is conceivable that additional software could be developed on top of the LLM to streamline certain aspects of the task, such as automatically generating reports based on circulation data, analyzing trends in borrowing patterns, or suggesting personalized recommendations for patrons. However, the physical handling of materials and direct patron interactions would still require human intervention.
+
+- **E3**: The task does not involve image processing or detailed visual analysis, so the image capabilities of the LLM would not significantly impact the completion of this task.
+
+2: E1
+
+3: Moderate

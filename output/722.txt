@@ -1,0 +1,11 @@
+1: In this task, a flight attendant is required to answer passengers' questions about various aspects of their flight, including flights, aircraft, weather, travel routes and services, arrival times, or schedules. To determine the appropriate label from the exposure rubric, we need to consider whether access to the LLM alone or with additional software could significantly reduce the time it takes for a flight attendant to provide accurate and helpful responses to passengers' inquiries.
+
+- E1: Direct exposure - If the LLM could provide instant and accurate responses to passengers' questions based on the input provided by the flight attendant, it could potentially reduce the time needed to research and provide answers. The LLM could assist in generating responses quickly and efficiently, especially for common questions.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not be able to reduce the time significantly for this task, additional software built on top of the LLM could potentially enhance the efficiency of answering passengers' questions. For example, an application that retrieves real-time flight information, weather updates, or travel route details could complement the LLM's capabilities.
+
+- E3: Exposure given image capabilities - Image capabilities would not be directly relevant for this task as it primarily involves answering text-based questions from passengers. Therefore, this label is not applicable in this context.
+
+2: E2
+
+3: Moderate

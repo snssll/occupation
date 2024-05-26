@@ -1,0 +1,7 @@
+1: In this task, a flight attendant is required to prepare reports detailing various aspects of a flight, such as departure and destination locations, passenger ticket numbers, meal and beverage inventories, cabin equipment conditions, and passenger issues. To complete this task, the flight attendant needs to gather information from various sources, organize it, and create a comprehensive report. 
+
+Considering the task description, the most relevant exposure label from the rubric would be E0. This task involves manual data collection, organization, and reporting, which does not directly benefit from the capabilities of an LLM. The task does not involve complex decision-making, specialized knowledge retrieval, or image processing that would significantly benefit from LLM capabilities.
+
+2: E0
+
+3: High

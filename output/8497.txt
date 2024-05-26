@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of investigating air accidents and complaints to determine causes as an Aviation Inspector, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM. 
+
+- E0: This task involves investigating air accidents and complaints, which likely requires physical inspections, interviews, and interactions with various stakeholders. The task may also involve analyzing technical data and reports that may not be easily accessible or interpretable by the LLM. Therefore, the LLM alone would not significantly reduce the time it takes to complete this task.
+
+- E1: While the LLM can provide information on aviation regulations, procedures, and general knowledge related to air accidents, it may not have access to up-to-date information on specific accidents or complaints unless provided in the input. The LLM could assist in summarizing reports, drafting correspondence, or providing background information, but the core investigative work would still require human expertise and interaction.
+
+- E2: With additional software development, it is conceivable that an application could be built on top of the LLM to assist Aviation Inspectors in analyzing data, summarizing reports, and retrieving relevant information from databases or documents. This software could potentially streamline the investigative process and provide recommendations based on the data analyzed by the LLM.
+
+- E3: The task of investigating air accidents and complaints may involve reviewing images, diagrams, or technical drawings related to aircraft components or accident scenes. If the LLM had image capabilities to assist in analyzing visual data, it could potentially enhance the efficiency of the investigation process by providing insights or annotations on images related to the accidents.
+
+2: E2
+
+3: Moderate

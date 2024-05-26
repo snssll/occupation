@@ -1,0 +1,7 @@
+1: In this task, a Plating Machine Setter, Operator, or Tender working with metal and plastic materials is responsible for placing plated or coated materials on racks and transferring them to ovens to dry for specified periods of time. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical actions such as placing materials on racks and transferring them to ovens. The task does not involve text input or output, and the actions are manual and cannot be automated by the LLM or LLM-powered tools. Therefore, this task does not fit into any of the exposure categories.
+
+2: E0
+
+3: High

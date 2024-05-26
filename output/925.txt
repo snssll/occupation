@@ -1,0 +1,12 @@
+1: In this task, a Sales Representative is responsible for arranging and directing the delivery and installation of products and equipment. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task. 
+
+- E0: This task involves physical coordination and logistics that cannot be automated by the LLM or any software built on top of it. The task requires hands-on management of delivery and installation processes, which cannot be replaced by text-based AI tools.
+- E1: The LLM could potentially assist in generating written instructions or communication related to the delivery and installation process. It could help draft emails, instructions, or documentation, but the core task of physically arranging and directing delivery and installation cannot be automated by the LLM alone.
+- E2: While the LLM could potentially be used to draft more detailed instructions or documentation, the task still heavily relies on physical coordination and management. Additional software that integrates with the LLM could potentially streamline communication or provide automated updates, but the core task remains largely manual.
+- E3: The task does not involve image processing or detailed visual instructions that would benefit from image capabilities. The task is primarily focused on logistics and coordination, which are not significantly impacted by image capabilities.
+
+Based on the analysis, the task of arranging and directing delivery and installation of products and equipment is best classified as E1.
+
+2: E1
+
+3: Moderate

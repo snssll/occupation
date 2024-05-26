@@ -1,0 +1,9 @@
+1: In this task, a Correspondence Clerk is responsible for computing the costs of records provided to requesters and writing letters to request payment. To determine the appropriate label from the exposure rubric, we can break down the task:
+- Computing costs of records: The LLM can assist in calculating costs based on predefined formulas or guidelines provided in the input. It can perform basic arithmetic operations and generate the final cost figure.
+- Writing letters to obtain payment: The LLM can help draft professional and polite letters requesting payment. It can generate text based on the input information about the outstanding payment, due dates, and any other relevant details.
+
+Considering the task involves text input and output within the LLM's capabilities, it falls under E1. The LLM can significantly reduce the time it takes to complete this task by providing accurate cost calculations and generating payment request letters efficiently.
+
+2: E1
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, a Title Examiner, Abstractor, and Searcher is responsible for preparing and issuing title commitments and title insurance policies based on information compiled from title searches. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- E0: This task involves a high level of legal and technical knowledge related to title searches and insurance policies. It requires understanding complex legal documents, regulations, and property records. The task also involves making critical decisions based on the compiled information. The LLM may not have the specialized domain knowledge required to accurately complete this task, and it cannot make legal decisions that impact human livelihood. Therefore, using the LLM alone would not significantly reduce the time it takes for an experienced worker to complete this task.
+
+- E1: While the LLM can assist in providing general information on title searches and insurance policies, it may not have the specific domain knowledge required to prepare and issue title commitments and insurance policies accurately. The task involves synthesizing information from various sources, understanding legal jargon, and making informed decisions. The LLM can help with some aspects of the task, such as providing background information or drafting sections of the documents, but it may not be able to handle the entire process independently.
+
+- E2: With the development of additional software on top of the LLM, it is conceivable that a more specialized tool could be created to assist Title Examiners, Abstractors, and Searchers in preparing and issuing title commitments and insurance policies. This software could potentially retrieve and analyze data from title searches, provide recommendations based on the compiled information, and streamline the document preparation process. While the LLM alone may not significantly reduce the time for this task, a more tailored application could enhance efficiency.
+
+- E3: The task does not involve image processing or detailed visual analysis, so the image capabilities of the LLM would not have a significant impact on completing this task.
+
+2: E2
+
+3: Moderate

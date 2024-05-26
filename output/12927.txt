@@ -1,0 +1,5 @@
+1: In this task, a Physician Assistant is required to prescribe therapy or medication with physician approval. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves making medical decisions based on patient assessments and collaborating with a supervising physician. While an LLM could potentially provide general information on therapies or medications, the critical aspect of this task is the medical expertise and legal requirements involved in prescribing treatment. The LLM lacks the ability to provide real-time patient information, medical history, or physical assessments, which are crucial for prescribing therapy or medication safely. Therefore, the task falls under E0 as it requires human expertise, interaction, and legal responsibilities that cannot be fulfilled by the LLM alone.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a general dentist is required to bleach, clean, or polish teeth to restore their natural color. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves a practical, hands-on procedure that requires manual dexterity and precision. It also involves direct interaction with patients, assessing their oral health, and performing treatments accordingly. These aspects of the task do not align well with the capabilities of an LLM, as the model is text-based and does not have the ability to perform physical procedures or interact directly with patients. Therefore, the task falls under E0 as it does not benefit from the use of an LLM or LLM-powered tools to reduce the time it takes for an experienced dentist to complete the task.
+
+2: E0
+
+3: High

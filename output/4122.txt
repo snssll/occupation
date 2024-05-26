@@ -1,0 +1,13 @@
+1: In this task, the occupation of Pipelayers involves cutting pipes to required lengths. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality by at least half.
+
+- E0: This task involves physical work that cannot be directly performed by the LLM or any software tool. The cutting of pipes requires manual labor and precise measurements, which cannot be done by the LLM.
+
+- E1: The LLM cannot physically cut pipes or perform tasks that require precise measurements. While it can provide information on cutting techniques or safety guidelines related to pipe cutting, it cannot directly complete the task of cutting pipes to required lengths.
+
+- E2: It is challenging to imagine additional software that could be developed on top of the LLM to significantly reduce the time it takes to physically cut pipes. The task is straightforward and does not involve complex decision-making or specialized knowledge that could be enhanced by software.
+
+- E3: The task of cutting pipes does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, the image capabilities of the LLM are not relevant to this task.
+
+2: E0
+
+3: Certainty: High

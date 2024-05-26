@@ -1,0 +1,12 @@
+1: In this task, a lodging manager is required to meet with clients to schedule and plan details of various events. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves interacting with clients, understanding their needs, and planning events accordingly. This requires human interaction, empathy, and negotiation skills, which cannot be replaced by an LLM.
+- While the LLM could potentially assist in drafting emails or proposals related to event planning, the core aspect of client interaction and event planning would still require human involvement.
+- The LLM may not have access to real-time availability or pricing information of venues or services, which is crucial for event planning.
+- The task does not involve complex data analysis, specialized domain knowledge, or image processing that would significantly benefit from LLM capabilities.
+
+Based on these considerations, the task of meeting with clients to schedule and plan events is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

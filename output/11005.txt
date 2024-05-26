@@ -1,0 +1,10 @@
+1: In this task of ordering surgical supplies, the main activities involve identifying the necessary supplies based on the upcoming surgeries, checking inventory levels, placing orders with suppliers, and ensuring timely delivery. 
+
+For this task, the exposure to LLM can be considered as follows:
+- E1: Direct access to the LLM could potentially reduce the time it takes to complete the task by providing assistance in generating lists of required supplies, checking inventory levels, and drafting order requests based on specific criteria.
+- E2: While an LLM-powered application could potentially assist in summarizing information related to surgical supplies or providing recommendations based on data analysis, the task of ordering supplies may not be significantly expedited by the LLM alone.
+- E3: Image capabilities are not relevant for this task as it primarily involves text-based activities related to ordering supplies.
+
+2: E2
+
+3: Moderate

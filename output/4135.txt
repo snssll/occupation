@@ -1,0 +1,5 @@
+1: In this task, the Cutting and Slicing Machine Setters, Operators, and Tenders manually cut stock to prepare for machine cutting using various tools. This task involves physical manipulation of objects and tools, which cannot be directly replaced by an LLM. The LLM does not have the capability to perform physical tasks like cutting with tools. Therefore, this task falls under E0 as it does not involve text input or output that can be processed by the LLM to reduce the time it takes to complete the task.
+
+2: E0
+
+3: High

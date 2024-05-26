@@ -1,0 +1,5 @@
+1: In this task, a Metal-Refining Furnace Operator and Tender is required to direct work crews in the cleaning and repair of furnace walls and flooring. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical work that requires on-site presence and hands-on coordination with the work crew. It does not involve text-based inputs or outputs that can be easily processed by an LLM. Additionally, the task involves overseeing manual labor and technical aspects related to furnace maintenance, which are not easily translatable into text-based instructions for the LLM to process. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of designing or planning construction of green building projects as an architect, we need to consider the level of exposure to LLM. 
+
+- E1: Direct exposure - In this task, an architect would likely benefit from using the LLM to gather information on the latest sustainable building practices, environmental impact assessments, energy conservation techniques, and innovative green technologies. The LLM can assist in researching and providing detailed information on these topics, helping architects make informed decisions during the design process. Additionally, the LLM can aid in drafting reports, proposals, and presentations related to green building projects. Overall, the LLM can significantly reduce the time it takes to gather relevant information and assist in the initial stages of planning green building projects.
+
+- E2: Exposure by LLM-powered applications - While the LLM can provide valuable information and support in the initial stages of designing green building projects, there may be additional software applications that could be developed on top of the LLM to further enhance the design process. These applications could include tools for simulating energy efficiency models, generating 3D visualizations of green building designs, or analyzing complex environmental data to optimize building performance. Such software could streamline the design process and provide more advanced capabilities beyond basic research and information gathering.
+
+- E3: Exposure given image capabilities - The task of designing green building projects may not directly benefit from image capabilities provided by the LLM. While visual aids and diagrams are important in architectural design, the LLM's text-based capabilities are more relevant for gathering information, drafting reports, and communicating ideas in written form. Image capabilities would be more useful for tasks that involve detailed visual analysis or require creating/editing digital images, which are not central to the initial planning stages of green building projects.
+
+Based on the above analysis, the task of designing or planning construction of green building projects as an architect would likely fall under **E1: Direct exposure** to the LLM.
+
+2: E1
+
+3: Certainty level: High

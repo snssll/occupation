@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of engaging in research activities related to the field of medical genetics or genetic counseling as a Genetic Counselor, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- Genetic Counselors engage in research activities that involve gathering, analyzing, and interpreting genetic information to provide guidance to individuals and families. This task involves a significant amount of reading, synthesizing information, and potentially writing reports or summaries based on the research findings.
+- The LLM can assist in tasks such as summarizing documents, providing feedback on documents, and generating questions about a document. It can also help in writing reports or summaries based on the information provided.
+- While the LLM can aid in processing and generating text related to genetic research, it may not significantly reduce the time it takes to complete the research activities themselves, as these tasks often require specialized domain knowledge and in-depth analysis beyond what the LLM can provide on its own.
+- However, it is conceivable that additional software could be developed on top of the LLM to streamline the research process, such as retrieving relevant up-to-date information, analyzing data, or providing recommendations based on the research findings.
+
+Based on these considerations, the task of engaging in research activities related to medical genetics or genetic counseling would likely fall under label E2 - Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

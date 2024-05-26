@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of resurfacing an outside area with various materials as a Segmental Paver, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves physical labor and hands-on work that cannot be automated or completed by a language model. The task requires manual labor, precision in laying materials, and potentially dealing with heavy materials, which cannot be done by the LLM.
+
+- E1: The LLM could potentially assist in providing information on different materials, techniques, or designs for resurfacing an outside area. It could generate text-based instructions or recommendations based on input provided by the user. However, the actual resurfacing work, which involves physical labor and hands-on skills, cannot be directly completed by the LLM.
+
+- E2: While the LLM alone may not significantly reduce the time it takes to complete the task of resurfacing an outside area, additional software could potentially be developed on top of the LLM to provide detailed step-by-step guides, material calculations, or design suggestions for the resurfacing process. This software could integrate with the LLM to offer more comprehensive assistance in planning and executing the resurfacing project.
+
+- E3: The task of resurfacing an outside area with different materials does not involve image processing or detailed visual instructions that would require image capabilities in addition to the LLM. Therefore, this task does not fall under the E3 category.
+
+2: E2
+
+3: Moderate

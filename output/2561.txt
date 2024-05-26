@@ -1,0 +1,13 @@
+1: In this task, an Energy Auditor is required to compare existing energy consumption levels to normative data. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- E0: This task involves comparing data and making assessments based on that data. While the LLM can provide information and insights, it may not significantly reduce the time it takes for an experienced Energy Auditor to compare the data to normative values. The task does not involve complex decision-making that the LLM can handle, and it does not require specialized domain knowledge that the LLM alone can provide.
+
+- E1: The LLM could potentially assist in providing relevant normative data and helping to structure the comparison process. It can generate text explaining the differences between existing consumption levels and normative data. However, the task may not be significantly expedited by the LLM alone, as it involves more straightforward data comparison rather than complex text generation or analysis.
+
+- E2: While the LLM could be used to summarize documents related to energy consumption norms or provide insights based on existing data, additional software that integrates data retrieval, analysis, and comparison tools could enhance the efficiency of this task. Such software could leverage the LLM's capabilities to process and interpret large amounts of data, making the comparison process more streamlined and insightful.
+
+- E3: The task does not involve image processing or detailed visual analysis, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E2
+
+3: Moderate

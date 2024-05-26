@@ -1,0 +1,7 @@
+1: In this task, the occupation involves Locker Room, Coatroom, and Dressing Room Attendants who provide or arrange services such as clothes pressing, cleaning, or repair. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical actions such as clothes pressing, cleaning, or repair, which cannot be directly performed by the LLM or any tools built on top of it. The task also requires hands-on interaction and decision-making that cannot be replaced by text-based AI models. Therefore, this task falls under E0.
+
+2: E0
+
+3: High

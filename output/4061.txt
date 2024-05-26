@@ -1,0 +1,5 @@
+1: In this task, a Reinforcing Iron and Rebar Worker is required to cut and fit wire mesh or fabric using hooked rods and position it in concrete to reinforce the concrete structure. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical actions such as cutting, fitting, and positioning materials in concrete, which cannot be directly performed by an LLM. The task also requires specialized knowledge and skills related to construction and reinforcement work, which may not be within the capabilities of the LLM. As such, this task does not involve text-based inputs or outputs that can be effectively handled by the LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

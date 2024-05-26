@@ -1,0 +1,5 @@
+1: In this task, a Fast Food and Counter Worker is responsible for collecting and returning dirty dishes to the kitchen for washing. This task involves physical movement and interaction in a fast-paced environment, which cannot be automated by an LLM. The task does not involve complex decision-making, specialized knowledge, or detailed documentation that would benefit significantly from LLM capabilities. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

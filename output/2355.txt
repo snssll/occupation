@@ -1,0 +1,11 @@
+1: In this task, an anthropologist or archaeologist is required to collect artifacts made of various materials, place them in bags, and mark them to show their origin. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves physical actions such as collecting artifacts, placing them in bags, and marking them. These actions cannot be directly performed by an LLM.
+- While the LLM can provide information on the significance of artifacts, historical context, or even assist in research related to the artifacts, it cannot physically collect or handle the artifacts.
+- The task does not involve text input or output that can be directly processed by the LLM to provide a significant time-saving benefit.
+
+Based on these considerations, the task of collecting artifacts made of stone, bone, metal, and other materials, placing them in bags, and marking them to show where they were found would fall under the E0 label as it does not involve activities that can be significantly expedited by the LLM.
+
+2: E0
+
+3: Certainty level: High

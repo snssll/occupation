@@ -1,0 +1,5 @@
+1: In this task, a Surgical Technologist is responsible for handing instruments and supplies to surgeons and their assistants, holding retractors, cutting sutures, and performing other tasks as directed by the surgeon during an operation. To determine the exposure label, we need to consider if the task can be significantly aided by the use of the LLM. Given that this task involves physical actions in a surgical setting, it is unlikely that the LLM or any tool built on top of it can reduce the time it takes to complete the task with high quality by at least half. The LLM cannot physically hand instruments, hold retractors, or perform any physical tasks required in a surgical operation. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

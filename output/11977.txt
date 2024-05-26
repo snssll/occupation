@@ -1,0 +1,10 @@
+1: Special Education Teachers, Elementary School are responsible for planning and conducting activities that cater to the diverse needs of students with disabilities. The task provided involves planning or conducting activities for a balanced program of instruction, demonstration, and work time that allows students to observe, question, and investigate. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for a special education teacher to plan such activities while maintaining high quality.
+
+- E0: This task involves a high degree of human interaction and requires personalized planning based on the specific needs and abilities of each student. The task also involves creating a tailored program that addresses individual learning goals and challenges, which may not be effectively addressed by the LLM alone.
+- E1: While the LLM can provide general information or suggestions for activities, it may not fully capture the nuanced and individualized approach required for special education students. The task involves a level of expertise and understanding of each student's unique needs that may not be effectively replicated by the LLM alone.
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist special education teachers in planning activities by providing tailored suggestions based on individual student profiles and needs. This software could potentially streamline the planning process by offering personalized recommendations and resources.
+- E3: Given the complexity of special education and the need for personalized approaches, the addition of image capabilities to the LLM would not significantly impact the planning of activities for special education students. The task primarily involves text-based planning and interaction with students rather than image-related tasks.
+
+2: E2
+
+3: Moderate

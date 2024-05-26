@@ -1,0 +1,7 @@
+1: In this task, the occupation involves driving motor vehicles to transport visitors to establishments and tour site locations. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+- E0: This task involves physical driving of motor vehicles, which cannot be automated by the LLM or any software built on top of it. The task also requires human interaction with visitors, which cannot be replaced by the LLM. Therefore, this task does not fit into any of the exposure categories.
+
+2: E0
+
+3: High

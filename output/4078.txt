@@ -1,0 +1,7 @@
+1: In this task, a carpet installer is required to cut carpet padding to size and install it following a prescribed method. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half. 
+
+Considering the nature of the task, which involves physical work such as cutting and installing carpet padding, it is unlikely that the LLM alone can reduce the time it takes to complete the task. The task requires manual labor and precise measurements, which cannot be performed by the LLM. Therefore, tools built on top of the LLM would not be able to significantly aid in completing this task.
+
+2: E0
+
+3: High

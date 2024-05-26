@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of receiving and counting daily inventories of cash, drafts, and travelers' checks as a Tellers occupation:
+
+- The task involves a straightforward and repetitive process of counting and recording financial transactions, which can be easily described in text form.
+- The task does not require specialized domain knowledge beyond basic financial and counting skills.
+- The task does not involve complex decision-making or analysis that would benefit significantly from the capabilities of an LLM.
+- The task does not involve any visual elements or image processing.
+- The task does not require up-to-date information retrieval beyond what is provided in the task description.
+
+Based on these considerations, the task falls under E0 as it does not clearly benefit from the use of an LLM to reduce the time it takes for an experienced worker to complete the task with high quality.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of receiving, recording, and authorizing requests for disbursements as a Treasurer or Controller, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - The task involves processing text-based requests, following company policies and procedures. The LLM can assist in generating responses, recording information accurately, and ensuring compliance with policies.
+- E2: Exposure by LLM-powered applications - While the task may not be significantly reduced by half with just the LLM, additional software could be developed to streamline the process further by integrating with financial systems, automating certain checks, or providing real-time data analysis for decision-making.
+- E3: Exposure given image capabilities - Image capabilities are not relevant for this task as it primarily involves text-based requests and financial data.
+
+Considering the nature of the task and the potential for automation and assistance in processing text-based information, the most suitable label appears to be E2.
+
+2: E2
+
+3: Moderate

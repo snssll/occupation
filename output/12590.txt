@@ -1,0 +1,13 @@
+1: In this task, a fundraiser is responsible for preparing materials such as fundraising envelopes, bid sheets, or gift bags for charitable events. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves physical preparation of materials like envelopes, bid sheets, and gift bags, which cannot be directly assisted by the LLM. The LLM does not have the capability to physically handle materials or perform tasks that require physical interaction.
+
+- E1: The LLM could potentially assist in generating text content for the materials, such as writing compelling messages for the envelopes or bid sheets. It could also help in designing templates or layouts for these materials. However, the physical preparation aspect of assembling the materials would still need to be done manually.
+
+- E2: While the LLM could aid in generating content and design ideas, additional software could be developed to automate the creation of these materials based on the inputs provided. This software could potentially integrate with printing or production systems to streamline the process further.
+
+- E3: The task does not involve image processing or detailed visual instructions that would significantly benefit from image capabilities. Therefore, the use of image capabilities would not provide a substantial advantage in completing this task.
+
+2: E2
+
+3: Moderate

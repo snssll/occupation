@@ -1,0 +1,12 @@
+1: In this task, a plumber, pipefitter, or steamfitter is required to cut, thread, or hammer pipes to specifications using various tools. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical work that cannot be directly replaced by text-based instructions or responses from the LLM.
+- The task requires hands-on skills and expertise in using tools like saws, cutting torches, pipe threaders, and pipe benders, which cannot be replicated by the LLM.
+- The LLM does not have the capability to physically manipulate pipes or tools to complete the task.
+- While the LLM could potentially provide theoretical knowledge or guidance on pipe cutting and threading, it cannot physically perform these actions.
+
+Based on these considerations, the task of cutting, threading, or hammering pipes to specifications does not have exposure to the LLM and should be classified as E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, the Air Traffic Controllers need to inform pilots about nearby planes or potentially hazardous conditions. To determine the exposure label, we need to consider if the task can be significantly reduced in time with the help of an LLM. 
+
+- The task involves providing real-time information to pilots, which requires immediate decision-making and communication.
+- The task involves interpreting complex data such as weather conditions, wind speed, visibility, and nearby aircraft positions.
+- The task requires quick and accurate communication to ensure the safety of flights.
+
+Given the real-time nature of the task and the need for immediate decision-making, it is unlikely that the LLM can significantly reduce the time it takes to complete this task. The LLM may not have access to real-time data on nearby planes or hazardous conditions, and the critical nature of the task may require human judgment and expertise.
+
+2: E0
+
+3: High

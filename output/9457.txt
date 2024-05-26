@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of managing fundraising budgets as a Fundraising Manager, we need to consider how the task can be completed with the help of an LLM. Fundraising budget management involves tasks such as creating budget plans, tracking expenses, analyzing financial data, and making strategic decisions based on the budget performance. 
+
+- E1: Direct exposure - An LLM could assist in creating budget plans by providing templates, analyzing financial data to identify trends, and generating reports based on the data input. It can also help in drafting fundraising proposals or reports related to budget performance. However, the LLM may not have direct access to real-time financial data or specific organizational budgeting tools, which could limit its ability to provide real-time budget management support.
+
+- E2: Exposure by LLM-powered applications - While an LLM alone may not significantly reduce the time it takes to manage fundraising budgets, additional software could be developed on top of the LLM to streamline budget tracking, automate financial analysis, or provide recommendations for budget optimization based on historical data. Such software could enhance the efficiency of budget management tasks for Fundraising Managers.
+
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of managing fundraising budgets, as it primarily involves numerical data, financial reports, and text-based documents rather than visual information.
+
+2: E2
+
+3: Moderate

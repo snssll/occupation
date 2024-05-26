@@ -1,0 +1,11 @@
+1: In this task, an Usher, Lobby Attendant, or Ticket Taker assists patrons by providing directions within a facility or information about local attractions. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- Direct exposure (E1): The task involves providing information and directions to patrons, which is primarily a human interaction-based task. While the LLM could potentially provide scripted responses or information about local attractions, the nature of the task requires real-time interaction and personalized assistance, which the LLM cannot provide. Therefore, direct exposure to the LLM is limited in this case.
+
+- Exposure by LLM-powered applications (E2): While an application could potentially be developed to provide automated responses about local attractions based on the input, the task's core requirement of human interaction and personalized assistance limits the applicability of LLM-powered tools. The task involves understanding patrons' needs, providing tailored information, and potentially dealing with unexpected situations, which are challenging for an automated system to handle effectively.
+
+- Exposure given image capabilities (E3): Image capabilities are not relevant to this task as it primarily involves verbal communication and providing information to patrons. The task does not require image processing or analysis, so the image capabilities of the LLM are not applicable here.
+
+2: E0
+
+3: High

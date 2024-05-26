@@ -1,0 +1,7 @@
+1: In this task, an Order Clerk is responsible for monitoring inventory levels and notifying relevant departments when supplies are running low or when orders would deplete available supplies. To complete this task, the Order Clerk needs to have access to real-time inventory data, understand inventory management systems, and communicate effectively with different departments. 
+
+Considering the task requirements, the most suitable exposure label would be E0. This task involves real-time monitoring of inventory levels and communication with various departments, which are not directly related to the capabilities of an LLM. While an LLM could potentially assist in generating notifications or messages, the core aspects of this task involve real-time data monitoring and human communication, which are not significantly impacted by LLM capabilities.
+
+2: E0
+
+3: High

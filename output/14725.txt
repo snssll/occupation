@@ -1,0 +1,13 @@
+1: In this task, a makeup artist working in theatrical and performance settings is required to requisition or acquire needed materials for special effects, such as wigs, beards, and special cosmetics. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical actions like acquiring materials, which cannot be directly performed by the LLM or any software built on top of it. The task also requires specific knowledge of materials, brands, and quality, which may not be easily accessible through the LLM alone.
+
+- E1: While the LLM could potentially provide information on where to acquire materials or suggest specific products based on descriptions, the task of physically requisitioning or acquiring materials still requires human action and expertise that cannot be replaced by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to streamline the process of sourcing materials by providing recommendations based on current trends, availability, and pricing. This software could potentially assist in managing inventory or suggesting alternative products based on specific requirements.
+
+- E3: The task does not involve image processing or analysis that would significantly benefit from the combined capabilities of the LLM and image systems. Therefore, the task does not fall under this category.
+
+2: E2
+
+3: Moderate

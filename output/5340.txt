@@ -1,0 +1,11 @@
+1: In this task, a Sports Medicine Physician or Orthopedic Surgeon would diagnose and treat disorders of the musculoskeletal system. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves analyzing medical information, making diagnoses, and recommending treatments based on the patient's condition. This task requires specialized medical knowledge and expertise.
+- While the LLM can provide general information on musculoskeletal disorders, it may not have access to the latest medical research or patient-specific data required for accurate diagnosis and treatment.
+- The task also involves hands-on examination of patients, which cannot be performed by the LLM.
+
+Based on these considerations, the task falls under E0 as it requires specialized medical expertise, patient interaction, and hands-on examination, which cannot be effectively replaced by the LLM.
+
+2: E0
+
+3: High

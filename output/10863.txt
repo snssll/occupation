@@ -1,0 +1,7 @@
+1: In this task, the Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders are required to operate or tend machines to wash and remove impurities from various items. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical operation of machines and specific equipment to wash and remove impurities from items. The task does not involve complex decision-making, writing, summarizing, or any other text-based activities that the LLM could assist with. Therefore, the task does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, the Dining Room and Cafeteria Attendants and Bartender Helpers are responsible for replenishing supplies of food or equipment at steam tables or service bars. To determine the appropriate exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical actions such as replenishing supplies at steam tables or service bars, which cannot be directly assisted by the LLM or LLM-powered tools. The task requires manual labor and does not involve text-based or data-driven decision-making that could be automated by the LLM.
+
+- E1: The task does not involve writing, transforming text, providing edits, translating, summarizing documents, answering questions, generating questions, writing emails, maintaining records, or preparing training materials. It is a hands-on task that does not primarily rely on text-based interactions that the LLM can assist with.
+
+- E2: While it is conceivable that software could be developed to automate inventory management or supply replenishment processes in dining rooms and cafeterias, the current capabilities of the LLM alone do not directly apply to this task. The task involves physical actions and real-time monitoring that are not easily automated by text-based interactions with the LLM.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The use of image capabilities would not significantly impact the completion of this task, as it is more focused on physical actions in a dining room or cafeteria setting.
+
+2: E0
+
+3: High

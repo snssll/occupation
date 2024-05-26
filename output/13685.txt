@@ -1,0 +1,9 @@
+1: In this task, an Aircraft Structure, Surfaces, Rigging, and Systems Assembler needs to read blueprints, illustrations, or specifications to determine layouts, sequences of operations, or identities or relationships of parts. To determine the exposure level to LLM, we can break down the task:
+- Reading blueprints, illustrations, or specifications: The LLM can assist in understanding complex technical documents by providing explanations, definitions, or clarifications on specific terms or concepts mentioned in the blueprints.
+- Determining layouts, sequences of operations, or identities of parts: The LLM can potentially help in providing additional information or context related to the layouts, sequences, or parts mentioned in the documents.
+
+Considering the task involves interpreting technical documents and understanding layouts and sequences, the LLM can provide some assistance in clarifying information or providing additional context. However, the task is highly specialized and requires domain-specific knowledge that may not be readily available in the LLM. Therefore, the exposure level would not significantly reduce the time it takes for an experienced worker to complete the task.
+
+2: E2
+
+3: Moderate

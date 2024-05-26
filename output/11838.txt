@@ -1,0 +1,7 @@
+1: In this task, a Shoe and Leather Worker is required to place shoes on lasts to remove soles and heels using knives or pliers. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+Given the nature of the task, which involves physical manipulation of shoes using tools like knives or pliers, it is evident that the task cannot be effectively completed using the LLM alone. The task requires manual dexterity, physical coordination, and the ability to work with physical objects, which are not capabilities of the LLM. Therefore, the task does not fall under E1, E2, or E3 exposure categories.
+
+2: E0
+
+3: High

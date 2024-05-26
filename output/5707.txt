@@ -1,0 +1,7 @@
+1: In this task, a Parts Salesperson is required to discuss the use and features of various parts based on their knowledge of machines or equipment. To complete this task, the Parts Salesperson needs to have a good understanding of the technical aspects of the parts, their compatibility with different machines, and their functionalities. 
+
+Considering the task description, the most relevant exposure label from the rubric would be E2 - Exposure by LLM-powered applications. While the LLM can provide general information about machines or equipment, it may not have access to highly specialized domain knowledge required to discuss the specific use and features of various parts. However, it is easy to imagine additional software built on top of the LLM that could retrieve highly specialized domain knowledge about parts, machines, and equipment, thereby reducing the time it takes to complete the task by half.
+
+2: E2
+
+3: Moderate

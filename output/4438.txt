@@ -1,0 +1,11 @@
+1: In this task, a Robotics Engineer is required to design or program robotics systems for environmental clean-up applications. To complete this task, the engineer needs to have a deep understanding of robotics, programming, environmental clean-up processes, and safety protocols. The task involves complex problem-solving, creativity, and technical expertise.
+
+Considering the exposure rubric provided:
+- E0: This task involves specialized knowledge and skills that go beyond what an LLM can provide. The task requires hands-on experience, domain-specific knowledge, and expertise in robotics engineering, which cannot be fully substituted by an LLM.
+- E1: While the LLM can provide general information on robotics and environmental clean-up, it cannot replace the specialized knowledge and skills required for designing and programming robotics systems for specific applications. The task involves practical considerations, safety regulations, and real-world constraints that are beyond the capabilities of the LLM.
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist with certain aspects of the task, such as generating initial design concepts based on input criteria or providing theoretical insights into robotics applications for environmental clean-up. However, the core aspects of designing and programming robotics systems for specific clean-up applications would still require human expertise.
+- E3: The task does not involve image processing or visual data that would significantly benefit from additional image capabilities beyond what the LLM offers.
+
+2: E0
+
+3: High

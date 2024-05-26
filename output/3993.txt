@@ -1,0 +1,11 @@
+1: For the task of creating or maintaining formal engineering documents as a Microsystems Engineer, the exposure to LLM can be evaluated as follows:
+
+- **E1 (Direct exposure):** The task involves writing and transforming text according to complex instructions, which is a capability of the LLM. The model can assist in drafting and editing engineering documents based on specifications provided. It can help in generating detailed descriptions, specifications, and requirements for components or materials. The LLM can also aid in organizing and structuring the information in a clear and concise manner, which is crucial for formal engineering documents.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM can significantly reduce the time required to draft and edit engineering documents, additional software could be developed on top of the LLM to further streamline the process. This software could include features like automatically generating schematics based on input data, cross-referencing bills of materials with component specifications, or providing recommendations for packaging requirements based on industry standards.
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not directly relevant to the task of creating or maintaining formal engineering documents. The task primarily involves text-based information and specifications rather than visual content.
+
+2: E1
+
+3: High

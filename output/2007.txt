@@ -1,0 +1,13 @@
+1: Hazardous Materials Removal Workers are responsible for cleaning contaminated equipment or areas for reuse using various tools and methods. In this specific task, the worker needs to use detergents or solvents, sandblasters, filter pumps, or steam cleaners to clean the contaminated equipment or areas. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- Direct exposure (E1): The task involves following specific instructions to clean contaminated equipment or areas using different tools. While the LLM could potentially provide information on the best cleaning methods or safety precautions, the actual cleaning process is physical and hands-on, requiring the use of tools and equipment. The LLM cannot physically perform the cleaning itself, so the direct exposure to the LLM may not significantly reduce the time it takes to complete the task.
+
+- Exposure by LLM-powered applications (E2): It is challenging to imagine additional software built on top of the LLM that could automate the physical cleaning process involved in hazardous materials removal. While the LLM could potentially provide guidance on safety protocols or regulations related to hazardous materials, the core task of physically cleaning contaminated equipment or areas is not something that can be easily automated by software. Therefore, exposure to the LLM alone may not reduce the time significantly.
+
+- Exposure given image capabilities (E3): The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It primarily requires physical cleaning using tools and equipment, which cannot be replaced by image capabilities.
+
+Based on the analysis above, the task of cleaning contaminated equipment or areas for reuse as a Hazardous Materials Removal Worker is best classified as E0 - No exposure.
+
+2: E0
+
+3: Moderate

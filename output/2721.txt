@@ -1,0 +1,13 @@
+1: In this task, a Camera Operator in Television, Video, and Film is required to compose and frame each shot, applying technical aspects such as light, lenses, film, filters, and camera settings to achieve the desired effects as directed by the directors. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for a Camera Operator to complete this task with high quality.
+
+- E0: This task involves hands-on skills and real-time decision-making based on visual composition and technical knowledge. The task requires physical manipulation of camera equipment and immediate adjustments based on the director's vision. The LLM does not have the capability to physically operate a camera or make real-time adjustments to camera settings.
+
+- E1: The LLM could potentially provide theoretical knowledge on technical aspects of light, lenses, film, filters, and camera settings. It could offer suggestions or explanations based on input provided by the Camera Operator. However, the practical application of this knowledge in composing and framing shots in real-time is beyond the current capabilities of the LLM.
+
+- E2: While the LLM could potentially assist in providing information on technical aspects, it is challenging to imagine additional software that could be developed on top of the LLM to significantly reduce the time it takes for a Camera Operator to compose and frame shots in a film or video production setting. The task requires hands-on skills and real-time decision-making that are not easily automated.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The primary focus is on the physical operation of camera equipment and the artistic composition of shots, which are not areas where image capabilities would significantly impact the completion time of the task.
+
+2: E0
+
+3: High

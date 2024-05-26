@@ -1,0 +1,12 @@
+1: Geodetic Surveyors are professionals who measure and map the Earth's surface. One of the tasks they perform is preparing progress or technical reports, which involves documenting the work done, findings, and any technical details related to the surveying projects. To determine the appropriate label from the exposure rubric, we need to consider if using the LLM can significantly reduce the time it takes for a geodetic surveyor to prepare these reports with equivalent quality. 
+
+- E0: This task involves technical knowledge specific to geodetic surveying, which may not be easily accessible to the LLM. The LLM may not have the specialized domain knowledge required to accurately summarize and report on geodetic surveying projects.
+- E1: While the LLM can assist in generating text and providing general information, it may not have the specific expertise in geodetic surveying to accurately prepare progress or technical reports without significant human input and verification.
+- E2: It is conceivable that specialized software could be developed on top of the LLM to assist geodetic surveyors in summarizing data, organizing technical information, and generating reports more efficiently. This software could potentially leverage the LLM's capabilities to process and present technical data effectively.
+- E3: The task of preparing progress or technical reports for geodetic surveying projects does not involve image processing or detailed visual information, so the additional image capabilities provided by the LLM would not significantly impact the completion of this task.
+
+Based on the considerations above, the task of preparing progress or technical reports for geodetic surveyors is best classified as E2.
+
+2: E2
+
+3: Moderate

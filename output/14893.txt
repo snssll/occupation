@@ -1,0 +1,11 @@
+1: Pharmacy Technicians are responsible for various tasks related to preparing medications, including restocking IV supplies and preparing IV packs under sterile conditions. In this specific task, the technician needs to restock IV supplies and add measured drugs or nutrients to IV solutions. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- Pharmacy Technicians need to follow strict guidelines and protocols when preparing IV packs to ensure patient safety. The task involves measuring drugs accurately and maintaining sterile conditions, which are hands-on activities that require physical presence and expertise.
+- While the LLM can provide information on medications, dosages, and procedures, the actual preparation of IV packs involves practical skills that cannot be fully automated by the LLM.
+- The LLM may be able to provide some information or guidelines related to IV preparation, but the hands-on nature of the task and the need for sterile conditions limit the direct application of the LLM in this scenario.
+
+Based on these considerations, the task of restocking IV supplies and preparing IV packs for various uses, such as chemotherapy medication, is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

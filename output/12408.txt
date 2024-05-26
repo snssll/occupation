@@ -1,0 +1,7 @@
+1: In this task, an Energy Auditor is required to prepare audit reports containing energy analysis results or recommendations for energy cost savings. To complete this task, the auditor needs to analyze data related to energy consumption, identify areas for improvement, and provide recommendations for cost savings. With access to the powerful OpenAI large language model (LLM), the auditor can efficiently generate detailed reports by inputting the data, analysis results, and specific requirements for cost-saving recommendations. The LLM can assist in summarizing the energy analysis results, generating insights, and crafting clear and concise recommendations based on the input provided. This process can significantly reduce the time it takes to compile audit reports compared to manual report writing.
+
+Considering the task involves writing and transforming text based on complex instructions, providing recommendations, and summarizing data, the direct exposure to the LLM through an interface like ChatGPT can reduce the time it takes to complete the task with equivalent quality by at least half. Therefore, this task falls under label E1.
+
+2: E1
+
+3: High

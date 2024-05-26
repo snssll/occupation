@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of coordinating treatment plans as a Genetic Counselor, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- Genetic Counselors typically rely on reviewing genetics literature, counseling resources, and diagnostic data to make informed decisions about treatment plans for patients.
+- The task involves synthesizing information from various sources to develop a comprehensive plan tailored to individual patients.
+- The LLM could assist by providing up-to-date information on genetic research, counseling techniques, and treatment options based on the input data provided.
+- The LLM could also help in summarizing complex genetic information, generating potential treatment options, and suggesting relevant literature for further review.
+
+Based on these considerations, the task could benefit from the LLM's capabilities in processing and generating text-based information to support the decision-making process for Genetic Counselors. This aligns with the E1 label, as the LLM can significantly reduce the time needed to gather and synthesize relevant information for treatment planning in this context.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,15 @@
+1: In this task, the occupation of Rock Splitters, Quarry involves drilling holes along outlines using jackhammers. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical labor and requires the use of jackhammers, which cannot be replaced by the LLM or any software tools. Therefore, this task does not fit the criteria for exposure to LLM capabilities.
+
+- E1: The task of drilling holes using jackhammers is a manual, physical task that cannot be directly assisted by the LLM. The LLM cannot operate machinery or perform physical tasks, so it cannot reduce the time it takes to complete this task.
+
+- E2: While it is conceivable that software could be developed to assist with the planning or coordination of drilling holes in a quarry, the actual physical act of drilling using jackhammers cannot be automated by the LLM alone. Therefore, the task does not fit the criteria for exposure to LLM-powered applications.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so it does not align with exposure given image capabilities.
+
+Based on the above analysis, the task of drilling holes along outlines using jackhammers does not fit into any of the exposure categories provided.
+
+2: E0
+
+3: High certainty

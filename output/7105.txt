@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of framing and matting artwork for display or sale as a Fine Artist, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves physical work that cannot be automated by the LLM. It requires manual dexterity and precision in handling materials like frames and mats, which cannot be replicated by the LLM.
+- E1: While the LLM could potentially provide information on framing techniques or suggest creative ideas for presentation, the actual physical act of framing and matting artwork requires hands-on work that the LLM cannot perform.
+- E2: It is conceivable that software could be developed to assist artists in choosing the right frames and mats based on artistic styles or trends, but the physical execution of framing and matting would still require human intervention.
+- E3: The task does not involve image processing or analysis that would benefit significantly from image capabilities. It is more about the manual labor and artistic decision-making involved in framing artwork.
+
+Based on the above analysis, the task of framing and matting artwork for display or sale as a Fine Artist is best classified as E0.
+
+2: E0
+
+3: High

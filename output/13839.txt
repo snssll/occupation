@@ -1,0 +1,7 @@
+1: To determine the appropriate label for the task of "Receive checks and cash for deposit, verify amounts, and check accuracy of deposit slips" for Tellers, we need to consider the capabilities of the LLM. The task involves a series of manual steps such as receiving physical checks and cash, verifying amounts, and checking the accuracy of deposit slips. These steps require physical interaction and verification that cannot be directly performed by the LLM. While the LLM could potentially assist in generating written instructions or providing information on banking procedures, it cannot directly handle the physical aspects of receiving and verifying deposits.
+
+Given that the task involves physical actions and direct verification, it falls under E0 as it does not align with the capabilities of the LLM to significantly reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, an Order Clerk is responsible for attempting to sell additional merchandise or services to customers. To determine the exposure label, we need to consider if direct access to the LLM could significantly reduce the time it takes to complete this task with equivalent quality. 
+
+- Direct exposure (E1): The LLM could potentially assist in generating persuasive scripts or responses to common customer objections, which could streamline the sales process. It could also help in crafting personalized pitches based on customer data. Additionally, the LLM could aid in summarizing customer information or providing insights into customer preferences, leading to more targeted sales efforts.
+
+- Exposure by LLM-powered applications (E2): While the LLM alone may not reduce the time by half for this task, additional software could be developed on top of the LLM to create a customer relationship management (CRM) system that integrates customer data, sales history, and predictive analytics to optimize sales strategies. This software could provide real-time recommendations for upselling opportunities and suggest the most effective sales approaches based on customer profiles.
+
+- Exposure given image capabilities (E3): Image capabilities are not relevant for this task as it primarily involves sales interactions over the phone or through visits, without a significant reliance on visual information.
+
+Considering the potential for the LLM to assist in generating sales scripts, providing customer insights, and optimizing sales strategies, the task aligns best with Exposure by LLM-powered applications (E2).
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,5 @@
+1: In this task, the Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders are responsible for loading equipment receptacles with materials to be processed. To determine the exposure level to LLM, we need to consider if the task can be automated or significantly assisted by text-based instructions or tools. Since the task involves physical labor and manual handling of materials, it does not directly involve text-based input or output that can be easily automated by an LLM. The task requires physical coordination and interaction with machinery, which cannot be replaced by text-based instructions alone. Therefore, this task falls under E0 as it does not align with the capabilities of an LLM.
+
+2: E0
+
+3: High

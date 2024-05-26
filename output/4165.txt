@@ -1,0 +1,5 @@
+1: In this task of dealing cards in a gambling setting, the primary actions involve shuffling and dealing cards, comparing hands, and determining winners based on the rules of the game. These actions do not require complex decision-making or specialized domain knowledge beyond the rules of the game. The task is primarily manual and involves physical actions that cannot be automated by an LLM. While an LLM could potentially provide information on the rules of the game or strategies, it cannot physically deal cards or compare hands in a real-world gambling scenario. Therefore, this task falls under E0 as it does not involve text-based tasks that can be significantly expedited or improved by an LLM.
+
+2: E0
+
+3: High

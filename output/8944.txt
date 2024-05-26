@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of locating forest fires on area maps as a Forest Fire Inspector and Prevention Specialist, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves a high level of human judgment and expertise in interpreting maps, using tools like azimuth sighters, and identifying landmarks. The task does not involve text input or output that the LLM could directly assist with, and there are no clear ways in which the LLM or LLM-powered tools could significantly reduce the time it takes to complete this task.
+
+- E1: While the LLM could potentially provide information on forest fire prevention techniques or general information about forest fires, it cannot directly assist in locating forest fires on area maps using azimuth sighters and landmarks. The task requires specialized skills and knowledge that the LLM may not possess, making it unlikely that direct access to the LLM would reduce the time to complete the task by at least half.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Forest Fire Inspectors and Prevention Specialists in locating forest fires more efficiently. This software could potentially analyze satellite imagery, weather data, and historical fire patterns to provide insights that could aid in pinpointing the location of forest fires. However, as of now, such software does not exist, and the task does not clearly fall into this category without further development.
+
+- E3: The task of locating forest fires on area maps does not involve image processing or creation that would significantly benefit from the image capabilities of the LLM. Therefore, this task does not fall into the E3 category.
+
+2: E0
+
+3: High

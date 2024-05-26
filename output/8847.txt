@@ -1,0 +1,7 @@
+1: In this task, the occupation involves loading agricultural products into trucks and driving them to market or storage facilities. To determine the appropriate exposure label, we need to consider if access to the LLM could significantly reduce the time it takes for an average worker to complete this task with high quality. 
+
+Given the nature of the task, which involves physical labor, driving, and handling agricultural products, it is unlikely that access to the LLM alone or any tools built on top of it would reduce the time it takes to complete the task. The task requires manual labor, driving skills, and physical presence, which cannot be replaced by text-based AI models. Therefore, this task falls under the E0 category as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

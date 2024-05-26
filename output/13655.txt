@@ -1,0 +1,5 @@
+1: In this task, a Public Safety Telecommunicator needs to read and interpret small-scale maps and information from a computer screen to determine locations and provide directions. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can process text inputs and provide text outputs, but it does not have the ability to view or interpret maps or visual information. Since the task specifically involves interpreting maps and visual data, the LLM alone would not be able to significantly reduce the time it takes to complete this task. Therefore, this task falls under E0 as the LLM does not have the capability to directly assist with interpreting small-scale maps.
+
+2: E0
+
+3: High

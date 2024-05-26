@@ -1,0 +1,13 @@
+1: In this task, a coach or scout is required to negotiate with professional athletes or their representatives to obtain services and arrange contracts. To determine the appropriate exposure label, we need to consider if direct access to the LLM could significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves negotiation, which typically requires human interaction, understanding nuances, and building relationships. The negotiation process may involve non-verbal cues, tone of voice, and other factors that are crucial for successful outcomes. The LLM, even with its language capabilities, may not be able to fully capture these aspects of negotiation.
+
+- E1: While the LLM can assist in drafting written correspondence for negotiations, providing information, or suggesting negotiation strategies, the actual negotiation process itself is highly interactive and dynamic. The LLM may not be able to fully replace the human skills and judgment required for effective negotiation with professional athletes or their representatives.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to provide recommendations, analyze data related to contract negotiations, or offer insights into negotiation strategies based on historical data. However, the core aspect of direct negotiation with professional athletes may still require human expertise and judgment.
+
+- E3: The task does not involve image capabilities, so this label does not apply.
+
+2: E0
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, a detective or criminal investigator is required to question individuals or observe persons and establishments to confirm information provided to patrol officers. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves gathering information through questioning and observation, which can be aided by the LLM in generating potential questions to ask individuals or providing guidance on what to observe. The LLM can assist in formulating effective questions or suggesting areas to focus on during observations, potentially streamlining the information-gathering process.
+
+- Exposure by LLM-powered applications (E2): While the LLM alone may not significantly reduce the time it takes to complete the task, additional software could be developed on top of the LLM to enhance the investigative process. This software could help in summarizing information gathered, analyzing patterns, or providing recommendations based on the data collected during questioning and observation.
+
+- Exposure given image capabilities (E3): The task does not involve reading text from PDFs or creating/editing digital images, so the image capabilities of the LLM are not directly relevant in this context.
+
+Considering the above points, the task of questioning individuals or observing persons and establishments to confirm information provided to patrol officers could benefit from the LLM's assistance in generating questions or providing guidance, indicating a label of E1.
+
+2: E1
+
+3: Moderate

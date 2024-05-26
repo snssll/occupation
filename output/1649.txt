@@ -1,0 +1,12 @@
+1: In this task, a Surveying and Mapping Technician is required to calculate latitudes, longitudes, angles, areas, or other information for mapmaking using survey field notes or reference tables. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves a significant amount of calculation and data processing based on survey field notes or reference tables.
+- The task requires a good understanding of geographical concepts and mapping techniques.
+- The task does not involve direct access to the internet for retrieving up-to-date information.
+- While the task involves calculations and data processing, it does not require complex decision-making or specialized domain knowledge beyond surveying and mapping.
+
+Based on these considerations, the task falls under E0 as it does not clearly benefit from the capabilities of the LLM to reduce the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: High

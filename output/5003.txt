@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of developing or directing the development of offering documents or marketing materials for Investment Fund Managers, we need to consider the level of exposure to LLM.
+
+- E0: This task involves a high level of human judgment and creativity in crafting documents and materials that appeal to potential investors. While the LLM can assist in generating text or providing information, the nuanced understanding of financial regulations, market trends, and investor preferences required for this task is beyond the capabilities of the LLM alone.
+
+- E1: The LLM can assist in generating initial drafts of offering documents or marketing materials based on provided information or templates. It can help with writing and transforming text according to complex instructions. However, the final output would require significant human input to ensure compliance with regulations, accuracy of financial information, and alignment with the fund's strategy.
+
+- E2: While the LLM alone may not significantly reduce the time it takes to complete this task, additional software could be developed on top of the LLM to streamline the process. For example, a tool that can summarize market research reports, analyze competitor materials, and suggest content based on current trends could enhance the efficiency of developing these documents.
+
+- E3: The task of developing offering documents or marketing materials does not require image capabilities, so this label does not apply.
+
+Based on the considerations above, the task of developing or directing the development of offering documents or marketing materials for Investment Fund Managers is best classified as E1.
+
+2: E1
+
+3: Moderate

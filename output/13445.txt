@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of providing quotes for refuse collection contracts as a Refuse and Recyclable Material Collector, we need to consider the nature of the task and how the LLM could potentially assist in completing it more efficiently.
+
+- E0: This task involves providing quotes for refuse collection contracts, which requires a human understanding of pricing, negotiation, and contract terms. The task does not involve writing or transforming text/code, summarizing documents, or utilizing specialized domain knowledge that the LLM could significantly assist with. Therefore, it is unlikely that the LLM alone or any software built on top of it could reduce the time it takes to complete this task by at least half.
+
+- E1: While the LLM could potentially assist in drafting the text of the quotes or providing general information on refuse collection contracts, the task of providing accurate quotes involves more than just writing text. It requires a deep understanding of pricing structures, negotiation tactics, and contract terms, which the LLM may not be able to handle effectively without up-to-date and specialized domain knowledge. Therefore, the LLM alone is unlikely to reduce the time it takes to complete this task by at least half with equivalent quality.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in providing quotes for refuse collection contracts. This software could potentially retrieve up-to-date pricing information, analyze contract terms, and make recommendations based on data input. However, this would require a more specialized tool beyond the capabilities of the LLM alone.
+
+- E3: The task of providing quotes for refuse collection contracts does not involve image capabilities, so exposure to LLM and image capabilities would not significantly reduce the time to complete this task.
+
+2: E0
+
+3: Certainty level: High

@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of obtaining complete health and medical histories from patients as a midwife, we need to consider the capabilities of the LLM. The task involves gathering detailed information from patients, which requires human interaction and the ability to interpret and ask follow-up questions based on the responses. While the LLM can provide general information on medical topics, it may not have the ability to interact with patients directly or gather specific details without human intervention. Therefore, the task does not seem to be easily reducible to just using the LLM. As a result, this task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: High

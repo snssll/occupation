@@ -1,0 +1,11 @@
+1: In this task, an Insulation Worker, Mechanical is required to install sheet metal around insulated pipes with screws to protect the insulation. To determine the exposure label, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical work that cannot be automated by the LLM, such as handling sheet metal and using screws.
+- The task requires manual labor and precise measurements, which are not within the capabilities of the LLM.
+- The task does not involve complex decision-making or specialized knowledge that the LLM could provide.
+
+Based on these considerations, it is clear that the task of installing sheet metal around insulated pipes with screws falls under E0 as it does not align with the capabilities of the LLM to significantly reduce the time needed for completion.
+
+2: E0
+
+3: High

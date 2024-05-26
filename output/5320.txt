@@ -1,0 +1,7 @@
+1: In this task, a cardiologist is required to diagnose cardiovascular conditions using cardiac catheterization. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a cardiologist to diagnose cardiovascular conditions using cardiac catheterization. 
+
+Cardiac catheterization is a complex medical procedure that involves inserting a catheter into a blood vessel and guiding it to the heart to diagnose and treat various heart conditions. This task requires specialized medical knowledge, training, and hands-on skills that cannot be replaced by text-based information alone. The LLM does not have the ability to perform medical procedures or provide real-time patient data necessary for a cardiologist to make accurate diagnoses during cardiac catheterization. Therefore, the LLM alone cannot reduce the time it takes for a cardiologist to perform this task.
+
+2: E0
+
+3: High

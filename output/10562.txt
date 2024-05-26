@@ -1,0 +1,13 @@
+1: In this task, a Loan Officer is responsible for obtaining and compiling various financial documents from loan applicants. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+- **E0**: This task involves physical documents and interactions with loan applicants to gather specific financial information. The task does not involve complex decision-making that could be automated by the LLM. The LLM cannot physically obtain or interact with physical documents, so it cannot directly assist in this task.
+
+- **E1**: While the LLM can potentially assist in generating templates for requesting financial information or drafting emails to applicants, the core task of physically obtaining and compiling documents is not something the LLM can directly handle. The LLM could help in summarizing financial information or providing insights based on the compiled data, but the primary data collection aspect is not significantly impacted by the LLM.
+
+- **E2**: An application built on top of the LLM could potentially assist in summarizing credit histories or financial statements, extracting key information, or even cross-referencing data. Such an application could streamline the process of compiling financial information, but it would require additional development beyond the capabilities of the LLM alone.
+
+- **E3**: The task does not involve image processing or detailed visual analysis, so the image capabilities of the LLM are not relevant in this context.
+
+2: E2
+
+3: Moderate

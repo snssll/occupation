@@ -1,0 +1,13 @@
+1: In this task, a helper in production workers prepares raw materials for processing. This task involves activities such as sorting, cleaning, and organizing materials before they are used in the production process. To determine the appropriate exposure label for this task in relation to LLM, we need to consider the complexity and variability of the raw materials, the specific instructions or guidelines involved in the preparation process, and the level of expertise required to perform the task effectively.
+
+- E0: If the task of preparing raw materials for processing involves physical actions like lifting, moving heavy objects, or precise measurements that cannot be automated through text-based instructions, it would be classified as E0. Additionally, if the task requires human judgment based on sensory input or real-time decision-making that cannot be replicated by an LLM, it would also be classified as E0.
+
+- E1: If the preparation of raw materials involves following a set of clear, text-based instructions that can be provided to the helper, such as sorting items based on specific criteria or cleaning materials according to standardized procedures, then the task could be completed more efficiently with the assistance of an LLM. The LLM could generate detailed instructions or checklists for the helper to follow, reducing the time needed to complete the task.
+
+- E2: If the task of preparing raw materials for processing requires accessing specialized knowledge or expertise beyond general instructions, such as identifying specific types of materials or understanding complex processing requirements, an LLM alone may not significantly reduce the time needed to complete the task. However, additional software could be developed on top of the LLM to provide real-time recommendations or insights based on the specific raw materials being processed, potentially streamlining the preparation process.
+
+- E3: If the task involves analyzing detailed images of the raw materials, such as identifying defects or quality issues visually, then having access to image capabilities in addition to the LLM could significantly reduce the time needed to complete the task. The image capabilities could assist in identifying and categorizing different types of raw materials, enhancing the efficiency of the preparation process.
+
+2: E0
+
+3: High

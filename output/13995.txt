@@ -1,0 +1,11 @@
+1: In this task, a Weatherization Installer or Technician is required to recommend weatherization techniques to clients based on their needs and relevant energy regulations, codes, policies, or statutes. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- The task involves understanding client needs, energy regulations, and policies, which may require specialized knowledge that the LLM may not have access to.
+- The task also involves interpreting and applying regulations and codes, which may require real-time, up-to-date information that the LLM may not be able to provide without direct access to the internet.
+- While the LLM can assist in generating recommendations based on general knowledge and guidelines, the task's specificity to energy regulations and policies may limit the model's effectiveness without access to the most current information.
+
+Considering these points, it is likely that the task falls under E0 as the specialized nature of the information required and the need for up-to-date regulations and codes may not be effectively addressed by the LLM alone.
+
+2: E0
+
+3: Moderate

@@ -1,0 +1,7 @@
+1: In this task, a Word Processor and Typist is responsible for operating and resupplying printers and computers, which involves changing print wheels or fluid cartridges, adding paper, and loading blank tapes, cards, or disks into equipment. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical actions such as changing print wheels, adding paper, and loading tapes, cards, or disks into equipment. These actions cannot be directly performed by the LLM or any software built on top of it. Therefore, this task does not qualify for any of the exposure labels.
+
+2: E0
+
+3: High

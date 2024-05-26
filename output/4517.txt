@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of designing, implementing, or maintaining fraud detection tools or procedures as a Fraud Examiner, Investigator, or Analyst, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - If the task involves writing and transforming text or code according to complex instructions related to fraud detection tools, providing edits to existing text or code, or generating questions for interviews or assessments related to fraud detection, then direct access to the LLM could significantly reduce the time it takes to complete the task with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - If additional software could be developed on top of the LLM to summarize documents longer than 2000 words, retrieve up-to-date facts from the internet for fraud detection, or provide recommendations based on data input, then the task could potentially benefit from LLM-powered applications.
+
+- E3: Exposure given image capabilities - Since the task does not involve reading text from PDFs, scanning images, or creating/editing digital images, the use of image capabilities provided by the LLM is not relevant for this task.
+
+Considering the nature of the task of designing, implementing, or maintaining fraud detection tools or procedures, it is likely that the task could benefit from LLM-powered applications that can assist in summarizing documents, retrieving up-to-date facts, and providing recommendations based on data input.
+
+2: E2
+
+3: Moderate

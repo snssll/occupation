@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing or directing software system testing or validation procedures, programming, or documentation as a Software Developer, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - This task involves writing and transforming text and code according to complex instructions, providing edits to existing text or code following specifications, and writing code to perform tasks that were previously done manually. The LLM can assist in generating code snippets, providing documentation, and suggesting testing procedures, which can significantly reduce the time needed to complete the task with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - While having access to the LLM alone may not reduce the time to complete the task by half, additional software could be developed on top of the LLM to summarize longer documents, retrieve up-to-date information for testing procedures, or provide recommendations based on data analysis. These capabilities could enhance the efficiency of software development tasks.
+
+- E3: Exposure given image capabilities - Image capabilities are not directly relevant to the task of software development, as it primarily involves text-based activities such as programming and documentation. Therefore, image capabilities would not significantly impact the completion time of this task.
+
+Based on the above analysis, the task of developing or directing software system testing or validation procedures, programming, or documentation aligns best with the E1 label of direct exposure to the LLM.
+
+2: E1
+
+3: High

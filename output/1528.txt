@@ -1,0 +1,5 @@
+1: In this task, a detective or criminal investigator is required to block or rope off a scene and check the perimeter to ensure the entire scene is secured. This task involves physical actions such as blocking off an area and checking the surroundings, which cannot be directly performed by an LLM. The task also requires real-time assessment and decision-making based on the physical environment, which is beyond the capabilities of the LLM. Therefore, this task falls under E0 as it does not involve text-based activities that can be significantly aided by the LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a Diagnostic Medical Sonographer is required to analyze medical images to identify differences between healthy and pathological areas. With access to an LLM, the sonographer could potentially benefit from image captioning capabilities to help describe the images accurately. The LLM could assist in generating reports based on the analysis of the images, providing insights into the differences found. While the LLM alone may not significantly reduce the time it takes to complete the task, additional software could be developed to enhance the image analysis process, such as automating the identification of key differences or providing more detailed insights based on the image content. Therefore, this task falls under E2 as having access to the LLM alone may not halve the time to complete the task, but additional software could be developed to improve efficiency.
+
+2: E2
+
+3: Moderate

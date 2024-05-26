@@ -1,0 +1,5 @@
+1: In this task, a Personal Financial Advisor is responsible for implementing financial planning recommendations for clients or referring them to someone who can help with the implementation. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves understanding financial planning recommendations and taking action based on them. An LLM could potentially assist in generating financial planning recommendations based on client information and financial data. However, the actual implementation of these recommendations may involve specific financial tools, calculations, and regulations that the LLM may not be equipped to handle. While the LLM can provide general guidance and information, the task of implementing financial planning recommendations may require specialized knowledge and expertise beyond what the LLM can offer. Therefore, this task falls under E2 exposure, as additional software could be developed to assist with the implementation process but the LLM alone may not significantly reduce the time it takes to complete the task.
+
+2: E2
+
+3: Moderate

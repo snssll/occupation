@@ -1,0 +1,12 @@
+1: In this task, a paperhanger is responsible for preparing surfaces by filling holes, cracks, and imperfections before covering them with wallpaper. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task of filling holes, cracks, and imperfections is a manual task that requires physical interaction with the surfaces. It involves assessing the condition of the surface, selecting the appropriate filler material, applying it, and ensuring a smooth finish.
+- While the LLM can provide information on the types of filler materials, techniques for filling, and general guidance on surface preparation, it cannot physically perform the task of filling holes and cracks.
+- The task does not involve complex written instructions, translations, summarizations, or data analysis that could be significantly expedited by the LLM.
+- Additionally, the task does not involve detailed visuals or measurements that would benefit from image capabilities.
+
+Based on these considerations, the task of filling holes, cracks, and imperfections preparatory to covering surfaces is best classified as E0 - No exposure to the LLM.
+
+2: E0
+
+3: High

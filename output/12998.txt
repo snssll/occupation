@@ -1,0 +1,11 @@
+1: Pharmacy Technicians are responsible for various tasks in a pharmacy setting, including pricing stock and marking items for sale. To determine the appropriate exposure label for this task in relation to LLM, we can break it down as follows:
+
+- **E1 (Direct exposure):** If the task involves writing and transforming text (such as pricing information), providing edits to existing text (marking items for sale), or generating questions related to pricing strategies, the LLM could significantly reduce the time it takes to complete the task with equivalent quality. Pharmacy Technicians could potentially use the LLM to assist in creating pricing labels, generating pricing strategies, or even summarizing pricing guidelines.
+
+- **E2 (Exposure by LLM-powered applications):** While the task of pricing stock and marking items for sale may not be directly reducible to text-based interactions with the LLM, it is conceivable that additional software could be developed on top of the LLM to streamline pricing strategies, analyze market trends for optimal pricing, or provide recommendations on pricing based on data inputs. This additional software could enhance the efficiency of the pricing process for Pharmacy Technicians.
+
+- **E3 (Exposure given image capabilities):** Since the task involves marking items for sale, which may include creating or editing digital images (such as price tags), having access to image capabilities along with the LLM could potentially aid in visualizing and creating price labels efficiently. The LLM could assist in generating text for the price tags, while the image capabilities could help in creating or editing the visual aspects of the labels.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of performing preventive or corrective maintenance on robotic systems or components as a Robotics Technician, we need to consider the nature of the task and how LLM exposure could potentially assist in completing it more efficiently.
+
+- E0: This task involves hands-on work with physical robotic systems, which cannot be directly assisted by the LLM. The maintenance work requires technical skills and physical interaction with the robots, making it unsuitable for LLM assistance.
+
+- E1: While the LLM could potentially provide information on troubleshooting techniques or maintenance procedures in text form, the actual execution of maintenance tasks on physical robots cannot be directly assisted by the LLM. The hands-on nature of the work limits the applicability of LLM assistance in this case.
+
+- E2: It is conceivable that specialized software could be developed to assist Robotics Technicians by providing real-time diagnostic information, maintenance schedules, or access to a knowledge base of common issues and solutions. This software could leverage the LLM's capabilities to summarize complex technical documents or provide recommendations based on maintenance data. However, the hands-on aspect of performing maintenance tasks on physical robots still remains a significant part of the job that cannot be fully automated by the LLM alone.
+
+- E3: The task of performing maintenance on robotic systems involves interacting with physical components and systems, which cannot be directly assisted by image capabilities. While the LLM could potentially provide text-based guidance or information on maintenance procedures, the hands-on nature of the work limits the applicability of image capabilities in this context.
+
+2: E2
+
+3: Moderate

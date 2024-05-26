@@ -1,0 +1,12 @@
+1: In this task, a Community Health Worker is responsible for developing plans or formal contracts to improve overall health for individuals, families, or community groups. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Developing plans or contracts involves writing and transforming text according to specific instructions, which is a task that can be effectively completed by an LLM.
+- The task does not require highly specialized domain knowledge or real-time data retrieval, so additional software beyond the LLM may not significantly reduce the time to complete the task.
+- While the task involves creating documents based on health-related information, the information is likely to be within the LLM's 1-year limit for facts.
+- The task does not involve detailed visuals or precise measurements, so image capabilities are not necessary.
+
+Based on these considerations, the task of developing health improvement plans for individuals, families, or community groups aligns most closely with the E1 exposure label, as the LLM can efficiently assist in writing and transforming text to create these plans.
+
+2: E1
+
+3: High

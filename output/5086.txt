@@ -1,0 +1,11 @@
+1: Clinical Data Managers are responsible for managing clinical trial data, ensuring its accuracy, integrity, and security. One of their tasks involves developing or selecting specific software programs for various research scenarios. To determine the appropriate exposure label for this task in relation to LLM, we can break it down as follows:
+
+- Developing software programs for research scenarios may involve writing code, designing algorithms, and implementing data management systems. An LLM could potentially assist in generating code snippets, providing insights on best practices, or suggesting software solutions based on input criteria. This aligns with tasks that can be reduced to writing code that helps perform a task that used to be done by hand, which falls under E1 exposure.
+
+- Selecting software programs for research scenarios may involve evaluating existing software solutions, comparing features, and making informed decisions based on specific research needs. An LLM could assist in summarizing information about different software options, providing recommendations based on input criteria, or generating pros and cons lists for each option. This aligns with tasks that can be reduced to making recommendations given data or written input, which falls under E2 exposure.
+
+Considering the potential assistance an LLM can provide in both developing and selecting software programs for research scenarios, a combination of E1 and E2 exposure labels seems appropriate for this task.
+
+2: E1/E2
+
+3: Moderate

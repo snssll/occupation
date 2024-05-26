@@ -1,0 +1,11 @@
+1: In this task, the Earth Drillers are required to retract augers to force discharge dirt from holes. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical actions such as retracting augers, which cannot be performed by the LLM or any software tool.
+- The task does not involve text input or output that can be processed by the LLM.
+- The task does not involve complex decision-making, analysis of data, or writing that could benefit from the LLM's capabilities.
+
+Based on these considerations, it is clear that the task of retracting augers to force discharge dirt from holes does not have any exposure to the LLM's capabilities. Therefore, the appropriate label for this task is E0.
+
+2: E0
+
+3: High

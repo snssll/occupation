@@ -1,0 +1,12 @@
+1: In this task, a paperhanger is responsible for placing strips or sections of wallpaper on surfaces, ensuring that the edges align correctly and that patterns match up seamlessly. To determine the appropriate exposure label, we need to consider whether access to the LLM would significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical work that cannot be automated by the LLM. The precision required in aligning edges and patterns on surfaces would necessitate human intervention, making it unsuitable for automation by the LLM.
+- E1: While the LLM could potentially provide guidance on wallpapering techniques or offer suggestions on pattern matching, the physical act of placing strips or sections of paper on surfaces cannot be directly performed by the LLM. Therefore, the time savings with LLM access would not be significant enough to warrant an E1 label.
+- E2: It is conceivable that a specialized software tool could be developed on top of the LLM to assist paperhangers in selecting appropriate wallpaper patterns, calculating measurements, or providing tips on efficient installation. This tool could potentially streamline the task and reduce the time required for completion.
+- E3: The task of placing wallpaper strips on surfaces does not involve image processing or detailed visual analysis that would benefit from additional image capabilities. Therefore, an E3 label is not applicable.
+
+Based on the considerations above, the task of placing strips or sections of paper on surfaces aligning section edges and patterns would likely fall under the E2 exposure label.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, a floral designer is responsible for ordering and purchasing flowers and supplies from wholesalers and growers. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E1: Direct exposure - The LLM can help in writing and transforming text, providing edits, summarizing documents, answering questions, and maintaining records. In this task, the LLM could potentially assist in drafting emails to wholesalers and growers, summarizing information about available flowers and supplies, or even providing feedback on the quality of the products. However, the task of physically ordering and purchasing the flowers and supplies involves actions beyond text-based interactions, such as negotiating prices, arranging delivery, and inspecting the products, which the LLM cannot perform.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to order and purchase flowers and supplies, additional software could be developed to streamline the process. For example, an application could be created that retrieves up-to-date pricing information from wholesalers and growers, suggests the best suppliers based on availability, or even automates the ordering process based on predefined criteria. Such software could enhance the efficiency of the task.
+
+- E3: Exposure given image capabilities - Image capabilities would not significantly impact the task of ordering and purchasing flowers and supplies, as it primarily involves text-based interactions with wholesalers and growers rather than visual or image-related tasks.
+
+Based on the analysis above, the task of ordering and purchasing flowers and supplies from wholesalers and growers would best fit under E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

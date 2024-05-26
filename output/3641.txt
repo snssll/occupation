@@ -1,0 +1,5 @@
+1: In this task, a Power Distributor and Dispatcher controls and monitors equipment that regulates or distributes electricity or steam. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. The task involves operating equipment based on data obtained from instruments or computers, which may not directly benefit from text-based assistance provided by the LLM. While the LLM could potentially assist in generating reports, analyzing data, or providing information on regulations or procedures related to power distribution, the core task of controlling and monitoring equipment may not be directly impacted by the language model.
+
+2: E0
+
+3: High

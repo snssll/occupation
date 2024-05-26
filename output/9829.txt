@@ -1,0 +1,5 @@
+1: Pharmacy Technicians are responsible for assisting pharmacists in preparing and dispensing prescription medications to patients. One of the tasks they perform is mixing pharmaceutical preparations according to written prescriptions. To determine the appropriate label for exposure to LLM, we need to consider the nature of the task. Mixing pharmaceutical preparations involves following precise instructions and measurements to ensure the correct dosage and composition of medications. This task requires practical knowledge of pharmaceuticals, dosages, and potential interactions between different medications. While an LLM could potentially provide general information on pharmaceuticals and dosages, it may not have the specific, up-to-date knowledge required to accurately mix pharmaceutical preparations according to written prescriptions. Additionally, this task involves hands-on work that cannot be effectively performed by a text-based model alone. Therefore, the task is best classified as E0, as it does not significantly benefit from LLM exposure in reducing the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: Moderate

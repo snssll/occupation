@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of creating freehand drawings and lettering to accompany drawings as an Architectural and Civil Drafter, we need to consider the nature of the task and how it can be aided by the use of the LLM.
+
+- **E1 (Direct exposure):** The task involves creating freehand drawings and lettering, which may not directly benefit from the text-based capabilities of the LLM. While the LLM could potentially assist in generating text descriptions or providing guidance on drafting techniques, the core aspect of freehand drawing may not be significantly enhanced by the LLM alone.
+
+- **E2 (Exposure by LLM-powered applications):** It is conceivable that additional software could be developed on top of the LLM to aid in drafting tasks. This software could potentially provide templates, design suggestions, or even automated drafting tools that could streamline the process of creating drawings and lettering. However, as of now, such specialized applications tailored for architectural and civil drafting may not be readily available.
+
+- **E3 (Exposure given image capabilities):** While the task involves creating drawings, which are visual in nature, the LLM's text-based capabilities may not directly benefit from image processing capabilities. The LLM may not have the ability to accurately interpret or generate visual content, such as freehand drawings. Therefore, the image capabilities would not significantly enhance the completion of this task.
+
+Based on the analysis above, the task of creating freehand drawings and lettering to accompany drawings as an Architectural and Civil Drafter is best classified as **E2 (Exposure by LLM-powered applications)**.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of investigating product complaints and preparing documentation for regulatory agencies as a Regulatory Affairs Manager, we need to consider the nature of the task and how the LLM could assist in completing it. 
+
+- **E1 (Direct exposure):** The task involves investigating product complaints and preparing documentation, which heavily relies on written communication and information processing. The LLM can assist in drafting documentation, summarizing complaints, and providing regulatory guidance based on existing regulations. The model can help streamline the process by generating initial drafts, conducting research on regulatory requirements, and ensuring compliance with relevant laws.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM can provide valuable support in generating text and summarizing information, additional software could be developed to enhance the efficiency further. For instance, a specialized tool could be created to automatically extract relevant data from complaint reports, cross-reference them with regulatory guidelines, and generate submission documents tailored to specific agencies. This additional software could significantly reduce the time required for data processing and document preparation.
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not directly relevant to the task of investigating product complaints and preparing regulatory submissions. The task primarily involves textual information processing and regulatory compliance, which can be effectively handled by the LLM without the need for image capabilities.
+
+2: E2
+
+3: Moderate

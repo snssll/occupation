@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of participating in network technology upgrade or expansion projects as a Computer Network Architect, we need to consider the nature of the task and how it can be impacted by the use of the LLM. 
+
+- E1: Direct exposure - The task involves participating in network technology upgrade projects, which may require writing reports, communicating with team members, and potentially documenting the process. The LLM could assist in generating reports, drafting communication, or summarizing technical information related to the upgrade projects. It could also help in creating documentation for hardware and software installations. Therefore, the LLM could significantly reduce the time it takes to complete these written tasks with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - While the LLM could assist in generating written content related to the projects, it may not directly reduce the time it takes to physically install hardware, conduct integration testing, or perform hands-on tasks. However, additional software could be developed on top of the LLM to automate certain aspects of project management, provide real-time recommendations during integration testing, or offer insights based on data analysis. This additional software could potentially reduce the time required for project participation.
+
+- E3: Exposure given image capabilities - The task of participating in network technology upgrade projects does not involve detailed image analysis or creation. Therefore, image capabilities provided by the LLM would not significantly impact the completion of this task.
+
+Based on the above analysis, the task of participating in network technology upgrade or expansion projects as a Computer Network Architect is best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

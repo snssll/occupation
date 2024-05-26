@@ -1,0 +1,11 @@
+1: In this task, an Instructional Coordinator is responsible for developing master course documentation or manuals according to specific requirements such as accreditation or certification standards. To complete this task, the Instructional Coordinator needs to have a deep understanding of educational standards, curriculum design, and instructional strategies. The task involves synthesizing complex information, organizing it effectively, and ensuring compliance with various guidelines.
+
+When considering the exposure rubric:
+- E0: This task involves a high level of expertise in educational standards and curriculum design, which may not be easily replaced by an LLM. The task also requires a nuanced understanding of accreditation and certification requirements, which may not be within the scope of the LLM's capabilities.
+- E1: While the LLM can assist in generating text and providing information, the task of developing master course documentation involves specialized knowledge and expertise that may not be effectively replicated by the LLM alone. The task also requires adherence to specific accreditation and certification standards, which may not be up-to-date in the LLM's knowledge base.
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in organizing information, summarizing documents, or providing recommendations based on educational standards. However, the task's complexity and specificity to accreditation and certification requirements may still require significant human input and expertise.
+- E3: The task does not involve image capabilities, so exposure to LLM and image capabilities would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

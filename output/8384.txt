@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of interpreting protocols and advising treating physicians as a Clinical Research Coordinator, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- The task involves interpreting protocols, which may require understanding complex medical information and guidelines.
+- Advising treating physicians on dosage modifications or treatment calculations based on patient characteristics involves a high level of expertise and knowledge in the medical field.
+- The task may involve analyzing patient data, medical records, and treatment plans to make informed recommendations.
+- The task may also require staying up-to-date with the latest medical research and guidelines to provide accurate advice.
+
+Given these considerations, the task of interpreting protocols and advising treating physicians as a Clinical Research Coordinator is highly specialized and requires domain-specific knowledge and expertise. While the LLM can provide general information and assist with some aspects of medical knowledge, it may not have the specialized domain knowledge required to accurately advise on dosage modifications or treatment calculations based on patient characteristics. Therefore, this task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: Moderate

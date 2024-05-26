@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing, administering, and evaluating applicant tests as a Human Resources Manager, we need to consider the level of exposure to LLM.
+
+- E0: This task involves human interaction and decision-making that impacts human livelihood. It requires expertise in designing tests that are fair, valid, and reliable, which may involve understanding legal and ethical considerations. The task also involves interacting with job applicants and interpreting test results, which are complex and nuanced processes that go beyond text-based information processing.
+
+- E1: While the LLM could potentially assist in generating test questions or providing general information on test development, the task of developing, administering, and evaluating applicant tests requires specialized knowledge and expertise that cannot be fully replaced by text-based information processing alone. The task involves a high level of human judgment, interpretation, and interaction that goes beyond what the LLM can provide.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist with aspects of test development, administration, and evaluation, such as generating test items based on specific criteria or analyzing test results. However, the core aspects of this task still require human expertise and judgment that cannot be fully automated by the LLM alone.
+
+- E3: The task of developing, administering, and evaluating applicant tests does not involve image processing or visual information that would significantly benefit from image capabilities in conjunction with the LLM. Therefore, this task does not fall under E3.
+
+2: E0
+
+3: High

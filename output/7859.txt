@@ -1,0 +1,11 @@
+1: In this task, a Construction and Building Inspector is required to inspect facilities or installations to determine their environmental impact. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the language model. 
+
+- The task involves physical inspection of facilities and installations, which requires on-site presence and observation. LLM cannot physically inspect or assess environmental impact on its own.
+- While the inspector may need to document findings in reports, the actual inspection and assessment of environmental impact are based on physical observations and measurements, which are beyond the capabilities of LLM.
+- LLM may be able to provide general information on environmental impact assessment processes or regulations, but the task itself requires practical, hands-on assessment that cannot be fully replaced by text-based information.
+
+Based on these considerations, the task of inspecting facilities to determine their environmental impact is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

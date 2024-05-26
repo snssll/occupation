@@ -1,0 +1,12 @@
+1: In this task, a floral designer is required to confer with clients regarding the price and type of arrangement desired, as well as the date, time, and place of delivery. To determine the appropriate label from the exposure rubric, we need to consider whether the task can be significantly expedited or improved by using the LLM. 
+
+- The task involves communication with clients, understanding their preferences, and arranging logistics, which are primarily human interaction-based activities.
+- While the LLM could potentially assist in drafting email templates or providing suggestions for floral arrangements based on general knowledge, the core of the task involves direct client interaction and decision-making that may not be significantly enhanced by the LLM.
+- The LLM may not have access to real-time information on flower availability or pricing, which are crucial aspects of the task.
+- The task does not involve complex data analysis, specialized domain knowledge, or image processing that would greatly benefit from LLM capabilities.
+
+Based on these considerations, the task of conferring with clients regarding floral arrangements is best classified as E0 - No exposure.
+
+2: E0
+
+3: Moderate

@@ -1,0 +1,11 @@
+1: In this task, a geneticist is required to extract DNA or perform diagnostic tests using techniques like gel electrophoresis, Southern blot analysis, and polymerase chain reaction analysis. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves hands-on laboratory work that requires physical manipulation of samples and specialized equipment. This task cannot be completed solely through text input and output.
+- The task also involves technical expertise and knowledge of laboratory procedures that an LLM may not possess.
+- While an LLM could potentially provide information on these techniques or theoretical knowledge related to genetics, it cannot physically perform the laboratory procedures required for DNA extraction or diagnostic tests.
+
+Based on these considerations, the task falls under E0 as it involves precise laboratory work that cannot be completed by an LLM alone.
+
+2: E0
+
+3: High

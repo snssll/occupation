@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing or testing new drugs or medications intended for commercial distribution as a Biochemist or Biophysicist, we need to consider the level of exposure to LLM.
+
+- E0: This task involves highly specialized domain knowledge, experimentation, and regulatory considerations that are not typically within the capabilities of the LLM. The task also requires hands-on laboratory work, precise measurements, and interactions with physical substances, making it unsuitable for automation by the LLM.
+
+- E1: While the LLM can provide information on existing drugs, mechanisms of action, and general concepts in biochemistry and biophysics, the task of developing or testing new drugs involves a high level of expertise, experimentation, and practical skills that cannot be fully automated by the LLM. The complexity and hands-on nature of drug development require human judgment, decision-making, and physical experimentation.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist biochemists and biophysicists in analyzing data, generating hypotheses, or summarizing research papers. However, the core task of developing or testing new drugs involves a level of complexity and practical application that goes beyond what the LLM alone can handle.
+
+- E3: The task of developing or testing new drugs does not involve image processing or visual data that would benefit significantly from image capabilities. Therefore, exposure to image capabilities would not significantly impact the completion of this task.
+
+2: E0
+
+3: High

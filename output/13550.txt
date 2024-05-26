@@ -1,0 +1,5 @@
+1: In this task, a Residential Advisor is responsible for providing transportation or escort for expeditions such as shopping trips or visits to doctors or dentists. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. Since this task involves physical transportation and human interaction, it cannot be effectively completed using the LLM or any LLM-powered tools. The task requires real-world actions that cannot be substituted by text-based interactions or information retrieval. Therefore, this task falls under E0 as it does not benefit from LLM capabilities.
+
+2: E0
+
+3: High

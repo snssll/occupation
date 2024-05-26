@@ -1,0 +1,5 @@
+1: In this task, the helper production worker is responsible for removing products, machine attachments, or waste material from machines. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves physical interaction with machines and materials, such as removing items from machines. It does not involve complex text-based instructions, data analysis, or decision-making that could be significantly aided by an LLM. The task is straightforward and manual in nature, requiring physical dexterity and understanding of machinery. Therefore, the task does not align with the capabilities of the LLM, as it cannot physically interact with machines or handle physical objects.
+
+2: E0
+
+3: High

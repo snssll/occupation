@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of providing telephone support related to networking or connectivity issues as a Computer Network Support Specialist, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The LLM could be used to provide scripted responses for common networking or connectivity issues, offer troubleshooting steps, or generate documentation to assist in resolving technical problems over the phone. This direct access to the LLM could significantly reduce the time it takes to provide support over the phone with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not reduce the time it takes to complete the task by half, additional software could be developed on top of the LLM to create a knowledge base of common networking issues, solutions, and best practices. This software could enhance the specialist's ability to provide efficient telephone support.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant for providing telephone support related to networking or connectivity issues, so this label does not apply to this task.
+
+Based on the considerations above, the most appropriate label for the task of providing telephone support related to networking or connectivity issues as a Computer Network Support Specialist is E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

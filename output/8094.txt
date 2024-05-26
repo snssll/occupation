@@ -1,0 +1,12 @@
+1: In this task, the worker is required to install dies onto machines or presses and coat dies with parting agents based on work order specifications. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves following specific instructions provided in work orders, which can be captured within 2000 words of text.
+- The task does not require up-to-date information or specialized domain knowledge beyond what can be found in the work order specifications.
+- The task does not involve any visual analysis, image creation, or editing.
+- The task does not involve complex decision-making or human interaction beyond following instructions.
+
+Based on these considerations, the task falls under E0 as it does not significantly benefit from the capabilities of the LLM or any additional software beyond what a worker with average expertise can already accomplish.
+
+2: E0
+
+3: High

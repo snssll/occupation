@@ -1,0 +1,7 @@
+1: In this task, a bus driver is required to park vehicles at loading areas to allow passengers to board. This task involves a series of steps such as maneuvering the bus into the designated parking spot, ensuring proper alignment with the loading area, and ensuring passenger safety during boarding. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced bus driver to complete this task with high quality.
+
+- E0: This task involves physical actions such as driving and parking a bus, which cannot be automated or assisted by the LLM. The task also requires real-time decision-making based on the surrounding environment, passenger needs, and safety considerations, which cannot be effectively replicated by the LLM.
+
+2: E0
+
+3: High

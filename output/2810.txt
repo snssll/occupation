@@ -1,0 +1,11 @@
+1: In this task, an Eligibility Interviewer for Government Programs is required to conduct housing reviews and home visits to ensure compliance with regulations. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of the LLM. 
+
+- The task involves physical visits to homes and direct observation, which cannot be replaced by text-based interactions with the LLM.
+- The task requires assessing compliance with regulations, which may involve interpreting complex legal language and regulations that the LLM may not have up-to-date information on.
+- The task involves interacting with individuals in person, which requires human judgment, empathy, and communication skills that the LLM cannot provide.
+
+Based on these considerations, it is clear that the task of conducting housing reviews and home visits for compliance cannot be significantly aided by the LLM. The LLM cannot replace the physical aspect of the visits, the interpretation of complex regulations, or the human interaction required for this task.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, a Conservation Scientist is required to develop or conduct environmental studies, such as plant material field trials or wildlife habitat impact studies. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves conducting environmental studies, which may require analyzing data, writing reports, and making recommendations based on findings. An LLM could potentially assist in summarizing existing research, generating reports, or providing insights based on data analysis.
+- While the LLM can help with writing and transforming text, providing edits, and generating questions, it may not significantly reduce the time it takes to conduct the actual field trials or data collection, which are essential parts of the task.
+- The task also involves specialized domain knowledge related to conservation and environmental studies, which may not be readily available in the LLM without specific training or additional software.
+
+Based on these considerations, the task of developing or conducting environmental studies for Conservation Scientists could be classified as E2. While the LLM alone may not reduce the time significantly for tasks like field trials, additional software built on top of the LLM could potentially assist in summarizing research, analyzing data, or providing recommendations.
+
+2: E2
+
+3: Moderate

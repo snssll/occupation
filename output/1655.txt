@@ -1,0 +1,13 @@
+1: For the task of calculating orbits and determining sizes, shapes, brightness, and motions of celestial bodies as an astronomer, the exposure to LLM can be evaluated as follows:
+
+- E0: This task involves a high degree of specialized knowledge and expertise in astronomy, which may not be effectively replaced by the LLM alone. The calculations and analysis required for this task are complex and may involve specialized tools and software beyond the capabilities of the LLM.
+
+- E1: While the LLM can provide general information about celestial bodies and astronomical concepts, it may not have the specific data or tools necessary to accurately calculate orbits, determine sizes, shapes, brightness, and motions of celestial bodies. The task requires a deep understanding of astronomical principles and data analysis techniques that may not be easily replicated by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist astronomers in analyzing data, making calculations, and interpreting results. This software could potentially enhance the efficiency of performing tasks related to calculating orbits and determining properties of celestial bodies by leveraging the LLM's capabilities in processing and generating text-based information.
+
+- E3: With access to image capabilities in addition to the LLM, astronomers could potentially benefit from visualizing data, creating diagrams or representations of celestial bodies, and analyzing images of astronomical phenomena. This combined system could aid in interpreting visual data and enhancing the understanding of celestial bodies beyond text-based information alone.
+
+2: E2
+
+3: Moderate

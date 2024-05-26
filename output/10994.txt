@@ -1,0 +1,15 @@
+1: In this task of ordering replacement parts for mechanical doors, the main activities involve identifying the specific parts needed based on the issue with the door, determining the correct specifications for those parts, and placing an order with the supplier. 
+
+- E0: This task does not involve any text generation, complex decision-making, or specialized knowledge that would require the use of an LLM. It is a straightforward task that can be completed efficiently without the need for LLM assistance.
+
+- E1: While the task involves some text input (specifying the parts needed), it is a relatively simple task that does not require the advanced capabilities of an LLM. The process of ordering replacement parts can be done effectively without the need for an LLM to generate or process text.
+
+- E2: Although an LLM could potentially assist in providing information on specific parts or suppliers, the task of ordering replacement parts for mechanical doors is not significantly complex or time-consuming. While additional software could be developed to streamline the process, the current task does not require LLM-powered applications to be completed efficiently.
+
+- E3: The task does not involve image capabilities, so there is no need for the LLM to view, caption, or create images. Therefore, this task does not fall under E3.
+
+Based on the analysis, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

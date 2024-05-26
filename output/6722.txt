@@ -1,0 +1,12 @@
+1: In this task, a tailor, dressmaker, or custom sewer is required to examine tags on garments to determine alterations that are needed. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- This task involves visual inspection of garment tags, which does not directly involve text input or output that can be processed by an LLM.
+- The task requires physical interaction with garments and tags, which cannot be performed by an LLM.
+- The task does not involve complex written instructions, data analysis, or decision-making that can be automated by an LLM.
+- The task does not involve the use of images that can be processed by an LLM with image capabilities.
+
+Based on these considerations, it is clear that this task falls under E0 as it does not align with any of the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

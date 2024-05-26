@@ -1,0 +1,12 @@
+1: In this task, the occupation of dishwashers involves cleaning or preparing various foods for cooking or serving. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task of cleaning or preparing various foods for cooking or serving is a hands-on task that requires physical interaction with food items, kitchen tools, and equipment.
+- The task involves practical skills such as food handling, knowledge of food safety regulations, and understanding of cooking processes.
+- The task does not primarily involve written or spoken communication that can be easily automated by the LLM.
+- The LLM does not have the capability to physically interact with food items or kitchen equipment to perform the task.
+
+Based on these considerations, the task of cleaning or preparing various foods for cooking or serving is best classified as E0 - No exposure to the LLM.
+
+2: E0
+
+3: High

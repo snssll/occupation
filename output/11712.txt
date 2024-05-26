@@ -1,0 +1,10 @@
+1: In this task, the New Accounts Clerk is required to perform teller duties as needed. This involves tasks such as processing deposits, withdrawals, and other transactions for customers. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone can significantly reduce the time it takes for a New Accounts Clerk to perform teller duties. 
+
+- E0: This task involves direct human interaction with customers, handling physical cash, and potentially dealing with complex financial transactions that require precision and accuracy. The LLM cannot physically interact with customers or handle cash, so it cannot directly perform teller duties.
+- E1: The LLM could potentially assist in providing information on standard teller procedures, guidelines, or regulations. It could also help in generating responses to common customer inquiries related to account opening or basic transactions. However, the LLM alone cannot perform the actual teller duties, as it lacks the ability to physically handle transactions or interact with customers in real-time.
+- E2: While the LLM could be used to create training materials or provide information on banking regulations and procedures, additional software would be needed to automate teller duties. This software would require integration with banking systems, security protocols, and real-time transaction processing capabilities.
+- E3: The task does not involve image processing or creation, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of performing semi-skilled and unskilled laboring duties related to the installation, maintenance, and repair of electrical systems, we need to consider the level of automation and assistance that the LLM can provide in completing such tasks. 
+
+- E0: This task involves physical labor and hands-on work that cannot be automated by the LLM. The LLM cannot physically install, maintain, or repair electrical systems, so it cannot directly reduce the time it takes to complete this task.
+
+- E1: The LLM can potentially assist in providing written instructions, documentation, or guidance related to electrical systems and equipment. It can help in generating reports, manuals, or summaries that may aid in the understanding of electrical systems. However, the actual laboring duties involved in installation, maintenance, and repair cannot be directly performed by the LLM.
+
+- E2: While the LLM alone may not significantly reduce the time it takes to complete the physical laboring duties, additional software could be developed on top of the LLM to provide step-by-step instructions, troubleshooting guides, or virtual simulations that could enhance the efficiency of performing these tasks. Such software could leverage the LLM's capabilities to provide real-time guidance or recommendations for handling various electrical systems and equipment.
+
+- E3: The task does not involve image processing or detailed visual instructions that would require the use of image capabilities in conjunction with the LLM. Therefore, this task does not fall under the E3 category.
+
+2: E2
+
+3: Moderate

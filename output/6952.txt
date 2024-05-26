@@ -1,0 +1,13 @@
+1: In this task, the occupation involves mechanical insulation work, specifically filling blower hoppers with insulating materials. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical labor and manual work that cannot be replaced by text-based interactions with the LLM. The task requires handling equipment and materials in a physical environment, which cannot be simulated or automated by the LLM.
+
+- E1: The task of filling blower hoppers with insulating materials is a hands-on task that does not involve complex text-based instructions, writing, or data analysis that the LLM could directly assist with. The LLM cannot physically interact with equipment or materials to perform this task.
+
+- E2: While it is conceivable that software could be developed to automate some aspects of mechanical insulation work, such as monitoring material levels in hoppers or optimizing material distribution, the current capabilities of the LLM alone do not provide a direct solution to reduce the time it takes to complete this task by half.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

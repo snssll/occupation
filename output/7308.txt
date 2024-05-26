@@ -1,0 +1,5 @@
+1: In this task, a retail salesperson assists customers in trying on or fitting merchandise. To determine the appropriate exposure label, we need to consider if access to the LLM could significantly reduce the time it takes for a retail salesperson to help customers try on or fit merchandise. The task involves physical interaction with customers, which cannot be replaced by text-based interactions with the LLM. The LLM cannot physically assist customers in trying on clothes or fitting merchandise. Therefore, the task does not align with the capabilities of the LLM or any tools built on top of it. As a result, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

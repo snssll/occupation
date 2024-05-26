@@ -1,0 +1,12 @@
+1: In this task, the Orderlies are responsible for collecting soiled linen or trash. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical work that cannot be automated by the LLM. It requires hands-on collection of soiled linen or trash, which cannot be done through text input and output alone.
+- E1: The LLM can't physically collect soiled linen or trash, but it can potentially assist in generating written instructions or checklists for the orderly to follow. This could help streamline the process and ensure all necessary steps are taken.
+- E2: While the LLM alone may not reduce the time it takes to complete the task significantly, additional software could potentially be developed to create automated reminders or schedules for linen or trash collection based on specific criteria or conditions.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant here.
+
+Based on the above analysis, the most appropriate exposure label for this task is E1.
+
+2: E1
+
+3: Moderate

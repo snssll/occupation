@@ -1,0 +1,5 @@
+1: In this task, an Inspector, Tester, Sorter, Sampler, and Weigher is required to compute the usable amounts of items in shipments. This task involves quantifying and determining the amount of usable items in a shipment, which typically requires manual inspection, testing, sorting, sampling, and weighing of the items. While an LLM could potentially assist in providing general information on how to compute usable amounts or offer guidelines on standard practices, the task itself is heavily reliant on physical actions such as weighing and sampling, which cannot be directly performed by the LLM. As a result, the task does not involve text-based inputs or outputs that the LLM can significantly assist with, and there are no existing software tools that could be developed on top of the LLM to automate this physical process.
+
+2: E0
+
+3: High

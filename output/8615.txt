@@ -1,0 +1,10 @@
+1: In this task, a Hotel, Motel, and Resort Desk Clerk is responsible for issuing room keys and providing escort instructions to bellhops. To determine the exposure level to LLM, we can break down the task:
+- Writing and transforming text: The task involves providing written instructions to bellhops, which could potentially be assisted by LLM in generating clear and concise instructions.
+- Providing edits to existing text: LLM could help in refining the wording of the instructions or key information provided to bellhops.
+- Informing anyone of any information via any written or spoken medium: LLM could assist in generating written instructions or even potentially spoken instructions for the bellhops.
+
+Considering these points, the task can benefit from LLM in terms of generating written instructions efficiently and clearly, which could reduce the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: Moderate

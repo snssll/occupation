@@ -1,0 +1,5 @@
+1: In this task, the roofer is required to mop or pour hot asphalt or tar onto roof bases. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a roofer to complete this task with high quality. Since this task involves physical labor, precise measurements, and potential safety hazards, it is unlikely that the LLM or any tool built on top of it can effectively assist in completing the task. The task requires hands-on work and specialized skills that cannot be replicated by text-based AI models. Therefore, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

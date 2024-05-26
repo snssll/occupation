@@ -1,0 +1,5 @@
+1: In this task, the Automotive and Watercraft Service Attendant is responsible for checking various levels and pressures in vehicles and watercraft. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. The task involves physical actions such as checking tire pressure and fluid levels, which cannot be directly assisted by an LLM. While the LLM could potentially provide information on how to perform these checks or offer general maintenance tips, the core task of physically checking and adding fluids cannot be directly impacted by the model. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM.
+
+2: E0
+
+3: High

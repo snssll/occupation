@@ -1,0 +1,7 @@
+1: In this task, a pharmacist is required to advise customers on the selection of medication brands, medical equipment, or healthcare supplies. To complete this task, the pharmacist needs to have a deep understanding of various medications, their uses, potential side effects, interactions, and more. The pharmacist also needs to consider the customer's specific health conditions, allergies, and other factors to provide accurate and safe recommendations. 
+
+Given that the task involves providing personalized advice based on a combination of medical knowledge and customer-specific information, the task does not directly align with the capabilities of the LLM. While the LLM can provide general information about medications and healthcare supplies, it lacks the specialized domain knowledge and real-time patient-specific data required to advise customers effectively. Therefore, this task falls under E0 as it does not significantly benefit from the use of the LLM alone.
+
+2: E0
+
+3: High

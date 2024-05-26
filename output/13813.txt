@@ -1,0 +1,10 @@
+1: In this task, a flight attendant is required to reassure passengers during situations like turbulence. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a flight attendant to reassure passengers during turbulence. 
+
+- E0: This task involves direct human interaction and emotional support, which cannot be effectively replaced by the LLM. The LLM cannot physically be present on the flight to provide reassurance to passengers during turbulence.
+- E1: While the LLM could potentially provide scripted responses or tips on how to reassure passengers during turbulence, the effectiveness of such responses in real-time situations may be limited. The nuanced and empathetic nature of providing reassurance in such situations may not be effectively replicated by the LLM alone.
+- E2: It is conceivable that software could be developed to provide guidance or suggestions for flight attendants on how to reassure passengers during turbulence based on best practices and common scenarios. However, the real-time nature of this task and the need for human empathy and emotional intelligence make it challenging for the LLM alone to significantly reduce the time needed to complete the task.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant here.
+
+2: E0
+
+3: High

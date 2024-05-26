@@ -1,0 +1,13 @@
+1: In this task, a Fraud Examiner, Investigator, or Analyst is required to negotiate with responsible parties to arrange for the recovery of losses due to fraud. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E0: This task involves human interaction and negotiation, which requires a high level of interpersonal skills, judgment, and decision-making. The LLM cannot directly negotiate with responsible parties or assess the nuances of the negotiation process, making it unsuitable for this task.
+
+- E1: While the LLM can provide general guidance on negotiation tactics or strategies, it cannot actively engage in negotiations or assess the specific circumstances of each case. The complexity of negotiating with responsible parties in fraud cases goes beyond the capabilities of the LLM to handle effectively.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Fraud Examiners, Investigators, and Analysts in preparing negotiation strategies, analyzing data related to fraud cases, or providing background information on responsible parties. However, the actual negotiation process itself would still require human judgment and interaction.
+
+- E3: The task does not involve image capabilities, so this label does not apply.
+
+2: E0
+
+3: Moderate

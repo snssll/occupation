@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of designing and maintaining genetics computer databases as a Geneticist, we need to consider the level of exposure to LLM.
+
+- E0: This task involves technical expertise in genetics and database management, which may not be significantly aided by the LLM. The task likely requires specialized knowledge and skills beyond what the LLM can provide.
+
+- E1: While the LLM can assist in writing and transforming text, providing edits, and maintaining records, designing and maintaining genetics computer databases may involve complex technical aspects that go beyond the capabilities of the LLM alone. The task may require specialized domain knowledge that the LLM may not possess.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Geneticists in designing and maintaining genetics computer databases. This software could potentially help in organizing and retrieving information, making recommendations, and analyzing data to inform decisions related to genetics databases.
+
+- E3: Given the nature of the task, which involves working with databases rather than text or images, the use of image capabilities would not significantly impact the completion of the task. Therefore, exposure to image capabilities would not be relevant in this context.
+
+2: E2
+
+3: Moderate

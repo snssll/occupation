@@ -1,0 +1,12 @@
+1: In this task, a Fishing and Hunting Worker is required to compute positions and plot courses on charts to navigate vessels using instruments like compasses, sextants, and charts. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- This task involves a high level of manual skill and expertise in navigation techniques.
+- The task requires physical interaction with instruments like compasses and sextants, which cannot be performed by an LLM.
+- The task involves practical knowledge of maritime navigation, which may not be effectively substituted by an LLM.
+- The task does not involve text-based inputs or outputs that can be easily processed by an LLM.
+
+Based on these considerations, it is clear that this task falls under E0 as it requires physical navigation skills and practical knowledge that cannot be effectively replaced by an LLM.
+
+2: E0
+
+3: High

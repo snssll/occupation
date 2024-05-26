@@ -1,0 +1,9 @@
+1: Wind Turbine Service Technicians are responsible for the installation, maintenance, and repair of wind turbines. The task provided involves collecting turbine data for testing or research and analysis. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or additional software built on top of the LLM could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- Wind turbine data collection involves technical knowledge and hands-on work that cannot be directly assisted by the LLM. The task likely requires physical interaction with the turbines, which falls under the E0 category.
+- While the LLM could potentially assist in analyzing the collected data or providing information on turbine technology, the core task of physically collecting data from wind turbines is not something that can be significantly expedited by the LLM alone or software built on top of it.
+- Since the task involves physical data collection and does not align with the capabilities of the LLM or potential software enhancements, it is best classified as E0.
+
+2: E0
+
+3: High

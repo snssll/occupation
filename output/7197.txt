@@ -1,0 +1,10 @@
+1: In this task, a First-Line Supervisor of Food Preparation and Serving Workers is responsible for greeting and seating guests, as well as presenting menus and wine lists. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves direct human interaction and physical movement, which cannot be replaced by the LLM or any software tool. Therefore, it falls under E0.
+- E1: The task does not involve writing, summarizing documents, providing feedback, or any other text-based activities that the LLM could directly assist with. It requires physical actions that cannot be performed by the LLM.
+- E2: While it is conceivable that software could be developed to automate some aspects of guest greeting and seating, such as automated reservation systems or virtual menus, the core task of interacting with guests in a restaurant setting still requires human presence and judgment. The LLM alone would not significantly reduce the time to complete this task.
+- E3: Image capabilities are not relevant for this task as it does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+
+2: E0
+
+3: High

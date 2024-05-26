@@ -1,0 +1,13 @@
+1: In this task, a Sales Engineer collaborates with sales teams to understand customer requirements, promote company products, and provide sales support. To complete this task, the Sales Engineer needs to communicate effectively, understand technical aspects of products, and tailor solutions to meet customer needs. 
+
+- Direct exposure (E1): The LLM could assist in generating communication templates, product information summaries, or responses to common customer queries. It could also help in drafting sales support materials or providing insights on customer requirements based on general knowledge. However, the task involves a significant amount of human interaction and understanding of technical details that may not be effectively handled by the LLM alone.
+
+- Exposure by LLM-powered applications (E2): While the LLM could potentially assist in summarizing customer requirements or product information, a more specialized software application tailored to the sales engineering domain could be developed on top of the LLM. This application could provide recommendations based on data analysis, offer insights into customer preferences, or even generate tailored sales pitches. Such a tool could significantly enhance the efficiency of the Sales Engineer in collaborating with sales teams.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the completion of this task as it primarily involves text-based communication and collaboration with sales teams. The task does not require reading text from PDFs, scanning images, or creating/editing digital images.
+
+Based on the analysis, the task aligns most closely with Exposure by LLM-powered applications (E2).
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,5 @@
+1: In this task, a Logging Equipment Operator is required to drive crawler or wheeled tractors to transport logs from felling sites to log landing areas. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical driving of heavy machinery and transporting logs, which cannot be directly assisted by an LLM. The task also requires on-site presence and operation of equipment, which cannot be substituted by text-based interactions with an LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

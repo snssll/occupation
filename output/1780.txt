@@ -1,0 +1,11 @@
+1: In this task, the Orderlies are responsible for changing soiled linens like bed linens, drapes, or cubicle curtains. To determine the appropriate exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task of changing linens does not involve complex text transformations, writing code, translating languages, summarizing documents, or providing feedback on documents. It is a straightforward physical task that requires manual labor.
+- The task does not involve accessing up-to-date facts, specialized domain knowledge, or making recommendations based on data.
+- There is no need for image capabilities to complete the task as it does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+
+Based on these considerations, it is clear that the task of changing soiled linens for Orderlies does not benefit from the capabilities of the LLM or any tools built on top of it. Therefore, this task falls under label E0 - No exposure.
+
+2: E0
+
+3: High

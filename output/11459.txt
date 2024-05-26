@@ -1,0 +1,12 @@
+1: In this task, a First-Line Supervisor of Housekeeping and Janitorial Workers is required to perform financial tasks such as estimating costs and preparing and managing budgets. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves financial calculations, which may require analyzing data, making estimates, and managing budgets.
+- The task does not involve direct text input or output that can be easily processed by an LLM.
+- While an LLM could potentially assist in providing general information on financial tasks, it may not significantly reduce the time it takes for an experienced worker to perform the specific financial calculations required for estimating costs and budget management.
+- Developing software on top of the LLM that could accurately handle financial calculations and budget management would likely require specialized domain knowledge and capabilities beyond what the LLM alone can provide.
+
+Based on these considerations, the task falls under E0 as the use of an LLM alone is unlikely to significantly reduce the time it takes for an experienced worker to complete the financial tasks involved in estimating costs and managing budgets.
+
+2: E0
+
+3: Moderate

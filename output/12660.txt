@@ -1,0 +1,13 @@
+1: In this task, a flight attendant is responsible for preparing passengers and the aircraft for landing by following specific procedures. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for a flight attendant to complete this task with equivalent quality.
+
+- E0: This task involves physical actions and interactions that cannot be replaced by text-based tools like the LLM. Flight attendants need to physically prepare the aircraft and interact with passengers, which cannot be done through written or spoken mediums alone.
+
+- E1: While the LLM could potentially provide written instructions or checklists for preparing passengers and the aircraft for landing, the core aspects of this task involve physical actions and interactions that cannot be fully automated by text-based tools. Therefore, the time saved by using the LLM for this task would not be significant enough to warrant an E1 label.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to provide guidance on specific procedures or regulations related to preparing passengers and aircraft for landing. This software could potentially offer recommendations or checklists based on the latest regulations and best practices, which could assist flight attendants in performing their tasks more efficiently. However, the physical aspects of the task still require human intervention, so the time saved may not be substantial.
+
+- E3: The task of preparing passengers and aircraft for landing does not involve image processing or detailed visual analysis that would benefit from image capabilities. Therefore, the use of image capabilities in conjunction with the LLM would not significantly reduce the time it takes to complete this task.
+
+2: E0
+
+3: High

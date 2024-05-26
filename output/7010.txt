@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of fitting and studying garments on customers to determine required alterations for Tailors, Dressmakers, and Custom Sewers, we need to consider the nature of the task and how LLM exposure could impact it:
+
+- This task involves hands-on work that requires physical interaction with customers and garments, making it unsuitable for automation through LLM text-based capabilities alone.
+- The task relies heavily on tactile feedback, visual inspection, and measurements taken in person, which cannot be replicated by the LLM.
+- While the LLM could potentially assist with written communication related to the alterations or provide general information on sewing techniques, it cannot directly perform the core task of fitting garments on customers.
+
+Based on these considerations, it is clear that the task of fitting and studying garments for alterations falls under E0 as it involves physical, hands-on work that cannot be significantly aided by LLM text-based capabilities.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of evaluating robotic systems or prototypes as a Robotics Engineer, we need to consider the nature of the task and how it can benefit from the use of a large language model (LLM).
+
+- **E0 (No exposure):** This task involves hands-on evaluation of physical robotic systems or prototypes, which requires direct interaction with the hardware. The evaluation process likely involves testing functionalities, assessing performance, and identifying areas for improvement, which cannot be effectively done through text-based interactions with an LLM.
+
+- **E1 (Direct exposure):** While an LLM could potentially assist in documenting the evaluation process or providing background information on specific aspects of robotics, the core task of evaluating robotic systems or prototypes is primarily hands-on and technical in nature, requiring expertise beyond what an LLM can provide.
+
+- **E2 (Exposure by LLM-powered applications):** It is conceivable that LLM-powered applications could be developed to assist Robotics Engineers in summarizing data from evaluations, generating reports, or providing insights based on existing knowledge. However, the hands-on evaluation process itself is unlikely to be significantly impacted by the use of an LLM alone.
+
+- **E3 (Exposure given image capabilities):** Image capabilities would not significantly impact the evaluation of robotic systems or prototypes, as the task involves more technical analysis and testing rather than visual inspection or image processing.
+
+2: E0
+
+3: High

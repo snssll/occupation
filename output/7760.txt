@@ -1,0 +1,11 @@
+1: In this task, a flight attendant is responsible for inspecting and cleaning cabins to ensure they are in order and problem-free. To determine the appropriate exposure label, we can break down the task:
+- The task involves inspecting and cleaning cabins, which requires physical presence and interaction with the environment. This task cannot be completed solely through text input and output.
+- While the task description can be understood and summarized by an LLM, the actual execution of inspecting and cleaning cabins involves physical actions that the LLM cannot perform.
+- The task does not involve complex data analysis, specialized domain knowledge, or the need for up-to-date facts that the LLM could provide.
+- There is no text-based information retrieval or generation required beyond the task description itself.
+
+Based on these considerations, the task falls under E0 as it involves physical actions and human interaction that cannot be replaced by an LLM.
+
+2: E0
+
+3: High

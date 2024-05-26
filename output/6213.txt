@@ -1,0 +1,13 @@
+1: In this task, a Fundraising Manager is required to establish and maintain effective working relationships with various stakeholders to develop new fundraising opportunities. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- Direct exposure (E1): The task involves communication, relationship-building, and networking, which are primarily human-centric activities that require interpersonal skills and judgment. While the LLM can provide guidance on communication strategies or sample outreach messages, the core of the task relies heavily on human interaction and relationship-building, which cannot be fully automated by the model.
+
+- Exposure by LLM-powered applications (E2): While the LLM could potentially assist in drafting communication materials or providing insights on fundraising strategies, the task's essence lies in personal interactions and leveraging connections. An application built on top of the LLM could help in organizing and tracking interactions, suggesting potential leads, or analyzing data for fundraising trends, but the human touch and nuanced understanding of relationships are crucial aspects that may not be fully addressed by the model alone.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the completion of this task as it primarily involves verbal and written communication with stakeholders rather than visual content.
+
+Considering the above analysis, the task of establishing and maintaining relationships for fundraising opportunities is best classified as E2 - Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

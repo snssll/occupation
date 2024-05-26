@@ -1,0 +1,7 @@
+1: In this task, a Neurodiagnostic Technologist is responsible for collecting patients' medical information to customize tests. To determine the appropriate exposure label, we need to consider the nature of the task. Collecting patients' medical information involves gathering data such as medical history, current medications, symptoms, and other relevant details. This task primarily involves information gathering and data collection, which can be effectively assisted by the LLM. The LLM can help in generating questions to ask patients, summarizing the collected information, providing insights based on the data, and even suggesting relevant follow-up questions.
+
+Considering the task's focus on information gathering and data collection, the LLM can significantly reduce the time it takes to complete this task by assisting in structuring the information, generating relevant questions, and providing insights based on the collected data. Therefore, this task falls under the E1 exposure label as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of contributing to the development of risk management systems as a Financial Risk Specialist, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves specialized knowledge and expertise in financial risk management, which may not be easily automated by the LLM alone. The task likely requires a deep understanding of financial markets, regulations, and risk assessment techniques that may not be effectively handled by the LLM without significant human input and oversight.
+
+- E1: While the LLM could potentially assist in providing general information or explanations related to risk management systems, the task of actively contributing to the development of these systems likely involves complex decision-making processes, specialized domain knowledge, and collaboration with other experts in the field. The LLM may not be able to fully replace the expertise and experience required for this task.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Financial Risk Specialists in analyzing data, generating reports, or providing recommendations for risk management systems. This software could potentially leverage the LLM's capabilities to process large amounts of data and provide insights that could inform decision-making in risk management.
+
+- E3: The task of contributing to the development of risk management systems may not benefit significantly from image capabilities, as it primarily involves working with data, models, and analytical tools specific to financial risk analysis. Image capabilities are unlikely to play a significant role in this task.
+
+2: E2
+
+3: Moderate

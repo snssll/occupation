@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of reading and interpreting blueprints as a Patternmaker, Metal and Plastic, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The LLM could assist in providing definitions or explanations for technical terms related to blueprints or drawings, helping with computations, or offering guidance on operational sequences based on general knowledge. It could also help in summarizing complex instructions or providing feedback on interpretations of blueprints.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time to complete the task, additional software could be developed to summarize longer blueprints, retrieve up-to-date information related to specific parts or patterns, or provide recommendations based on historical data or best practices in patternmaking.
+
+- E3: Exposure given image capabilities - Since the task involves interpreting blueprints or drawings, having image capabilities could assist in scanning and analyzing the visual information in the blueprints, potentially speeding up the process of understanding dimensions and operational sequences.
+
+2: E2
+
+3: Moderate

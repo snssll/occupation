@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of completing detailed source and method notes describing the location of land parcels as a Surveying and Mapping Technician, we need to consider the capabilities of the LLM. The task involves documenting specific information related to land parcels, which requires domain-specific knowledge and technical expertise.
+
+- E0: This task involves specialized knowledge and skills related to surveying and mapping, which may not be easily automated by the LLM alone. The task requires understanding complex geographical data, legal descriptions, and surveying techniques, which may not be within the scope of what the LLM can provide.
+
+- E1: While the LLM can assist in generating text and providing information based on input, the task of completing detailed source and method notes for land parcels involves specialized domain knowledge that goes beyond general text generation. The LLM may be able to provide some assistance in drafting parts of the notes, but it may not significantly reduce the time it takes for an experienced Surveying and Mapping Technician to complete the task with high quality.
+
+- E2: With additional software development, it is conceivable that a tool could be created to assist Surveying and Mapping Technicians in summarizing complex geographical data, legal descriptions, and surveying techniques. This tool could potentially integrate with the LLM to streamline the process of documenting land parcel information. However, as of now, such a tool does not exist.
+
+- E3: The task does not involve image processing or visual data that would benefit from additional image capabilities beyond what the LLM offers.
+
+2: E0
+
+3: Moderate

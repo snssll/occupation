@@ -1,0 +1,12 @@
+1: In this task, a plumber, pipefitter, or steamfitter is required to inspect, examine, or test installed systems or pipelines using various methods such as pressure gauge, hydrostatic testing, and observation. To determine the appropriate exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- The task involves physical inspection and testing of systems, which cannot be directly replaced by text-based interactions with the LLM.
+- The LLM does not have the capability to physically interact with systems or perform hands-on testing.
+- The task does not involve writing, summarizing documents, or providing feedback that could be significantly enhanced by the LLM.
+- The LLM cannot provide real-time data on pressure readings or physical observations.
+
+Based on these considerations, it is evident that the task of inspecting, examining, or testing installed systems or pipelines does not align with the capabilities of the LLM, and therefore falls under the E0 label.
+
+2: E0
+
+3: High

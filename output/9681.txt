@@ -1,0 +1,5 @@
+1: In this task, a Physical Therapist Aide is required to measure a patient's range-of-joint motion, body parts, or vital signs to determine the effects of treatments or for patient evaluations. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical measurements and assessments that require hands-on interaction with patients. It does not involve text-based inputs or outputs that can be easily processed by an LLM. The task also involves specialized knowledge and skills related to physical therapy and healthcare, which may not be effectively leveraged by an LLM alone. Therefore, this task falls under E0 as it does not align with the capabilities of an LLM or any tools built on top of it.
+
+2: E0
+
+3: High

@@ -1,0 +1,9 @@
+1: In this task, a physician pathologist conducts genetic analyses of DNA or chromosomes to diagnose small biopsies and cell samples. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+Physicians and pathologists typically require specialized medical knowledge and expertise to conduct genetic analyses accurately. While an LLM could potentially assist in providing general information about genetic analyses, it may not have the specialized domain knowledge required to perform the task accurately. The task involves complex medical procedures and interpretation of genetic data, which may go beyond the capabilities of the LLM alone. 
+
+Given the specialized nature of the task and the need for accurate medical diagnosis, it is unlikely that the LLM alone or tools built on top of it could significantly reduce the time it takes for an experienced physician pathologist to conduct genetic analyses of DNA or chromosomes. Therefore, this task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: In this task, a Medical Equipment Preparer assists hospital staff with patient care duties, such as providing transportation or setting up traction. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves physical activities like providing transportation and setting up traction, which cannot be directly performed by an LLM.
+- The task requires hands-on assistance in a hospital setting, which involves human interaction and physical presence.
+- The task does not involve complex data analysis, decision-making, or specialized knowledge that would significantly benefit from LLM capabilities.
+
+Based on these considerations, it is clear that the task of assisting hospital staff with patient care duties falls under the E0 category as it does not align with the capabilities of an LLM or any tools built on top of it.
+
+2: E0
+
+3: High

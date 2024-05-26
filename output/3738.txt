@@ -1,0 +1,13 @@
+1: In this task of coordinating or scheduling building inspections for solar installation projects, the main activities involve organizing and managing the inspection process to ensure compliance with regulations and standards. To determine the appropriate exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. 
+
+- E0: This task does not involve complex decision-making that requires specialized knowledge beyond what the LLM can provide. It primarily involves logistical coordination and scheduling, which may not benefit significantly from LLM assistance.
+
+- E1: The LLM could potentially assist in drafting emails or written communications related to scheduling inspections. It could also help in summarizing relevant regulations or guidelines for the inspections. However, the core task of coordinating inspections may not be significantly expedited by the LLM alone.
+
+- E2: While the LLM could be used to access up-to-date information on regulations or building codes, the task itself does not inherently require highly specialized domain knowledge that the LLM alone could provide. Developing additional software on top of the LLM to automate scheduling based on regulations and project timelines could potentially reduce the time taken for this task.
+
+- E3: The task does not involve image capabilities, so this exposure level does not apply.
+
+2: E2
+
+3: Moderate

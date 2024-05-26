@@ -1,0 +1,5 @@
+1: In this task, a First-Line Supervisor of Police and Detectives is required to conduct raids and order the detention of witnesses and suspects for questioning. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can assist in tasks that involve writing, summarizing, providing feedback, answering questions, and maintaining records. However, the task of conducting raids and ordering detentions involves physical actions, legal implications, and human judgment that cannot be performed by the LLM. This task also involves potential risks and ethical considerations that go beyond the capabilities of the LLM. Therefore, this task falls under E0 as it cannot be significantly aided by the LLM.
+
+2: E0
+
+3: High

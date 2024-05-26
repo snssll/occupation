@@ -1,0 +1,5 @@
+1: In this task, a farmworker is required to herd livestock to various locations such as pastures for grazing or to scales, trucks, or enclosures. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be impacted by the use of the LLM. Given that herding livestock involves physical movement, interaction with animals, and outdoor work, it is not a task that can be directly impacted by the LLM. The LLM cannot physically move animals or interact with them in a real-world setting. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

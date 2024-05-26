@@ -1,0 +1,5 @@
+1: In this task, a Tile and Stone Setter is required to brush glue onto manila paper with a design drawn on it and then position tiles, finished side down, onto the paper. To determine the exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. The task involves manual work that cannot be directly replaced by text-based instructions or responses from the LLM. The physical act of brushing glue and positioning tiles requires human dexterity and interaction with physical materials, which the LLM cannot perform. Therefore, the task does not fall under E1, E2, or E3 as the LLM cannot directly assist in completing the task.
+
+2: E0
+
+3: High

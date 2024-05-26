@@ -1,0 +1,5 @@
+1: In this task, a Molder, Shaper, and Caster, Except Metal and Plastic, is required to bore holes or cut grates, risers, or pouring spouts in molds using power tools. To determine the exposure level to LLM, we need to consider if the task can be significantly enhanced or automated by the use of the language model. The task involves physical actions that cannot be directly replaced by text-based instructions or responses from the LLM. While the LLM could potentially provide information on techniques, safety guidelines, or troubleshooting tips related to mold-making, it cannot physically bore holes or cut grates in molds. Therefore, the task does not fall under E1 exposure as it cannot be directly completed or significantly expedited by the LLM alone. Additionally, developing software on top of the LLM to automate this task would be highly complex and likely not feasible, as it involves physical manipulation of materials.
+
+2: E0
+
+3: High

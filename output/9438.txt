@@ -1,0 +1,11 @@
+1: In this task, a civil engineer is required to manage and direct construction, operations, or maintenance activities at a project site. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Direct exposure (E1): If the task involves writing reports, communicating with team members via written correspondence, or documenting project progress, the LLM could assist in generating these written materials efficiently. The LLM could help in summarizing project updates, drafting emails, or preparing documentation related to the construction activities.
+
+- Exposure by LLM-powered applications (E2): While the LLM alone may not significantly reduce the time it takes to manage and direct construction activities on-site, additional software could be developed to integrate the LLM's capabilities with project management tools. This software could help in analyzing data, making recommendations based on project progress, or providing insights into optimizing construction processes.
+
+- No exposure (E0): If the task involves physical presence at the project site, hands-on management of construction activities, or interactions that require in-person communication, the LLM may not be able to significantly assist in completing the task.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,11 @@
+1: In this task, the helper-electrician is responsible for erecting electrical system components, barricades, and rigging scaffolds, hoists, and shoring. To determine the appropriate exposure label, we need to consider the complexity of the task and whether the LLM can significantly reduce the time it takes to complete it with equivalent quality.
+
+- The task involves physical work such as rigging scaffolds and hoists, which cannot be directly assisted by the LLM.
+- The task requires hands-on skills and knowledge of safety regulations, which are not within the capabilities of the LLM.
+- The LLM cannot provide real-time assistance or physical labor required for erecting electrical system components and rigging scaffolds.
+
+Based on these considerations, it is clear that the task of erecting electrical system components and rigging scaffolds falls under E0 as it involves physical work and specialized skills that cannot be significantly assisted by the LLM.
+
+2: E0
+
+3: High

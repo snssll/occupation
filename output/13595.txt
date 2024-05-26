@@ -1,0 +1,15 @@
+1: In this task, a Financial and Investment Analyst is responsible for purchasing investments for companies in accordance with company policy. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- E0: This task involves making financial decisions based on company policy, which may require a high degree of human judgment and interaction. It also involves handling financial transactions, which typically require precise measurements and detailed analysis that may not be suitable for automation using an LLM.
+
+- E1: While an LLM could potentially assist in providing information on investment options, market trends, or company policies, the final decision to purchase investments would likely still require human judgment and interaction. The task involves complex financial considerations that may not be easily automated by the LLM alone.
+
+- E2: With additional software development, it is conceivable that an application could be built on top of the LLM to analyze market data, provide recommendations based on financial models, or even automate parts of the investment purchasing process. However, the task still involves significant human expertise and decision-making that may not be fully automated by the LLM alone.
+
+- E3: The task does not involve image capabilities, so this exposure label does not apply.
+
+Considering the complexity and human judgment involved in purchasing investments for companies, the task is best classified as E2.
+
+2: E2
+
+3: Moderate

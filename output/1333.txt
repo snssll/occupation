@@ -1,0 +1,9 @@
+1: In this task, a Cardiovascular Technologist or Technician assists surgeons with vascular procedures by preparing balloons and stents. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+Assisting surgeons with vascular procedures involves hands-on work in a medical setting, where precise actions are required. This task includes physical actions such as preparing medical equipment like balloons and stents, which cannot be directly performed by an LLM. The task also involves real-time decision-making and coordination with the surgical team, which requires human judgment and interaction. 
+
+Given that the task involves physical actions, real-time decision-making, and coordination in a medical setting, it is unlikely that access to an LLM or LLM-powered tool would significantly reduce the time it takes for an experienced worker to complete the task. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

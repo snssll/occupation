@@ -1,0 +1,5 @@
+1: In this task, the Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders are responsible for loading machines with objects to be processed and unloading them after cleaning. To determine the exposure level, we need to consider if the task can be completed more efficiently with the help of an LLM. The task involves physical actions of loading and unloading machines, which cannot be directly assisted by an LLM. While the LLM could potentially provide information on best practices for cleaning or maintenance, the core task of physically handling objects is not something the LLM can directly assist with. Therefore, this task falls under E0 as it does not significantly benefit from LLM assistance.
+
+2: E0
+
+3: High

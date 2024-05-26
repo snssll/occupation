@@ -1,0 +1,13 @@
+1: In this task, a Financial Manager is required to establish and maintain relationships with individual or business customers, providing assistance with any problems they may encounter. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves communication, relationship-building, and problem-solving, which are primarily human-centric activities that require empathy, understanding, and nuanced decision-making. While an LLM could potentially assist in drafting written communication or providing general advice, the core of the task involves interpersonal skills that are difficult for an AI to replicate.
+
+- Exposure by LLM-powered applications (E2): While an LLM could potentially provide templates for written communication or basic advice, the task's complexity lies in the personalized nature of customer interactions and problem-solving. Developing software that could significantly reduce the time to complete this task by half would require advanced AI capabilities beyond what is currently available.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the completion of this task, as it is primarily text-based and focused on interpersonal interactions rather than visual content.
+
+Based on the analysis above, the task of establishing and maintaining relationships with customers in the role of a Financial Manager is best classified as E0, as it involves human-centric skills that are challenging for an LLM to replicate effectively.
+
+2: E0
+
+3: High

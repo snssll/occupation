@@ -1,0 +1,7 @@
+1: In this task, Orthotists and Prosthetists are responsible for constructing and fabricating appliances or supervising others in the construction process. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. 
+
+Given that this task involves physical construction and fabrication of appliances, it requires hands-on skills, precise measurements, and specialized knowledge of materials and human anatomy. The task does not involve writing, summarizing documents, or analyzing text, which are areas where the LLM excels. The LLM cannot physically construct appliances or supervise the hands-on fabrication process. Therefore, the task does not align with the capabilities of the LLM or tools built on top of it. As a result, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

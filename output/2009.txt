@@ -1,0 +1,10 @@
+1: In this task, a Stocker or Order Filler is responsible for cleaning display cases, shelves, and aisles. To determine the appropriate exposure label, we need to consider if access to the LLM would significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical cleaning, which cannot be automated by the LLM or any software tool. The task requires manual labor and does not involve text-based or image-based processing that the LLM can assist with.
+- E1: The LLM cannot physically clean display cases, shelves, and aisles. While it could potentially provide instructions on how to clean effectively, the actual cleaning process cannot be automated by the LLM.
+- E2: There is no additional software that could be developed on top of the LLM to automate the physical cleaning of display cases, shelves, and aisles. The task is straightforward and does not involve complex text processing or decision-making that would benefit from LLM-powered applications.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The cleaning process is physical and does not require image capabilities.
+
+2: E0
+
+3: High

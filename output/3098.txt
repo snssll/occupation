@@ -1,0 +1,12 @@
+1: In this task, a Magnetic Resonance Imaging (MRI) Technologist conducts screening interviews of patients to identify contraindications before they undergo an MRI scan. The task involves asking specific questions to patients to determine if they have any conditions or objects that could interfere with the MRI procedure, such as ferrous objects, pregnancy, prosthetic heart valves, cardiac pacemakers, or tattoos. 
+
+To determine the appropriate exposure label for this task:
+- The task involves interacting with patients, asking questions, and making judgments based on the information gathered during the screening interviews.
+- While the task involves some level of decision-making based on the information collected, it primarily relies on human interaction, communication skills, and medical knowledge to identify contraindications.
+- The task does not involve complex data analysis, specialized domain knowledge retrieval, or the need for image capabilities beyond text-based information gathering.
+
+Based on these considerations, the task of conducting screening interviews for contraindications as an MRI Technologist would likely fall under E0 as it primarily involves human interaction, communication skills, and medical knowledge without significant automation or data analysis capabilities provided by an LLM.
+
+2: E0
+
+3: High

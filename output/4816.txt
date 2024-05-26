@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of developing budgets for security operations as a Security Manager, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves financial planning and decision-making, which typically requires human judgment and expertise. While an LLM could potentially assist in providing information or generating some budget-related text, the core task of developing budgets involves complex considerations beyond text generation.
+
+- E1: Developing budgets for security operations involves analyzing various factors such as resource allocation, risk assessment, and cost estimation. An LLM could assist in providing relevant data, generating text for budget reports, or even suggesting budgeting strategies based on input. However, the task also requires domain-specific knowledge and expertise that may not be effectively captured by the LLM alone.
+
+- E2: While an LLM could potentially assist in summarizing financial data, providing insights based on industry trends, or even suggesting budgeting best practices, the task of developing budgets for security operations may benefit more from specialized software that integrates LLM capabilities with financial modeling tools. Such software could streamline the budgeting process by automating data analysis, forecasting, and scenario planning.
+
+- E3: This task does not involve image processing or visual data, so exposure to image capabilities would not significantly impact the time it takes to complete the task.
+
+2: E2
+
+3: Moderate

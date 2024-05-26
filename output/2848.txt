@@ -1,0 +1,11 @@
+1: In this task, Hospitalists are responsible for conducting discharge planning and discharging patients from the hospital. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Hospitalists need to assess the patient's condition, review medical records, consult with other healthcare professionals, and create a plan for the patient's discharge. This involves a significant amount of decision-making based on medical knowledge and patient-specific information.
+- While an LLM could potentially assist in providing general information on discharge planning processes or guidelines, the task of conducting discharge planning itself requires specialized medical knowledge, patient-specific details, and real-time assessment of the patient's condition, which may not be effectively handled by the LLM alone.
+- The task also involves interactions with other healthcare professionals, patients, and their families, which require human judgment, empathy, and communication skills that an LLM may not possess.
+
+Based on these considerations, the task of conducting discharge planning and discharging patients as a Hospitalist is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: High

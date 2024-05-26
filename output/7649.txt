@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of informing customers about foreign currency regulations and computing transaction fees for currency exchanges as a teller, we need to consider the nature of the task and the potential impact of using an LLM.
+
+- This task involves providing information to customers about foreign currency regulations, which may require accessing up-to-date information. The LLM can assist in generating accurate and detailed explanations based on the input provided.
+- Additionally, computing transaction fees for currency exchanges involves calculations that the LLM can easily perform, saving time and reducing the potential for errors.
+- While the task does not involve complex decision-making or specialized domain knowledge beyond currency exchange regulations, the LLM's ability to generate text and perform calculations can significantly streamline the process.
+
+Based on these considerations, the task of informing customers about foreign currency regulations and computing transaction fees for currency exchanges as a teller would likely fall under label E1, as the LLM can directly assist in providing accurate information and performing calculations efficiently.
+
+2: E1
+
+3: High

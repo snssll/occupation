@@ -1,0 +1,7 @@
+1: In this task, a Radiation Therapist is required to check for side effects in patients undergoing radiation treatment. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a Radiation Therapist to complete this task with high quality. 
+
+Given that this task involves direct patient interaction and physical assessment (checking for side effects), it does not seem feasible for the LLM to directly assist in this process. The LLM does not have the capability to physically assess patients or observe side effects such as skin irritation, nausea, or hair loss. Therefore, the task cannot be completed solely through text input and output provided by the LLM. As a result, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

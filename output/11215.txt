@@ -1,0 +1,5 @@
+1: In this task, a Rehabilitation Counselor is required to participate in job development and placement programs, contact prospective employers, place clients in jobs, and evaluate the success of placements. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves a significant amount of human interaction, negotiation, and evaluation of success, which cannot be fully automated by an LLM. While the LLM could potentially assist in drafting emails or reports related to job placements, the core aspects of the task, such as contacting employers, assessing client needs, and evaluating job placements, require human judgment and interaction. Therefore, this task falls under E0 as it does not significantly benefit from LLM capabilities in reducing the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

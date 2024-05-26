@@ -1,0 +1,13 @@
+1: In this task of repairing or replacing worn or broken door parts using hand tools, the exposure to LLM can be evaluated as follows:
+
+- **E0**: This task involves physical work that requires hands-on repair work with mechanical parts. The task does not involve text-based instructions or information that can be easily processed by an LLM. Therefore, there is no clear way for the LLM to significantly reduce the time it takes to complete this task.
+
+- **E1**: The task does involve some level of technical knowledge related to mechanical door repair. While an LLM could potentially provide some general information or guidance on common repair procedures, the hands-on nature of the task and the need for physical tools make it unlikely that the LLM could reduce the time to complete the task by at least half.
+
+- **E2**: While an LLM alone may not be able to directly assist in completing the task, it is conceivable that specialized software could be developed on top of the LLM to provide detailed repair instructions, troubleshooting guides, or access to a database of common door parts and repair techniques. This additional software could potentially reduce the time it takes to complete the task by half.
+
+- **E3**: The task does not involve any image-related requirements that would benefit from additional image capabilities beyond the LLM's text processing abilities. Therefore, exposure to image capabilities would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

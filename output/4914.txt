@@ -1,0 +1,12 @@
+1: In this task, a Penetration Tester is required to develop infiltration tests that exploit device vulnerabilities. To determine the appropriate label from the exposure rubric, we can break down the task as follows:
+
+- Writing and transforming text and code according to complex instructions: The task involves creating tests that exploit vulnerabilities, which may require writing code and detailed instructions.
+- Providing edits to existing text or code following specifications: The Penetration Tester may need to modify existing code or instructions to develop the infiltration tests.
+- Writing code that can help perform a task that used to be done by hand: Developing infiltration tests often involves writing code to automate the testing process.
+- Analyzing written information to inform decisions: The Penetration Tester needs to analyze device vulnerabilities to create effective infiltration tests.
+
+Considering these points, the task can benefit significantly from the capabilities of the LLM in terms of writing code, providing detailed instructions, and analyzing information to develop effective infiltration tests. Therefore, this task falls under label E1 - Direct exposure.
+
+2: E1
+
+3: High

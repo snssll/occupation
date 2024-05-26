@@ -1,0 +1,15 @@
+1: In this task, a Semiconductor Processing Technician is required to connect a reactor to a computer using hand tools and power tools. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical work that cannot be directly replaced by the LLM or any software tool. The task requires the use of hand tools and power tools, which are not within the capabilities of the LLM.
+
+- E1: The task does not involve writing, transforming text, or providing edits to existing text. It is a hands-on task that requires physical interaction with tools and equipment. The LLM cannot directly assist in connecting physical components.
+
+- E2: While it is conceivable that specialized software could be developed to provide guidance or instructions on how to connect a reactor to a computer, the task still fundamentally requires physical action. The LLM alone would not be able to reduce the time it takes to complete this task significantly.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The task is focused on physical actions rather than visual or text-based tasks.
+
+Based on the analysis above, the most appropriate exposure label for this task is E0.
+
+2: E0
+
+3: High

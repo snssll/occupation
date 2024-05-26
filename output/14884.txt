@@ -1,0 +1,10 @@
+1: In this task, a Court Reporter or Simultaneous Captioner is required to respond to requests during court sessions to read portions of the proceedings already recorded. To determine the appropriate label from the exposure rubric, we can break down the task:
+- The task involves responding to specific requests during court sessions, which requires understanding the context of the proceedings and accurately retrieving and reading the relevant portions.
+- The task does not involve complex data analysis, specialized domain knowledge, or image processing.
+- The task primarily revolves around text-based information retrieval and delivery.
+
+Based on the nature of the task and the capabilities of the LLM, it is evident that the LLM can significantly reduce the time it takes to complete this task by providing quick access to recorded proceedings, generating summaries, or even assisting in responding to specific requests by providing relevant information. Therefore, this task falls under the E1 label as direct access to the LLM can streamline the process of responding to requests during court sessions.
+
+2: E1
+
+3: High

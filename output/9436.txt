@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of managing activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving as a Supply Chain Manager, we need to consider the nature of the task and how LLM exposure could impact it:
+
+- **E1 (Direct exposure):** If the task involves writing reports, analyzing data, or making decisions based on text inputs, the LLM could significantly reduce the time needed to complete these tasks by providing insights, generating reports, or offering recommendations based on the information provided. The LLM could assist in summarizing data, generating inventory reports, or even suggesting optimal purchasing strategies based on the input data.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone may not reduce the time to complete the task by half, additional software built on top of the LLM could enhance the capabilities for Supply Chain Managers. For example, an application that can retrieve up-to-date market trends, analyze competitor strategies, or provide real-time inventory tracking could significantly improve the efficiency of managing supply chain activities.
+
+- **E3 (Exposure given image capabilities):** Image capabilities would not have a significant impact on managing supply chain activities, as the task primarily involves text-based inputs related to purchasing, inventory, and warehousing. Therefore, image capabilities are not relevant for this task.
+
+2: E2
+
+3: Moderate

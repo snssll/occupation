@@ -1,0 +1,7 @@
+1: In this task, a Surgical Assistant is required to discuss various aspects of the surgical procedure with the surgeon. This involves providing information on operative consent, methods of operative exposure, diagnostic or laboratory data, patient-advanced directives, and other patient needs. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone can significantly reduce the time it takes for a Surgical Assistant to complete this task with equivalent quality.
+
+- Direct exposure (E1): The LLM can assist in generating text to help the Surgical Assistant prepare for the discussion with the surgeon. It can provide information on operative consent procedures, common methods of operative exposure, and general patient needs. The LLM can also help in summarizing complex medical information for easier understanding. Therefore, direct access to the LLM can streamline the process of gathering relevant information and preparing for the discussion, potentially reducing the time needed to complete this task.
+
+2: E1
+
+3: Moderate

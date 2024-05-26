@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of researching and exploring new materials, technologies, and products for interior designers, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves researching and exploring new materials, technologies, and products, which may require accessing up-to-date information, trends, and specifications. While the LLM can provide general information and insights, it may not have access to the most current data unless explicitly provided in the input. Additionally, the task may involve a level of creativity and hands-on experimentation that goes beyond the capabilities of the LLM.
+
+- E1: The LLM can assist in researching and summarizing information about new materials, technologies, and products based on the input provided. It can help gather relevant data, provide insights, and generate ideas based on the information given. However, the task may still require hands-on exploration and evaluation of physical materials, which the LLM cannot directly assist with.
+
+- E2: While the LLM can aid in gathering information and generating ideas, additional software could be developed to streamline the research process further. This software could potentially analyze trends, recommend specific materials or products based on data, and provide more in-depth insights into the latest innovations in the field of interior design.
+
+- E3: The task does not involve image processing or detailed visual analysis, so the additional capabilities provided by image processing tools would not significantly impact the completion of this task.
+
+2: E2
+
+3: Moderate

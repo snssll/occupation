@@ -1,0 +1,12 @@
+1: In this task, a Motion Picture Projectionist is responsible for removing film splicing to prepare films for shipment after showings and return films to their sources. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can be impacted by the capabilities of the LLM. 
+
+- The task involves physical manipulation of film reels, which cannot be directly assisted by the LLM.
+- The task does not involve complex decision-making, analysis, or specialized knowledge that would significantly benefit from LLM capabilities.
+- The task does not require text input or output, making it unsuitable for direct interaction with the LLM.
+- While it's possible to imagine a system that could potentially automate some aspects of film handling using robotics or computer vision, such a system would be highly specialized and not directly related to the LLM's capabilities.
+
+Based on these considerations, the task of removing film splicing for films does not align with any of the exposure levels in the rubric. It falls under E0 as it involves physical tasks that cannot be significantly aided by the LLM.
+
+2: E0
+
+3: High

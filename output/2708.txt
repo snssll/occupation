@@ -1,0 +1,12 @@
+1: In this task, a Securities, Commodities, and Financial Services Sales Agent is required to complete sales order tickets and submit them for processing of client-requested transactions. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Completing sales order tickets involves filling out specific information related to client transactions, such as the type of security or commodity being traded, the quantity, price, and any other relevant details. This task primarily involves data entry and following specific guidelines.
+- The task does not require complex decision-making or analysis beyond accurately inputting the required information.
+- The task does not involve visual or image processing, as it is primarily text-based.
+- While the task involves interacting with clients and understanding financial products, the specific task of completing sales order tickets is more administrative in nature.
+
+Based on these considerations, the task of completing sales order tickets and submitting them for processing of client-requested transactions would fall under E1 - Direct exposure. The task involves writing and transforming text according to specific instructions, which can be efficiently handled by an LLM to reduce the time taken to complete the task.
+
+2: E1
+
+3: High

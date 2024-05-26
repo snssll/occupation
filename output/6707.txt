@@ -1,0 +1,5 @@
+1: In this task, a fashion designer is required to examine sample garments on and off models and modify designs to achieve desired effects. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves visual inspection of garments on models, which requires physical presence and interaction with the garments and models. This task is highly hands-on and involves precise adjustments to achieve the desired effects. The task does not involve text-based inputs or outputs that can be easily processed by an LLM. Additionally, the task requires the designer to make real-time decisions based on visual and tactile feedback, which cannot be replicated by an LLM. Therefore, this task falls under E0 as it does not lend itself to automation or assistance from an LLM.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, the occupation involves assembling or installing metal framing or decorative trim for windows, doorways, or vents. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves physical work that cannot be directly assisted by the LLM or any software tools. The task requires hands-on skills and precise measurements, which are not within the capabilities of the LLM.
+
+- E1: The LLM could potentially assist in providing written instructions or guidance on how to assemble or install metal framing or decorative trim. It could help in generating text-based descriptions or explanations related to the task. However, the actual physical work of assembling or installing the materials cannot be directly performed by the LLM.
+
+- E2: While the LLM could potentially provide information on different types of metal framing or decorative trim, it may not significantly reduce the time it takes to complete the task. However, with the development of additional software that integrates LLM capabilities with virtual reality or augmented reality tools, it could potentially assist in visualizing the installation process, providing step-by-step guidance, or even simulating the task.
+
+- E3: The task does not involve image processing or detailed visual instructions that would require image capabilities. Therefore, the task does not fall under E3.
+
+2: E1
+
+3: Moderate

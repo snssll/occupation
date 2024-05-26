@@ -1,0 +1,11 @@
+1: In this task, a Costume Attendant is responsible for designing or constructing costumes, as well as sending them to tailors for construction, repairs, or alterations. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves a significant amount of creativity and decision-making in designing costumes, which may not be easily automated by an LLM.
+- While the LLM could potentially assist in generating ideas for costume designs or providing information on costume construction techniques, the actual physical construction or alteration of costumes would require hands-on work that the LLM cannot perform.
+- Additionally, the task involves interacting with tailors for construction, repairs, or alterations, which requires human communication and coordination skills that the LLM does not possess.
+
+Based on these considerations, it is unlikely that the LLM alone or any software built on top of it could significantly reduce the time it takes to complete this task with equivalent quality. Therefore, this task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

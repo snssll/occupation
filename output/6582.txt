@@ -1,0 +1,5 @@
+1: In this task, a farmworker is required to examine animals to detect illness, injury, or disease, and to check physical characteristics such as the rate of weight gain. With the help of the LLM, the worker could potentially receive guidance on common signs of illness or injury in animals, learn about different diseases that commonly affect farm animals, understand the typical physical characteristics associated with healthy animals, and possibly even receive recommendations on how to address certain health issues. The LLM could also provide information on best practices for monitoring weight gain in animals. However, since this task involves physical examination of animals, which cannot be done through text input and output alone, the LLM would not significantly reduce the time it takes to complete the task with high quality. Therefore, this task falls under E0 as the LLM cannot directly assist in the physical examination of animals.
+
+2: E0
+
+3: High

@@ -1,0 +1,10 @@
+1: Music therapists customize treatment programs for specific areas of music therapy, such as intellectual or developmental disabilities, educational settings, geriatrics, medical settings, mental health, physical disabilities, or wellness. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone can significantly reduce the time it takes for a music therapist to customize treatment programs for different areas of music therapy. 
+
+- E0: This task involves a high level of human interaction and requires specialized knowledge and expertise in music therapy. The customization of treatment programs for various conditions involves a deep understanding of individual needs and preferences, which may not be effectively replaced by an LLM alone.
+- E1: While the LLM can provide general information on music therapy and different conditions, the customization of treatment programs requires a nuanced understanding of each individual's needs, which may not be effectively achieved through text-based interactions with the LLM.
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist music therapists in organizing and structuring treatment programs based on general guidelines and information provided by the therapist. This software could potentially streamline the process of generating initial program outlines.
+- E3: The task does not involve image capabilities, so exposure to LLM and image capabilities is not relevant in this context.
+
+2: E2
+
+3: Moderate

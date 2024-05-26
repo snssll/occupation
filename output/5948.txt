@@ -1,0 +1,5 @@
+1: In this task, the main responsibility is to drive crew carriers to transport firefighters to fire sites. This task involves physical action and operation of vehicles, which cannot be directly assisted by an LLM. The task does not involve complex decision-making, analysis, or information retrieval that would benefit significantly from LLM capabilities. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

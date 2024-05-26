@@ -1,0 +1,5 @@
+1: In this task, the Orderlies Nursing Assistants are required to lift or assist in lifting patients to move them. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. Since this task involves physical interaction and lifting patients, it cannot be directly completed using the LLM. The LLM cannot perform physical tasks or interact with patients in a physical manner. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

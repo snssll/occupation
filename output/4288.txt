@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of designing and delivering technology to assist people with disabilities as a Bioengineer or Biomedical Engineer, we need to consider the level of exposure to LLM.
+
+- E0: This task involves a high degree of human interaction and requires specialized knowledge and expertise in bioengineering and biomedical engineering. It also involves physical aspects such as designing prosthetic devices, which cannot be directly assisted by an LLM.
+
+- E1: While an LLM could potentially assist in generating written reports, research summaries, or providing background information on existing technologies, the core task of designing and delivering technology for people with disabilities involves hands-on work, collaboration with individuals, and specialized technical skills that go beyond what an LLM can provide.
+
+- E2: It is conceivable that software could be developed on top of an LLM to assist in summarizing research papers, retrieving relevant information from databases, or even generating initial design concepts based on input data. However, the actual design and delivery of technology, especially prosthetic devices, require a deep understanding of human anatomy, engineering principles, and practical considerations that are beyond the current capabilities of LLM-powered applications.
+
+- E3: The task does not involve image processing, reading text from PDFs, or creating/editing digital images, so exposure to image capabilities would not significantly impact the completion of this task.
+
+Based on the above analysis, the most appropriate label for this task is E0.
+
+2: E0
+
+3: Certainty level: High

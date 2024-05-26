@@ -1,0 +1,7 @@
+1: In this task, the occupation of an Orthopedic Surgeon involves performing surgeries on patients' musculoskeletal systems. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half. 
+
+Given the nature of the task, which involves hands-on surgical procedures, precise measurements, and real-time decision-making based on the patient's condition, it is evident that the LLM or any tools built on top of it cannot replace the expertise and skills required for an Orthopedic Surgeon. The task involves physical procedures, interactions with patients, and critical decision-making that cannot be replicated by an AI model. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

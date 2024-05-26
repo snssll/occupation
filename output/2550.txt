@@ -1,0 +1,13 @@
+1: In this task, a Computer Network Architect is required to communicate with vendors to gather information about products, alert them to future needs, resolve problems, or address system maintenance issues. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves communication, which can be facilitated by the LLM in drafting emails, messages, or responses. The LLM can assist in formulating clear and concise messages to vendors, gathering information effectively, and addressing system maintenance issues through written correspondence. The LLM can also help in drafting follow-up emails or reminders to vendors.
+
+- Exposure by LLM-powered applications (E2): While the LLM can aid in drafting communication, there may not be a specific software application built on top of the LLM that significantly reduces the time it takes to complete the task by half. However, it is conceivable that a more specialized tool could be developed to streamline vendor communication processes, automate responses, or provide recommendations based on data analysis.
+
+- Exposure given image capabilities (E3): Image capabilities are not relevant to this task as it primarily involves written communication with vendors and does not require image processing or analysis.
+
+Based on the considerations above, the task of communicating with vendors as a Computer Network Architect falls under the category of Direct exposure (E1) as the LLM can assist in drafting written communications and messages to vendors, thereby reducing the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: Moderate

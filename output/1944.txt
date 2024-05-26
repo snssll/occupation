@@ -1,0 +1,5 @@
+1: In this task, the firefighter is responsible for cleaning and maintaining fire stations, as well as fire fighting equipment and apparatus. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for a firefighter to complete this task with high quality. The task involves physical cleaning and maintenance work that cannot be directly assisted by the LLM. While the LLM could potentially provide information on best practices for cleaning and maintaining equipment, it cannot physically perform the tasks required. Therefore, the task does not fall under E1, E2, or E3 as the LLM cannot directly assist in completing the task.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, an Explosives Worker, Ordnance Handling Expert, or Blaster is required to mark patterns, locations, and depths of charge holes for drilling and issue drilling instructions. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves providing specific instructions related to drilling and explosives handling, which requires domain-specific knowledge and expertise. While an LLM could potentially assist in generating written instructions or explanations related to drilling, it may not have the specialized knowledge required to accurately mark patterns, locations, and depths of charge holes for drilling in the context of explosives handling. Additionally, safety considerations and regulations play a crucial role in this task, which may not be adequately addressed by the LLM alone. Therefore, the task falls under E0 as it involves specialized domain knowledge, safety considerations, and precise instructions that may not be effectively handled by the LLM alone.
+
+2: E0
+
+3: High

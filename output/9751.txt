@@ -1,0 +1,13 @@
+1: In this task, a funeral attendant meets with family members to plan a funeral. The task involves discussing the deceased person's wishes, coordinating the logistics of the funeral service, and providing emotional support to the grieving family members. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task with equivalent quality.
+
+- Direct exposure (E1): The task of meeting with family members to plan a funeral involves a high level of human interaction, emotional support, and empathy, which are essential qualities that an LLM cannot provide. While the LLM could potentially assist in drafting documents or providing general information about funeral planning, the core aspects of this task require human touch and sensitivity that the LLM cannot replicate.
+
+- Exposure by LLM-powered applications (E2): It is challenging to imagine additional software built on top of the LLM that could significantly reduce the time it takes to complete this task. Funeral planning involves personalized interactions, understanding individual needs, and providing emotional support, which are beyond the capabilities of current AI technologies.
+
+- Exposure given image capabilities (E3): Image capabilities would not be relevant for this task as it primarily involves verbal communication and emotional support, which do not rely on visual information.
+
+Based on the analysis above, the task of meeting with family members to plan a funeral is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

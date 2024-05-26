@@ -1,0 +1,9 @@
+1: In this task, a Medical Dosimetrist is responsible for developing radiation treatment plans in consultation with the radiation oncology team. To complete this task, the dosimetrist needs to consider various factors such as the patient's condition, the type and location of the tumor, and the prescribed dose. The dosimetrist must also ensure that the treatment plan delivers the necessary radiation dose to the tumor while minimizing exposure to surrounding healthy tissues.
+
+Using an LLM could potentially assist in generating initial treatment plan options based on input parameters such as tumor location, prescribed dose, and patient characteristics. The LLM could help in providing suggestions for optimizing the treatment plan to achieve the desired outcome. However, the task of developing radiation treatment plans involves specialized medical knowledge, understanding of radiation physics, and experience in treatment planning software, which may not be fully captured by the LLM alone. The dosimetrist also needs to consider individual patient factors and collaborate closely with the radiation oncology team, which requires human judgment and expertise.
+
+Considering these factors, the task of developing radiation treatment plans in consultation with the radiation oncology team falls under E2 - Exposure by LLM-powered applications. While the LLM can provide some assistance in generating treatment plan options, additional specialized software or tools tailored to the dosimetry field would be needed to significantly reduce the time it takes to complete this task.
+
+2: E2
+
+3: Moderate

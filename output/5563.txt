@@ -1,0 +1,13 @@
+1: In this task, a Camera Operator working in television, video, or film is responsible for operating the camera during studio productions. This involves setting up shots, adjusting camera angles, framing shots, and capturing the action as directed by the director. To determine the exposure level to LLM, we need to consider if the task can be significantly enhanced or automated by the use of the language model. 
+
+- E0: This task involves physical operation of the camera equipment and requires human judgment and skill in capturing the desired shots. The task does not involve text-based inputs or outputs that can be directly processed by the LLM. Therefore, the task does not align with the capabilities of the LLM and would not benefit from its use.
+
+- E1: The task of operating a camera during studio productions is highly practical and hands-on, involving real-time adjustments and interactions with the filming environment. While the LLM could potentially provide some theoretical knowledge or guidance on camera operations, the core aspect of physically operating the camera and capturing shots cannot be directly facilitated by the language model. Thus, the task does not align with the typical capabilities of the LLM for text-based tasks.
+
+- E2: Although it is conceivable that software could be developed to assist camera operators in certain aspects of their work, such as providing real-time feedback on shot composition or suggesting camera angles based on predefined criteria, the current capabilities of the LLM alone do not directly apply to enhancing the task of operating a camera during studio productions. The task is more reliant on practical skills and real-time decision-making rather than text-based processing.
+
+- E3: The task of operating a camera during studio productions does not involve image processing or analysis that would significantly benefit from the image capabilities of the LLM. While the LLM could potentially assist in generating scripts or providing background information related to the production, the core task of camera operation itself does not directly leverage image capabilities that would align with exposure level E3.
+
+2: E0
+
+3: High

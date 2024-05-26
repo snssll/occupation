@@ -1,0 +1,5 @@
+1: In this task, a Forest Fire Inspector is required to examine and inventory firefighting equipment to determine the amount and condition. This task involves visual inspection and assessment of physical objects, which cannot be directly performed by an LLM. The LLM does not have the capability to physically interact with objects or conduct hands-on inspections. Therefore, this task falls under E0 as it does not involve text-based or image-based analysis that the LLM can assist with.
+
+2: E0
+
+3: High

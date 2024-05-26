@@ -1,0 +1,7 @@
+1: In this task, a Highway Maintenance Worker is responsible for placing and removing snow fences to prevent drifting snow on highways. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a worker to complete this task with high quality. 
+
+Highway Maintenance Workers typically require physical labor to place and remove snow fences, which involves manual work and being present at the site. The task does not involve complex text input or output that can be easily handled by the LLM. The LLM does not have the capability to physically interact with the environment or perform tasks that require physical presence. Therefore, the task of placing and removing snow fences is not suitable for automation or assistance by the LLM.
+
+2: E0
+
+3: High

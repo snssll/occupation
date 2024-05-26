@@ -1,0 +1,12 @@
+1: In this task, a Fire Inspector or Investigator inspects buildings to identify hazardous conditions and fire code violations. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the use of an LLM. 
+
+- The task involves physical inspection of buildings, which cannot be directly assisted by an LLM.
+- The identification of hazardous conditions and fire code violations requires practical knowledge and expertise in fire safety regulations, which an LLM may not have access to.
+- While an LLM could potentially provide information on fire safety regulations and guidelines, the practical aspect of physically inspecting buildings and identifying violations is beyond the capabilities of text-based AI models.
+- The task does not involve text-based inputs or outputs that could be easily processed by an LLM.
+
+Based on these considerations, it is evident that the task of physically inspecting buildings for fire hazards and code violations falls under E0 as it does not align with the capabilities of an LLM.
+
+2: E0
+
+3: High

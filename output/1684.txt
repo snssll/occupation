@@ -1,0 +1,13 @@
+1: In this task, a Bookkeeping, Accounting, and Auditing Clerk is required to calculate, prepare, and issue financial documents such as bills, invoices, account statements, and other financial statements following established procedures. To determine the appropriate exposure label for this task in relation to the LLM, we can break it down as follows:
+
+- Writing and transforming text: The task involves generating financial documents, which could potentially be aided by the LLM in terms of formatting, wording, and calculations.
+- Providing edits to existing text: The LLM could assist in proofreading and editing financial statements for accuracy and clarity.
+- Writing code to perform tasks: While the task does not involve writing code, the LLM could potentially automate certain aspects of document preparation.
+- Providing feedback on documents: The LLM could provide feedback on the accuracy and completeness of the financial statements.
+- Informing anyone of information: The LLM could assist in communicating financial information effectively.
+
+Considering these points, the task of calculating, preparing, and issuing financial documents aligns closely with the capabilities of the LLM in terms of text generation, editing, and providing information. Therefore, this task falls under the E1 label as the LLM can significantly reduce the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: High

@@ -1,0 +1,7 @@
+1: In this task, a fundraiser is required to monitor budgets, expense reports, or other financial data for fundraising organizations. With access to the most powerful OpenAI large language model (LLM), the fundraiser could potentially automate the process of monitoring budgets and financial data by inputting the data into the LLM and receiving analyses, summaries, or recommendations based on that data. The LLM could assist in identifying trends, anomalies, or areas needing attention within the financial data, thus streamlining the monitoring process.
+
+Considering the capabilities of the LLM, this task falls under E2 exposure. While the LLM alone may not reduce the time it takes to complete the task by at least half, additional software could be developed on top of the LLM to provide more specialized financial analysis, generate detailed reports, or offer specific recommendations based on the financial data. This additional software could enhance the efficiency of monitoring budgets and financial data for fundraising organizations.
+
+2: E2
+
+3: Moderate

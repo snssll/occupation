@@ -1,0 +1,13 @@
+1: In this task, a Structural Iron and Steel Worker is required to read specifications or blueprints to determine the locations, quantities, or sizes of materials required for a construction project. To determine the appropriate label from the exposure rubric, we need to consider whether access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E0: This task involves reading and interpreting technical specifications and blueprints, which require domain-specific knowledge and expertise. The task does not involve writing or transforming text, providing edits, summarizing documents, or any other text-based activities that the LLM could directly assist with. Additionally, the task does not involve image capabilities or any other specialized tools that could be built on top of the LLM to significantly reduce the time needed to complete it.
+
+- E1: The LLM could potentially assist in providing general information related to construction materials or processes, but it may not have the specific domain knowledge required to accurately interpret complex blueprints or specifications. While the LLM could help with some aspects of the task, it may not be able to provide the detailed and precise information needed for this specific occupation.
+
+- E2: It is conceivable that specialized software could be developed on top of the LLM to assist Structural Iron and Steel Workers in analyzing blueprints and specifications more efficiently. This software could potentially summarize complex technical documents, retrieve relevant information from databases, or provide recommendations based on the input data. However, such software would need to be highly specialized and tailored to the specific needs of this occupation.
+
+- E3: The task does not involve image capabilities or the creation/editing of digital images, so exposure to LLM with image capabilities would not significantly impact the completion of this task.
+
+2: E0
+
+3: Moderate

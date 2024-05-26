@@ -1,0 +1,7 @@
+1: In this task, a Billing and Posting Clerk is responsible for fixing minor equipment problems and notifying repair personnel of major equipment issues. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task.
+
+- E0: This task involves physical actions such as fixing equipment jams, which cannot be performed by the LLM or any software tool. Therefore, this task does not qualify for any exposure label based on the given criteria.
+
+2: E0
+
+3: High

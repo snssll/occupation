@@ -1,0 +1,13 @@
+1: In this task, the occupation of a model involves making quick changes backstage during fashion shows while maintaining a poised appearance before audiences. To determine the exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for a model to complete this task with high quality.
+
+- E0: This task involves physical actions such as changing clothes quickly backstage and presenting a poised appearance before audiences. The LLM cannot physically assist with these actions, and the task does not involve written or spoken communication that the LLM could directly handle.
+
+- E1: The LLM could potentially assist in providing tips or advice on maintaining a poised appearance or handling quick changes backstage through written instructions or guidance. However, the direct impact on reducing the time it takes for a model to complete the task may not be significant enough to warrant an E1 label.
+
+- E2: While it's conceivable that additional software could be developed to provide virtual simulations or training modules for models to practice quick changes and poise maintenance, the current capabilities of the LLM alone may not directly reduce the time significantly for this task.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E0
+
+3: High

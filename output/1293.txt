@@ -1,0 +1,11 @@
+1: In this task, the Radiation Therapists are responsible for assisting in the preparation of sealed radioactive materials for use in radiation treatments. To determine the appropriate exposure label, we need to consider whether the task can be significantly aided by the use of the LLM. 
+
+- The task involves specific knowledge and procedures related to handling radioactive materials, which may not be readily available in the LLM's training data.
+- The task requires practical skills and adherence to strict safety protocols, which are not typically within the scope of text-based AI models.
+- The task involves physical actions such as handling materials, which cannot be performed by the LLM.
+
+Considering these points, it is unlikely that the LLM can significantly reduce the time it takes for an experienced Radiation Therapist to complete this task with high quality. Therefore, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

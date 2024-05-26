@@ -1,0 +1,11 @@
+1: In this task, a Rolling Machine Setter, Operator, or Tender in the Metal and Plastic industry is required to read rolling orders, blueprints, and mill schedules to determine setup specifications, work sequences, product dimensions, and installation procedures. To determine the appropriate exposure label for this task in relation to the LLM, we need to consider the following:
+
+- The task involves reading and interpreting technical documents such as blueprints and mill schedules, which may require domain-specific knowledge.
+- The task does not involve generating new text or code, translating languages, summarizing documents, or providing feedback on documents.
+- While the LLM could potentially assist in providing information or explanations related to the content of the documents, it may not significantly reduce the time it takes to complete the task, as the interpretation of technical specifications requires specialized knowledge beyond what the LLM can provide.
+
+Based on these considerations, the task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of conducting research studies to develop new concepts in the field of automotive engineering, we need to consider the level of exposure to LLM. In this task, an Automotive Engineer would typically need to gather information, analyze data, and generate new ideas in the field of automotive engineering. 
+
+- E0: This task involves conducting research studies, which may require accessing a wide range of sources, including technical papers, industry reports, and academic journals. While the LLM can assist in summarizing information, generating ideas, and providing insights, it may not significantly reduce the time it takes for an experienced Automotive Engineer to conduct in-depth research studies in this specialized field. The task also involves a high degree of domain-specific knowledge and expertise that the LLM may not possess.
+
+- E1: The LLM can be used to assist in conducting literature reviews, summarizing research findings, generating new ideas, and providing insights based on the input data provided by the Automotive Engineer. By leveraging the LLM's capabilities to process and analyze text data, the Engineer can potentially expedite the research process and enhance the quality of the study. The LLM can help in transforming text, providing feedback on documents, and generating questions related to the research study.
+
+- E2: While the LLM alone may not reduce the time it takes to complete the task by half, additional software could be developed on top of the LLM to create tools that summarize complex technical documents, retrieve up-to-date information from the internet, and provide recommendations based on the research findings. These tools could enhance the efficiency of the research process and improve the overall quality of the study.
+
+- E3: The task of conducting research studies in automotive engineering may not benefit significantly from image capabilities, as the primary focus is on text-based research, data analysis, and concept development. Image capabilities are not essential for this task.
+
+2: E1
+
+3: Moderate

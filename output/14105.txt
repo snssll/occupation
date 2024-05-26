@@ -1,0 +1,9 @@
+1: In this task for Ship Engineers, the main responsibilities involve recording orders for changes in ship speed or direction, as well as noting gauge readings or test data in engineering logs or bellbooks. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Ship Engineers need to accurately document specific data related to the ship's operations, such as speed changes, gauge readings, and test data. This task involves writing down information in a structured format, which is a task that can be easily automated by an LLM. The LLM can assist in transforming the input data into organized logs or records efficiently.
+
+- The task does not involve complex decision-making, precise measurements, or detailed visuals that would require human interaction or physical presence. It primarily revolves around data entry and documentation, which aligns well with the capabilities of an LLM.
+
+2: E1
+
+3: High

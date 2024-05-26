@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of investigating the adaptability of various animal and plant species to changed environmental conditions as an Industrial Ecologist, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- **E0**: This task involves fieldwork, data collection, observation, and analysis of complex ecological systems. It requires specialized knowledge, hands-on experience, and interactions with the environment that cannot be replicated by the LLM alone. The task also involves assessing real-world adaptability, which may require physical measurements and detailed observations that go beyond text-based information processing.
+
+- **E1**: While the LLM can provide general information about animal and plant species, their characteristics, and some aspects of environmental conditions, it may not have access to the most up-to-date data or specialized knowledge required for in-depth ecological investigations. The task also involves practical fieldwork and hands-on research that cannot be directly performed by the LLM.
+
+- **E2**: It is conceivable that an application could be developed on top of the LLM that could assist in summarizing existing research on animal and plant adaptability, providing recommendations based on data analysis, or even suggesting potential research directions. However, the core of the task still involves hands-on ecological research and fieldwork, which may not be significantly expedited by the LLM alone.
+
+- **E3**: The task does not involve image processing or detailed visual analysis that would benefit from additional image capabilities. It primarily revolves around ecological research, data analysis, and fieldwork, which are not directly related to image processing.
+
+2: E0
+
+3: Moderate

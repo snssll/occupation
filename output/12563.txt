@@ -1,0 +1,13 @@
+1: In this task, a Freight Forwarder is responsible for preparing invoices or cost quotations for freight transportation. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- **E1 (Direct exposure):** The task of preparing invoices or cost quotations involves working with text and numbers, which can be easily handled by the LLM. The model can assist in generating accurate and detailed invoices based on the provided information. It can also help in calculating costs and providing quotations efficiently. Therefore, direct access to the LLM can significantly reduce the time it takes to complete this task with equivalent quality.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone can handle text-based tasks like generating invoices, additional software could be developed on top of the LLM to streamline the process further. This software could automate the retrieval of relevant data, such as shipping rates or customer information, to enhance the efficiency of preparing invoices and quotations. 
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not relevant for this task as it primarily involves working with text and numbers to prepare invoices and quotations for freight transportation.
+
+Based on the analysis, the task of preparing invoices or cost quotations for freight transportation aligns best with **E1 (Direct exposure)** as direct access to the LLM can significantly expedite the completion of the task.
+
+2: E1
+
+3: High

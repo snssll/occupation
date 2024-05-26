@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of designing or performing experiments as a Biochemist or Biophysicist, we need to consider the nature of the task and how it can be impacted by the use of a large language model (LLM).
+
+- E0: This task involves hands-on work with specialized equipment like lasers, accelerators, or mass spectrometers. It requires physical presence and manipulation of instruments, which cannot be replaced by text-based interactions with an LLM.
+
+- E1: While an LLM could potentially assist in providing background information, theoretical knowledge, or even help in designing experimental protocols through text-based interactions, the core aspect of physically performing experiments with equipment cannot be directly facilitated by an LLM. The hands-on nature of the task limits the direct exposure to an LLM to reduce the time significantly.
+
+- E2: An LLM-powered application could potentially aid in summarizing research papers, providing theoretical insights, or even suggesting experimental setups based on existing data. However, the actual performance of experiments with equipment still heavily relies on physical interaction and expertise that goes beyond text-based interactions with an LLM.
+
+- E3: The task does not involve image processing or analysis that would significantly benefit from additional image capabilities alongside the LLM. The core aspect of designing or performing experiments with equipment is more text-based and theoretical rather than image-dependent.
+
+2: E0
+
+3: High

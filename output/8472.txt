@@ -1,0 +1,12 @@
+1: In this task, an Emergency Management Director is responsible for inventorying and distributing specialized equipment for detecting nuclear, biological, and chemical substances. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves managing inventory and providing instructions on equipment maintenance and use, which can be text-based and require writing and transforming text according to complex instructions.
+- The task may involve summarizing information related to the equipment and its maintenance.
+- It may also involve providing feedback on documents related to equipment manuals or guidelines.
+- While the task does not explicitly require up-to-date facts, the LLM could assist in generating instructional materials or documentation based on general knowledge.
+
+Considering these points, the task can benefit from the direct access to the LLM for writing instructions, summarizing information, providing feedback, and preparing training materials. Therefore, the task falls under label E1.
+
+2: E1
+
+3: High

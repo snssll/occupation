@@ -1,0 +1,7 @@
+1: In this task, a loan officer is required to compute payment schedules for loans. This task involves complex calculations based on loan amount, interest rate, and loan term. With access to the powerful OpenAI large language model (LLM), the loan officer can input the necessary information and receive accurate payment schedules in a fraction of the time it would take to manually calculate them. The LLM can quickly perform the calculations and provide detailed payment schedules, saving significant time and effort for the loan officer.
+
+Considering the task involves writing and transforming text (payment schedules) based on complex calculations, the LLM can easily handle this task efficiently. The LLM's ability to process and generate text output based on input data aligns well with the requirements of computing payment schedules. Therefore, this task falls under the E1 label as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

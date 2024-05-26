@@ -1,0 +1,5 @@
+1: Critical Care Nurses are responsible for providing direct patient care in critical situations. One of the tasks they perform is coordinating patient care conferences. To determine the exposure label for this task, we need to consider if the task can be significantly expedited or improved by using the LLM. In this case, coordinating patient care conferences involves organizing schedules, communicating with various healthcare professionals, and ensuring all necessary information is shared effectively during the conference. While the LLM can assist in drafting communication messages or summarizing information, the core task of coordinating these conferences involves real-time interactions, scheduling, and coordination that may not be significantly enhanced by the LLM alone. Therefore, this task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: Moderate

@@ -1,0 +1,12 @@
+1: In this task, a Postal Service Clerk is responsible for posting announcements or government information on public bulletin boards. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a Postal Service Clerk to complete this task with high quality. 
+
+- The task involves straightforward instructions that can be easily understood and executed by a Postal Service Clerk.
+- The task does not require complex decision-making, critical analysis, or specialized domain knowledge that the LLM could provide.
+- The task does not involve writing lengthy documents, conducting research, or analyzing data that would benefit from the LLM's capabilities.
+- The task is manual in nature and involves physical posting, which cannot be directly assisted by the LLM.
+
+Based on these considerations, the task of posting announcements or government information on public bulletin boards does not benefit significantly from the LLM's capabilities. The task is straightforward and manual, requiring physical interaction that the LLM cannot assist with.
+
+2: E0
+
+3: High

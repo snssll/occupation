@@ -1,0 +1,5 @@
+1: In this task, the forest and conservation worker is required to drag cut trees from cutting areas and load them onto trucks. To determine the appropriate exposure label, we need to consider the nature of the task. This task involves physical labor, such as dragging trees and loading them onto trucks, which cannot be directly assisted by an LLM. The task also requires hands-on work and physical strength, which are not within the capabilities of the LLM. As such, there is no way for the LLM to significantly reduce the time it takes to complete this task with high quality. Therefore, this task falls under E0 as it does not benefit from LLM assistance.
+
+2: E0
+
+3: High

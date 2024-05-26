@@ -1,0 +1,7 @@
+1: In this task, a Layout Worker in Metal and Plastic is responsible for laying out and fabricating metal structural parts like plates, bulkheads, and frames. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+Given the nature of the task, which involves physical fabrication and precise measurements of metal parts, it is unlikely that the LLM or any tools built on top of it can effectively assist in completing the task. The task requires hands-on skills, knowledge of materials, and machinery operation, which are beyond the capabilities of the LLM. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM or LLM-powered tools.
+
+2: E0
+
+3: High

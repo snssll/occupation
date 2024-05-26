@@ -1,0 +1,5 @@
+1: In this task, a Molding, Coremaking, and Casting Machine Setter, Operator, and Tender for Metal and Plastic needs to obtain specified patterns, move them to work stations, and secure them to machines using wrenches. To determine the exposure level to LLM, we need to consider if the task can be completed more efficiently with the help of the LLM. Since this task involves physical actions like moving patterns and securing them with wrenches, it does not involve text-based or knowledge-based work that the LLM can directly assist with. The task does not involve writing, analyzing text, summarizing documents, or any other activity where the LLM could significantly reduce the time needed to complete the task. Therefore, the task falls under E0 as it does not benefit from LLM assistance.
+
+2: E0
+
+3: High

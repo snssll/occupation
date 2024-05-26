@@ -1,0 +1,5 @@
+1: In this task, an Order Clerk is responsible for recommending the type of packing or labeling needed on an order. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves analyzing the specifics of an order and making a recommendation based on that analysis. This task does not involve complex decision-making, specialized domain knowledge, or detailed visual analysis. It primarily requires understanding the order details and providing a recommendation based on that information. Given that the task is text-based and involves providing a recommendation, it aligns more closely with tasks that can be completed using an LLM directly. Therefore, this task falls under the E1 label as the LLM can assist in writing and transforming text according to complex instructions, providing edits, and making recommendations based on the input provided.
+
+2: E1
+
+3: High

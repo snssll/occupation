@@ -1,0 +1,13 @@
+1: In this task, a Rock Splitter in a quarry is responsible for drilling holes into stones, inserting dogs or attaching slings, and directing the removal of stones. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- Direct exposure (E1): The task of drilling holes into stones, inserting dogs or attaching slings, and directing the removal of stones involves physical labor and coordination that cannot be directly replaced by text-based instructions or responses from the LLM. Therefore, direct exposure to the LLM would not significantly reduce the time it takes to complete this task.
+
+- Exposure by LLM-powered applications (E2): While it is conceivable that software could be developed to assist with some aspects of this task, such as providing guidance on the best techniques for drilling or attaching slings, the physical nature of the work and the need for hands-on coordination make it unlikely that an LLM-powered application could reduce the time by half.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the completion of this task as it primarily involves physical actions and coordination rather than image-related tasks.
+
+Based on the analysis above, the task of a Rock Splitter in a quarry is best classified as E0 - No exposure.
+
+2: E0
+
+3: Certainty level: High

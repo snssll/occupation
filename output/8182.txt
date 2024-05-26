@@ -1,0 +1,13 @@
+1: In this task, a landscaping and groundskeeping worker is required to install various outdoor features such as rock gardens, ponds, decks, drainage systems, irrigation systems, retaining walls, fences, planters, or playground equipment. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and whether the LLM can significantly reduce the time it takes to complete it with equivalent quality.
+
+- E0: This task involves physical labor and hands-on work that cannot be automated or completed by a language model. The installation of outdoor features like rock gardens, ponds, decks, and playground equipment requires manual labor and expertise in landscaping.
+
+- E1: The task does not involve writing, transforming text, or providing feedback on documents. It is a practical, hands-on task that requires physical work and specialized skills. The LLM cannot directly assist in the installation of outdoor features.
+
+- E2: While the LLM could potentially provide information on how to install these outdoor features through text instructions, it cannot physically perform the installation. Developing software on top of the LLM to provide step-by-step instructions or guidance for installation could be possible but would not significantly reduce the time it takes to complete the task.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The installation of outdoor features like rock gardens and ponds does not require image capabilities.
+
+2: E0
+
+3: High

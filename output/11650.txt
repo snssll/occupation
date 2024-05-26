@@ -1,0 +1,7 @@
+1: In this task, a Maintenance and Repair Worker is required to perform routine maintenance on boilers, which includes tasks like replacing burners or hoses, installing replacement parts, or reinforcing structural weaknesses. To determine the appropriate exposure label, we need to consider if access to the LLM could significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+Given the nature of the task, which involves physical work and technical expertise in handling machinery like boilers, it is unlikely that the LLM alone or any software built on top of it could reduce the time it takes to complete the task by at least half. The task requires hands-on skills, knowledge of boiler systems, and physical work that cannot be replaced by text-based information or recommendations from the LLM. Therefore, this task falls under E0 as the LLM and related tools would not significantly decrease the time needed to complete the task for an experienced worker.
+
+2: E0
+
+3: High

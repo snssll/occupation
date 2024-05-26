@@ -1,0 +1,12 @@
+1: In this task, an Education Administrator is required to participate in special education-related activities, such as attending meetings and providing support to special educators throughout the district. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves attending meetings and providing support, which primarily requires written communication skills and knowledge of educational policies and procedures.
+- The task does not involve complex data analysis, specialized domain knowledge retrieval, or image processing.
+- The task does not require accessing up-to-date facts from the internet or making decisions that impact human livelihood.
+- The task does not involve detailed visuals, precise measurements, or physical interactions.
+
+Based on these considerations, the task does not significantly benefit from the capabilities of the LLM or additional software tools beyond what is commonly available. Therefore, the task is best classified as E0.
+
+2: E0
+
+3: High

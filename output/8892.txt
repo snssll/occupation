@@ -1,0 +1,7 @@
+1: In this task, a dishwasher is required to load or unload trucks that deliver or pick up food or supplies. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for a worker to complete this task with high quality.
+
+- E0: This task involves physical labor and direct interaction with trucks, which cannot be replaced by the LLM or any software tools. Therefore, this task is not suitable for any exposure label.
+
+2: E0
+
+3: High

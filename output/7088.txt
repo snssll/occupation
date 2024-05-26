@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of formulating or implementing sustainability campaign or marketing strategies as Chief Sustainability Officers, we need to consider the level of exposure to LLM.
+
+- E0: This task involves formulating and implementing strategies, which require a high level of human decision-making, creativity, and strategic thinking. LLMs may not significantly reduce the time it takes for an experienced Chief Sustainability Officer to complete this task, as it involves complex considerations beyond text generation.
+
+- E1: While LLMs can assist in generating text for campaign or marketing strategies, the task of formulating or implementing sustainability strategies goes beyond just text generation. It involves understanding the organization's goals, values, market positioning, and sustainability initiatives. LLMs may help with drafting specific text components, but the overall strategy development and implementation require human expertise.
+
+- E2: It is conceivable that additional software could be developed on top of LLMs to assist Chief Sustainability Officers in analyzing data, market trends, and sustainability metrics to inform their strategies. This software could potentially provide recommendations based on data analysis and text generation capabilities of LLMs, but the core strategic decision-making would still rely heavily on human expertise.
+
+- E3: Image capabilities are not relevant for this task as it primarily involves text-based tasks related to sustainability campaign or marketing strategies. 
+
+2: E0
+
+3: Moderate

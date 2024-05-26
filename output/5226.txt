@@ -1,0 +1,5 @@
+1: In this task, a neurologist is required to develop treatment plans based on diagnoses and evaluation of various factors such as age, general health, procedural risks, and costs. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves synthesizing complex medical information, considering multiple variables, and making informed decisions based on individual patient needs. While an LLM could potentially assist in providing general information on treatment options or guidelines, the task of developing personalized treatment plans for patients involves a high level of specialized medical knowledge, patient-specific data, and clinical judgment that goes beyond what an LLM can provide. Therefore, this task falls under E0 as it requires a high degree of human expertise, interaction, and decision-making that cannot be effectively replaced by an LLM.
+
+2: E0
+
+3: High

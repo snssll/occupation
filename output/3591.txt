@@ -1,0 +1,5 @@
+1: In this task, a Switchboard Operator is required to contact security staff members when necessary using radio-telephones. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves communication and coordination, which can be facilitated by the use of an LLM to draft messages or emails to security staff members. The LLM can assist in composing clear and concise messages, ensuring effective communication. However, the task does not involve complex data analysis, specialized domain knowledge, or image processing, which would require additional capabilities beyond text generation. Therefore, the task can benefit from the LLM's text generation capabilities to streamline communication but does not require advanced features such as summarizing documents or retrieving specialized knowledge.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,10 @@
+1: In this task, the occupation is Landscaping and Groundskeeping Workers, and the specific task is mowing or edging lawns using power mowers or edgers. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical labor that cannot be replaced by text-based instructions or information provided by the LLM. The task requires hands-on work with power mowers or edgers, which cannot be performed by the LLM.
+- E1: The task of mowing or edging lawns involves manual labor and practical skills that cannot be directly assisted by the LLM. While the LLM can provide information on landscaping techniques or equipment, it cannot physically perform the task of mowing or edging lawns.
+- E2: While the LLM could potentially provide information on landscaping best practices or equipment recommendations, it cannot directly assist in mowing or edging lawns. However, additional software could be developed to provide virtual simulations or training modules for landscaping tasks, which could enhance the efficiency of training groundskeeping workers.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

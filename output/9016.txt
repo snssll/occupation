@@ -1,0 +1,13 @@
+1: Postal Service Mail Carriers are responsible for delivering mail and packages to homes and businesses. One of the tasks associated with this occupation is maintaining accurate records of deliveries. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes to complete this task.
+
+- Direct exposure (E1): The task of maintaining accurate records of deliveries involves recording information about packages, addresses, delivery times, and any issues encountered during delivery. The LLM could potentially assist in organizing and summarizing this information, generating reports, or even providing reminders for upcoming deliveries. By using the LLM, a mail carrier could streamline the record-keeping process and ensure accuracy in their documentation, thus reducing the time needed to maintain these records.
+
+- Exposure by LLM-powered applications (E2): While the LLM alone may not drastically reduce the time needed to maintain accurate records of deliveries, additional software could be developed on top of the LLM to further enhance this process. For example, a specialized application could integrate real-time tracking data, optimize delivery routes, or automatically update records based on scanned barcodes. These capabilities could significantly improve efficiency but would require additional development beyond the LLM itself.
+
+- Exposure given image capabilities (E3): Image capabilities would not have a significant impact on the task of maintaining accurate records of deliveries. This task primarily involves text-based information such as addresses, tracking numbers, and delivery statuses, which can be effectively managed using text-based tools provided by the LLM.
+
+Based on the above analysis, the task of maintaining accurate records of deliveries aligns best with the E1 label, as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of raising funds for scientific research as an astronomer, we need to consider how the task can be completed with the help of an LLM. 
+
+- E0: This task involves human interaction and decision-making that cannot be fully automated by an LLM. Raising funds often requires building relationships, making persuasive arguments, and negotiating with potential donors, which are complex tasks that go beyond the capabilities of an LLM.
+
+- E1: While an LLM can assist in drafting fundraising proposals, providing information on research projects, and generating persuasive content, the actual process of raising funds involves a significant amount of human interaction and negotiation that cannot be fully automated by the LLM. Therefore, the time saved by using an LLM for this task would not be significant enough to warrant an E1 label.
+
+- E2: It is conceivable that additional software could be developed on top of an LLM to assist astronomers in raising funds more efficiently. This software could potentially analyze donor data, suggest fundraising strategies based on successful past campaigns, or even draft personalized fundraising pitches. However, the core aspect of building relationships and engaging with donors would still require human intervention.
+
+- E3: The task of raising funds for scientific research as an astronomer does not involve image capabilities, so an E3 label does not apply.
+
+2: E0
+
+3: Moderate

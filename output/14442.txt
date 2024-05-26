@@ -1,0 +1,5 @@
+1: In this task, a Meat, Poultry, and Fish Cutter and Trimmer is required to remove parts like skin, feathers, scales, or bones from a carcass. To determine the appropriate exposure label, we need to consider if the task can be significantly expedited or improved by using the LLM. Given the nature of the task, which involves physical actions such as cutting and trimming, it is unlikely that the LLM can directly assist in completing the task. The task requires manual dexterity, physical coordination, and knowledge of anatomy, which are not within the capabilities of the LLM. Therefore, this task falls under E0 as it does not benefit from LLM assistance.
+
+2: E0
+
+3: High

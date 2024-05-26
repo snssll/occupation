@@ -1,0 +1,7 @@
+1: In this task, a Continuous Mining Machine Operator is required to repair, oil, and adjust machines, as well as change cutting teeth using wrenches. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+Repairing, oiling, adjusting machines, and changing cutting teeth using wrenches involve physical actions and hands-on work that cannot be directly performed by an LLM. The task requires manual dexterity, knowledge of machinery, and the ability to physically interact with equipment. Since the task is hands-on and involves physical manipulation of machinery, it falls under the category of tasks that cannot be completed by an LLM or LLM-powered tool. Therefore, the appropriate label for this task is E0.
+
+2: E0
+
+3: High

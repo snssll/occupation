@@ -1,0 +1,5 @@
+1: In this task, a Maid or Housekeeping Cleaner is required to empty wastebaskets, clean ashtrays, and transport trash and waste to disposal areas. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves physical actions such as emptying wastebaskets and transporting trash, which cannot be directly performed by an LLM. While the LLM could potentially provide written instructions or guidelines on how to perform these tasks more efficiently, it cannot physically carry out the actions required. Therefore, the task does not fall under E1, E2, or E3 categories as it does not involve text input or output that can be directly processed by the LLM or any software built on top of it.
+
+2: E0
+
+3: High

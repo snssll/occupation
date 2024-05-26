@@ -1,0 +1,13 @@
+1: In this task, a First-Line Supervisor of Construction Trades and Extraction Workers is required to inspect work progress, equipment, or construction sites to verify safety or ensure that specifications are met. To determine the appropriate label from the exposure rubric, we can break down the task as follows:
+
+- **Inspect work progress, equipment, or construction sites**: The LLM could potentially assist in providing guidelines or checklists for inspections, highlighting common safety issues, or suggesting best practices for ensuring specifications are met. This could involve generating text-based inspection criteria or safety protocols.
+
+- **Verify safety**: The LLM could help by providing safety guidelines, regulations, or industry standards that the supervisor should be aware of during inspections. It could also assist in generating safety reports based on the information provided during the inspection.
+
+- **Ensure that specifications are met**: The LLM could potentially assist in providing information on construction specifications, blueprints, or standards that need to be followed. It could also help in generating reports comparing the actual work progress with the specified requirements.
+
+Considering the above breakdown, this task involves a significant amount of domain-specific knowledge related to construction trades and safety regulations. While the LLM can provide general information and guidelines, it may not have access to real-time data on specific construction sites or equipment. Therefore, the task falls under E2 - Exposure by LLM-powered applications, as additional software could be developed to retrieve up-to-date information on construction projects and safety regulations, which would enhance the supervisor's ability to inspect work progress and ensure safety.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, the occupation involves tailoring, dressmaking, and custom sewing. The specific task is pressing garments using hand irons or pressing machines. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- The task of pressing garments using hand irons or pressing machines is a manual and physical task that does not involve text input or output.
+- The task does not require complex instructions, writing, summarizing, translating, or any other text-based activities that the LLM excels at.
+- The task does not involve analyzing documents, providing feedback on text, or any other text-related activities that the LLM could assist with.
+- There is no need for image capabilities to complete the task as it is purely manual labor.
+- The task does not involve any decision-making that could be informed by the LLM.
+
+Based on these considerations, it is clear that the task of pressing garments using hand irons or pressing machines does not align with any of the exposure levels in the rubric. Therefore, it falls under E0 - No exposure.
+
+2: E0
+
+3: High

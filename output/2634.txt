@@ -1,0 +1,5 @@
+1: In this task, a Residential Advisor is required to compile information such as residents' daily activities and supply quantities to prepare reports. This task involves gathering data, organizing it, and summarizing it into reports. With the help of the LLM, the advisor can potentially streamline the process of compiling this information by quickly generating summaries, organizing data, and even drafting parts of the reports. The LLM can assist in writing and transforming text, summarizing documents, and maintaining records of written data, which are all tasks that can significantly reduce the time it takes to complete the task with equivalent quality. Therefore, this task falls under the E1 label as direct access to the LLM can reduce the time it takes to complete the task by at least half.
+
+2: E1
+
+3: High

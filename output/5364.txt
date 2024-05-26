@@ -1,0 +1,12 @@
+1: In this task, a Geothermal Technician is required to dig trenches for system piping to appropriate depths and lay piping in trenches. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for a Geothermal Technician to complete this task with high quality. 
+
+- The task involves physical labor, such as digging trenches, which cannot be directly assisted by the LLM.
+- The task requires precise measurements and physical coordination, which are not within the capabilities of the LLM.
+- The LLM cannot perform tasks that require physical actions or interactions with the environment.
+- While the LLM could potentially provide theoretical knowledge or guidelines related to geothermal systems, it cannot directly assist in the physical aspect of trench digging and piping laying.
+
+Based on these considerations, the task of digging trenches for system piping and laying piping in trenches is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

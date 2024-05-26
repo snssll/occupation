@@ -1,0 +1,5 @@
+1: In this task, a First-Line Supervisor of Farming, Fishing, and Forestry Workers is required to observe fish and beds or ponds to detect diseases, monitor fish growth, determine the quality of fish, or determine the completeness of harvesting. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can assist in providing information on common diseases in fish, growth monitoring techniques, factors affecting fish quality, and indicators of harvesting completeness. The model can also generate reports or summaries based on the observations made by the supervisor. However, the task involves physical observation and assessment of fish and ponds, which cannot be directly performed by the LLM. While the LLM can provide information and insights, it cannot replace the physical observation aspect of the task.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, a plumber, pipefitter, or steamfitter is required to plan pipe system layout, installation, or repair according to specifications. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete the task with equivalent quality.
+
+- E0: This task involves physical work and precise measurements, which cannot be effectively replaced by the LLM or any software tool. The task also requires hands-on skills and practical knowledge that are beyond the capabilities of the LLM.
+
+- E1: While the LLM could potentially assist in providing information or guidelines related to pipe systems, layout, or repair techniques, the task of planning the layout, installation, or repair itself involves practical considerations, measurements, and on-site assessments that the LLM cannot perform. Therefore, the LLM alone would not reduce the time significantly for completing this task.
+
+- E2: It is conceivable that specialized software could be developed on top of the LLM to assist in generating initial layout ideas, providing information on new techniques or materials, or even offering recommendations based on data input. However, the core task of planning the pipe system layout, installation, or repair would still heavily rely on physical work and practical knowledge, making it challenging for software to reduce the time significantly.
+
+- E3: The task does not involve image processing, reading text from PDFs, or creating/editing digital images, so the additional image capabilities would not have a significant impact on reducing the time to complete this task.
+
+2: E0
+
+3: High

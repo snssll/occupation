@@ -1,0 +1,13 @@
+1: In this task, the occupation of Floral Designers involves growing flowers for use in arrangements or for sale in a shop. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for a worker to complete this task with high quality.
+
+- E0: This task involves physical work such as growing flowers, which cannot be automated or completed by the LLM. The LLM cannot assist in the actual process of growing flowers, so this task falls under E0.
+
+- E1: The task does not involve writing, transforming text, providing edits, translating, summarizing documents, answering questions, or any other text-based activities that the LLM can directly assist with. Therefore, it does not qualify for E1.
+
+- E2: While it is conceivable that software could be developed to provide recommendations on flower growth based on data or written input, the task of physically growing flowers is not something that can be significantly expedited by the LLM alone. Thus, it does not fit under E2.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It is purely focused on the physical act of growing flowers, which does not benefit from the image capabilities of the LLM. Therefore, it does not fall under E3.
+
+2: E0
+
+3: High

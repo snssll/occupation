@@ -1,0 +1,7 @@
+1: In this task, a Statistical Assistant is required to code data before entering it into a computer. This task involves transforming text (data) according to specific instructions (lists of codes). The LLM can assist in generating code lists based on the data provided, ensuring accuracy and consistency in the coding process. The model can also help in understanding the context of the data and suggesting appropriate codes to use. Overall, the LLM can significantly reduce the time it takes to complete this task with equivalent quality by providing accurate and efficient coding suggestions.
+
+Based on the ability of the LLM to assist in transforming text according to specific instructions and providing code suggestions, this task falls under the E1 category as direct access to the LLM can reduce the time it takes to complete the task by at least half.
+
+2: E1
+
+3: High

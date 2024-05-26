@@ -1,0 +1,13 @@
+1: For the task of performing administrative duties such as hall and cafeteria monitoring and bus loading and unloading as a Preschool Teacher, the exposure to LLM can be evaluated as follows:
+
+- **E0**: This task involves physical activities such as monitoring and loading/unloading buses, which cannot be automated or assisted by LLM tools. The task also requires human interaction and real-time decision-making, which are not suitable for automation through LLM.
+
+- **E1**: While the task may involve some written documentation or communication related to administrative duties, the core activities of monitoring and loading/unloading buses are not text-based and do not benefit significantly from LLM assistance.
+
+- **E2**: It is challenging to imagine additional software built on top of LLM that could automate or significantly enhance the performance of physical tasks like bus monitoring and loading/unloading. The task is more operational and hands-on, making it less amenable to automation through LLM-powered applications.
+
+- **E3**: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of LLM are not relevant here.
+
+2: E0
+
+3: High

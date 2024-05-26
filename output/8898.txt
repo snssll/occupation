@@ -1,0 +1,5 @@
+1: In this task, the worker is required to load specified amounts of metal and flux into furnaces or clay crucibles. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves a physical action of loading materials into furnaces or crucibles, which cannot be directly performed by an LLM. The task does not involve complex decision-making, analysis, or writing that could be significantly aided by an LLM. Therefore, this task does not fall under E1, E2, or E3 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

@@ -1,0 +1,20 @@
+1: Mechatronics Engineers are responsible for designing, developing, or implementing control circuits or algorithms for electromechanical or pneumatic devices or systems. To determine the appropriate label for exposure to LLM, we need to consider the complexity of the task and whether the LLM can significantly reduce the time it takes to complete it.
+
+- Writing and transforming text and code according to complex instructions: The task involves designing control circuits or algorithms, which may require specialized knowledge and technical expertise beyond what an LLM can provide directly.
+- Providing edits to existing text or code following specifications: While the LLM can assist in generating text or code snippets, the task of designing control circuits or algorithms may not be easily reducible to simple edits.
+- Writing code that can help perform a task that used to be done by hand: The task involves creating code for control systems, which may not be directly translatable to a task done by hand.
+- Summarizing medium-length documents: The task does not involve summarizing documents.
+- Providing feedback on documents: The task does not involve providing feedback on documents.
+- Answering questions about a document: The task does not involve answering questions about a document.
+- Generating questions a user might want to ask about a document: The task does not involve generating questions about a document.
+- Writing questions for an interview or assessment: The task does not involve writing questions for an interview.
+- Writing and responding to emails, including ones that involve refuting information or engaging in a negotiation: The task does not involve writing or responding to emails.
+- Maintain records of written data: The task does not involve maintaining records of written data.
+- Prepare training materials based on general knowledge: The task does not involve preparing training materials based on general knowledge.
+- Inform anyone of any information via any written or spoken medium: The task does not involve informing others of information.
+
+Considering the above points, the task of designing control circuits or algorithms for electromechanical or pneumatic devices or systems is highly specialized and technical, requiring domain-specific knowledge that goes beyond what an LLM can provide. Therefore, the task is best classified as E0 - No exposure.
+
+2: E0
+
+3: High

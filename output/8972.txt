@@ -1,0 +1,10 @@
+1: In this task, the occupation involves sailors and marine oilers who are responsible for lower and manning lifeboats during emergencies. To determine the appropriate exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves a high degree of physical action and coordination, which cannot be replaced by the LLM or any software. It requires immediate action during emergencies, making it unsuitable for automation or assistance from the LLM.
+- E1: The task of lowering and manning lifeboats during emergencies is time-sensitive and requires physical actions that cannot be replicated by the LLM alone. While the LLM could potentially provide information on emergency procedures or guidelines, it cannot physically lower or man lifeboats.
+- E2: While the LLM could potentially provide information on emergency procedures or guidelines, it cannot directly assist in the physical task of lowering and manning lifeboats. However, it is conceivable that additional software could be developed to provide real-time guidance or simulations for emergency scenarios, which could enhance the efficiency of the task.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

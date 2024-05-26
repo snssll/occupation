@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of manipulating genomic, proteomic, or post-genomic databases as a Bioinformatics Scientist, we need to consider the capabilities of the LLM. The task involves working with databases containing genetic and biological information, which may require complex data manipulation, analysis, and interpretation. 
+
+- E0: This task involves specialized knowledge and skills in bioinformatics, which may not be directly addressable by the LLM alone. The task likely requires domain-specific expertise and understanding of biological data that may not be easily substituted by the LLM.
+
+- E1: While the LLM can assist in providing general information about bioinformatics and databases, it may not have the specialized knowledge required to manipulate these databases effectively. The task may involve technical skills and domain-specific expertise that go beyond what the LLM can provide.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Bioinformatics Scientists in manipulating databases more efficiently. This software could potentially integrate with existing bioinformatics tools to streamline data analysis and interpretation processes.
+
+- E3: With image capabilities, the LLM could potentially assist in visualizing data from the databases or generating visual representations of genomic or proteomic information. However, the task primarily involves database manipulation rather than image processing, so the impact of image capabilities may be limited.
+
+Based on the considerations above, the task of manipulating genomic, proteomic, or post-genomic databases as a Bioinformatics Scientist is best classified as E2.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, an Air Traffic Controller is required to conduct pre-flight briefings on various aspects related to flight safety, such as weather conditions, suggested routes, altitudes, indications of turbulence, and other relevant information. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E0: This task involves human interaction and real-time communication with pilots, which cannot be effectively replaced by the LLM. The task also requires the ability to make decisions based on the specific context of the flight, which the LLM cannot do.
+
+- E1: While the LLM can provide information on weather conditions, suggested routes, and other flight safety information based on the input provided, it cannot replace the interactive and real-time nature of conducting pre-flight briefings. The task involves a level of human judgment and decision-making that goes beyond the capabilities of the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in summarizing complex flight safety information, providing recommendations based on data, or analyzing written information to inform decisions. However, the real-time and interactive nature of conducting pre-flight briefings may still require human intervention and expertise.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

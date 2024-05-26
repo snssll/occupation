@@ -1,0 +1,11 @@
+1: In this task, a Correspondence Clerk is responsible for responding to requests for medical record information, copying records, and providing selective extracts while ensuring compliance with laws and regulations. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves responding to requests for information, which can be formulated as text input and output.
+- The task requires knowledge of laws and regulations related to medical records, which may need to be referenced during the response.
+- The task involves providing accurate and detailed information, which could benefit from the LLM's ability to generate text based on specific guidelines and instructions.
+
+Given these considerations, the task could benefit from the LLM's capabilities in generating written responses, ensuring compliance with regulations, and providing accurate information.
+
+2: E1
+
+3: Moderate

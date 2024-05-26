@@ -1,0 +1,12 @@
+1: In this task, the occupation involves installing blanket insulation between studs and tacking plastic moisture barriers over the insulation. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical labor and precise measurements, which cannot be effectively replaced by the LLM. The LLM does not have the capability to perform physical tasks like installing insulation or tacking barriers.
+- E1: The task description involves specific physical actions that cannot be directly performed by the LLM. While the LLM could potentially provide information on insulation types or installation techniques, it cannot physically install the insulation or barriers.
+- E2: While the LLM could potentially provide information on insulation materials or techniques, it is unlikely that additional software could be developed to physically perform the installation of insulation and barriers.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant here.
+
+Based on the above analysis, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, a Diagnostic Medical Sonographer is required to observe the screen during a scan to ensure that the image produced is satisfactory for diagnostic purposes and make adjustments to the equipment as necessary. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves observing images on a screen and making adjustments to equipment based on visual feedback. This task does not involve text input or output, and the context is primarily visual.
+- The task does not involve complex text transformations, writing, summarizing documents, or providing feedback on written content.
+- While the task may benefit from image recognition capabilities to assist in analyzing the images produced during the scan, the LLM itself does not have image processing capabilities.
+- The task does not involve creating or editing digital images, reading text from PDFs, or scanning images, which are capabilities associated with tasks labeled as E3.
+- The task does not involve highly specialized domain knowledge retrieval, making recommendations based on data, or analyzing written information to inform decisions, which are capabilities associated with tasks labeled as E2.
+
+Based on these considerations, the task of observing the screen during a scan and making equipment adjustments is best classified as E0, as it does not clearly benefit from the capabilities of the LLM or any systems built on top of it to significantly reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

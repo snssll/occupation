@@ -1,0 +1,5 @@
+1: In this task, a Gem and Diamond Worker is required to examine diamonds or gems to determine their shape, cut, and width of cut stones, or to select the cuts that will yield the largest, highest quality stones. This task involves visual inspection and assessment of physical objects, which cannot be directly performed by an LLM. The task also requires specialized knowledge and expertise in gemology, which goes beyond the capabilities of the LLM. Therefore, this task falls under E0 as it does not involve text input or output that can be processed by the LLM to significantly reduce the time needed to complete the task.
+
+2: E0
+
+3: High

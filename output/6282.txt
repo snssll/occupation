@@ -1,0 +1,13 @@
+1: In this task, a Drilling and Boring Machine Tool Setter, Operator, and Tender in the Metal and Plastic industry is required to establish zero reference points on workpieces. This task involves precision and accuracy in setting up the machinery for drilling and boring operations. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical manipulation of machinery and workpieces, requiring hands-on precision. The LLM cannot directly interact with physical objects or perform tasks that require precise measurements. Therefore, this task is unlikely to benefit from LLM assistance.
+
+- E1: The task does not involve writing, summarizing text, or providing feedback on documents. It is a hands-on task that requires manual dexterity and technical skills. The LLM is not suitable for directly assisting in this type of task.
+
+- E2: While it is conceivable that specialized software could be developed to assist with training materials or providing guidance on machinery setup, the complexity and specificity of this task may not be easily addressed by generic LLM capabilities alone. The task involves domain-specific knowledge and hands-on skills that may not be effectively supported by an LLM-powered application.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. The use of image capabilities would not significantly aid in establishing zero reference points on workpieces in this context.
+
+2: E0
+
+3: High

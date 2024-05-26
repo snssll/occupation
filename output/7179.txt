@@ -1,0 +1,7 @@
+1: In this task, the occupation is "Helpers--Carpenters" and the specific task is "Glue and clamp edges or joints of assembled parts." To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an average worker to complete this task with high quality. 
+
+Given the nature of the task, which involves physical actions like gluing and clamping, it is unlikely that the LLM can directly assist in completing this task. The task requires manual dexterity and physical coordination, which cannot be replaced by text-based instructions or information provided by the LLM. Additionally, the task does not involve complex decision-making, analysis of data, or written communication that the LLM could significantly aid with. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

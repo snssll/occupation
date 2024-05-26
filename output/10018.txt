@@ -1,0 +1,5 @@
+1: In this task, a real estate broker is responsible for monitoring the fulfillment of purchase contract terms to ensure they are handled promptly. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves tracking and overseeing the progress of contractual obligations, which primarily involves text-based information related to real estate transactions. An LLM could assist in summarizing contract terms, providing reminders for key deadlines, generating status updates, and even suggesting actions to take based on the terms of the contract. The LLM could also help in drafting communication related to contract fulfillment. However, since the task does not involve highly specialized domain knowledge or complex databases, and the information is primarily text-based and within the 2000-word context limit, the task falls under E1 exposure.
+
+2: E1
+
+3: High

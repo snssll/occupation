@@ -1,0 +1,5 @@
+1: In this task, a Food Cooking Machine Operator and Tender is required to pour, dump, or load specific quantities of ingredients or products into cooking equipment. This task involves physical actions such as pouring and loading, which cannot be directly assisted by an LLM. While the LLM could potentially provide information on ingredient quantities or cooking instructions, it cannot physically perform the task of pouring or loading ingredients. Therefore, this task does not involve text input or output that can be significantly assisted by the LLM. As a result, this task falls under E0 as it does not meet the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

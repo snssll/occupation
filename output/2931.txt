@@ -1,0 +1,7 @@
+1: In this task, a Nuclear Power Reactor Operator is required to conduct inspections or operations outside of control rooms as necessary. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality by at least half.
+
+- E0: This task involves physical work outside of control rooms, which cannot be performed by the LLM or any software tool. Therefore, this task falls under E0 as it does not involve text-based work that can be assisted by the LLM.
+
+2: E0
+
+3: High

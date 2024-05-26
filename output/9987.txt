@@ -1,0 +1,10 @@
+1: In this task, an Energy Engineer is required to monitor energy-related design or construction issues, such as energy engineering, energy management, or sustainable design. To determine the appropriate label from the exposure rubric, we need to consider if the task can be significantly expedited or improved by using the OpenAI large language model (LLM). 
+
+- E0: This task involves monitoring energy-related design and construction issues, which may require on-site visits, physical inspections, and interactions with various stakeholders. The task is likely hands-on and involves real-time decision-making based on physical observations, making it unsuitable for automation using the LLM.
+- E1: While the LLM can provide information on energy engineering, management, or sustainable design principles, it cannot replace the practical monitoring required in this task. The real-time nature of monitoring construction issues and the need for physical presence make it challenging for the LLM to significantly reduce the time or improve the quality of this task.
+- E2: Developing software on top of the LLM that could analyze construction data, provide real-time insights, or automate certain monitoring aspects might be possible. However, the complexity of the task, which involves on-site monitoring and interactions, makes it difficult to envision a software solution that could halve the time needed for an Energy Engineer to complete the task.
+- E3: The task does not involve image processing, reading text from PDFs, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant to this task.
+
+2: E0
+
+3: High

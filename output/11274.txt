@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of participating in the research, development, or manufacturing of medicinal and pharmaceutical preparations as a Biological Technician, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves hands-on work in a laboratory setting, which requires physical interaction and precise measurements. LLM cannot perform tasks that require physical manipulation or detailed measurements, so this task is not suitable for LLM exposure.
+
+- E1: LLM can assist in providing information, summarizing documents, or answering questions related to medicinal and pharmaceutical preparations. However, the hands-on nature of research, development, and manufacturing in a laboratory setting goes beyond what LLM can directly assist with.
+
+- E2: While LLM can provide information and potentially assist in some aspects of research and development, the complexity and specialized knowledge required in the field of medicinal and pharmaceutical preparations may not be fully covered by LLM alone. Additional software that integrates LLM capabilities with specialized domain knowledge could potentially enhance the efficiency of certain tasks but may not reduce the time significantly for hands-on laboratory work.
+
+- E3: LLM does not have image capabilities that would significantly impact the task of participating in the research, development, or manufacturing of medicinal and pharmaceutical preparations, as this task primarily involves hands-on laboratory work rather than image processing.
+
+2: E0
+
+3: High

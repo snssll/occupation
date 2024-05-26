@@ -1,0 +1,13 @@
+1: Financial Quantitative Analysts are responsible for developing and maintaining financial models to analyze data and inform investment decisions. The task provided, "Maintain or modify all financial analytic models in use," involves updating and adjusting existing financial models to ensure they accurately reflect the current market conditions and meet the organization's needs. To determine the appropriate exposure label for this task in relation to the LLM, we can break it down as follows:
+
+- Writing and transforming text and code according to complex instructions: The task involves modifying financial analytic models, which may require updating code and text within these models based on new data or requirements.
+- Providing edits to existing text or code following specifications: The task may involve making specific edits to the code or text within financial models to improve their accuracy or functionality.
+- Writing code that can help perform a task that used to be done by hand: Financial models often involve complex calculations that can be automated through code, which may be relevant to this task.
+- Maintain records of written data: Updating and modifying financial models involves maintaining records of changes made, which aligns with this aspect.
+- Prepare training materials based on general knowledge: While not directly related to training materials, maintaining financial models may involve documenting changes or providing guidance on model usage.
+
+Considering these points, the task of maintaining or modifying financial analytic models in use aligns closely with the capabilities of the LLM in terms of writing code, providing edits, and maintaining records of written data. Therefore, this task falls under the E1 label as the LLM can significantly reduce the time needed to update and modify financial models with equivalent quality.
+
+2: E1
+
+3: Moderate

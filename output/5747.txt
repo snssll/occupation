@@ -1,0 +1,10 @@
+1: Phlebotomists are healthcare professionals responsible for drawing blood from patients for medical testing, donations, or research. One of the tasks they perform is disposing of contaminated sharps safely and appropriately. To determine the exposure label for this task in relation to the LLM, we need to consider if the LLM can significantly reduce the time it takes for a phlebotomist to understand and comply with the laws, standards, and policies related to sharps disposal. 
+
+- E0: If this task involves specific legal requirements, such as proper disposal methods mandated by law, and the LLM cannot provide real-time, up-to-date legal information or guidance, then it would be classified as E0.
+- E1: If the LLM can quickly provide information on the latest laws, standards, and policies regarding sharps disposal, helping phlebotomists stay compliant and informed, then it would be classified as E1.
+- E2: If there were additional software developed on top of the LLM that could summarize complex legal documents, provide real-time updates on regulations, and offer tailored guidance on sharps disposal practices, it could potentially reduce the time for phlebotomists to ensure compliance, making it an E2 task.
+- E3: If the task involved interpreting detailed visual instructions or diagrams related to sharps disposal, such as proper container labeling or disposal procedures, then it might benefit from image capabilities in addition to text-based information, making it an E3 task.
+
+2: E1
+
+3: Moderate

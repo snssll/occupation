@@ -1,0 +1,5 @@
+1: In this task, a Counter and Rental Clerk is responsible for inspecting and adjusting rental items to meet the needs of the customer. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves inspecting items, understanding customer needs, and making adjustments accordingly. This task does not involve complex text generation, specialized domain knowledge, or image processing. The task is straightforward and does not require the use of an LLM for completion. Therefore, this task falls under E0 as it does not benefit from the capabilities of an LLM.
+
+2: E0
+
+3: High

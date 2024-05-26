@@ -1,0 +1,9 @@
+1: In this task, a construction laborer is responsible for either demolishing buildings (raze buildings) or salvaging materials from buildings that are being demolished. To determine the appropriate exposure label, we need to consider the nature of the task and how it can be impacted by the use of the LLM. 
+
+- Razing buildings involves physical work such as using tools and heavy machinery to demolish structures. This task requires hands-on work, precise measurements, and adherence to safety protocols. The LLM cannot physically perform these actions, and the task does not involve text-based instructions or data analysis that the LLM could significantly assist with. Therefore, the LLM would not reduce the time it takes to complete this task.
+
+- Salvaging useful materials may involve identifying valuable components within a building before demolition. While the LLM could potentially assist in identifying valuable materials based on descriptions or specifications provided, the task still heavily relies on physical inspection and manual labor to extract and salvage these materials. The LLM's text-based capabilities would not significantly impact the completion time of this task.
+
+2: E0
+
+3: High

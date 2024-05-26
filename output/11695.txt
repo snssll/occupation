@@ -1,0 +1,10 @@
+1: In this task, a Clinical Research Coordinator is required to perform specific protocol procedures such as interviewing subjects, taking vital signs, and performing electrocardiograms. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM or LLM-powered tools can significantly reduce the time it takes for a Clinical Research Coordinator to complete this task with high quality.
+
+- E0: This task involves hands-on, physical procedures that cannot be replaced by text-based interactions with the LLM. The LLM cannot perform tasks that require precise measurements or physical examinations.
+- E1: The LLM could potentially assist in providing information related to specific protocol procedures, such as guidelines for conducting interviews or interpreting electrocardiograms. It could also help in generating documentation or reports based on the data collected during these procedures.
+- E2: While the LLM alone may not reduce the time significantly for performing the actual procedures, additional software could be developed to provide real-time guidance during the procedures, offer insights based on the latest research findings, or assist in analyzing the data collected.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant here.
+
+2: E1
+
+3: Moderate

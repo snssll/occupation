@@ -1,0 +1,13 @@
+1: In this task, a Speech-Language Pathologist is required to develop or implement treatment plans for various speech and language disorders based on assessments and recommendations from other professionals. To determine the exposure level to LLM, we need to consider if the LLM can assist in developing treatment plans, providing recommendations, or analyzing assessments related to speech and language disorders. 
+
+- E0: This task involves a high level of expertise and human interaction, as it requires specialized knowledge in speech and language pathology. The task also involves making decisions based on assessments and recommendations from other professionals, which may have legal implications. The LLM cannot make decisions that impact human livelihood, and it cannot provide specialized domain knowledge in speech and language pathology.
+
+- E1: The LLM could potentially assist in providing general information about speech and language disorders, but it may not have the specialized knowledge required to develop specific treatment plans. It could help in summarizing information or providing general recommendations, but the task involves more than just writing or transforming text—it requires expertise in the field.
+
+- E2: While the LLM alone may not significantly reduce the time to complete the task, additional software could be developed on top of the LLM to provide recommendations or analyze assessments related to speech and language disorders. This software could potentially retrieve specialized domain knowledge or make suggestions based on data input.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not relevant in this context.
+
+2: E2
+
+3: Moderate

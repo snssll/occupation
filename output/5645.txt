@@ -1,0 +1,7 @@
+1: In this task, an Inspector, Tester, Sorter, Sampler, or Weigher is required to disassemble defective parts or components, such as inaccurate or worn gauges or measuring instruments. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical disassembly of parts, which cannot be done by the LLM or any software tool. Therefore, this task does not fit into any of the exposure categories as it cannot be completed using the LLM.
+
+2: E0
+
+3: High

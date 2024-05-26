@@ -1,0 +1,9 @@
+1: In this task, the occupation of Roof Bolters, Mining involves the responsibility of securing the roof in underground mines to prevent collapses. The specific task mentioned is pulling down loose rock that cannot be supported, which is a critical aspect of maintaining safety in mining operations.
+
+To determine the appropriate exposure label for this task in relation to the LLM, we need to consider the nature of the task. Pulling down loose rock in a mining environment requires physical action and on-site presence. It involves assessing the stability of the rock, determining the safest method of removal, and executing the task while ensuring safety protocols are followed.
+
+Given that this task involves physical work in a hazardous environment, it is not something that can be directly assisted by the LLM. The LLM does not have the capability to perform physical actions or interact with the physical environment. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

@@ -1,0 +1,12 @@
+1: In this task, a Probation Officer or Correctional Treatment Specialist is required to develop rehabilitation programs for assigned offenders or inmates, establishing rules of conduct, goals, and objectives. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves creating rehabilitation programs, which may require writing and transforming text based on complex instructions and guidelines.
+- The task may involve summarizing information about offenders or inmates to tailor the programs effectively.
+- The task could benefit from generating questions or feedback on the effectiveness of the programs.
+- The task may involve maintaining records of the programs developed and the progress of the offenders or inmates.
+
+Considering these aspects, the task aligns closely with the capabilities of the LLM in terms of writing, summarizing, generating questions, and maintaining records. Therefore, this task falls under E1 as direct access to the LLM can significantly reduce the time it takes to complete the task with equivalent quality.
+
+2: E1
+
+3: High

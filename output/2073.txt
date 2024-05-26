@@ -1,0 +1,11 @@
+1: In this task, the main responsibility is to clean various areas to ensure health standards are met. This task involves following specific cleaning protocols and standards to maintain cleanliness and hygiene. To determine the exposure level to LLM, we need to consider if the task can be significantly expedited or improved by using the language model. 
+
+- Direct exposure (E1): The task of cleaning rooms and maintaining hygiene does not involve complex text transformations, code writing, or language-related tasks that would benefit significantly from direct access to the LLM. While the LLM could potentially provide information on cleaning techniques or standards, the task itself does not heavily rely on text-based interactions that would be significantly enhanced by the LLM.
+
+- Exposure by LLM-powered applications (E2): While it is conceivable that software could be developed on top of the LLM to provide recommendations on cleaning techniques, safety standards, or product recommendations, the core task of physically cleaning various areas does not directly align with the capabilities of the LLM. The task is more practical and hands-on, requiring physical cleaning rather than text-based interactions.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the task of cleaning rooms and work areas to meet health standards. This task is primarily focused on physical cleaning rather than image processing or visual tasks that would benefit from image capabilities in conjunction with the LLM.
+
+2: E0
+
+3: High

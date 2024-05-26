@@ -1,0 +1,7 @@
+1: In this task, a Financial Risk Specialist is responsible for maintaining the input or data quality of risk management systems. This task involves ensuring that the data input into risk management systems is accurate, up-to-date, and of high quality to support effective risk assessment and decision-making. With the help of a large language model (LLM), the specialist could potentially automate certain aspects of data quality maintenance by generating scripts or code to check for inconsistencies, errors, or missing information in the input data. The LLM could also assist in identifying patterns or anomalies in the data that may indicate data quality issues. Additionally, the LLM could help in generating reports or summaries of data quality metrics for review and analysis by the specialist.
+
+Considering the nature of the task and the capabilities of the LLM, it falls under E2 - Exposure by LLM-powered applications. While direct access to the LLM alone may not reduce the time it takes to complete the task by at least half, it is easy to imagine additional software that could be developed on top of the LLM to streamline and automate data quality maintenance processes for risk management systems.
+
+2: E2
+
+3: Moderate

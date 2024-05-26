@@ -1,0 +1,13 @@
+1: In this task, a Transportation Security Screener is required to inspect checked baggage for signs of tampering. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task of inspecting checked baggage for signs of tampering involves visual inspection and assessment based on established security protocols. While an LLM could potentially provide information on common signs of tampering or guidelines for inspection, the task itself heavily relies on physical inspection and security training. The LLM may not significantly reduce the time it takes to complete this task with equivalent quality as it involves hands-on, practical skills that cannot be fully replicated by text-based instructions alone.
+
+- Exposure by LLM-powered applications (E2): While an LLM could potentially assist in providing general information on security protocols or common signs of tampering, the task of physically inspecting baggage for security purposes is not easily reducible to text-based instructions or automated processes. Developing software on top of the LLM that could perform physical inspections or provide real-time security analysis of baggage would be complex and likely not feasible given the limitations of current technology.
+
+- Exposure given image capabilities (E3): Image capabilities could potentially assist in analyzing X-ray images of baggage for signs of tampering. However, the task of physically inspecting checked baggage for signs of tampering involves more than just visual analysis; it requires physical interaction with the baggage and adherence to security protocols that cannot be fully captured through images alone.
+
+Based on the above considerations, the task of inspecting checked baggage for signs of tampering is best classified as E0, as the nature of the task involves physical inspection and adherence to security protocols that cannot be significantly aided by an LLM or LLM-powered tool.
+
+2: E0
+
+3: High certainty

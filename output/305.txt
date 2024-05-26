@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of advising clients about makeup colors and types as well as instructing them in makeup application techniques as a Skincare Specialist, we need to consider the nature of the task and how it can be supported by the capabilities of the LLM.
+
+- The task involves providing personalized advice on makeup colors and types based on individual client needs and preferences. The LLM can assist in generating recommendations for makeup products based on general knowledge of makeup trends, skin types, and color theory.
+- Instructing clients in makeup application techniques requires clear and detailed explanations, which the LLM can help generate by providing step-by-step instructions and tips on makeup application.
+- The task does not involve precise measurements or detailed visuals that would require image capabilities beyond what the LLM can provide.
+
+Considering these points, the task can benefit from the LLM's ability to generate text-based recommendations, instructions, and explanations related to makeup colors, types, and application techniques. While the task may involve some level of personalization that the LLM may not fully capture, it can still significantly reduce the time needed to create initial drafts of advice and instructions.
+
+2: E1
+
+3: Moderate

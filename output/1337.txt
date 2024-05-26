@@ -1,0 +1,11 @@
+1: In this task, the Funeral Attendants are responsible for assisting with cremations and the processing and packaging of cremated remains. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves physical actions such as assisting with cremations, which cannot be directly performed by an LLM.
+- The task also involves handling cremated remains, which requires physical presence and actions that an LLM cannot carry out.
+- There is no text-based or image-based information processing involved in this task that could be significantly aided by an LLM.
+
+Based on these considerations, it is clear that the task of assisting with cremations and processing cremated remains falls under E0 as it involves physical actions that cannot be replaced or significantly aided by an LLM.
+
+2: E0
+
+3: High

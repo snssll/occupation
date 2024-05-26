@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of contacting pilots by radio to provide meteorological, navigational, or other information as an Air Traffic Controller, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The task involves communication with pilots via radio, which requires real-time interaction and decision-making based on dynamic factors such as weather conditions and aircraft positions. While the LLM could potentially assist in drafting scripts or messages, the real-time nature of the task and the need for immediate responses make it challenging for the LLM to significantly reduce the time it takes to complete the task with equivalent quality. Therefore, direct exposure to the LLM may not be the most suitable for this task.
+
+- E2: Exposure by LLM-powered applications - While the LLM could potentially assist in generating pre-written messages or providing information based on predefined criteria, the task of contacting pilots by radio as an Air Traffic Controller involves a high level of real-time decision-making and interaction that may not be easily automated by additional software developed on top of the LLM. Therefore, exposure to the LLM alone may not reduce the time it takes to complete the task by at least half.
+
+- E3: Exposure given image capabilities - The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so exposure to image capabilities provided by the LLM is not relevant for this task.
+
+Based on the above considerations, the most appropriate label for the task of contacting pilots by radio to provide meteorological, navigational, or other information as an Air Traffic Controller is E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

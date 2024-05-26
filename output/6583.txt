@@ -1,0 +1,7 @@
+1: In this task, an animal breeder is required to examine animals to detect symptoms of illness or injury. With access to the most powerful OpenAI large language model (LLM), the breeder could potentially use the model to research and understand various symptoms, illnesses, and injuries that commonly affect animals. The LLM could provide information on different signs to look out for, potential causes, and recommended actions to take if symptoms are detected. The breeder could also use the LLM to stay updated on the latest veterinary practices and treatments.
+
+Considering the task involves examining animals physically to detect symptoms, the LLM alone would not significantly reduce the time it takes for an experienced animal breeder to complete this task. While the LLM can provide information and guidance, the core aspect of physically examining the animals cannot be replaced by the model. However, additional software could potentially be developed on top of the LLM to create a database of common symptoms, illnesses, and injuries in animals, along with recommended actions. This software could assist breeders in quickly accessing relevant information during their examinations, potentially reducing the time needed to cross-reference symptoms and conditions.
+
+2: E2
+
+3: Moderate

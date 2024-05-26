@@ -1,0 +1,15 @@
+1: In this task, a Fundraising Manager or Fundraiser is responsible for developing strategies to encourage new or increased contributions for a cause or organization. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- E0: This task involves strategic thinking, planning, and decision-making based on a deep understanding of fundraising principles and practices. While an LLM could potentially provide general information on fundraising strategies, the task itself requires specialized knowledge and expertise that goes beyond what the LLM can offer. The task also involves human interaction, decision-making, and potentially negotiations, which are not within the capabilities of the LLM.
+
+- E1: While the LLM could potentially provide some general information on fundraising strategies, it cannot replace the specialized knowledge and expertise required for this task. The task involves developing tailored strategies based on specific organizational goals, donor profiles, and fundraising best practices, which goes beyond what the LLM can provide. Additionally, the task may involve human interaction, negotiation, and decision-making, which are not within the capabilities of the LLM.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist with tasks related to fundraising strategies. This software could potentially help in summarizing fundraising research, analyzing donor data, or providing recommendations based on fundraising trends. However, the core task of developing tailored strategies to encourage contributions still requires specialized knowledge and expertise that the LLM alone cannot provide.
+
+- E3: The task of developing fundraising strategies does not involve image processing or analysis, so the image capabilities of the LLM are not relevant in this context.
+
+Based on the above analysis, the most appropriate exposure label for this task is E0.
+
+2: E0
+
+3: High

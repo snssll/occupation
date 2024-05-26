@@ -1,0 +1,5 @@
+1: In this task, the main responsibility is to administer vaccines to animals to protect them from diseases. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Administering vaccines to animals involves physical actions such as placing vaccines in drinking water, injecting vaccines, or dusting air with vaccine powder. These actions require hands-on work and cannot be directly performed by an LLM or any software tool. The task also involves interacting with animals, assessing their health, and making decisions based on their condition, which are not within the capabilities of an LLM. Therefore, this task falls under E0 as it requires physical actions, human judgment, and cannot be significantly aided by an LLM.
+
+2: E0
+
+3: High

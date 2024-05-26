@@ -1,0 +1,13 @@
+1: In this task, a Cytogenetic Technologist is responsible for preparing biological specimens for chromosome examinations. This task involves handling various biological samples and ensuring they are properly processed for analysis. To determine the appropriate exposure label for this task in relation to the LLM, we need to consider the complexity and variability of the task. 
+
+- E0: This task involves physical handling of biological specimens, which cannot be automated or completed by the LLM. The expertise required in processing these samples goes beyond the capabilities of text-based AI models.
+
+- E1: While the task description involves specific actions related to preparing biological specimens, such as amniotic fluids and blood, the actual physical handling and processing of these samples cannot be directly performed by the LLM. The detailed steps involved in preparing these samples require hands-on expertise that cannot be replicated by text-based AI alone.
+
+- E2: It is conceivable that software could be developed to assist Cytogenetic Technologists in documenting and tracking specimen processing, maintaining records, or providing guidance on best practices. However, the core task of physically preparing biological specimens for chromosome examinations would still require human intervention and expertise.
+
+- E3: The task does not involve image processing or analysis that would benefit significantly from image capabilities in conjunction with the LLM. The primary focus is on the physical preparation of biological samples rather than image-related tasks.
+
+2: E0
+
+3: High

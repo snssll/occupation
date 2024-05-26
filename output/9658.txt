@@ -1,0 +1,5 @@
+1: In this task, a Refractory Materials Repairer is required to measure furnace walls to determine dimensions and cut the required number of sheets from a plastic block using saws. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the capabilities of the LLM. The task involves physical measurements, cutting materials, and using saws, which are manual tasks that cannot be directly assisted by the LLM. The LLM does not have the ability to physically measure or cut materials. While the LLM could potentially provide information on refractory materials, repair techniques, or safety guidelines, the core task of measuring and cutting materials is not something the LLM can directly assist with. Therefore, this task falls under E0 as it does not significantly benefit from the capabilities of the LLM.
+
+2: E0
+
+3: High

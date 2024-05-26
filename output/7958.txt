@@ -1,0 +1,5 @@
+1: In this task, a Pest Control Worker is required to inspect premises to identify infestation sources, extent of damage to property, wall, or roof porosity, and access to infested locations. To determine the exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for a Pest Control Worker to complete this task with high quality. The task involves physical inspection, observation, and assessment of the premises, which cannot be directly assisted by the LLM. The LLM cannot physically inspect the premises or assess the extent of damage. While the LLM could potentially provide information on common infestation sources or methods for inspection, it cannot replace the hands-on inspection required for this task. Therefore, the task does not fall under E1 as the LLM alone cannot reduce the time significantly. Additionally, developing software on top of the LLM to assist in physical inspection is not feasible. The task also does not involve reading text from PDFs or creating/editing digital images, so it does not fall under E3. Hence, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of "Inventory products and order new supplies" for Spa Managers, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - If the task involves writing and transforming text (e.g., creating inventory lists, ordering supplies), providing edits to existing text (e.g., updating inventory records), or generating questions (e.g., related to supply needs), then direct access to the LLM could significantly reduce the time needed to complete the task with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - While the task may not be directly reducible to text input and output, additional software could be developed on top of the LLM to streamline inventory management processes, such as automatically generating supply orders based on inventory levels and trends.
+
+- E3: Exposure given image capabilities - Since the task does not involve reading text from PDFs or editing digital images, the use of image capabilities provided by the LLM is not relevant in this context.
+
+Based on the considerations above, the task of "Inventory products and order new supplies" for Spa Managers is most likely classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

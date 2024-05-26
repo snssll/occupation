@@ -1,0 +1,5 @@
+1: Phlebotomists are healthcare professionals responsible for drawing blood from patients for various purposes like medical tests, transfusions, donations, etc. One of the tasks they perform is drawing blood from capillaries by dermal puncture, such as heel or finger stick methods. To determine the appropriate exposure label for this task in relation to the LLM, we need to consider the nature of the task. Drawing blood from capillaries by dermal puncture involves a hands-on, physical procedure that requires precision and skill. This task cannot be automated or performed by a language model as it involves interacting with patients, locating veins, and performing the actual blood draw. The LLM, even with additional software, cannot physically perform this task or reduce the time it takes for a phlebotomist to complete it.
+
+2: E0
+
+3: High

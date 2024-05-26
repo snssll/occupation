@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of explaining and demonstrating safety procedures and safety equipment use as a Passenger Attendant, we need to consider the nature of the task and how it can be completed with the help of an LLM.
+
+- E0: This task involves human interaction and physical demonstration, which cannot be replaced by text-based instructions or responses from an LLM. The hands-on aspect of demonstrating safety procedures and equipment use requires direct human involvement.
+
+- E1: While an LLM could potentially provide written instructions or scripts for explaining safety procedures, it cannot physically demonstrate the procedures or equipment use. The task involves practical, hands-on demonstrations that go beyond text-based communication.
+
+- E2: An LLM-powered application could potentially assist in creating training materials or scripts for explaining safety procedures. However, the task of physically demonstrating safety procedures and equipment use would still require human intervention. The LLM could help in preparing written materials related to safety instructions.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It is primarily focused on practical demonstrations and verbal communication, which are not directly related to image capabilities.
+
+Based on the above analysis, the most appropriate label for this task is E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,11 @@
+1: For the task of requisitioning supplies or equipment needed for cleaning and maintenance duties as a Janitor or Cleaner, the exposure to LLM can be evaluated as follows:
+
+- **E1 (Direct exposure):** The task involves writing and transforming text to create supply requisition lists. The LLM can assist in generating these lists based on specific requirements provided. It can also help in organizing the information in a clear and concise manner. Additionally, the LLM can provide suggestions for the best cleaning and maintenance products based on the given context.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone can streamline the process of creating supply requisition lists, additional software could be developed to further enhance this task. For example, an application could be created that automatically checks the inventory levels, compares prices from different vendors, and generates optimized supply orders based on historical data and current needs.
+
+- **E3 (Exposure given image capabilities):** Image capabilities are not directly relevant to the task of requisitioning supplies or equipment for cleaning and maintenance duties. Therefore, this task does not fall under E3.
+
+2: E2
+
+3: Moderate

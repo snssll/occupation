@@ -1,0 +1,9 @@
+1: In this task, a Physical Therapist Assistant is required to perform therapeutic wound care. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+Performing therapeutic wound care involves hands-on skills, knowledge of wound healing processes, infection control, and specific techniques for wound treatment. This task requires physical interaction with patients, assessing wounds, applying appropriate dressings, and monitoring healing progress. The task does not involve text-based or data-driven processes that could be easily automated by the LLM. 
+
+Given that the task is hands-on and requires physical interaction, it falls under the category of tasks that cannot be effectively completed by the LLM or LLM-powered tools. Therefore, the appropriate exposure label for this task is E0.
+
+2: E0
+
+3: High

@@ -1,0 +1,5 @@
+1: In this task, a bus driver is required to assist passengers, including elderly or individuals with disabilities, on and off the bus, ensure they are seated properly, help carry baggage, and answer questions about bus schedules or routes. This task involves a significant amount of physical interaction and assistance, which cannot be replaced by the capabilities of an LLM. The task also requires real-time decision-making and physical presence, which are not within the scope of what an LLM can do. Therefore, this task falls under the E0 category as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

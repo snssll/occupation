@@ -1,0 +1,13 @@
+1: In this task, a Compliance Manager is responsible for disseminating written policies and procedures related to compliance activities. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E1: Direct exposure - The LLM can help in writing and transforming text according to complex instructions, providing edits to existing text, and summarizing documents. In this case, the LLM could assist in generating written policies and procedures based on input or refining existing documents to ensure clarity and compliance.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time to complete the task, additional software could be developed to summarize longer documents, retrieve up-to-date compliance information, or provide recommendations based on data analysis. Such tools could enhance the efficiency of disseminating policies and procedures.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant to this task as it primarily involves disseminating written policies and procedures, which do not require image processing.
+
+Based on the above analysis, the task of disseminating written policies and procedures related to compliance activities could be best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

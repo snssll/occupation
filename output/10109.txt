@@ -1,0 +1,7 @@
+1: In this task, an anesthesiologist is required to monitor patients before, during, and after anesthesia to ensure their safety and well-being. This involves assessing the patient's condition, adjusting anesthesia levels as needed, and responding to any adverse reactions or complications that may arise. To determine the appropriate label from the exposure rubric, we need to consider whether access to the LLM alone or with additional software could significantly reduce the time it takes for an anesthesiologist to perform this task with equivalent quality.
+
+- E0: This task involves direct patient care and critical decision-making based on real-time patient assessments. The task requires hands-on monitoring, physical intervention, and immediate responses to changing patient conditions. The LLM or any software built on top of it cannot replace the expertise, experience, and physical presence required for an anesthesiologist to effectively monitor and manage patients during anesthesia.
+
+2: E0
+
+3: High

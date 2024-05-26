@@ -1,0 +1,5 @@
+1: In this task, a Validation Engineer is required to draw samples of raw materials, intermediate products, or finished products for validation testing. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves physical actions of drawing samples, which cannot be directly performed by an LLM. While the LLM could potentially assist in providing information on validation testing procedures or documentation related to the samples, it cannot physically draw the samples itself. Therefore, this task falls under E0 as it involves physical actions that cannot be directly assisted by the LLM.
+
+2: E0
+
+3: High

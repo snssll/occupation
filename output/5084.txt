@@ -1,0 +1,12 @@
+1: In this task, a Security Management Specialist is required to develop or review specifications for the design or construction of security systems. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves writing and transforming text according to complex instructions related to security system specifications.
+- The task may require providing edits to existing text following specific security system requirements.
+- The LLM can assist in generating detailed specifications based on general security system knowledge.
+- The task does not involve any visual elements or interactions that would require image capabilities.
+
+Considering these points, the task can be significantly aided by the LLM in terms of writing, transforming text, and providing detailed specifications based on security system knowledge. Therefore, this task falls under the E1 exposure label as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

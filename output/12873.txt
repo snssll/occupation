@@ -1,0 +1,5 @@
+1: In this task, a lawyer is required to prepare, draft, and review legal documents such as wills, deeds, patent applications, mortgages, leases, and contracts. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can assist in writing and transforming text according to complex instructions, providing edits to existing text following specifications, and generating text based on general knowledge. However, legal documents require a high level of precision, accuracy, and legal expertise, which may not be fully captured by the LLM alone. While the LLM can help with drafting and generating text, it may not have the specialized legal knowledge required to ensure the documents are legally sound and compliant. Therefore, this task falls under E2 - Exposure by LLM-powered applications, as additional software could be developed on top of the LLM to provide more specialized legal knowledge and ensure the accuracy and legality of the documents.
+
+2: E2
+
+3: Moderate

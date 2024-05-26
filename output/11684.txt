@@ -1,0 +1,10 @@
+1: In this task, a construction laborer is required to perform site activities related to green certified construction practices. This involves implementing waste management procedures, identifying materials for reuse, and installing erosion or sedimentation control mechanisms. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by text-based information processing, such as accessing guidelines, regulations, or best practices related to green construction. 
+
+- E0: This task involves physical work on a construction site that requires hands-on activities and practical knowledge of construction practices. While the LLM can provide information on green construction practices, it cannot physically perform the tasks required of a construction laborer.
+- E1: The LLM can provide information on green construction practices, guidelines, and regulations that the construction laborer can use to perform their tasks more effectively. It can help in understanding waste management procedures, materials reuse, and erosion control mechanisms, potentially reducing the time needed to research these topics independently.
+- E2: While the LLM can provide information and guidance on green construction practices, additional software could be developed to create interactive guides, checklists, or simulations tailored to specific construction projects. This software could further streamline the implementation of green construction practices on-site.
+- E3: This task does not involve image processing or detailed visual instructions, so the image capabilities of the LLM are not directly relevant to performing site activities related to green construction practices.
+
+2: E1
+
+3: Moderate

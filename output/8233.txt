@@ -1,0 +1,7 @@
+1: In this task, an Automotive Glass Installer and Repairer is responsible for installing, repairing, or replacing safety glass and related materials on vehicles or equipment. To determine the appropriate exposure label for this task in relation to the LLM, we need to consider the complexity and variability of the task. 
+
+- E0: This task involves physical work that requires hands-on skills and precise measurements. It also involves working with specialized materials and tools that cannot be substituted by text-based instructions or information provided by the LLM. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of gathering risk-related data from internal or external resources as a Financial Risk Specialist, we need to consider the nature of the task and how the LLM could potentially assist in completing it more efficiently.
+
+- E0: This task involves gathering data from various sources, which may require human judgment, interpretation, and interaction with complex financial information. The LLM may not significantly reduce the time it takes for an experienced worker to gather this data, as it involves accessing specific financial databases, analyzing reports, and understanding the context of the data.
+
+- E1: The LLM could potentially assist in summarizing data reports, providing insights on risk-related trends, or even generating templates for data collection. By using the LLM to process and analyze text data from internal or external resources, the task of gathering risk-related data could be completed more efficiently with equivalent quality.
+
+- E2: While the LLM alone may not reduce the time it takes to gather risk-related data by half, additional software could be developed on top of the LLM to create tools that automate data retrieval, analyze trends, and provide recommendations based on the gathered data. Such software could enhance the capabilities of the LLM and significantly streamline the process of gathering risk-related data.
+
+- E3: The task of gathering risk-related data may involve reading text from PDF reports, scanning images of financial charts or graphs, or creating visual representations of data. With access to image capabilities in addition to the LLM, the process of gathering and analyzing data could be further optimized by incorporating visual information into the data collection process.
+
+2: E2
+
+3: Moderate

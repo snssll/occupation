@@ -1,0 +1,11 @@
+1: In this task, the Construction and Building Inspector needs to review and approve building plans to ensure they meet all the necessary specifications and regulations. To determine the exposure level to LLM, we can break down the task:
+- The task involves analyzing text (building plans) to check for compliance with specific requirements.
+- The LLM can assist in providing information on building codes, regulations, and standards that need to be met.
+- The LLM can help in generating responses or feedback on the building plans based on the provided specifications.
+- The LLM can potentially assist in summarizing complex building regulations or standards for quick reference.
+
+Considering these points, the task can benefit significantly from the LLM's ability to process text, provide relevant information, and assist in decision-making related to building plans. Therefore, this task falls under E1 as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

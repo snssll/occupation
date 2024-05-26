@@ -1,0 +1,15 @@
+1: To determine the appropriate label for the task of conducting field surveillance to gather case-related information for Fraud Examiners, Investigators, and Analysts, we need to consider the capabilities of the LLM. 
+
+- E0: This task involves physical field surveillance, which cannot be directly performed by the LLM or any software tool. The task requires human presence and real-time observation, making it unsuitable for automation by the LLM or any tool built on top of it.
+
+- E1: The LLM can assist in tasks that involve writing reports, analyzing data, summarizing findings, or providing recommendations based on the information gathered during field surveillance. However, the actual field surveillance itself cannot be conducted by the LLM, as it requires physical presence and real-time observation.
+
+- E2: While the LLM can help in analyzing data and providing insights based on the information gathered during field surveillance, there is no software that can be developed on top of the LLM to automate the physical act of conducting field surveillance. The task still heavily relies on human presence and observation.
+
+- E3: The LLM does not have image capabilities that would allow it to conduct physical field surveillance. This task involves real-world observation and interaction, which cannot be replaced by the LLM's text-based capabilities or any image-related tools.
+
+Based on the above analysis, the most appropriate label for the task of conducting field surveillance to gather case-related information for Fraud Examiners, Investigators, and Analysts is E0.
+
+2: E0
+
+3: Certainty level: High

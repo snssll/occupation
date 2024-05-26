@@ -1,0 +1,7 @@
+1: In this task, a Neurodiagnostic Technologist is responsible for measuring patients' body parts and marking locations for electrode placement. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves physical measurements and direct interaction with patients, which cannot be replaced by the LLM. The LLM does not have the capability to physically measure body parts or interact with patients in person. Therefore, this task falls under E0.
+
+2: E0
+
+3: High

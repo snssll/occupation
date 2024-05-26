@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of conducting classes to teach procedures to staff for Administrative Services Managers or Facilities Managers, we need to consider the level of assistance that the LLM can provide in completing this task. 
+
+- E0: This task involves direct human interaction and requires the physical presence of the manager to effectively teach procedures to staff. The LLM cannot replace the need for in-person instruction and interaction in this scenario. Therefore, the task is not suitable for automation using the LLM.
+
+- E1: While the LLM can assist in creating training materials, providing written instructions, or even generating lesson plans, the actual act of conducting classes and teaching procedures to staff requires real-time interaction, feedback, and adaptation based on the participants' responses. The LLM cannot replicate the nuanced human interaction and teaching skills needed for this task.
+
+- E2: It is conceivable that software could be developed on top of the LLM to assist in creating interactive training modules, simulations, or virtual training environments that could enhance the training process for staff. However, the core aspect of conducting classes and directly teaching procedures would still rely heavily on human involvement.
+
+- E3: The image capabilities of the LLM do not significantly impact the task of conducting classes to teach procedures to staff, as this task is primarily text-based and interactive in nature. Image capabilities would not provide a substantial advantage in this context.
+
+2: E0
+
+3: High

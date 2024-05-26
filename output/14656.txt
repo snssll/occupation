@@ -1,0 +1,12 @@
+1: In this task, a News Analyst, Reporter, or Journalist is required to report news stories for publication or broadcast, describing the background and details of events. To determine the appropriate label from the exposure rubric, we can break down the task as follows:
+
+- Researching current events and gathering information: The LLM can assist in researching and gathering information about events, providing relevant background details.
+- Writing news stories: The LLM can help in drafting news stories based on the gathered information, ensuring clarity and coherence in the narrative.
+- Fact-checking and verifying information: While the LLM can provide information, it may not be able to verify the accuracy of all details, especially if they are recent and not within the 1-year timeframe.
+- Tailoring the story for publication or broadcast: The LLM can aid in structuring the story appropriately for the intended medium.
+
+Considering the above breakdown, the task involves a significant amount of writing, research, and structuring of information, all of which can be effectively supported by the LLM. However, the limitation of not being able to provide up-to-date facts from the last year without them being in the input may hinder the efficiency of the process.
+
+2: E1
+
+3: Moderate

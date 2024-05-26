@@ -1,0 +1,5 @@
+1: In this task, a Clinical Neuropsychologist is required to identify and communicate risks associated with specific neurological surgical procedures, such as epilepsy surgery. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. The task involves analyzing complex medical information, understanding the risks associated with surgical procedures, and effectively communicating this information to patients or other healthcare professionals. While the LLM can provide general information on neurological surgical procedures and risks, it may not have access to up-to-date medical data or specialized domain knowledge required for specific procedures like epilepsy surgery. The task also involves a high level of expertise and human judgment in interpreting and communicating risks, which may not be effectively replicated by the LLM alone. Therefore, this task falls under E0 as it requires specialized domain knowledge, up-to-date medical information, and human judgment that the LLM may not fully encompass.
+
+2: E0
+
+3: Moderate

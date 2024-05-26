@@ -1,0 +1,11 @@
+1: In this task, a carpenter is required to cover subfloors with building paper to prevent moisture and then lay hardwood, parquet, or wood-strip-block floors by nailing them to the subfloor or cementing them to a mastic or asphalt base. To determine the exposure label for this task:
+
+- The task involves physical work that cannot be directly performed by an LLM, such as nailing floors or cementing them to a base.
+- The task requires specialized skills and knowledge related to carpentry, which may not be easily accessible to an LLM.
+- While an LLM could potentially provide information on the process of laying floors or offer general advice, it cannot physically perform the task or provide hands-on guidance.
+
+Based on these considerations, the task falls under E0 as it involves physical labor and specialized skills that cannot be directly replaced or significantly assisted by an LLM.
+
+2: E0
+
+3: High

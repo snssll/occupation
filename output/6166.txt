@@ -1,0 +1,5 @@
+1: To determine the appropriate label for the task of entering shipping information into a computer by hand or using a hand-held scanner, we need to consider the capabilities of the LLM. The task involves data entry, which is a straightforward process that does not require complex decision-making or analysis. The LLM could potentially assist in automating this task by generating code for a data entry system or providing guidance on optimizing the data entry process. However, since this task is primarily manual and does not involve complex text generation or analysis, the LLM's direct exposure may not significantly reduce the time it takes to complete the task. While it is conceivable that additional software could be developed on top of the LLM to automate data entry tasks, the nature of this specific task does not lend itself to substantial time savings through LLM-powered applications. Therefore, the task is best classified as E0, as the use of the LLM or LLM-powered tools would not significantly decrease the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: Moderate

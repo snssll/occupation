@@ -1,0 +1,5 @@
+1: In this task, a Residential Advisor is required to observe students to detect and report unusual behavior. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves observing and reporting on human behavior, which requires a high level of human judgment, empathy, and understanding of social dynamics. While an LLM could potentially assist in providing guidelines on what constitutes unusual behavior or how to report it, the core aspect of observing and interpreting human behavior is highly nuanced and context-dependent, making it challenging for an LLM to fully replace human judgment in this scenario. Additionally, the task may involve real-time interactions and interventions that go beyond text-based analysis. Therefore, the task falls under E0 as it requires a high degree of human interaction and nuanced understanding of social dynamics that an LLM alone cannot replicate.
+
+2: E0
+
+3: Moderate

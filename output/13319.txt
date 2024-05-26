@@ -1,0 +1,11 @@
+1: In this task, an Air Traffic Controller is required to provide flight path changes or directions to emergency landing fields for pilots in bad weather or emergency situations. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves providing critical real-time instructions to pilots, which requires human judgment, decision-making, and communication skills.
+- The task is time-sensitive and requires immediate action based on dynamic and unpredictable situations.
+- The task involves ensuring the safety and efficiency of air traffic, which is a high-stakes responsibility.
+
+Given these considerations, it is evident that the task of providing flight path changes or directions to emergency landing fields for pilots in bad weather or emergency situations falls under the category of E0. This task involves a high degree of human interaction, real-time decision-making, and responsibility for ensuring the safety of individuals, which cannot be effectively replaced by an LLM or any tool built on top of it.
+
+2: E0
+
+3: Certainty level: High

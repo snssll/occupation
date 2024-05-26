@@ -1,0 +1,13 @@
+1: In this task, a Medical Dosimetrist is responsible for calculating the delivery of radiation treatment based on the prescribed course of radiation therapy. This involves determining the amount or extent of radiation per session. To complete this task, the dosimetrist needs to consider various factors such as the type of cancer, the location of the tumor, the patient's anatomy, and the prescribed dose. The dosimetrist must ensure that the radiation is delivered accurately to target the tumor while minimizing exposure to surrounding healthy tissues.
+
+To determine the exposure label for this task:
+- The task involves complex calculations and considerations specific to radiation therapy, requiring expertise in medical physics and radiation oncology.
+- The task does not involve text input/output or document summarization that could be easily handled by an LLM.
+- The task requires specialized domain knowledge and expertise that goes beyond what a general LLM can provide.
+- While an LLM could potentially assist with general information on radiation therapy, it cannot replace the specialized skills and knowledge required for dosimetry calculations.
+
+Based on these considerations, the task of calculating the delivery of radiation treatment for Medical Dosimetrists would be classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: Certainty level: High

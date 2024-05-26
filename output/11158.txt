@@ -1,0 +1,13 @@
+1: In this task, a Maintenance and Repair Worker is required to paint or repair various parts of building structures such as roofs, windows, doors, floors, woodwork, plaster, drywall, etc. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves physical work that cannot be automated by the LLM. It requires hands-on skills and precise measurements, which the LLM cannot provide.
+
+- E1: The LLM could potentially assist in providing written instructions, safety guidelines, or tips for painting or repairing different building structures. It could also help in generating reports, documenting the work done, or communicating with clients. However, the actual painting or repair work itself cannot be done by the LLM.
+
+- E2: While the LLM alone may not reduce the time significantly for this task, additional software could be developed to provide detailed step-by-step guides, safety protocols, material recommendations, or troubleshooting tips based on the specific repair or painting needs. This software could enhance the worker's efficiency and accuracy in completing the task.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant here.
+
+2: E2
+
+3: Moderate

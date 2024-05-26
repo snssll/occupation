@@ -1,0 +1,10 @@
+1: In this task, a Career/Technical Education Teacher is required to plan and supervise class projects, field trips, visits by guest speakers, and other experiential activities for students. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- E0: This task involves a high degree of human interaction and physical supervision, which cannot be replaced by the LLM or any software tool. The hands-on nature of guiding students in experiential activities and field trips requires in-person presence and cannot be automated.
+- E1: While the LLM could potentially assist in generating written materials for class projects or drafting emails related to organizing activities, the core aspect of supervising and guiding students in experiential learning cannot be effectively automated by the LLM alone.
+- E2: It is conceivable that additional software could be developed to assist in organizing and managing the logistics of class projects, field trips, and guest speaker visits. This software could potentially help in summarizing information, providing recommendations, or maintaining records related to these activities.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM are not directly relevant here.
+
+2: E2
+
+3: Moderate

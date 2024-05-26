@@ -1,0 +1,13 @@
+1: For the task of mowing or trimming lawns and shrubbery as a Janitor or Cleaner, the exposure to LLM can be evaluated as follows:
+
+- Direct exposure (E1): The task involves physical labor and manual work that cannot be directly assisted by the LLM. The LLM cannot operate mowers or trimmers or clear debris from grounds, as these actions require physical interaction with the environment.
+
+- Exposure by LLM-powered applications (E2): While it is conceivable that an application could be developed to provide guidance or instructions on lawn care and maintenance, the actual physical act of mowing, trimming, and clearing debris would still require human intervention. The LLM could potentially assist in providing information on best practices or safety guidelines, but the core task remains physical.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the task of mowing or trimming lawns and shrubbery, as the task is primarily physical and does not involve detailed visual analysis or image processing.
+
+Based on the above analysis, the task of mowing or trimming lawns and shrubbery as a Janitor or Cleaner would be classified as E0, as the physical nature of the task does not lend itself to automation or assistance from the LLM.
+
+2: E0
+
+3: High

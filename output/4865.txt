@@ -1,0 +1,12 @@
+1: In this task, a Business Continuity Planner is responsible for developing disaster recovery plans for physical locations with critical assets, like data centers. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- Developing disaster recovery plans involves a significant amount of text-based work, including analyzing risks, outlining procedures, and documenting strategies.
+- The task does not require precise measurements or detailed visuals, making it suitable for text-based analysis.
+- The task involves synthesizing information, making decisions based on data, and preparing written materials.
+- While the task may benefit from specialized domain knowledge in business continuity planning, the core of the task involves text-based analysis and decision-making.
+
+Based on these considerations, the task of developing disaster recovery plans for physical locations with critical assets aligns best with the E1 exposure label. Direct access to the LLM can significantly reduce the time it takes to complete this task by assisting in writing, transforming text, providing edits, and summarizing documents related to disaster recovery planning.
+
+2: E1
+
+3: High

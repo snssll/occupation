@@ -1,0 +1,5 @@
+1: In this task, a Log Grader and Scaler is responsible for measuring log lengths and marking boles for bucking into logs according to specifications. This task involves physical measurement and marking of logs, which cannot be directly performed by an LLM. The LLM does not have the capability to physically measure or mark objects in the real world. Therefore, this task falls under E0 as it does not involve text input or output that can be processed by the LLM to reduce the time it takes to complete the task.
+
+2: E0
+
+3: High

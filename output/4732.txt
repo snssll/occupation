@@ -1,0 +1,5 @@
+1: In this task, an Environmental Restoration Planner is required to develop and communicate recommendations for landowners to maintain or restore environmental conditions. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves analyzing environmental conditions, understanding the impact of human activities on the environment, and providing tailored recommendations to landowners. This task heavily relies on domain-specific knowledge related to environmental science, ecology, and restoration practices. While the LLM can assist in generating text and providing general information on environmental topics, it may not have the specialized domain knowledge required to develop specific recommendations for landowners in the context of environmental restoration. The task also involves a level of human interaction and decision-making that may not be easily automated by the LLM. Therefore, the task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: Moderate

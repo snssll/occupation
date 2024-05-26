@@ -1,0 +1,9 @@
+1: In this task, the occupation involves inspecting engines before and after use to ensure proper operation. To determine the exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes to complete this task with equivalent quality. 
+
+Inspecting engines involves physical tasks such as checking for leaks, ensuring components are functioning correctly, and assessing overall operational readiness. This task requires hands-on inspection and technical knowledge about engines, which cannot be directly replaced by text-based information from the LLM. While the LLM could potentially provide some general information about engine inspection procedures, it cannot physically inspect the engines or provide real-time feedback on their operational status.
+
+Given that the task involves physical inspection and technical expertise beyond text-based information, it is unlikely that the LLM alone or any software built on top of it could significantly reduce the time it takes to complete this task. Therefore, this task falls under E0 as it does not fit the criteria for exposure to LLM capabilities.
+
+2: E0
+
+3: High

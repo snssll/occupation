@@ -1,0 +1,5 @@
+1: In this task, a Dining Room and Cafeteria Attendant or Bartender Helper is responsible for cleaning up spilled food or drink, broken dishes, and removing empty bottles and trash. To determine the exposure level to LLM, we need to consider if the task can be significantly aided by the language model. The task involves physical actions such as cleaning up and removing items, which cannot be directly assisted by the LLM. While the LLM could potentially provide guidance on the best practices for cleaning spills or organizing tasks, the core action of physically cleaning and removing items cannot be automated by the model. Therefore, the task does not align with the capabilities of the LLM in a way that would significantly reduce the time it takes to complete the task.
+
+2: E0
+
+3: High

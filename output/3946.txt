@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of creating custom illustrations or other graphic elements as an Art Director, we need to consider the capabilities of the LLM. 
+
+- E1: Direct exposure - The task of creating custom illustrations or graphic elements involves a high level of creativity and visual artistry, which may not be easily replicated by the LLM alone. While the LLM can assist with generating text-based content, it may not have the ability to create detailed visual artwork without significant human input and oversight. Therefore, direct access to the LLM may not significantly reduce the time it takes to complete this task with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - While it is conceivable that additional software could be developed on top of the LLM to assist with generating basic graphic elements or providing design suggestions, the complexity and creativity required for custom illustrations may still necessitate significant human involvement. The LLM may be able to provide some inspiration or basic design ideas, but the task of creating custom illustrations likely requires specialized artistic skills that go beyond the capabilities of the LLM alone.
+
+- E3: Exposure given image capabilities - The task of creating custom illustrations involves working with visual elements, which could potentially benefit from image capabilities such as viewing, captioning, and basic image editing. However, the level of detail and creativity required for custom illustrations may still be beyond the capabilities of the LLM's image processing abilities. While the LLM could potentially assist with basic image editing tasks, creating truly custom and intricate illustrations may require human expertise.
+
+Based on the above considerations, the task of creating custom illustrations or other graphic elements as an Art Director is best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

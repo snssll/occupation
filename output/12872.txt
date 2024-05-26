@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of preparing, developing, and maintaining maps and databases as an Urban and Regional Planner, we need to consider the capabilities of the LLM in assisting with this task. 
+
+- **E1 (Direct exposure):** The task involves working with text-based information (maps and databases) which can be processed and manipulated by the LLM. The LLM can assist in generating text-based content, such as descriptions, labels, or summaries related to the maps and databases. It can also help in organizing and structuring the information in the databases. Therefore, direct access to the LLM could significantly reduce the time it takes to complete this task with equivalent quality by at least half.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM alone can assist in text-based tasks related to maps and databases, additional software could be developed on top of the LLM to enhance its capabilities further. This software could potentially automate the process of map creation, data visualization, or database management, thereby reducing the time required to complete the task.
+
+- **E3 (Exposure given image capabilities):** The task of preparing maps may involve working with visual elements, such as map graphics. If the LLM had image capabilities, it could potentially assist in creating or editing digital images of maps. However, since the task primarily involves text-based maps and databases, the image capabilities may not be as crucial for this specific task.
+
+2: E1
+
+3: High

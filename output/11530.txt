@@ -1,0 +1,15 @@
+1: In this task, a Materials Engineer is required to perform managerial functions such as preparing proposals and budgets, analyzing labor costs, and writing reports. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM could assist in completing it.
+
+- **E0**: This task involves managerial functions that require human judgment, decision-making, and interaction. While the LLM can assist in writing reports or providing information, it cannot replace the critical thinking and decision-making aspects of managerial functions.
+
+- **E1**: The LLM can help in writing reports by providing templates, generating content, or proofreading. It can also assist in data analysis for labor costs. However, the core functions of preparing proposals and budgets involve complex decision-making that goes beyond the capabilities of the LLM.
+
+- **E2**: While the LLM can aid in generating text for reports and analyzing some data, developing software on top of the LLM that can integrate financial data, industry trends, and company specifics to automate proposal and budget preparation would significantly reduce the time needed for these tasks.
+
+- **E3**: Image capabilities are not relevant for this task.
+
+Based on the analysis, the task of performing managerial functions for Materials Engineers falls under **E2** as additional software could be developed to automate proposal and budget preparation, leveraging the LLM's capabilities.
+
+2: E2
+
+3: Moderate

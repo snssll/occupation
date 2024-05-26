@@ -1,0 +1,5 @@
+1: In this task, the helper production worker is required to change machine gears using wrenches. This task involves physical interaction with machinery and tools, which cannot be performed by an LLM or any software tool. The task does not involve text input or output, and it does not fall under any of the categories where an LLM could significantly reduce the time to complete the task. Therefore, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

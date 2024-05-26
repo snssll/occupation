@@ -1,0 +1,5 @@
+1: In this task, a Healthcare Social Worker is required to plan and conduct programs to combat social problems, prevent substance abuse, or improve community health and counseling services. To determine the exposure label for this task in relation to the LLM, we need to consider the nature of the task. The task involves complex decision-making, program planning, and community health knowledge, which may not be directly addressable by the LLM alone. While the LLM can provide information and insights on social problems, substance abuse, and counseling services, the task of planning and conducting programs involves a high level of human interaction, specialized knowledge, and decision-making that may not be easily automated by the LLM. Therefore, this task falls under E0 as it does not clearly decrease the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+2: E0
+
+3: Certainty level: High

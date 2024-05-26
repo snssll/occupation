@@ -1,0 +1,5 @@
+1: In this task, a maintenance worker in machinery needs to read work orders and specifications to identify which machines and equipment need repair or maintenance. To complete this task, the worker must understand the content of the work orders, interpret technical specifications, and make decisions based on this information. An LLM could potentially assist by summarizing the work orders, providing definitions for technical terms, or even suggesting common issues based on the specifications. However, since the task involves technical knowledge specific to machinery maintenance, the LLM alone may not have the specialized domain knowledge required to accurately determine the machines needing repair. Therefore, while the LLM could provide some assistance in understanding the text, it may not significantly reduce the time it takes for an experienced maintenance worker to complete the task with high quality.
+
+2: E2
+
+3: Moderate

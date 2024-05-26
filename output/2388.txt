@@ -1,0 +1,13 @@
+1: In this task, a Phlebotomist is required to collect fluid or tissue samples using appropriate collection procedures. To determine the exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes for a Phlebotomist to complete this task with equivalent quality.
+
+- E0: This task involves physical actions and precise procedures that cannot be performed by the LLM or any software tool. The task requires hands-on skills and interactions that cannot be replaced by text-based AI models.
+
+- E1: While the LLM could potentially provide information on collection procedures or guidelines, it cannot physically collect samples. The task involves practical skills and direct interaction with patients, which cannot be replicated by the LLM alone.
+
+- E2: It is conceivable that additional software could be developed to assist Phlebotomists in identifying appropriate collection procedures based on specific patient conditions or providing real-time guidance during sample collection. This software could potentially reduce the time it takes to complete the task by half.
+
+- E3: With image capabilities, the LLM could potentially assist in recognizing different types of fluids or tissues in images, but it cannot physically collect samples. The task still heavily relies on physical actions and interactions, which cannot be replaced by image recognition capabilities.
+
+2: E2
+
+3: Moderate

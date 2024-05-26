@@ -1,0 +1,5 @@
+1: In this task of restocking kitchen supplies, rotating food, and stamping time and date on food in coolers, the main activities involve physical actions such as moving items, checking expiration dates, and stamping. These actions cannot be directly performed by an LLM as it requires physical interaction with the kitchen environment. While the LLM could potentially provide guidance on organizing supplies or creating a rotation schedule, the core task of physically restocking and stamping items cannot be automated by the LLM alone. Therefore, this task falls under E0 as it does not involve text-based activities that can be significantly expedited by the LLM.
+
+2: E0
+
+3: High

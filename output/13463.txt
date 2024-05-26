@@ -1,0 +1,5 @@
+1: In this task, a bailiff is responsible for providing security by patrolling the interior and exterior of a courthouse and escorting judges and other court employees. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves physical presence and actions such as patrolling and escorting, which cannot be directly performed by an LLM. The task also requires real-time decision-making and physical interaction, which are beyond the capabilities of the LLM. Therefore, this task falls under E0 as it does not involve text-based activities that can be significantly aided by the LLM.
+
+2: E0
+
+3: High

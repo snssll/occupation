@@ -1,0 +1,11 @@
+1: In this task, a Pest Control Worker is required to position and fasten edges of tarpaulins over a building, tape vents to ensure an air-tight environment, and check for leaks. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves physical work such as positioning and fastening tarpaulins, which cannot be directly assisted by the LLM.
+- The task also requires checking for leaks, which involves manual inspection and decision-making based on physical observations.
+- While the LLM could potentially provide information on pest control methods or safety precautions, it cannot directly assist in the physical aspects of the task.
+
+Based on these considerations, the task does not involve text-based activities that can be significantly aided by the LLM. Therefore, the task falls under E0 as it does not meet the criteria for exposure to LLM.
+
+2: E0
+
+3: High

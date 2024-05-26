@@ -1,0 +1,11 @@
+1: In this task, a Social and Human Service Assistant is required to explain rules established by the owner or management, such as sanitation or maintenance requirements or parking regulations. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves understanding and communicating specific rules and regulations set by the owner or management.
+- The task requires the ability to comprehend and explain complex instructions related to sanitation, maintenance, or parking regulations.
+- The task involves providing information in a clear and concise manner to individuals who may need guidance on these rules.
+
+Given these considerations, the task primarily involves writing and transforming text according to complex instructions, providing information, and potentially answering questions related to the rules. The task does not require specialized domain knowledge or the use of image capabilities. Therefore, access to the LLM through an interface like ChatGPT could significantly reduce the time it takes to complete the task with equivalent quality, making it suitable for label E1.
+
+2: E1
+
+3: High

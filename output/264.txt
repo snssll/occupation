@@ -1,0 +1,7 @@
+1: In this task, a Kindergarten Teacher is required to administer standardized ability and achievement tests to children and interpret the results to determine their developmental levels and needs. With access to the powerful OpenAI large language model (LLM), the teacher could potentially streamline the process of interpreting test results by inputting the test scores and receiving automated analysis and recommendations based on the data. The LLM could assist in generating personalized recommendations for each child based on their test performance, which could save time and provide more accurate insights into the children's developmental levels and needs.
+
+Considering the task involves analyzing data (test results) and providing recommendations based on that data, the LLM could significantly reduce the time it takes to interpret the results and generate insights. This falls under the category of "Analyzing written information to inform decisions" from the exposure rubric. Therefore, this task aligns with label E2, as having access to the LLM alone may not reduce the time it takes to complete the task by at least half, but additional software developed on top of the LLM could enhance the efficiency of the process.
+
+2: E2
+
+3: Moderate

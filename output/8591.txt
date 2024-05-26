@@ -1,0 +1,5 @@
+1: In this task, a Passenger Attendant is responsible for issuing and collecting passenger boarding passes and transfers, as well as tearing or punching tickets to prevent reuse. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. Issuing and collecting boarding passes and tickets involve manual tasks that require physical interaction with passengers and their tickets. These actions cannot be directly performed by an LLM or any software tool based on an LLM. The task also involves preventing ticket reuse, which requires physical actions that cannot be replicated by text-based AI models. Therefore, this task falls under E0 as it involves physical interactions and actions that are outside the capabilities of LLMs.
+
+2: E0
+
+3: High

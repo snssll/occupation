@@ -1,0 +1,5 @@
+1: Wellhead Pumpers are responsible for maintaining and operating equipment to ensure the flow of oil or gas from wells. One of the tasks they perform is changing water filters. To determine the exposure label for this task, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half. In this case, changing water filters is a hands-on task that requires physical interaction with equipment and machinery. The task does not involve complex text input or output that can be easily automated by the LLM. Therefore, the LLM would not be able to directly assist in completing this task.
+
+2: E0
+
+3: High

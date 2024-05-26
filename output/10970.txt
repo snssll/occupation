@@ -1,0 +1,12 @@
+1: In this task, a First-Line Supervisor of Security Workers is responsible for ordering materials or supplies like keys, uniforms, and badges. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- This task involves primarily text-based input and output, where the supervisor needs to communicate with vendors or suppliers to order specific items.
+- The task does not require specialized domain knowledge beyond basic security industry terminology related to keys, uniforms, and badges.
+- The task does not involve complex decision-making or analysis that would benefit significantly from the LLM's capabilities.
+- The task does not involve image processing, as it focuses on ordering materials rather than visual inspection or editing.
+
+Based on these considerations, the task falls under E0 as it does not require the use of an LLM or any additional software to complete it efficiently.
+
+2: E0
+
+3: High

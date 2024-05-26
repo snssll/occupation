@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of "Direct updates and changes in survey implementation and methods" for Survey Researchers, we need to consider how the task can benefit from the use of the OpenAI large language model (LLM).
+
+- E1: If the task involves writing and transforming text related to survey implementation and methods, providing edits to existing survey documents, or summarizing survey-related information, the LLM could significantly reduce the time it takes to complete these tasks with equivalent quality by at least half. The LLM can assist in generating new survey questions, analyzing responses, and providing feedback on survey methodologies.
+
+- E2: While the LLM alone may not reduce the time it takes to complete the task by half, additional software could be developed on top of the LLM to summarize survey data, retrieve up-to-date information on survey methodologies, and provide recommendations for survey improvements based on data analysis. The LLM can assist in analyzing written information to inform decisions and prepare training materials based on general knowledge.
+
+- E3: If the task involves reading text from PDFs related to survey research, the LLM's text capabilities combined with image capabilities could significantly reduce the time it takes to complete the task. The LLM could assist in scanning survey-related images or creating/editing digital images for survey presentations.
+
+2: E2
+
+3: Moderate

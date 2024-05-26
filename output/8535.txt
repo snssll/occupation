@@ -1,0 +1,11 @@
+1: In this task, a First-Line Supervisor of Security Workers is required to investigate disturbances on the premises, such as security alarms, altercations, and suspicious activity. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves investigating disturbances, which requires physical presence and interaction on-site, making it unsuitable for automation through an LLM.
+- The task involves real-time decision-making based on observations and interactions, which may involve assessing the situation, making judgments, and taking appropriate actions.
+- The task may involve physical security measures, coordination with security personnel, and ensuring the safety and security of the premises.
+
+Considering these factors, it is evident that the task of investigating disturbances on the premises as a First-Line Supervisor of Security Workers falls under E0 as it requires physical presence, real-time decision-making, and human judgment that cannot be effectively replaced by an LLM.
+
+2: E0
+
+3: High

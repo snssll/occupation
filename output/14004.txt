@@ -1,0 +1,5 @@
+1: In this task, a Bus and Truck Mechanic and Diesel Engine Specialist is required to recondition and replace various parts of engines such as pistons, bearings, gears, and valves. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves hands-on work with physical objects, tools, and machinery. It requires technical expertise, knowledge of mechanical systems, and physical dexterity to disassemble, inspect, repair, and reassemble engine components. The task does not involve text-based inputs or outputs that can be easily processed by an LLM. As such, the task does not align with the capabilities of the LLM, and there are no tools built on top of the LLM that can significantly reduce the time it takes to complete this hands-on mechanical task. Therefore, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

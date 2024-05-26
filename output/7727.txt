@@ -1,0 +1,13 @@
+1: For the task of inserting control instructions into machine control units to start operation as a Computer Numerically Controlled (CNC) Tool Operator, the exposure to LLM can be evaluated as follows:
+
+- E0: This task involves hands-on interaction with machines and precise instructions for CNC operations. LLMs are not capable of physically interacting with machines or providing the detailed, specific instructions required for CNC operations. Therefore, this task is unlikely to benefit from LLM assistance.
+
+- E1: LLMs can assist in writing and transforming text, providing edits, and generating instructions. However, in the case of CNC operations, the specificity and technical nature of the control instructions needed may not be effectively handled by an LLM alone. The task requires expertise in CNC programming and machine operation, which goes beyond the capabilities of a general LLM.
+
+- E2: While an LLM could potentially be used to assist in generating general instructions or explanations related to CNC operations, the task of inserting control instructions into machine control units is highly specialized and technical. Developing software on top of an LLM that could effectively reduce the time to complete this task by half would require a deep understanding of CNC programming and machine operations, making it less feasible.
+
+- E3: The task of inserting control instructions into machine control units does not involve image processing or creation, so the additional image capabilities provided by an LLM would not significantly impact the completion of this task.
+
+2: E0
+
+3: High

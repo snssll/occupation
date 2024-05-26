@@ -1,0 +1,5 @@
+1: In this task, a baker is required to place dough in pans, molds, or on sheets, and then bake them in production ovens or on grills. To determine the appropriate exposure label, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. The task itself is very hands-on and physical, involving manual labor and precise techniques such as shaping dough and monitoring baking times. The LLM, even with additional software, cannot physically handle the dough, place it in pans, molds, or sheets, or operate ovens or grills. Therefore, the task cannot be effectively completed by the LLM or any software built on top of it. As a result, this task falls under E0 as it does not benefit from LLM exposure.
+
+2: E0
+
+3: High

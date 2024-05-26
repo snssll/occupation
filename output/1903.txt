@@ -1,0 +1,11 @@
+1: In this task, the helper-roofer is required to chop tar into small pieces and heat the chopped tar in kettles. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical labor such as chopping tar and heating it in kettles, which cannot be directly assisted by the LLM.
+- The task does not involve complex decision-making, analysis, or information retrieval that would benefit from the LLM's capabilities.
+- The task is straightforward and does not require text input or output that the LLM could assist with.
+
+Based on these considerations, it is clear that the task of chopping tar and heating it in kettles does not align with any of the exposure levels in the rubric. 
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, the occupation of riggers involves attaching loads to rigging using hand and power tools. To determine the exposure label, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete the task with equivalent quality. 
+
+- E0: This task involves physical work that requires hands-on manipulation of tools and equipment. The task does not involve writing, summarizing, analyzing text, or any other activity that could be significantly expedited by the LLM or LLM-powered tools. Therefore, it is unlikely that the LLM or related tools could reduce the time to complete this task.
+
+- E1: The task does not involve writing, summarizing, or analyzing text, which are typical activities where the LLM could provide significant assistance. The task is more focused on manual labor and technical skills related to rigging. Therefore, direct access to the LLM is unlikely to reduce the time it takes to complete this task by at least half with equivalent quality.
+
+- E2: While it is conceivable that specialized software could be developed to assist riggers in certain aspects of their work, such as providing guidance on load attachment techniques or safety protocols, the nature of the task involving physical work with tools suggests that the LLM alone may not be able to significantly expedite the process. Therefore, the task may not fall under E2 either.
+
+- E3: The task does not involve image processing, document analysis, or any other activity where image capabilities would be beneficial. Therefore, the task does not align with the criteria for E3 exposure.
+
+2: E0
+
+3: High

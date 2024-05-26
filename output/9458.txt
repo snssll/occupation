@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of managing funeral home finances as a Funeral Attendant, we need to consider the level of exposure to LLM. 
+
+- E0: This task involves managing financial transactions, which requires a high degree of accuracy and compliance with regulations. It also involves handling sensitive information and interacting with clients in a professional manner. These aspects may not be easily automated by an LLM or LLM-powered tool.
+
+- E1: The task of managing funeral home finances involves handling text-based information related to payments, deposits, and bookkeeping. An LLM could potentially assist in generating reports, summarizing financial data, or providing guidance on bookkeeping practices. However, the complexity and legal implications of financial management may require human judgment and expertise, making it less likely that the LLM alone could significantly reduce the time needed to complete the task with equivalent quality.
+
+- E2: While an LLM could potentially assist in generating financial reports, summarizing financial data, or providing general advice on bookkeeping practices, the task of managing funeral home finances may involve specialized knowledge of financial regulations and practices specific to the funeral industry. Developing software on top of the LLM that can accurately handle these specialized aspects could potentially reduce the time needed to complete the task by half.
+
+- E3: The task of managing funeral home finances does not involve image-related capabilities, so exposure to LLM with image capabilities is not relevant in this context.
+
+2: E2
+
+3: Moderate

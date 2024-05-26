@@ -1,0 +1,13 @@
+1: In this task, a Mechanical Drafter is required to lay out and draw schematic, orthographic, or angle views to depict functional relationships of components, assemblies, systems, and machines. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E0: This task involves creating technical drawings that require precision and detailed knowledge of mechanical components. The task also involves visual representation and spatial relationships, which may not be effectively handled by an LLM alone. The task does not involve text-based inputs or outputs that the LLM could directly assist with.
+
+- E1: While the LLM could potentially provide some general information or definitions related to mechanical drafting, it is unlikely to significantly reduce the time it takes to complete the task with equivalent quality. The task requires specialized knowledge and skills that go beyond text-based information that the LLM can provide.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist with tasks related to mechanical drafting. This software could potentially help in generating initial drafts based on input descriptions or providing suggestions for layout and design. However, the complexity and precision required in mechanical drafting may limit the extent to which the LLM alone can significantly reduce the time to complete the task.
+
+- E3: The task does not involve image capabilities that would significantly benefit from the LLM's text-based capabilities. While the LLM could potentially assist in generating text descriptions or explanations related to mechanical drafting concepts, the task primarily involves visual representation and technical drawing skills.
+
+2: E0
+
+3: Moderate

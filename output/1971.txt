@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of cleaning and preparing sites for excavation or boring as a Helper in Extraction Workers, we need to consider the nature of the task and how it can be aided by the use of the LLM.
+
+- E1: Direct exposure - If the task involves writing detailed instructions for site preparation or generating reports on the progress of the cleaning and preparation, the LLM could assist in transforming text according to complex instructions or providing edits to existing text. It could also help in summarizing documents related to the site preparation process.
+
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to physically clean and prepare the sites, additional software built on top of the LLM could potentially assist in summarizing longer documents related to site preparation, retrieving up-to-date information on excavation techniques, or providing recommendations based on data input about the site.
+
+- E3: Exposure given image capabilities - Since the task primarily involves physical labor and site preparation, there is no direct need for image capabilities in this context. Therefore, this task is not suitable for an E3 label.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,15 @@
+1: In this task, a Financial Quantitative Analyst is required to develop solutions to help clients hedge carbon exposure or risk. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- E0: This task involves specialized financial knowledge and quantitative analysis skills that may not be directly aided by the LLM. The task requires a deep understanding of financial markets, risk management, and carbon exposure, which may not be easily substituted by the LLM alone.
+
+- E1: The LLM could potentially assist in providing background information on carbon exposure, risk management strategies, and financial instruments related to hedging. It could also help in generating initial ideas or strategies for hedging carbon exposure. However, the task itself requires complex quantitative analysis and financial modeling, which may not be efficiently performed by the LLM alone.
+
+- E2: While the LLM could be used to gather information on current trends in carbon markets, regulations, and financial instruments, additional software could be developed to analyze this data in conjunction with the LLM's capabilities. This software could potentially automate parts of the quantitative analysis process, provide recommendations based on data, or assist in creating financial models for hedging carbon exposure.
+
+- E3: The task does not involve image capabilities, so this label does not apply.
+
+Based on the analysis above, the task of developing solutions to help clients hedge carbon exposure or risk would likely fall under E2 as it could benefit from additional software that integrates data analysis and modeling capabilities with the information provided by the LLM.
+
+2: E2
+
+3: Moderate

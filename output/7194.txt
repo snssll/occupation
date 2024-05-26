@@ -1,0 +1,12 @@
+1: In this task, the occupation of lodging managers involves greeting and registering guests. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves direct human interaction, which cannot be replaced by the LLM. Greeting guests requires a personal touch and human interaction that an AI model cannot provide.
+- E1: The LLM could potentially assist in generating scripts or guidelines for greeting guests, but the actual act of greeting and registering guests requires human presence and interaction. The LLM cannot physically greet or register guests.
+- E2: While the LLM could potentially provide some guidance or templates for guest interactions, the task of greeting and registering guests is highly interactive and requires real-time decision-making and adaptability that an AI model alone cannot provide.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so image capabilities are not relevant here.
+
+Based on the above analysis, the most appropriate exposure label for this task is E0.
+
+2: E0
+
+3: High

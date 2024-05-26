@@ -1,0 +1,11 @@
+1: For the task of computing and recording totals of transactions typically done by cashiers, the exposure to LLM can be evaluated as follows:
+
+- E1: Direct exposure - The task involves basic arithmetic calculations and recording the results. An LLM can easily assist in providing guidance on how to perform these calculations accurately or even automate the process of recording totals. The LLM can generate templates for recording transactions or provide step-by-step instructions on how to compute totals efficiently.
+
+- E2: Exposure by LLM-powered applications - While the task itself is straightforward and can be aided by an LLM, there may not be a significant need for additional software beyond the LLM itself to complete the task more efficiently. The LLM alone can handle the calculations and provide guidance on recording totals without the need for specialized applications.
+
+- E3: Exposure given image capabilities - Image capabilities are not relevant for this task as it primarily involves text-based transactions and calculations. There is no need for image processing or creation in computing and recording totals of transactions.
+
+2: E1
+
+3: High

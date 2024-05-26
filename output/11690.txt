@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of performing spatial analysis and modeling using geographic information system techniques as a Geography Teacher, Postsecondary, we need to consider the capabilities of the LLM. 
+
+- E1: Direct exposure - The task involves analyzing spatial data and utilizing geographic information system techniques, which may require specialized knowledge and skills beyond what the LLM can provide directly. While the LLM can assist in generating text-based information related to geography, it may not have the specific expertise or tools necessary for performing spatial analysis and modeling using GIS techniques.
+
+- E2: Exposure by LLM-powered applications - It is conceivable that additional software could be developed on top of the LLM to assist with spatial analysis and modeling tasks. This software could potentially integrate with GIS tools and provide recommendations or insights based on the data input. However, the complexity and specialized nature of GIS techniques may limit the extent to which the LLM alone can significantly reduce the time needed to complete such tasks.
+
+- E3: Exposure given image capabilities - Since the task involves spatial analysis and modeling, which often includes working with maps and geographic data, having image capabilities could potentially enhance the efficiency of completing certain aspects of the task. The ability to view and interpret maps or spatial data visually could complement the text-based capabilities of the LLM in this context.
+
+Based on the considerations above, the task of performing spatial analysis and modeling using geographic information system techniques as a Geography Teacher, Postsecondary is best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

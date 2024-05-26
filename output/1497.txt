@@ -1,0 +1,11 @@
+1: In this task, a Web Administrator is responsible for backing up or modifying applications and related data to ensure disaster recovery. To determine the appropriate exposure label, we need to consider the nature of the task and how the LLM can assist in completing it. 
+
+- **E1 (Direct exposure):** The task involves writing and transforming text instructions for backing up or modifying applications. The LLM can assist in generating detailed step-by-step instructions for creating backups, modifying applications, and ensuring disaster recovery. The model can provide guidance on best practices, specific commands, and considerations for different scenarios. This direct access to the LLM can significantly reduce the time it takes to complete the task with equivalent quality by at least half.
+
+- **E2 (Exposure by LLM-powered applications):** While the LLM can provide guidance and instructions for backing up applications, there may be additional software that could be developed on top of the LLM to automate the backup process further. This software could potentially analyze the current state of applications, suggest modifications for better disaster recovery, and automate the backup process based on the LLM's recommendations. However, the current capabilities of the LLM alone may not reduce the time to complete the task by half.
+
+- **E3 (Exposure given image capabilities):** This task does not involve reading text from PDFs, scanning images, or creating/editing digital images. Therefore, image capabilities are not relevant for this task.
+
+2: E1
+
+3: Moderate

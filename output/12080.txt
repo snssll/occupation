@@ -1,0 +1,5 @@
+1: In this task, a pharmacist is required to plan, implement, or maintain procedures for mixing, packaging, or labeling pharmaceuticals to ensure quality, security, and proper disposal. To determine the appropriate exposure label, we need to consider the nature of the task. The task involves following specific policies and legal requirements related to pharmaceuticals, which may require detailed knowledge of regulations, best practices, and safety protocols. The task also involves a level of complexity that may not be easily automated by an LLM alone. While the LLM can provide information on pharmaceuticals and regulations, it may not have the specialized domain knowledge required to ensure compliance with specific legal requirements and quality standards. Therefore, this task falls under E0 as it involves specialized domain knowledge and legal compliance that may not be effectively addressed by the LLM alone.
+
+2: E0
+
+3: High

@@ -1,0 +1,13 @@
+1: In this task, the Aircraft Service Attendants are responsible for changing aircraft oil, coolant, or other fluids. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete the task with equivalent quality.
+
+- E0: This task involves physical work that cannot be automated by the LLM or any software tool. It requires hands-on interaction with the aircraft and precise measurements, which are not within the capabilities of the LLM.
+
+- E1: The task of changing aircraft fluids involves practical skills, such as handling equipment, following safety protocols, and ensuring proper maintenance. While the LLM could provide information on the procedures or guidelines for changing fluids, it cannot physically perform the task or replace the hands-on expertise required.
+
+- E2: While the LLM could potentially provide information on the latest procedures or best practices for changing aircraft fluids, it cannot directly perform the task. However, additional software could be developed to assist in documenting the maintenance history, scheduling fluid changes, or providing reminders based on the aircraft's usage data.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images, so the image capabilities of the LLM would not significantly impact the completion of this task.
+
+2: E0
+
+3: High

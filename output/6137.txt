@@ -1,0 +1,12 @@
+1: In this task, a Postal Service Mail Carrier is responsible for entering change of address orders into computers for processing forwarding address stickers. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves data entry, which can be easily automated using the LLM to input the change of address orders into the computer system accurately.
+- The task does not require specialized domain knowledge beyond basic understanding of address processing, which the LLM can handle effectively.
+- The task is primarily text-based and involves following a set process, which the LLM can easily understand and execute.
+- The task does not involve complex decision-making or human interaction that would require human judgment.
+
+Based on these considerations, the task can be significantly expedited and completed with equivalent quality by using the LLM to automate the data entry process. Therefore, this task falls under the E1 label as direct access to the LLM can reduce the time it takes to complete the task with equivalent quality by at least half.
+
+2: E1
+
+3: High

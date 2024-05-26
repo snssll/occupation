@@ -1,0 +1,13 @@
+1: In this task, an Information Security Analyst is required to coordinate the implementation of a computer system plan with establishment personnel and outside vendors. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves coordinating the implementation of a computer system plan, which may require communication, planning, and organization skills.
+- The task does not involve writing or transforming text, providing edits, summarizing documents, or generating questions.
+- While the task may involve analyzing information to inform decisions, it does not explicitly involve highly specialized domain knowledge or complex databases.
+- The task does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+- The task does not require up-to-date facts from the internet or specialized software beyond the capabilities of the LLM.
+
+Based on the analysis, the task does not clearly benefit from direct access to the LLM or additional software that could significantly reduce the time it takes to complete the task. Therefore, the task falls under E0 as it does not meet the criteria for E1, E2, or E3.
+
+2: E0
+
+3: High

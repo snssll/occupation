@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of receiving, storing, or delivering luggage or mail as part of the occupation of Concierges, we need to consider the nature of the task and how it can be impacted by the use of the OpenAI large language model (LLM).
+
+- The task of receiving, storing, or delivering luggage or mail involves basic logistical operations that do not require complex decision-making or specialized knowledge beyond standard procedures.
+- The task does not involve detailed visual analysis, precise measurements, or human interaction that would preclude automation.
+- The task primarily involves written or spoken communication related to handling luggage or mail, which can be effectively managed by the LLM through text input and output.
+- The LLM can assist in generating responses to common inquiries, providing instructions, or drafting communication related to luggage or mail handling.
+
+Based on these considerations, the task of receiving, storing, or delivering luggage or mail for Concierges can be significantly streamlined by using the LLM to generate responses, instructions, or communication related to these activities. Therefore, the task falls under label E1 - Direct exposure.
+
+2: E1
+
+3: High

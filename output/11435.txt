@@ -1,0 +1,12 @@
+1: In this task, a Helper-Roofer is required to perform emergency leak repairs and general maintenance for different types of roofs. To determine the appropriate exposure label, we need to consider if access to the LLM alone can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical work that cannot be replaced by text-based instructions or information provided by the LLM.
+- The task requires hands-on skills and knowledge of roofing materials and techniques, which cannot be directly assisted by the LLM.
+- The LLM does not have the capability to physically repair roofs or assess the condition of roofs in person.
+- The task does not involve writing, summarizing documents, or any other text-based activities that the LLM could directly assist with.
+
+Based on these considerations, it is clear that the task of performing emergency leak repairs and general maintenance for various roof types falls under the E0 category as it cannot be significantly aided by the LLM alone.
+
+2: E0
+
+3: High

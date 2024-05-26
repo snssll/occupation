@@ -1,0 +1,13 @@
+1: For the task of cleaning, cutting, and cooking meat, fish, or poultry as a Cook in an institution or cafeteria, we can reason through the exposure rubric as follows:
+
+- E0: This task involves physical actions such as cutting and cooking, which cannot be directly performed by an LLM or any software tool. The task also requires handling food items, which cannot be done through text-based instructions alone. Therefore, this task falls under E0 as it does not involve text-based work that can be significantly aided by an LLM.
+
+- E1: The task does not involve writing, transforming text, providing edits, translating languages, summarizing documents, answering questions, or any other text-based activities that an LLM could directly assist with. Therefore, it does not qualify for E1.
+
+- E2: While it is conceivable that software could be developed to provide recipes, cooking instructions, or meal planning suggestions based on LLM capabilities, the direct task of cleaning, cutting, and cooking meat, fish, or poultry in a physical kitchen setting is not significantly aided by an LLM alone. Therefore, it does not fit under E2.
+
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It is purely a hands-on cooking task that does not require image capabilities. Hence, it does not fall under E3.
+
+2: E0
+
+3: High certainty

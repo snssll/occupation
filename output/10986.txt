@@ -1,0 +1,13 @@
+1: In this task, a First-Line Supervisor of Construction Trades and Extraction Workers is responsible for ordering or requisitioning materials or supplies for a construction project. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- E0: This task involves a high degree of human interaction and decision-making. It requires the supervisor to assess the needs of the project, communicate with suppliers, and make decisions based on various factors such as budget, project timeline, and quality requirements. The LLM alone cannot make decisions that impact human livelihood, and the task involves collecting inputs to make final decisions, which are beyond the capabilities of the LLM.
+
+- E1: While the LLM could potentially assist in drafting emails or documentation related to material orders, the core task of assessing project needs, determining the right materials, negotiating with suppliers, and making final decisions cannot be effectively automated by the LLM alone. The task involves a level of expertise, judgment, and interaction that goes beyond what the LLM can provide.
+
+- E2: It is conceivable that specialized software could be developed on top of the LLM to help streamline the process of ordering materials by providing recommendations based on data inputs, analyzing supplier options, or suggesting cost-effective solutions. However, this would require a more complex system that integrates with existing databases, supplier information, and project details to offer meaningful assistance in the decision-making process.
+
+- E3: The task of ordering materials does not involve image processing or detailed visual analysis, so the image capabilities of the LLM are not relevant in this context.
+
+2: E0
+
+3: High

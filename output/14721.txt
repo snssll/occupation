@@ -1,0 +1,12 @@
+1: In this task, the helper-electrician is responsible for requisitioning materials using warehouse requisition or release forms. To determine the appropriate exposure label, we need to consider the nature of the task. 
+
+- The task involves a straightforward process of requisitioning materials using predefined forms, which does not require complex decision-making or specialized domain knowledge.
+- The task is primarily text-based, involving filling out forms and following standard procedures.
+- The task does not involve analyzing data, providing recommendations, or dealing with highly specialized knowledge.
+- The task does not require any image capabilities such as reading text from PDFs or scanning images.
+
+Based on these considerations, the task falls under E0 as it does not clearly benefit from the capabilities of the LLM or any additional software that could significantly reduce the time it takes for an experienced worker to complete the task.
+
+2: E0
+
+3: High

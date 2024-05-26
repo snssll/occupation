@@ -1,0 +1,11 @@
+1: To determine the appropriate label for the task of developing computer models for hydrologic predictions as a Hydrologic Technician or Hydrologist, we need to consider the level of exposure to LLM.
+
+- E1: Direct exposure - If the task involves writing and transforming text and code according to complex instructions, providing edits to existing text or code following specifications, or writing code to perform a task that was previously done by hand, then direct access to the LLM could significantly reduce the time to complete the task with equivalent quality. In this case, developing computer models may involve writing code and transforming text based on hydrologic data, which could benefit from direct access to the LLM for assistance in coding or generating text related to hydrology.
+
+- E2: Exposure by LLM-powered applications - If having access to the LLM alone may not reduce the time to complete the task by half, but additional software developed on top of the LLM could enhance the process, then this label would apply. For example, if there were specialized software that could summarize complex hydrologic data and assist in model development, it could complement the work of Hydrologic Technicians and Hydrologists.
+
+- E3: Exposure given image capabilities - This label would not apply to the task of developing computer models for hydrologic predictions, as it does not involve reading text from PDFs, scanning images, or creating/editing digital images.
+
+2: E2
+
+3: Moderate

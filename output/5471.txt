@@ -1,0 +1,10 @@
+1: In this task, a plumber, pipefitter, or steamfitter is responsible for directing helpers engaged in pipe cutting, preassembly, or installation of plumbing systems or components. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- E0: This task involves physical work that cannot be replaced by text-based interactions with the LLM. It requires hands-on skills and direct human interaction, making it unsuitable for automation through the LLM.
+- E1: While the LLM could potentially provide information on plumbing systems or components, it cannot physically direct helpers in pipe cutting or installation. The task involves practical skills and on-site work that cannot be fully automated through text-based interactions with the LLM.
+- E2: It is challenging to imagine additional software built on top of the LLM that could automate the physical aspects of directing helpers in pipe cutting or installation. The task requires hands-on work and real-time decision-making that goes beyond the capabilities of text-based interactions with the LLM.
+- E3: The task does not involve reading text from PDFs, scanning images, or creating/editing digital images. It is primarily focused on physical work and supervision, which does not align with the capabilities of image processing systems.
+
+2: E0
+
+3: Certainty level: High

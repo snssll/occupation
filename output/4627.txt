@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of determining procedures and instructions for architectural and civil drafters, we need to consider the nature of the task and how it can be impacted by the use of the LLM. 
+
+- The task involves interpreting design specifications and quantity requirements to create detailed instructions. This task heavily relies on understanding technical information and translating it into actionable steps.
+- The LLM can assist in providing information on design specifications, materials, and potentially offer suggestions on procedures based on general knowledge.
+- While the LLM can help with generating text and providing information, it may not significantly reduce the time it takes for an experienced worker to complete this task, as it requires domain-specific knowledge and expertise in architectural and civil drafting.
+- Developing software on top of the LLM that can understand complex design specifications, materials, and procedures specific to architectural and civil drafting could potentially reduce the time to complete the task by half.
+
+Based on these considerations, the task falls under label E2 - Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

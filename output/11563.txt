@@ -1,0 +1,13 @@
+1: In this task, the occupation of Psychiatric Aides involves performing nursing duties such as administering medications, measuring vital signs, collecting specimens, or drawing blood samples. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality.
+
+- E0: This task involves hands-on medical procedures that require precise measurements and human interaction. The LLM cannot physically administer medications, measure vital signs, collect specimens, or draw blood samples. Therefore, the task cannot be completed by the LLM or LLM-powered tools without human intervention.
+
+- E1: The LLM cannot physically perform nursing duties like administering medications or drawing blood samples. While it can provide information on these tasks, it cannot replace the hands-on aspect of the job. Therefore, direct access to the LLM would not significantly reduce the time it takes to complete this task.
+
+- E2: While the LLM could potentially provide information on nursing duties, it cannot perform the practical aspects of the job. Developing additional software on top of the LLM that could reduce the time to complete this task by half is not feasible as the physical actions required cannot be automated by the LLM.
+
+- E3: The LLM does not have image capabilities to perform tasks like reading text from medical documents or scanning images related to nursing duties. Therefore, access to image capabilities would not significantly reduce the time to complete this task.
+
+2: E0
+
+3: High

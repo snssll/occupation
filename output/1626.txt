@@ -1,0 +1,5 @@
+1: In this task, a Farm Equipment Mechanics and Service Technicians need to calculate bills based on various factors such as repairs made, labor time, and parts used. With the help of the LLM, the technician can easily input the details of repairs, labor time, and parts used, and the model can assist in calculating the total bill accurately. The LLM can perform calculations, handle text inputs, and generate text outputs, making it suitable for assisting in this task. Since the task involves straightforward calculations and text-based inputs and outputs, the LLM can significantly reduce the time it takes to complete this task with equivalent quality. Therefore, this task falls under label E1 as direct access to the LLM can reduce the time it takes to complete the task by at least half.
+
+2: E1
+
+3: High

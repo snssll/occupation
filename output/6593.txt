@@ -1,0 +1,12 @@
+1: To determine the appropriate label for the task of examining cell samples as a Cytotechnologist, we need to consider the nature of the task and how it can be aided by the use of a large language model (LLM) like OpenAI. 
+
+- The task involves examining cell samples to detect abnormalities in color, shape, size, and patterns of cellular components. This task heavily relies on visual analysis and expertise in cytology.
+- While an LLM could potentially assist in providing general information about cytology, it may not significantly reduce the time it takes to perform the visual examination and analysis of cell samples.
+- The task requires specialized domain knowledge and expertise in cytology, which an LLM may not possess to the extent needed to accurately detect abnormalities in cell samples.
+- The task does not involve text-based inputs or outputs that can be easily processed by an LLM. It primarily involves visual analysis and interpretation.
+
+Based on these considerations, the task of examining cell samples as a Cytotechnologist is best classified as E0 - No exposure to LLM.
+
+2: E0
+
+3: Certainty level: High

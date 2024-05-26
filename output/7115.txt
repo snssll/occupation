@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of gathering and analyzing artifacts and skeletal remains as an Anthropologist or Archeologist, we need to consider the nature of the task and how it can be impacted by the use of the LLM.
+
+- **E0**: This task involves physical work such as excavating artifacts and skeletal remains, which cannot be directly assisted by the LLM. Additionally, the analysis of these physical objects requires specialized knowledge and expertise that the LLM alone may not possess.
+
+- **E1**: While the LLM can provide information on ancient cultures and historical contexts based on existing data, it cannot physically gather artifacts or skeletal remains. The analysis part may benefit from the LLM's ability to process and provide insights based on historical data, but the hands-on aspect of gathering physical objects remains outside the LLM's capabilities.
+
+- **E2**: An application built on top of the LLM could potentially assist in analyzing the gathered artifacts and skeletal remains by providing historical context, cross-referencing data, and generating insights based on existing knowledge. However, the physical act of gathering these objects would still require human intervention.
+
+- **E3**: The task does not involve image processing or detailed visual analysis that would significantly benefit from image capabilities. The primary focus is on physical artifacts and skeletal remains, which are not directly related to image processing tasks.
+
+2: E0
+
+3: High

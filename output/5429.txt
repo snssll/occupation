@@ -1,0 +1,13 @@
+1: For the task of directing and supervising construction or related workers as a Construction Manager, the exposure to LLM can be evaluated as follows:
+
+- E1: Direct access to the LLM could potentially reduce the time it takes to complete this task by providing guidance on best practices, safety protocols, project management techniques, and communication strategies to effectively lead and supervise construction workers. The LLM could assist in generating detailed instructions, drafting communication templates, or offering advice on conflict resolution within the construction site.
+
+- E2: While having access to the LLM alone may not significantly reduce the time to complete the task of supervising construction workers, additional software could be developed on top of the LLM to create tools for project scheduling, resource allocation, risk management, or real-time monitoring of construction progress. These tools could enhance decision-making and streamline communication processes within the construction management workflow.
+
+- E3: The task of supervising construction workers does not directly involve image processing or visual content creation, so the image capabilities of the LLM would not significantly impact the completion of this task.
+
+Based on the above analysis, the task of directing and supervising construction or related workers as a Construction Manager is best classified as **E2**.
+
+2: E2
+
+3: Moderate

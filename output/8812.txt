@@ -1,0 +1,5 @@
+1: In this task, a Lathe and Turning Machine Tool Setter, Operator, and Tender for Metal and Plastic is required to lift metal stock or workpieces manually or using hoists, and position and secure them in machines using fasteners and hand tools. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. This task involves physical interaction with machinery, lifting heavy objects, and using hand tools, which cannot be directly assisted by the LLM. The task does not involve text input or output, complex instructions, data analysis, or decision-making that can be significantly aided by the LLM. Therefore, this task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

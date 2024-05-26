@@ -1,0 +1,13 @@
+1: In this task, a Community Health Worker is required to advise clients or community groups on issues related to diagnostic screenings for various health conditions. To determine the appropriate exposure label, we need to consider the nature of the task. Providing advice on diagnostic screenings involves a combination of knowledge about the screenings, understanding the specific health conditions, and effective communication skills to convey the information to clients or community groups.
+
+- E0: This task involves human interaction and personalized advice based on individual health needs. It requires empathy, understanding, and the ability to tailor advice to each person's situation. The LLM may not significantly reduce the time it takes for an experienced Community Health Worker to provide this advice with high quality.
+
+- E1: While the LLM can provide general information on diagnostic screenings for various health conditions, it may not have the specific expertise or context to offer personalized advice tailored to individual clients or community groups. The task involves a level of nuance and empathy that may be challenging for the LLM to replicate effectively.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist Community Health Workers in providing advice on diagnostic screenings. This software could potentially summarize the latest research on screenings, provide recommendations based on individual health profiles, and offer communication templates for conveying information effectively.
+
+- E3: The task does not involve image capabilities, so this label does not apply.
+
+2: E2
+
+3: Moderate

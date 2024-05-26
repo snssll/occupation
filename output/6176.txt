@@ -1,0 +1,7 @@
+1: In this task, the occupation of Structural Iron and Steel Workers involves erecting metal or precast concrete components for various structures. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete the task with high quality by at least half.
+
+Given the nature of the task, which involves physical construction work, it is clear that the task cannot be completed using text-based instructions or information alone. The task requires hands-on work, physical coordination, and specialized skills related to construction. The LLM does not have the capability to physically erect metal or concrete components, and the task does not involve text-based information processing that the LLM could assist with. Therefore, the task falls under E0 as it does not align with the capabilities of the LLM or any tools built on top of it.
+
+2: E0
+
+3: High

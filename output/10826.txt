@@ -1,0 +1,12 @@
+1: In this task, a Nuclear Monitoring Technician is required to operate manipulators to move specimens in a nuclear facility. To determine the appropriate exposure label, we need to consider the complexity of the task and whether the LLM can significantly reduce the time it takes to complete it.
+
+- The task involves physical manipulation of equipment, which cannot be directly assisted by the LLM.
+- The task requires specialized knowledge of nuclear monitoring procedures and safety protocols, which the LLM may not have access to.
+- The task does not involve text-based inputs or outputs that the LLM can directly assist with.
+- The task does not involve analyzing text, generating reports, or any other text-based activities that the LLM could streamline.
+
+Based on these considerations, it is clear that the task of operating manipulators in a nuclear facility falls under E0 as it does not align with the capabilities of the LLM to significantly reduce the time it takes to complete the task.
+
+2: E0
+
+3: High

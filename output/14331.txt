@@ -1,0 +1,12 @@
+1: In this task, a Tile and Stone Setter is required to remove old tile, grout, and adhesive using chisels and scrapers and clean the surface carefully. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM can significantly reduce the time it takes for an experienced worker to complete this task with high quality. 
+
+- The task involves physical labor and manual work that cannot be directly assisted by the LLM.
+- The task does not involve writing, transforming text, providing edits, summarizing documents, or any other text-based activities that the LLM can assist with.
+- The task does not require specialized domain knowledge or complex decision-making that the LLM could provide recommendations for.
+- There is no need for image capabilities to complete this task.
+
+Based on these considerations, it is clear that the task of removing old tile and cleaning the surface does not align with any of the exposure levels in the rubric. 
+
+2: E0
+
+3: High

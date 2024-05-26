@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of consulting traders or other financial industry personnel to determine the need for new or improved analytical applications as a Financial Quantitative Analyst, we need to consider the nature of the task and how it can benefit from the use of an LLM.
+
+- E0: This task involves direct interaction with traders and financial industry personnel to gather insights and requirements for analytical applications. It requires human judgment, understanding of complex financial concepts, and the ability to communicate effectively. While an LLM can provide information and insights, it cannot replace the need for direct human interaction in this context.
+
+- E1: While an LLM can assist in providing background information, generating potential questions or suggestions, or even drafting initial communication, the core of this task relies heavily on human interaction, domain expertise, and nuanced understanding of the financial industry. The LLM can help with some aspects of the task but cannot significantly reduce the time it takes to complete it with equivalent quality.
+
+- E2: It is conceivable that additional software could be developed on top of an LLM to streamline the process of gathering information from traders and financial industry personnel, analyzing their responses, and generating insights for new analytical applications. This software could potentially automate parts of the communication process or provide data-driven recommendations based on the input received.
+
+- E3: The task does not involve image processing or analysis, so the image capabilities of the LLM are not relevant in this context.
+
+2: E2
+
+3: Moderate

@@ -1,0 +1,13 @@
+1: In this task, astronomers are required to develop instrumentation and software for astronomical observation and analysis. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task and how it can benefit from the capabilities of the LLM.
+
+- E0: This task involves the development of specialized instrumentation and software for astronomical purposes, which requires a high level of expertise, domain-specific knowledge, and technical skills. While the LLM can provide general information and potentially assist with some aspects of software development, it is unlikely to significantly reduce the time or effort required for the complex tasks involved in developing instrumentation and software for astronomical observation and analysis.
+
+- E1: The LLM could potentially assist astronomers in generating ideas, providing background information, or helping with specific aspects of software development through text input and output. However, the complexity and specialized nature of developing instrumentation and software for astronomical purposes may not be significantly accelerated by the LLM alone.
+
+- E2: While the LLM could be used to gather information, provide insights, or generate initial concepts for instrumentation and software development, additional software tools specifically tailored to the needs of astronomers would likely be required to significantly reduce the time and effort involved in this task. These tools could leverage the LLM's capabilities along with specialized domain knowledge to streamline the development process.
+
+- E3: The task of developing instrumentation and software for astronomical observation and analysis does not directly involve image processing or creation, so the additional image capabilities provided by the LLM would not have a significant impact on the completion of this task.
+
+2: E2
+
+3: Moderate

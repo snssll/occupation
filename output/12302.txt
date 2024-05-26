@@ -1,0 +1,13 @@
+1: For the task of preparing and delivering lectures to undergraduate or graduate students on topics such as mechanics, hydraulics, and robotics, the exposure to LLM can be evaluated as follows:
+
+- E0: This task involves a high degree of human interaction and requires the ability to engage with students in a classroom setting. The nuances of teaching, adapting to student responses, and providing real-time feedback are aspects that cannot be effectively replaced by LLM.
+
+- E1: While the LLM could potentially assist in generating lecture notes, providing background information, or suggesting teaching strategies, the core aspect of delivering lectures, which involves dynamic interaction with students, cannot be significantly enhanced by LLM alone.
+
+- E2: It is conceivable that additional software could be developed on top of the LLM to assist in summarizing complex topics, generating interactive learning materials, or providing real-time data analysis during lectures. However, the fundamental task of delivering lectures would still heavily rely on human skills and interaction.
+
+- E3: The task of preparing and delivering lectures does not directly involve image capabilities that would significantly benefit from the use of LLM in conjunction with image processing tools.
+
+2: E0
+
+3: High

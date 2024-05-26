@@ -1,0 +1,5 @@
+1: In this task, the Reservation and Transportation Ticket Agents and Travel Clerks are responsible for informing clients of essential travel information, such as travel times, transportation connections, or medical and visa requirements. To determine the appropriate exposure label, we need to consider the capabilities of the LLM. The LLM can provide information based on existing knowledge and can generate text responses. However, the task involves real-time and potentially dynamic information such as current travel times, transportation connections, and visa requirements, which may change frequently. The LLM does not have the ability to access up-to-date information unless it is explicitly provided in the input. Therefore, while the LLM can assist in generating responses based on general knowledge, it may not be able to provide the most current and accurate information required for this task.
+
+2: E0
+
+3: High

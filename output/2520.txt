@@ -1,0 +1,13 @@
+1: In this task, a Computer Network Architect is required to communicate with customers, sales staff, or marketing staff to determine customer needs. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- Direct exposure (E1): The task involves communication and understanding customer needs, which can be facilitated by the LLM in terms of providing guidance on effective communication strategies, drafting emails, or formulating questions to gather customer requirements. The LLM can assist in generating responses or questions based on the input provided.
+
+- Exposure by LLM-powered applications (E2): While the LLM can help in generating text and responses, there may not be a specific application that significantly enhances the task beyond what the LLM can directly provide. However, it is conceivable that a more specialized software tool could be developed to streamline the communication process further.
+
+- Exposure given image capabilities (E3): Image capabilities are not relevant for this task as it primarily involves text-based communication with customers and staff.
+
+Based on the analysis, the task of communicating with customers, sales staff, or marketing staff to determine customer needs falls under E1 as the LLM can assist in generating text, responses, and questions related to customer communication.
+
+2: E1
+
+3: Moderate

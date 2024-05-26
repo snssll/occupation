@@ -1,0 +1,12 @@
+1: In this task, a retail salesperson is required to estimate the quantity and cost of merchandise needed, such as paint or floor covering. To determine the appropriate label from the exposure rubric, we need to consider the nature of the task. 
+
+- The task involves analyzing and calculating the quantity and cost of merchandise, which can be done through text-based instructions and data.
+- The task does not require specialized domain knowledge beyond basic retail and inventory management concepts.
+- The task does not involve complex decision-making or highly specialized knowledge that would require additional software beyond the capabilities of the LLM.
+- The task does not involve image processing or detailed visual analysis.
+
+Based on these considerations, the task of estimating the quantity and cost of merchandise required by retail salespersons can be effectively completed with the text-based capabilities of the LLM. Therefore, the most appropriate label for this task is E1.
+
+2: E1
+
+3: High

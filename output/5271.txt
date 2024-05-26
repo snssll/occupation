@@ -1,0 +1,13 @@
+1: In this task, a geographer is responsible for developing, operating, and maintaining geographical information computer systems. This involves working with hardware, software, plotters, digitizers, printers, and video cameras. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task.
+
+- E0: This task involves hands-on work with hardware and equipment that cannot be replaced by text-based interactions with the LLM. The physical nature of the work and the specialized skills required make it unlikely that the LLM alone can reduce the time significantly.
+
+- E1: While the LLM could potentially assist with providing information or guidance on geographical information systems, the hands-on aspect of operating and maintaining hardware and equipment may not be directly addressable by the LLM. Therefore, the reduction in time to complete the task with equivalent quality may not be achieved by half.
+
+- E2: It is conceivable that additional software built on top of the LLM could assist geographers in tasks related to analyzing and interpreting geographical data, creating reports, or even automating certain processes within geographical information systems. This software could potentially leverage the LLM's capabilities to enhance the efficiency of tasks related to data analysis and system management.
+
+- E3: With access to image capabilities, such as viewing and creating images, the LLM could potentially assist in tasks like scanning maps, digitizing geographical data, or creating visual representations of geographic information. However, the limitations of the image capabilities, such as not being able to accurately retrieve detailed information from images, may restrict the extent to which the LLM can streamline the task.
+
+2: E2
+
+3: Moderate

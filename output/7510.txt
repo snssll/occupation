@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of identifying quality problems or areas for improvement and recommending solutions as a Quality Control Systems Manager, we need to consider the nature of the task and how the LLM can assist in completing it.
+
+- E0: This task involves analyzing and evaluating complex systems and processes to identify quality issues and propose solutions. While the LLM can provide general information on quality control and management principles, it may not have the specific domain knowledge required to effectively identify quality problems in a particular system or industry.
+
+- E1: The LLM can assist in providing general recommendations for quality improvement based on the input provided. It can generate potential solutions and suggest best practices in quality control. However, the task may require specialized knowledge and expertise that the LLM alone may not possess.
+
+- E2: While the LLM can offer insights and recommendations based on general quality control principles, developing specialized software on top of the LLM could enhance its capabilities for this task. This software could be tailored to specific industries or systems, allowing for more accurate identification of quality problems and tailored recommendations.
+
+- E3: The task does not involve image processing or detailed visual analysis, so image capabilities are not relevant for this task.
+
+2: E2
+
+3: Moderate

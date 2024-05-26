@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of producing graphics for broadcasts as a Broadcast Technician, we need to consider the capabilities of the LLM in assisting with this task. 
+
+- E1: Direct exposure - The LLM can assist in generating text and code, providing edits, and summarizing documents. While the task of producing graphics involves visual elements, the LLM could potentially help with generating text descriptions or instructions for the graphics, but it may not directly create the graphics themselves.
+  
+- E2: Exposure by LLM-powered applications - While the LLM alone may not significantly reduce the time it takes to create graphics for broadcasts, additional software could be developed on top of the LLM to assist in generating graphics based on text descriptions or instructions provided. This software could potentially streamline the graphic creation process.
+
+- E3: Exposure given image capabilities - The LLM, along with image capabilities, could potentially assist in creating or editing digital images according to instructions. The LLM could provide text descriptions for the graphics, which could then be used to guide the image creation process.
+
+Based on the above considerations, the task of producing graphics for broadcasts could potentially fall under E2: Exposure by LLM-powered applications, as additional software leveraging the LLM could be developed to streamline the graphic creation process.
+
+2: E2
+
+3: Moderate

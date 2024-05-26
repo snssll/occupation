@@ -1,0 +1,13 @@
+1: To determine the appropriate label for the task of creating prototypes or models of objects to be crafted as a Craft Artist, we need to consider the nature of the task and how the LLM could potentially assist in completing it. 
+
+- E1: Direct exposure - The task involves creating prototypes or models, which may require detailed instructions, creativity, and hands-on work. While the LLM can provide guidance on design ideas or techniques, it may not be able to physically create the prototypes or models. Therefore, the direct access to the LLM may not significantly reduce the time it takes to complete the task with equivalent quality.
+
+- E2: Exposure by LLM-powered applications - It is conceivable that additional software could be developed on top of the LLM to assist Craft Artists in creating prototypes or models more efficiently. This software could potentially provide design suggestions, material recommendations, or even virtual prototyping tools. However, since the task involves physical creation, the LLM alone may not be able to reduce the time it takes to complete the task by half.
+
+- E3: Exposure given image capabilities - The task of creating prototypes or models may involve referencing images or visual aids for inspiration or guidance. If the LLM had image capabilities to view and create basic digital images, it could potentially assist in visualizing the prototypes or models. However, since the task primarily involves physical craftsmanship, the impact of image capabilities may be limited.
+
+Based on the analysis above, the task of creating prototypes or models of objects to be crafted as a Craft Artist is best classified as E2: Exposure by LLM-powered applications.
+
+2: E2
+
+3: Moderate

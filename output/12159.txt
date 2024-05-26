@@ -1,0 +1,13 @@
+1: In this task, the occupation of Roof Bolters, Mining involves positioning bolting machines and inserting drill bits into chucks. To determine the appropriate label from the exposure rubric, we need to consider if access to the LLM alone or with additional software could significantly reduce the time it takes to complete this task with equivalent quality.
+
+- Direct exposure (E1): The task of positioning bolting machines and inserting drill bits is a physical task that requires manual dexterity and knowledge of mining equipment. The LLM, even with additional software, cannot physically position machines or insert drill bits. Therefore, direct exposure to the LLM would not reduce the time it takes to complete this task.
+
+- Exposure by LLM-powered applications (E2): While it is conceivable that software could be developed to provide guidance or instructions related to positioning bolting machines and inserting drill bits, the complexity and specificity of this task may not be easily addressed by an LLM-powered application. The task involves hands-on work in a physical environment, which goes beyond the capabilities of text-based AI models.
+
+- Exposure given image capabilities (E3): Image capabilities would not significantly impact the completion of this task as it does not involve reading text from PDFs, scanning images, or creating/editing digital images. The task is more focused on physical actions in a mining setting.
+
+Based on the analysis above, the task of positioning bolting machines and inserting drill bits into chucks is best classified as E0 - No exposure.
+
+2: E0
+
+3: Certainty level: High

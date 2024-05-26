@@ -1,0 +1,5 @@
+1: In this task, the main activity is driving trucks to haul crops, supplies, tools, or farm workers. This task does not involve complex decision-making, specialized domain knowledge, or detailed data analysis that would require the capabilities of an LLM. The task is straightforward and does not involve text input or output, making it unsuitable for direct exposure to an LLM. Additionally, this task does not involve any image-related activities that would benefit from image capabilities. Therefore, this task falls under E0 as it does not align with any of the exposure levels described in the rubric.
+
+2: E0
+
+3: High
